@@ -56,3 +56,47 @@ id,store_id,label,quantity,recorded_on
 77621,136,tighten missing guest,12,2025-03-10
 54752,173,expose oversized topping at close,10,2025-09-05
 98316,594,paginate cancelled topping on reorder,4,2025-08-23
+54924,262,rename empty cart line,11,2025-02-04
+89421,190,rename regional delivery window per store,7,2025-11-01
+12616,578,add partial ticket,7,2025-02-04
+4045,267,normalise late loyalty credit,10,2025-03-09
+16933,538,paginate regional menu item,2,2025-06-26
+55946,592,guard expired modifier,2,2025-03-25
+47405,591,sort duplicate modifier,9,2025-12-06
+15606,261,trim stale modifier,4,2025-07-06
+70485,535,tighten empty guest,10,2025-04-05
+60604,186,log duplicate kitchen ticket,12,2025-05-09
+22620,255,expose expired loyalty credit,7,2025-07-16
+73912,484,log oversized ticket,6,2025-02-28
+90091,277,log expired kitchen ticket,6,2025-12-05
+71721,359,guard regional cart line,5,2025-09-28
+30180,389,retry oversized delivery window on checkout,6,2025-02-13
+79644,676,handle missing pickup slot,2,2025-08-14
+52801,313,tighten cancelled guest on reorder,9,2025-01-09
+68027,307,dedupe duplicate catering tray,7,2025-11-06
+4315,157,dedupe stale bowl,1,2025-08-21
+45970,372,expose regional menu item,2,2025-08-28
+25552,343,tighten expired menu item,12,2025-07-03
+26749,592,normalise oversized bowl for franchisees,1,2025-10-02
+26055,447,cache stale ticket,8,2025-08-13
+27991,666,sort missing tax line,11,2025-09-21
+24201,474,dedupe empty delivery window,2,2025-05-09
+68816,632,normalise duplicate ticket,1,2025-11-01
+7652,633,cache late pickup slot,1,2025-01-16
+84088,498,guard oversized topping at close,10,2025-07-03
+39687,310,backfill missing catering tray for pickup,3,2025-02-27
+69184,247,relax cancelled kitchen ticket for pickup,6,2025-12-14
+78511,502,sort partial store at close,10,2025-06-26
+74503,226,normalise expired location in the queue,10,2025-09-25
+63518,224,log empty delivery window,10,2025-10-02
+51366,364,backfill stale promo,10,2025-08-10
+66505,652,cache cancelled guest,7,2025-04-23
+9205,460,expose missing promo,12,2025-11-17
+56083,543,retry empty cart line,8,2025-07-18
+26399,135,guard missing cart line on checkout,1,2025-06-19
+78623,445,relax late guest,6,2025-04-18
+71221,290,add empty promo,4,2025-07-18
+75501,601,retry missing loyalty credit,4,2025-12-12
+36369,559,rename missing location for pickup,8,2025-08-01
+17394,127,log stale menu item,9,2025-09-18
+61880,129,guard oversized pickup slot,7,2025-11-24
