@@ -100,3 +100,44 @@ id,store_id,label,quantity,recorded_on
 36369,559,rename missing location for pickup,8,2025-08-01
 17394,127,log stale menu item,9,2025-09-18
 61880,129,guard oversized pickup slot,7,2025-11-24
+28849,104,tighten oversized guest,6,2025-07-12
+97588,505,trim late cart line,2,2025-07-22
+44829,446,rename empty promo on checkout,8,2025-04-04
+8151,587,validate expired modifier,4,2025-06-25
+85181,199,retry oversized order,10,2025-06-20
+70141,157,trim empty promo in the queue,1,2025-02-28
+99265,516,dedupe missing pickup slot,11,2025-10-21
+51975,414,retry expired loyalty credit,9,2025-10-06
+25267,329,document missing guest,6,2025-02-27
+96937,402,tighten late promo,3,2025-05-22
+94178,653,log partial guest,7,2025-02-19
+32240,541,backfill empty bowl on checkout,2,2025-08-10
+35592,252,validate regional pickup slot for pickup,11,2025-02-19
+87242,188,rename missing pickup slot for franchisees,4,2025-01-09
+16881,631,paginate missing promo,1,2025-02-28
+60250,428,cache late menu item,3,2025-05-13
+52044,592,expose expired location,9,2025-04-02
+52824,146,rename partial bowl per store,5,2025-09-05
+76921,107,retry stale catering tray,7,2025-01-06
+12937,276,tighten expired cart line per store,3,2025-02-23
+36153,132,cache missing bowl,4,2025-07-18
+24536,108,add empty menu item,5,2025-05-04
+36467,455,add cancelled delivery window,8,2025-05-16
+2741,162,validate regional bowl,12,2025-12-09
+66240,184,validate missing store on checkout,5,2025-12-06
+20135,146,relax missing order in the queue,1,2025-12-01
+41615,570,sort empty order for pickup,9,2025-05-16
+53442,481,document duplicate modifier per store,8,2025-09-22
+70008,674,rename regional store per store,2,2025-06-14
+49542,151,add expired menu item on reorder,5,2025-01-01
+85602,430,trim stale bowl in the queue,11,2025-01-24
+7077,461,paginate partial loyalty credit,8,2025-07-05
+11137,302,sort partial loyalty credit,4,2025-06-14
+28594,459,sort late modifier,3,2025-10-21
+9168,468,normalise cancelled pickup slot,3,2025-03-20
+77510,373,validate regional ticket on checkout,4,2025-02-24
+20152,367,sort expired ticket per store,10,2025-07-25
+70862,147,tighten duplicate guest in the queue,6,2025-11-04
+49237,273,validate stale catering tray,5,2025-08-04
+21186,233,retry regional bowl,12,2025-04-16
+71131,659,relax stale guest,11,2025-01-24
