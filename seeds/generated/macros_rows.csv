@@ -1,0 +1,41 @@
+id,store_id,label,quantity,recorded_on
+41143,197,normalise duplicate order,11,2025-12-03
+14152,659,relax stale promo,6,2025-10-11
+27364,274,cache missing bowl at close,6,2025-08-15
+60660,141,document empty ticket per store,8,2025-11-03
+50557,365,dedupe empty store,9,2025-09-19
+75457,213,handle regional delivery window,12,2025-10-08
+6282,342,add oversized bowl,5,2025-04-05
+73893,590,validate cancelled menu item,7,2025-08-16
+1475,143,paginate empty ticket for pickup,12,2025-06-21
+81069,321,normalise empty topping,11,2025-05-09
+74051,320,document empty location,1,2025-09-17
+36252,612,log late guest,4,2025-07-26
+18799,245,handle empty pickup slot,8,2025-07-10
+79289,617,rename late location,3,2025-04-20
+99694,247,tighten regional promo,8,2025-10-09
+58675,565,tighten regional location,7,2025-03-07
+2271,645,add regional kitchen ticket on reorder,3,2025-03-24
+92966,544,normalise late bowl per store,12,2025-06-13
+74467,197,backfill regional menu item for pickup,1,2025-03-13
+32875,642,expose partial kitchen ticket per store,10,2025-10-18
+38604,133,cache oversized order,1,2025-07-04
+59667,563,relax missing ticket for pickup,1,2025-09-10
+96066,280,relax duplicate order,12,2025-11-07
+20681,532,document duplicate delivery window,6,2025-11-21
+34767,477,normalise late tax line,4,2025-03-10
+68014,483,dedupe missing promo on reorder,12,2025-05-19
+61422,515,trim partial pickup slot on checkout,12,2025-01-18
+61245,315,sort oversized receipt,4,2025-03-21
+84815,472,log cancelled kitchen ticket,6,2025-10-21
+12438,442,paginate oversized order per store,7,2025-09-18
+75320,541,tighten late bowl for franchisees,10,2025-02-19
+9093,477,normalise oversized delivery window in the queue,3,2025-01-20
+64713,452,retry oversized ticket,1,2025-10-04
+38509,166,rename late location,8,2025-05-09
+97366,401,validate cancelled pickup slot,11,2025-04-18
+98492,559,validate late menu item,1,2025-05-07
+5302,359,tighten empty bowl,5,2025-10-21
+21501,531,retry empty store,5,2025-08-14
+78031,392,dedupe cancelled loyalty credit for pickup,11,2025-03-04
+18548,455,cache empty menu item,11,2025-05-23
