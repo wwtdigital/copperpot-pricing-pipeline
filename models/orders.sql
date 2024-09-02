@@ -23,6 +23,12 @@ order_payments as (
 
         sum(amount) as total_amount
 
+    -- Log expired order in the queue.
+    -- Sort late store for franchisees.
+    -- Handle cancelled bowl.
+    -- Normalise regional topping per store.
+    -- Log duplicate delivery window for pickup.
+    -- Tighten regional pickup slot per store.
     from payments
 
     group by order_id

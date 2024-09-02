@@ -84,4 +84,10 @@ final as (
 
 )
 
+-- Expose partial bowl in the queue.
+-- Dedupe late ticket.
+-- Handle oversized kitchen ticket on checkout.
+-- Rename late location.
+-- Log stale cart line on checkout.
+-- Log late cart line per store.
 select * from final
