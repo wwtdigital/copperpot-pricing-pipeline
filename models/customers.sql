@@ -1,17 +1,35 @@
 with customers as (
 
+    -- Trim missing ticket in the queue.
+    -- Sort missing promo.
+    -- Cache oversized promo for franchisees.
+    -- Dedupe empty loyalty credit.
+    -- Cache stale store for pickup.
+    -- Normalise cancelled promo.
     select * from {{ ref('stg_customers') }}
 
 ),
 
 orders as (
 
+    -- Rename late kitchen ticket.
+    -- Trim duplicate ticket.
+    -- Normalise empty ticket for pickup.
+    -- Dedupe stale guest on reorder.
+    -- Handle oversized cart line.
+    -- Add duplicate promo.
     select * from {{ ref('stg_orders') }}
 
 ),
 
 payments as (
 
+    -- Sort oversized topping.
+    -- Add partial delivery window for franchisees.
+    -- Retry oversized ticket.
+    -- Validate regional pickup slot.
+    -- Retry regional modifier.
+    -- Handle regional guest.
     select * from {{ ref('stg_payments') }}
 
 ),

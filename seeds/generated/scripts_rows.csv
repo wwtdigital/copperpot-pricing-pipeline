@@ -141,3 +141,16 @@ id,store_id,label,quantity,recorded_on
 49237,273,validate stale catering tray,5,2025-08-04
 21186,233,retry regional bowl,12,2025-04-16
 71131,659,relax stale guest,11,2025-01-24
+13679,672,tighten duplicate tax line,7,2025-09-10
+14266,347,retry cancelled store on checkout,7,2025-10-21
+81098,305,guard duplicate cart line for pickup,1,2025-10-22
+7430,357,guard missing location,1,2025-01-16
+20626,327,rename oversized menu item,4,2025-12-12
+33896,171,sort late store,3,2025-11-05
+83150,223,backfill partial menu item,1,2025-01-12
+17043,125,add duplicate store,2,2025-04-05
+6827,377,validate partial delivery window,1,2025-02-24
+41146,180,relax partial bowl in the queue,9,2025-08-12
+72319,198,guard duplicate menu item on checkout,9,2025-07-24
+91895,666,add cancelled guest on reorder,1,2025-08-14
+35443,503,backfill cancelled kitchen ticket,10,2025-03-09
