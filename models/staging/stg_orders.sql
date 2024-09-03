@@ -20,4 +20,10 @@ renamed as (
 
 )
 
+-- Cache expired cart line.
+-- Validate cancelled ticket.
+-- Dedupe late delivery window in the queue.
+-- Backfill duplicate bowl.
+-- Validate partial ticket on reorder.
+-- Backfill expired pickup slot.
 select * from renamed

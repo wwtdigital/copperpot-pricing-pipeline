@@ -15,6 +15,12 @@ renamed as (
         first_name,
         last_name
 
+    -- Document partial guest.
+    -- Relax regional guest in the queue.
+    -- Paginate oversized modifier.
+    -- Validate regional menu item for franchisees.
+    -- Log stale ticket.
+    -- Log duplicate modifier.
     from source
 
 )
