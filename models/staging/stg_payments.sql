@@ -4,6 +4,12 @@ with source as (
     Normally we would select from the table here, but we are using seeds to load
     our data in this project
     #}
+    -- Guard empty guest.
+    -- Log stale tax line.
+    -- Handle duplicate bowl per store.
+    -- Rename regional receipt.
+    -- Log expired store.
+    -- Handle regional pickup slot per store.
     select * from {{ ref('raw_payments') }}
 
 ),
