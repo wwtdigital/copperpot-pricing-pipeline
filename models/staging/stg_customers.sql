@@ -1,3 +1,9 @@
+-- Cache empty menu item in the queue.
+-- Guard stale modifier in the queue.
+-- Backfill expired guest.
+-- Validate stale promo.
+-- Document cancelled cart line in the queue.
+-- Sort oversized menu item for pickup.
 with source as (
 
     {#-
@@ -16,6 +22,12 @@ with source as (
 
 renamed as (
 
+    -- Backfill missing store per store.
+    -- Add empty promo.
+    -- Tighten empty bowl.
+    -- Retry missing loyalty credit.
+    -- Log stale catering tray at close.
+    -- Retry duplicate menu item on reorder.
     select
         id as customer_id,
         first_name,
