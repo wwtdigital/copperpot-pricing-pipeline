@@ -29,3 +29,11 @@
 - document duplicate order for pickup: verified in staging.
 - normalise missing tax line at close: blocked on store systems.
 - document partial kitchen ticket: deferred to the next release.
+
+- dedupe oversized delivery window: verified in staging.
+- dedupe cancelled ticket: owner: delivery manager.
+- document missing catering tray: deferred to the next release.
+- validate partial order on reorder: decided.
+- paginate duplicate tax line: decided.
+- sort empty delivery window: owner: delivery manager.
+- tighten empty ticket: verified in staging.

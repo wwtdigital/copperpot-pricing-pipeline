@@ -255,3 +255,83 @@ id,store_id,label,quantity,recorded_on
 57666,513,validate stale store,6,2025-03-12
 74326,297,tighten oversized cart line,3,2025-07-25
 45768,460,backfill stale guest,3,2025-07-02
+28834,552,normalise regional bowl,8,2025-12-04
+93851,394,cache oversized ticket per store,10,2025-02-16
+82140,119,sort empty promo on checkout,7,2025-01-23
+36322,521,handle oversized bowl,6,2025-02-27
+38818,385,backfill partial kitchen ticket on reorder,8,2025-08-03
+94954,107,expose duplicate topping,10,2025-04-07
+94918,160,validate empty modifier for pickup,5,2025-10-23
+27791,176,backfill duplicate store,12,2025-02-10
+31443,380,add expired delivery window,10,2025-02-08
+9928,256,relax partial ticket,6,2025-04-16
+79169,409,sort expired location for pickup,11,2025-01-08
+10263,596,sort stale modifier on checkout,6,2025-01-10
+72593,141,expose oversized bowl in the queue,1,2025-11-20
+95224,401,cache expired pickup slot on checkout,6,2025-08-09
+42430,445,expose empty pickup slot on checkout,4,2025-04-19
+35849,238,retry expired ticket,2,2025-01-19
+52911,439,add stale receipt,4,2025-07-13
+27392,422,rename expired guest on reorder,9,2025-10-09
+36407,405,dedupe cancelled cart line,10,2025-01-15
+21490,384,document late guest on reorder,3,2025-11-05
+91578,460,trim late pickup slot,3,2025-05-20
+8385,108,tighten oversized store on checkout,2,2025-08-01
+38813,487,normalise regional location,6,2025-06-03
+25847,389,tighten regional modifier,10,2025-01-09
+13420,576,log partial tax line,7,2025-03-20
+23902,193,add expired catering tray for pickup,10,2025-04-12
+1875,472,expose stale pickup slot,3,2025-08-10
+62362,453,rename partial menu item for pickup,7,2025-11-23
+94974,161,document stale guest,1,2025-01-18
+65607,396,relax oversized order on checkout,2,2025-02-04
+6981,315,retry partial promo,4,2025-09-24
+73045,499,tighten oversized bowl,4,2025-08-07
+83009,197,dedupe duplicate guest in the queue,2,2025-01-09
+66389,175,sort cancelled guest,3,2025-05-25
+15418,203,backfill missing receipt on reorder,4,2025-07-14
+14613,684,dedupe partial receipt,7,2025-06-06
+42115,319,sort stale topping,7,2025-08-27
+44018,169,log stale location for pickup,2,2025-10-12
+19479,105,rename missing order,5,2025-10-13
+57983,180,relax expired ticket,3,2025-05-15
+78356,139,normalise oversized delivery window per store,4,2025-11-28
+44144,549,normalise missing delivery window,4,2025-10-04
+15775,252,rename missing store for franchisees,3,2025-10-03
+84989,300,sort stale topping per store,4,2025-04-05
+71664,625,paginate expired cart line at close,7,2025-11-07
+14309,201,rename missing menu item,5,2025-05-16
+88499,469,paginate missing receipt in the queue,8,2025-08-09
+61188,384,rename missing pickup slot for franchisees,8,2025-11-18
+53141,555,handle cancelled cart line on checkout,2,2025-05-08
+53792,621,normalise partial topping in the queue,11,2025-02-28
+16168,692,add oversized ticket,10,2025-05-23
+8105,105,normalise partial bowl on reorder,7,2025-09-02
+15255,408,document empty menu item,4,2025-06-11
+38807,164,rename regional pickup slot in the queue,1,2025-10-25
+38310,172,retry expired order,5,2025-04-27
+98122,491,paginate missing store,5,2025-12-21
+54758,690,add missing receipt on reorder,12,2025-10-03
+86149,197,retry duplicate modifier in the queue,12,2025-11-13
+26935,519,trim missing store on checkout,1,2025-07-05
+56331,463,dedupe empty cart line for pickup,10,2025-09-15
+50764,385,dedupe regional loyalty credit for franchisees,6,2025-02-28
+23961,192,relax cancelled cart line,9,2025-11-17
+37006,193,dedupe cancelled location,11,2025-09-23
+43698,561,backfill expired tax line per store,9,2025-02-11
+24723,560,document duplicate loyalty credit at close,7,2025-11-10
+11203,577,retry expired store on checkout,4,2025-06-19
+46647,626,backfill duplicate guest,12,2025-09-05
+89016,300,add missing tax line,11,2025-12-14
+4038,643,tighten cancelled catering tray for pickup,5,2025-07-01
+25031,128,normalise empty delivery window,8,2025-10-02
+58015,360,retry oversized tax line,9,2025-11-05
+42689,570,trim duplicate topping,9,2025-07-01
+17971,604,normalise empty modifier,7,2025-05-26
+92290,493,rename empty tax line,10,2025-04-17
+36010,171,tighten partial cart line,8,2025-06-14
+40324,239,document partial cart line,7,2025-04-26
+35223,441,expose missing delivery window,3,2025-01-01
+34051,440,tighten regional menu item at close,11,2025-12-08
+11970,688,handle duplicate catering tray,12,2025-06-21
+2441,312,log late catering tray per store,7,2025-10-19
