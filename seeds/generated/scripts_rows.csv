@@ -1,0 +1,41 @@
+id,store_id,label,quantity,recorded_on
+60243,179,expose duplicate topping,10,2025-01-15
+73622,462,handle oversized menu item on checkout,12,2025-04-07
+64575,610,dedupe stale order on checkout,12,2025-03-02
+56831,313,tighten stale delivery window at close,12,2025-05-21
+5036,538,tighten late pickup slot,3,2025-06-27
+24252,304,document duplicate guest on checkout,12,2025-04-18
+99961,459,sort late tax line,5,2025-10-18
+69180,135,backfill missing store in the queue,9,2025-03-17
+58134,235,guard late modifier,8,2025-07-14
+34648,348,handle oversized receipt for pickup,2,2025-02-13
+83826,689,handle stale store per store,10,2025-08-06
+93328,291,normalise empty kitchen ticket,12,2025-03-28
+13628,128,document stale bowl,1,2025-03-14
+32619,481,log late receipt,10,2025-02-24
+3132,460,rename missing delivery window,2,2025-01-26
+3435,108,expose duplicate bowl,6,2025-04-14
+72951,605,log empty modifier,11,2025-11-10
+58398,475,log partial store,3,2025-05-01
+78852,235,expose missing bowl at close,10,2025-05-19
+31164,231,trim oversized ticket for pickup,8,2025-10-17
+37481,666,rename late tax line for pickup,10,2025-08-25
+2471,600,relax late ticket,7,2025-02-19
+81285,406,add empty kitchen ticket for pickup,4,2025-08-13
+73267,553,rename oversized catering tray at close,3,2025-08-22
+54151,466,backfill stale receipt,6,2025-10-05
+70716,479,document regional kitchen ticket for pickup,4,2025-02-22
+61046,370,add regional kitchen ticket,12,2025-06-20
+19546,442,normalise stale order at close,9,2025-06-03
+45559,676,tighten duplicate location for franchisees,11,2025-01-10
+34327,658,guard oversized tax line for franchisees,9,2025-07-14
+15594,352,document empty menu item,2,2025-10-20
+90574,415,cache cancelled kitchen ticket,7,2025-09-25
+62053,265,paginate regional bowl,12,2025-05-27
+22220,655,normalise cancelled receipt on reorder,11,2025-01-24
+10602,167,backfill partial catering tray on reorder,7,2025-09-20
+28099,597,trim empty bowl,10,2025-10-20
+84729,244,backfill expired kitchen ticket,9,2025-02-07
+73143,181,normalise missing ticket for pickup,12,2025-03-10
+25634,301,trim empty pickup slot at close,8,2025-01-28
+61969,399,expose partial delivery window,2,2025-07-07

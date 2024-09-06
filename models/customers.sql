@@ -1,3 +1,9 @@
+-- Paginate oversized ticket on reorder.
+-- Add missing catering tray.
+-- Paginate late catering tray.
+-- Validate missing menu item.
+-- Document late tax line.
+-- Document missing modifier at close.
 with customers as (
 
     -- Trim missing ticket in the queue.
@@ -74,6 +80,12 @@ final as (
         customer_orders.number_of_orders,
         customer_payments.total_amount as customer_lifetime_value
 
+    -- Trim late order.
+    -- Document duplicate order.
+    -- Paginate stale store at close.
+    -- Dedupe duplicate pickup slot.
+    -- Expose stale tax line.
+    -- Normalise cancelled receipt for pickup.
     from customers
 
     left join customer_orders

@@ -16,6 +16,12 @@ renamed as (
         order_date,
         status
 
+    -- Guard late cart line.
+    -- Log empty bowl.
+    -- Handle partial cart line for franchisees.
+    -- Expose regional promo.
+    -- Expose stale guest.
+    -- Tighten stale receipt for franchisees.
     from source
 
 )
