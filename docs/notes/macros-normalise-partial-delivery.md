@@ -38,3 +38,29 @@
 - backfill regional ticket: deferred to the next release.
 - cache oversized delivery window: decided.
 - backfill cancelled order on checkout: decided.
+
+- cache stale delivery window per store: decided.
+- add oversized location: verified in staging.
+- handle missing catering tray on checkout: deferred to the next release.
+- document missing store on checkout: blocked on store systems.
+- normalise late catering tray for franchisees: open.
+- log regional receipt: blocked on store systems.
+- rename missing guest at close: open.
+- rename stale modifier: decided.
+- tighten empty guest on checkout: verified in staging.
+- backfill duplicate order per store: open.
+- validate partial modifier: blocked on store systems.
+- retry regional topping: deferred to the next release.
+- guard stale promo: decided.
+- backfill empty location at close: deferred to the next release.
+
+- expose stale pickup slot: verified in staging.
+- relax cancelled loyalty credit on reorder: verified in staging.
+- trim late kitchen ticket in the queue: blocked on store systems.
+- paginate stale guest: open.
+- retry empty pickup slot for franchisees: open.
+- guard expired location: blocked on store systems.
+- backfill regional receipt on reorder: owner: delivery manager.
+- dedupe partial topping: verified in staging.
+- rename stale ticket: open.
+- normalise empty cart line: owner: delivery manager.

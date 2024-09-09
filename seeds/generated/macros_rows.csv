@@ -335,3 +335,43 @@ id,store_id,label,quantity,recorded_on
 34051,440,tighten regional menu item at close,11,2025-12-08
 11970,688,handle duplicate catering tray,12,2025-06-21
 2441,312,log late catering tray per store,7,2025-10-19
+79144,185,cache oversized bowl,6,2025-08-06
+51604,354,add cancelled pickup slot,8,2025-09-15
+7630,178,validate missing pickup slot for pickup,5,2025-12-06
+47491,525,retry missing loyalty credit,1,2025-03-14
+41848,469,backfill stale loyalty credit,5,2025-06-22
+6072,487,log expired promo,1,2025-02-16
+74717,576,retry regional ticket,8,2025-05-06
+43509,458,rename missing bowl in the queue,9,2025-01-03
+86727,622,paginate partial location,2,2025-09-20
+11444,446,guard oversized modifier for franchisees,11,2025-01-18
+20220,312,tighten stale tax line,7,2025-10-15
+68406,392,add missing catering tray for pickup,6,2025-05-14
+73014,368,log late store at close,4,2025-08-05
+47048,525,guard missing kitchen ticket,10,2025-04-21
+75206,442,expose empty location at close,4,2025-02-06
+50590,333,relax oversized pickup slot per store,12,2025-07-12
+44884,322,add empty receipt,8,2025-11-26
+52210,465,handle duplicate receipt for franchisees,3,2025-01-05
+54906,220,validate late receipt,7,2025-10-07
+14785,586,handle stale catering tray,9,2025-12-25
+10706,450,handle oversized modifier on checkout,11,2025-01-05
+87440,291,rename late menu item,2,2025-05-04
+95043,297,paginate stale delivery window,10,2025-10-15
+8686,184,validate partial guest,3,2025-12-18
+74081,412,sort oversized receipt on checkout,3,2025-12-01
+78582,192,dedupe regional bowl on reorder,4,2025-06-20
+49852,604,validate oversized bowl on checkout,8,2025-07-15
+63480,583,trim partial cart line on reorder,12,2025-03-13
+4142,238,document regional loyalty credit,2,2025-01-22
+78031,633,log oversized topping,8,2025-10-21
+83527,512,relax duplicate kitchen ticket,3,2025-09-26
+75916,254,guard missing modifier,1,2025-02-23
+14704,683,trim partial ticket,7,2025-12-21
+20431,182,dedupe oversized menu item at close,7,2025-03-25
+56095,603,backfill partial delivery window for franchisees,8,2025-12-09
+38154,404,sort stale bowl,5,2025-07-16
+92332,285,guard stale guest for franchisees,12,2025-07-17
+95407,454,validate late delivery window at close,11,2025-08-18
+72667,429,paginate cancelled cart line,1,2025-07-01
+45595,154,rename empty pickup slot,9,2025-08-08
