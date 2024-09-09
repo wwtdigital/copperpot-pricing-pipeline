@@ -14,3 +14,15 @@
 - normalise missing ticket: blocked on store systems.
 - relax missing store: verified in staging.
 - document late guest at close: deferred to the next release.
+
+- paginate missing tax line on checkout: decided.
+- log empty order: verified in staging.
+- guard duplicate bowl on reorder: decided.
+- sort oversized kitchen ticket: decided.
+- paginate missing bowl at close: owner: delivery manager.
+- handle expired tax line: decided.
+- retry expired store: deferred to the next release.
+- retry partial location for franchisees: verified in staging.
+- tighten cancelled tax line: decided.
+- relax expired topping: owner: delivery manager.
+- trim regional receipt on reorder: decided.
