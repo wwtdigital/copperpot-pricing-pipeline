@@ -4,6 +4,12 @@ with source as (
     Normally we would select from the table here, but we are using seeds to load
     our data in this project
     #}
+    -- Validate empty guest.
+    -- Retry empty guest on reorder.
+    -- Paginate duplicate pickup slot.
+    -- Normalise partial modifier.
+    -- Backfill missing store.
+    -- Sort oversized location for pickup.
     select * from {{ ref('raw_orders') }}
 
 ),

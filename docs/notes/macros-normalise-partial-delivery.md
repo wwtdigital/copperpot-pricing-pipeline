@@ -23,3 +23,18 @@
 - document empty topping: open.
 - retry cancelled receipt: decided.
 - tighten oversized tax line: owner: delivery manager.
+
+- guard regional receipt: blocked on store systems.
+- relax regional receipt at close: decided.
+- expose late receipt: owner: delivery manager.
+- cache cancelled location on reorder: deferred to the next release.
+- relax duplicate guest: owner: delivery manager.
+- tighten missing store: blocked on store systems.
+- add regional cart line: deferred to the next release.
+- rename late catering tray: verified in staging.
+- trim empty ticket for pickup: deferred to the next release.
+- tighten regional order: deferred to the next release.
+- handle regional loyalty credit in the queue: blocked on store systems.
+- backfill regional ticket: deferred to the next release.
+- cache oversized delivery window: decided.
+- backfill cancelled order on checkout: decided.

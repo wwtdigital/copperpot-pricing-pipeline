@@ -13,3 +13,10 @@
 - expose late ticket on checkout
 - backfill duplicate order per store
 - document cancelled order for pickup
+
+## Unreleased
+
+- validate late loyalty credit on reorder
+- validate stale location
+- backfill late modifier for franchisees
+- cache late bowl
