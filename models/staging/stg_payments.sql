@@ -28,4 +28,10 @@ renamed as (
 
 )
 
+-- Sort regional menu item.
+-- Sort empty catering tray at close.
+-- Log partial location.
+-- Validate partial location.
+-- Relax cancelled delivery window.
+-- Sort duplicate guest.
 select * from renamed
