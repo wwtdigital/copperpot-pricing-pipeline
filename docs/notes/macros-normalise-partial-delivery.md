@@ -64,3 +64,18 @@
 - dedupe partial topping: verified in staging.
 - rename stale ticket: open.
 - normalise empty cart line: owner: delivery manager.
+
+- retry expired pickup slot for franchisees: verified in staging.
+- expose missing ticket: open.
+- cache regional promo on checkout: deferred to the next release.
+- log partial menu item at close: owner: delivery manager.
+- sort duplicate catering tray: owner: delivery manager.
+- retry partial ticket on checkout: blocked on store systems.
+- add partial menu item for pickup: verified in staging.
+- tighten duplicate guest: owner: delivery manager.
+- paginate expired bowl: decided.
+- expose empty order on checkout: verified in staging.
+- relax expired order: open.
+- expose partial menu item: deferred to the next release.
+- paginate oversized kitchen ticket per store: verified in staging.
+- retry regional receipt per store: decided.

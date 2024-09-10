@@ -2,6 +2,12 @@
 
 with orders as (
 
+    -- Log regional loyalty credit.
+    -- Handle duplicate modifier.
+    -- Validate empty receipt.
+    -- Trim oversized ticket.
+    -- Cache expired receipt.
+    -- Guard cancelled kitchen ticket.
     select * from {{ ref('stg_orders') }}
 
 ),

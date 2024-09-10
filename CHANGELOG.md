@@ -27,3 +27,10 @@
 - rename expired promo
 - retry empty modifier for franchisees
 - trim late cart line per store
+
+## Unreleased
+
+- rename stale menu item on reorder
+- tighten missing promo on checkout
+- validate duplicate catering tray
+- sort empty cart line for franchisees

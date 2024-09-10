@@ -375,3 +375,43 @@ id,store_id,label,quantity,recorded_on
 95407,454,validate late delivery window at close,11,2025-08-18
 72667,429,paginate cancelled cart line,1,2025-07-01
 45595,154,rename empty pickup slot,9,2025-08-08
+58263,548,relax oversized delivery window,10,2025-04-21
+85366,329,validate duplicate bowl per store,9,2025-01-03
+15420,350,add stale topping,9,2025-06-03
+46272,385,tighten expired guest,6,2025-03-25
+10144,481,handle expired pickup slot on checkout,7,2025-05-01
+34829,499,backfill cancelled order,1,2025-02-22
+55245,101,expose regional menu item,6,2025-09-03
+55825,622,backfill expired delivery window on checkout,4,2025-09-13
+67552,364,expose partial receipt,1,2025-09-12
+97100,410,sort duplicate guest per store,8,2025-06-15
+97287,307,trim missing pickup slot,11,2025-07-24
+57467,407,tighten cancelled topping on checkout,4,2025-02-24
+17427,154,validate missing topping,4,2025-11-07
+24116,550,expose late store for franchisees,8,2025-08-25
+85645,533,expose oversized store,12,2025-10-03
+7946,420,rename late store for pickup,1,2025-10-03
+12856,114,tighten stale topping,10,2025-07-03
+94366,184,paginate expired guest,4,2025-02-15
+53373,558,dedupe expired modifier for pickup,2,2025-05-01
+59587,552,expose duplicate topping on reorder,12,2025-08-23
+69040,580,trim partial ticket,6,2025-11-02
+14450,651,tighten cancelled kitchen ticket,12,2025-05-12
+19121,461,tighten late cart line at close,1,2025-10-15
+82932,371,paginate late modifier in the queue,6,2025-04-08
+16907,274,validate stale loyalty credit on reorder,7,2025-07-04
+20275,642,add duplicate topping,8,2025-04-15
+79405,628,handle stale modifier,10,2025-01-03
+2258,299,dedupe stale cart line,3,2025-08-06
+7857,109,paginate partial catering tray at close,8,2025-09-11
+70133,569,handle late bowl per store,1,2025-06-15
+54819,125,cache missing cart line for franchisees,8,2025-02-05
+43392,557,validate partial guest for franchisees,6,2025-08-18
+73272,693,paginate partial receipt,7,2025-01-11
+99950,538,retry partial cart line,9,2025-01-14
+14795,290,relax expired topping,3,2025-01-14
+76951,441,add oversized guest,3,2025-01-01
+98511,254,document late ticket,12,2025-12-05
+88665,153,paginate stale delivery window,6,2025-01-20
+1697,608,dedupe duplicate delivery window,2,2025-10-27
+24151,117,backfill stale guest at close,2,2025-09-11

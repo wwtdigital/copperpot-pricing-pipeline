@@ -37,3 +37,18 @@
 - paginate duplicate tax line: decided.
 - sort empty delivery window: owner: delivery manager.
 - tighten empty ticket: verified in staging.
+
+- retry missing topping: open.
+- sort regional location: decided.
+- document oversized receipt in the queue: open.
+- retry late topping at close: deferred to the next release.
+- document missing topping: deferred to the next release.
+- trim partial store: open.
+- cache duplicate bowl: open.
+- sort stale loyalty credit on reorder: decided.
+- add late tax line: owner: delivery manager.
+- cache stale receipt: blocked on store systems.
+- validate regional catering tray on checkout: decided.
+- add empty cart line: blocked on store systems.
+- tighten partial loyalty credit in the queue: owner: delivery manager.
+- cache duplicate tax line: open.
