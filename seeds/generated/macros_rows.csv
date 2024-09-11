@@ -85,3 +85,24 @@ id,store_id,label,quantity,recorded_on
 86801,464,sort missing promo,6,2025-08-09
 42193,396,backfill empty guest,2,2025-08-18
 32227,576,dedupe late delivery window on reorder,1,2025-01-16
+42035,502,normalise partial loyalty credit on reorder,4,2025-09-24
+31546,427,tighten regional store on checkout,2,2025-11-10
+96403,328,trim duplicate topping,5,2025-06-23
+25955,402,expose empty store on reorder,3,2025-09-06
+14643,690,validate regional menu item per store,8,2025-09-24
+27977,505,paginate oversized guest,11,2025-08-04
+62337,364,guard duplicate kitchen ticket per store,12,2025-02-20
+59529,405,relax empty modifier,6,2025-09-10
+76721,337,retry expired store,1,2025-04-04
+44478,455,guard late promo,5,2025-11-22
+20424,184,rename empty receipt in the queue,8,2025-08-11
+54261,468,relax cancelled tax line,4,2025-09-08
+5230,424,add partial receipt,10,2025-06-25
+36940,483,handle regional delivery window,2,2025-11-26
+55272,172,rename late catering tray,10,2025-03-04
+74199,470,expose missing catering tray for pickup,8,2025-01-02
+86719,653,rename expired receipt on reorder,9,2025-11-23
+10742,354,relax empty loyalty credit on checkout,7,2025-09-16
+73881,554,rename duplicate store per store,8,2025-12-13
+83058,577,normalise missing pickup slot,5,2025-02-28
+17231,389,document expired tax line on reorder,12,2025-11-13
