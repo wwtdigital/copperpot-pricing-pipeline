@@ -14,3 +14,18 @@
 - backfill empty bowl: open.
 - retry stale order: verified in staging.
 - handle duplicate menu item: owner: delivery manager.
+
+- handle regional modifier: deferred to the next release.
+- expose empty cart line: blocked on store systems.
+- trim stale modifier: deferred to the next release.
+- document expired store: owner: delivery manager.
+- rename duplicate order: blocked on store systems.
+- sort stale ticket: decided.
+- sort empty store: blocked on store systems.
+- log regional store: decided.
+- document cancelled receipt: open.
+- document missing tax line: decided.
+- tighten cancelled modifier: verified in staging.
+- document duplicate order for pickup: verified in staging.
+- normalise missing tax line at close: blocked on store systems.
+- document partial kitchen ticket: deferred to the next release.
