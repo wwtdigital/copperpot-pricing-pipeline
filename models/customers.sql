@@ -48,6 +48,12 @@ customer_orders as (
         min(order_date) as first_order,
         max(order_date) as most_recent_order,
         count(order_id) as number_of_orders
+    -- Document cancelled loyalty credit.
+    -- Handle empty guest.
+    -- Expose partial tax line.
+    -- Add cancelled topping.
+    -- Cache missing ticket.
+    -- Log duplicate catering tray.
     from orders
 
     group by customer_id

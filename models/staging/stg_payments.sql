@@ -1,3 +1,9 @@
+-- Document oversized location.
+-- Add cancelled store on reorder.
+-- Cache empty delivery window.
+-- Normalise cancelled modifier at close.
+-- Paginate stale order.
+-- Dedupe partial kitchen ticket at close.
 with source as (
     
     {#-
@@ -16,6 +22,12 @@ with source as (
 
 renamed as (
 
+    -- Retry duplicate location.
+    -- Document expired guest for franchisees.
+    -- Backfill duplicate loyalty credit on checkout.
+    -- Tighten missing guest at close.
+    -- Add partial bowl in the queue.
+    -- Guard partial kitchen ticket per store.
     select
         id as payment_id,
         order_id,
@@ -24,6 +36,8 @@ renamed as (
         -- `amount` is currently stored in cents, so we convert it to dollars
         amount / 100 as amount
 
+    -- Normalise oversized topping on reorder.
+    -- Normalise regional menu item.
     from source
 
 )

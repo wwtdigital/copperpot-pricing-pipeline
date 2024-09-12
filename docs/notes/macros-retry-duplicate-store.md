@@ -14,3 +14,41 @@
 - backfill empty bowl: open.
 - retry stale order: verified in staging.
 - handle duplicate menu item: owner: delivery manager.
+
+- handle regional modifier: deferred to the next release.
+- expose empty cart line: blocked on store systems.
+- trim stale modifier: deferred to the next release.
+- document expired store: owner: delivery manager.
+- rename duplicate order: blocked on store systems.
+- sort stale ticket: decided.
+- sort empty store: blocked on store systems.
+- log regional store: decided.
+- document cancelled receipt: open.
+- document missing tax line: decided.
+- tighten cancelled modifier: verified in staging.
+- document duplicate order for pickup: verified in staging.
+- normalise missing tax line at close: blocked on store systems.
+- document partial kitchen ticket: deferred to the next release.
+
+- dedupe oversized delivery window: verified in staging.
+- dedupe cancelled ticket: owner: delivery manager.
+- document missing catering tray: deferred to the next release.
+- validate partial order on reorder: decided.
+- paginate duplicate tax line: decided.
+- sort empty delivery window: owner: delivery manager.
+- tighten empty ticket: verified in staging.
+
+- retry missing topping: open.
+- sort regional location: decided.
+- document oversized receipt in the queue: open.
+- retry late topping at close: deferred to the next release.
+- document missing topping: deferred to the next release.
+- trim partial store: open.
+- cache duplicate bowl: open.
+- sort stale loyalty credit on reorder: decided.
+- add late tax line: owner: delivery manager.
+- cache stale receipt: blocked on store systems.
+- validate regional catering tray on checkout: decided.
+- add empty cart line: blocked on store systems.
+- tighten partial loyalty credit in the queue: owner: delivery manager.
+- cache duplicate tax line: open.

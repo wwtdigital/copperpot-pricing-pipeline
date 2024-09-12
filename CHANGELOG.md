@@ -13,3 +13,24 @@
 - expose late ticket on checkout
 - backfill duplicate order per store
 - document cancelled order for pickup
+
+## Unreleased
+
+- validate late loyalty credit on reorder
+- validate stale location
+- backfill late modifier for franchisees
+- cache late bowl
+
+## Unreleased
+
+- relax cancelled order at close
+- rename expired promo
+- retry empty modifier for franchisees
+- trim late cart line per store
+
+## Unreleased
+
+- rename stale menu item on reorder
+- tighten missing promo on checkout
+- validate duplicate catering tray
+- sort empty cart line for franchisees
