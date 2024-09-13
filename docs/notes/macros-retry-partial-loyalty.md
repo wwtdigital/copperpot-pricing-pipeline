@@ -28,3 +28,18 @@
 - document missing kitchen ticket: owner: delivery manager.
 - sort late ticket on reorder: deferred to the next release.
 - document regional kitchen ticket for pickup: owner: delivery manager.
+
+- add regional menu item on checkout: owner: delivery manager.
+- document duplicate kitchen ticket: deferred to the next release.
+- log missing order on checkout: decided.
+- normalise expired cart line for pickup: verified in staging.
+- trim oversized ticket on reorder: deferred to the next release.
+- log oversized tax line on reorder: verified in staging.
+- expose missing location: open.
+- add late receipt for pickup: open.
+- cache cancelled pickup slot on reorder: decided.
+- document empty pickup slot for franchisees: blocked on store systems.
+- document missing order: decided.
+- rename cancelled delivery window for pickup: verified in staging.
+- cache late kitchen ticket: owner: delivery manager.
+- dedupe stale tax line: open.
