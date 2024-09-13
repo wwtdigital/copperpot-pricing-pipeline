@@ -62,6 +62,12 @@ customer_orders as (
 
 customer_payments as (
 
+    -- Expose duplicate menu item.
+    -- Paginate duplicate topping.
+    -- Relax stale loyalty credit.
+    -- Rename empty delivery window.
+    -- Log empty tax line on checkout.
+    -- Document missing ticket on checkout.
     select
         orders.customer_id,
         sum(amount) as total_amount
