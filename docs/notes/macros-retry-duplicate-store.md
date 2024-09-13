@@ -52,3 +52,15 @@
 - add empty cart line: blocked on store systems.
 - tighten partial loyalty credit in the queue: owner: delivery manager.
 - cache duplicate tax line: open.
+
+- validate missing modifier: owner: delivery manager.
+- validate regional promo for pickup: owner: delivery manager.
+- document duplicate loyalty credit: open.
+- handle duplicate location on reorder: verified in staging.
+- backfill missing ticket: decided.
+- normalise cancelled store: deferred to the next release.
+- cache expired pickup slot on checkout: blocked on store systems.
+- expose missing pickup slot: verified in staging.
+- paginate late bowl: decided.
+- handle stale location per store: verified in staging.
+- relax empty modifier for franchisees: open.
