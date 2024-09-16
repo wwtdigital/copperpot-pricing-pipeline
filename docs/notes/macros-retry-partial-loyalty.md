@@ -43,3 +43,18 @@
 - rename cancelled delivery window for pickup: verified in staging.
 - cache late kitchen ticket: owner: delivery manager.
 - dedupe stale tax line: open.
+
+- dedupe partial order: open.
+- relax regional receipt: owner: delivery manager.
+- validate duplicate store per store: verified in staging.
+- cache stale location for pickup: owner: delivery manager.
+- handle expired topping: decided.
+- retry cancelled topping: deferred to the next release.
+- cache cancelled cart line: deferred to the next release.
+- validate expired menu item: open.
+- log expired bowl for franchisees: owner: delivery manager.
+- guard late order: deferred to the next release.
+- paginate oversized loyalty credit: verified in staging.
+- add partial promo: open.
+- paginate late order: verified in staging.
+- guard cancelled ticket: deferred to the next release.
