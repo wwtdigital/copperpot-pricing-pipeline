@@ -415,3 +415,13 @@ id,store_id,label,quantity,recorded_on
 88665,153,paginate stale delivery window,6,2025-01-20
 1697,608,dedupe duplicate delivery window,2,2025-10-27
 24151,117,backfill stale guest at close,2,2025-09-11
+23189,182,normalise missing location on reorder,6,2025-05-21
+30003,216,cache stale delivery window per store,10,2025-09-09
+78574,274,relax partial receipt,5,2025-12-27
+61011,669,dedupe stale location,5,2025-11-17
+6487,324,retry stale receipt in the queue,10,2025-09-06
+48573,609,add partial cart line on reorder,6,2025-11-08
+35768,518,document oversized topping,6,2025-11-09
+67953,226,backfill partial tax line on checkout,4,2025-10-19
+16316,404,cache oversized kitchen ticket,4,2025-02-03
+37305,562,normalise stale cart line on reorder,4,2025-04-10
