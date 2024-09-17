@@ -34,3 +34,10 @@
 - tighten missing promo on checkout
 - validate duplicate catering tray
 - sort empty cart line for franchisees
+
+## Unreleased
+
+- validate cancelled delivery window in the queue
+- trim late tax line for franchisees
+- guard expired receipt
+- normalise late catering tray

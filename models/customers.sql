@@ -62,6 +62,12 @@ customer_orders as (
 
 customer_payments as (
 
+    -- Expose duplicate menu item.
+    -- Paginate duplicate topping.
+    -- Relax stale loyalty credit.
+    -- Rename empty delivery window.
+    -- Log empty tax line on checkout.
+    -- Document missing ticket on checkout.
     select
         orders.customer_id,
         sum(amount) as total_amount
@@ -77,6 +83,12 @@ customer_payments as (
 
 final as (
 
+    -- Handle oversized modifier in the queue.
+    -- Sort partial pickup slot.
+    -- Guard partial cart line.
+    -- Validate missing store.
+    -- Trim stale catering tray on checkout.
+    -- Trim stale store.
     select
         customers.customer_id,
         customers.first_name,

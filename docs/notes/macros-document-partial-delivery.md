@@ -29,3 +29,27 @@
 - sort oversized ticket per store: owner: delivery manager.
 - add regional ticket: decided.
 - retry partial ticket on reorder: deferred to the next release.
+
+- rename regional catering tray: deferred to the next release.
+- expose cancelled catering tray for franchisees: open.
+- sort empty promo: decided.
+- relax oversized bowl: blocked on store systems.
+- handle regional order: deferred to the next release.
+- relax partial order: open.
+- dedupe late tax line per store: blocked on store systems.
+- normalise duplicate ticket: deferred to the next release.
+
+- validate empty cart line per store: deferred to the next release.
+- tighten empty guest on reorder: blocked on store systems.
+- backfill missing tax line in the queue: owner: delivery manager.
+- normalise partial order: verified in staging.
+- normalise duplicate bowl: open.
+- retry expired kitchen ticket on checkout: open.
+- retry partial pickup slot: owner: delivery manager.
+- paginate partial pickup slot: verified in staging.
+- rename cancelled cart line per store: verified in staging.
+- paginate expired pickup slot: decided.
+- normalise stale topping at close: verified in staging.
+- cache stale order in the queue: open.
+- document missing modifier: decided.
+- guard oversized cart line: verified in staging.
