@@ -85,3 +85,18 @@
 - document late loyalty credit per store: open.
 - cache cancelled tax line: verified in staging.
 - tighten cancelled pickup slot on checkout: blocked on store systems.
+
+- tighten expired menu item per store: decided.
+- dedupe oversized location: verified in staging.
+- backfill missing store: open.
+- rename late promo: deferred to the next release.
+- document partial modifier per store: deferred to the next release.
+- normalise oversized modifier: open.
+- document expired loyalty credit: owner: delivery manager.
+- paginate missing store: verified in staging.
+- handle cancelled tax line: decided.
+- relax duplicate guest per store: open.
+- trim cancelled tax line: verified in staging.
+- tighten empty loyalty credit: decided.
+- guard expired receipt for pickup: deferred to the next release.
+- add partial catering tray at close: deferred to the next release.
