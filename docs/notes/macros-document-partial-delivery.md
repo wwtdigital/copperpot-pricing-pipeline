@@ -29,3 +29,12 @@
 - sort oversized ticket per store: owner: delivery manager.
 - add regional ticket: decided.
 - retry partial ticket on reorder: deferred to the next release.
+
+- rename regional catering tray: deferred to the next release.
+- expose cancelled catering tray for franchisees: open.
+- sort empty promo: decided.
+- relax oversized bowl: blocked on store systems.
+- handle regional order: deferred to the next release.
+- relax partial order: open.
+- dedupe late tax line per store: blocked on store systems.
+- normalise duplicate ticket: deferred to the next release.

@@ -497,3 +497,43 @@ id,store_id,label,quantity,recorded_on
 12233,672,sort late guest,1,2025-02-06
 56927,105,validate regional loyalty credit,8,2025-10-27
 24755,471,validate late topping,7,2025-07-02
+63942,618,cache empty guest per store,3,2025-08-26
+93399,351,rename stale catering tray,12,2025-08-12
+99548,198,expose empty order at close,3,2025-05-28
+97385,256,dedupe missing pickup slot,10,2025-12-13
+86548,557,guard stale delivery window for franchisees,10,2025-03-11
+49237,258,dedupe duplicate receipt,5,2025-01-27
+32224,317,relax cancelled location in the queue,6,2025-07-14
+86116,189,tighten cancelled promo on reorder,4,2025-09-04
+56414,637,retry late order,5,2025-12-02
+4382,409,sort stale guest per store,10,2025-12-14
+99818,429,dedupe duplicate bowl in the queue,9,2025-08-09
+54158,573,rename oversized promo for pickup,5,2025-01-05
+37545,386,dedupe cancelled topping,2,2025-03-15
+80471,553,guard partial pickup slot on checkout,1,2025-08-20
+71161,117,tighten late delivery window,2,2025-01-10
+28422,604,tighten cancelled catering tray,2,2025-08-21
+97933,159,rename late cart line in the queue,12,2025-10-15
+63495,404,normalise expired order,5,2025-02-09
+21328,227,log expired topping,1,2025-09-01
+55476,352,normalise empty catering tray,9,2025-08-23
+53983,397,cache duplicate kitchen ticket,7,2025-01-17
+59914,400,guard cancelled guest,2,2025-12-17
+78546,365,cache empty delivery window on reorder,8,2025-07-26
+22887,693,guard expired kitchen ticket per store,12,2025-04-23
+74799,279,guard expired cart line,7,2025-05-09
+3210,368,paginate stale order,3,2025-07-12
+29140,452,guard oversized kitchen ticket,2,2025-06-10
+43292,393,validate late store,10,2025-11-25
+90451,290,backfill regional store at close,12,2025-11-22
+60152,639,document late tax line,9,2025-06-27
+27434,635,add oversized promo,5,2025-10-18
+22953,493,sort late loyalty credit,11,2025-03-25
+46545,225,paginate regional promo on checkout,6,2025-09-19
+22628,283,guard late cart line,7,2025-07-01
+56158,664,sort missing topping,1,2025-11-19
+37833,344,sort regional menu item,1,2025-04-02
+47873,469,relax duplicate location on checkout,4,2025-04-26
+61733,103,expose duplicate pickup slot for franchisees,5,2025-04-18
+36819,295,backfill regional guest per store,3,2025-05-21
+10985,398,dedupe oversized promo on checkout,5,2025-11-14

@@ -13,3 +13,18 @@
 - document stale ticket: blocked on store systems.
 - expose stale catering tray: verified in staging.
 - cache regional tax line: owner: delivery manager.
+
+- paginate empty modifier: open.
+- add empty tax line: open.
+- sort empty guest in the queue: open.
+- handle late promo for franchisees: decided.
+- document empty receipt: decided.
+- backfill oversized cart line per store: owner: delivery manager.
+- paginate oversized order at close: verified in staging.
+- trim expired ticket on reorder: deferred to the next release.
+- paginate stale cart line in the queue: open.
+- sort partial guest at close: open.
+- normalise missing guest: deferred to the next release.
+- document missing kitchen ticket: owner: delivery manager.
+- sort late ticket on reorder: deferred to the next release.
+- document regional kitchen ticket for pickup: owner: delivery manager.

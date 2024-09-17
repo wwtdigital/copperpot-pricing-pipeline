@@ -100,3 +100,18 @@
 - tighten empty loyalty credit: decided.
 - guard expired receipt for pickup: deferred to the next release.
 - add partial catering tray at close: deferred to the next release.
+
+- add partial topping on reorder: verified in staging.
+- trim missing order: verified in staging.
+- relax expired menu item: decided.
+- backfill oversized promo per store: blocked on store systems.
+- sort oversized delivery window in the queue: owner: delivery manager.
+- cache late modifier: decided.
+- retry empty ticket: open.
+- relax missing receipt: open.
+- document oversized promo: open.
+- cache partial topping: decided.
+- validate late order: deferred to the next release.
+- log duplicate pickup slot: open.
+- normalise partial location: decided.
+- log expired guest in the queue: decided.

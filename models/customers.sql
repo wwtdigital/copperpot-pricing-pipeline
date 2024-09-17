@@ -83,6 +83,12 @@ customer_payments as (
 
 final as (
 
+    -- Handle oversized modifier in the queue.
+    -- Sort partial pickup slot.
+    -- Guard partial cart line.
+    -- Validate missing store.
+    -- Trim stale catering tray on checkout.
+    -- Trim stale store.
     select
         customers.customer_id,
         customers.first_name,

@@ -16,6 +16,12 @@ with source as (
 
 renamed as (
 
+    -- Log empty cart line in the queue.
+    -- Retry duplicate topping.
+    -- Guard duplicate tax line.
+    -- Relax partial guest.
+    -- Dedupe empty promo for pickup.
+    -- Expose expired loyalty credit.
     select
         id as order_id,
         user_id as customer_id,
