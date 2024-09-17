@@ -1,0 +1,13 @@
+store_id,store_name,region,pricing_tier,opened_on
+101,Maplewood Crossing,northeast,standard,2016-03-14
+102,Harbor Point,northeast,metro,2017-06-02
+103,Ridgeline Plaza,midwest,standard,2015-09-21
+104,Cedar Station,midwest,standard,2018-01-08
+105,Sunbelt Commons,south,standard,2016-11-30
+106,Gulfview Terminal B,south,airport,2019-05-13
+107,Prairie Gate,south,standard,2020-02-24
+108,Canyon Market,west,metro,2017-08-07
+109,Bayfront Walk,west,metro,2018-10-15
+110,Summit Arena Concourse,west,standard,2021-04-05
+111,Lakeside Depot,midwest,standard,2019-07-22
+112,Highline Terminal A,northeast,airport,2022-03-01

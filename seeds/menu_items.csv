@@ -1,0 +1,17 @@
+item_id,item_name,category,base_price_cents,active
+2001,Copper Chicken Bowl,bowl,1095,true
+2002,Smoky Brisket Bowl,bowl,1295,true
+2003,Garden Harvest Bowl,bowl,995,true
+2004,Citrus Shrimp Bowl,bowl,1345,true
+2005,Classic Chicken Burrito,burrito,1045,true
+2006,Carnitas Burrito,burrito,1145,true
+2007,Black Bean Burrito,burrito,945,true
+2008,Breakfast Burrito,burrito,845,false
+2009,Street Corn Cup,side,395,true
+2010,Tortilla Chips and Salsa,side,345,true
+2011,Guacamole Side,side,295,true
+2012,Cinnamon Churro Bites,side,445,true
+2013,Hibiscus Agua Fresca,drink,345,true
+2014,Fountain Drink,drink,279,true
+2015,Bottled Water,drink,225,true
+2016,Cold Brew,drink,395,true

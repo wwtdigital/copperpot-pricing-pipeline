@@ -6,3 +6,47 @@ Copperpot Bowls pricing pipeline: menu items, store pricing tiers, promotions an
 
 ---
 
+## What this is
+
+The pricing pipeline: dbt models on DuckDB that turn the menu, the store list, the pricing tiers and the promotion calendar into a daily price book, one row per store, item and day. The commerce API reads the price book; nothing here serves traffic.
+
+| Layer | Models | Grain |
+|---|---|---|
+| seeds | `stores`, `menu_items`, `pricing_tiers`, `promotions`, `price_calendar` | the inputs, as CSV |
+| staging (`models/staging/`) | `stg_*`, one view per seed | one row per source row, typed and renamed |
+| marts (`models/marts/pricing/`) | `dim_stores`, `dim_menu_items`, `store_item_prices`, `promotion_windows`, `price_book_daily` | store, item, store by item, promotion by day, store by item by day |
+
+## Running it
+
+Python 3.13 or newer. With [uv](https://docs.astral.sh/uv/):
+
+```shell
+uv sync
+uv run dbt seed
+uv run dbt run
+uv run dbt test
+```
+
+Or with a plain virtual environment and the pinned requirements:
+
+```shell
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install -r requirements.txt
+dbt build
+```
+
+`dbt build` does seed, run and test in one pass. The database is a local file, `copperpot_pricing.duckdb`, ignored by git; delete it to start over. Query it with the DuckDB CLI:
+
+```
+select * from price_book_daily where store_id = 106 and price_date = '2024-09-16';
+```
+
+## Linting
+
+SQL style is checked with sqlfluff (`.sqlfluff` carries the rules):
+
+```shell
+uv run sqlfluff lint models
+uv run sqlfluff fix models
+```
