@@ -1,33 +1,49 @@
 version: 2
 
 models:
-  - name: stg_customers
+  - name: stg_stores
+    description: One row per store, as the store systems team publishes them.
     columns:
-      - name: customer_id
-        tests:
+      - name: store_id
+        data_tests:
+          - unique
+          - not_null
+      - name: pricing_tier
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['standard', 'metro', 'airport']
+
+  - name: stg_menu_items
+    description: The menu as merchandising maintains it, active and retired items alike.
+    columns:
+      - name: item_id
+        data_tests:
+          - unique
+          - not_null
+      - name: category
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['bowl', 'burrito', 'side', 'drink']
+
+  - name: stg_pricing_tiers
+    columns:
+      - name: pricing_tier
+        data_tests:
           - unique
           - not_null
 
-  - name: stg_orders
+  - name: stg_promotions
     columns:
-      - name: order_id
-        tests:
+      - name: promo_code
+        data_tests:
           - unique
           - not_null
-      - name: status
-        tests:
-          - accepted_values:
-              arguments:
-                values: ['placed', 'shipped', 'completed', 'return_pending', 'returned']
 
-  - name: stg_payments
+  - name: stg_price_calendar
     columns:
-      - name: payment_id
-        tests:
+      - name: price_date
+        data_tests:
           - unique
           - not_null
-      - name: payment_method
-        tests:
-          - accepted_values:
-              arguments:
-                values: ['credit_card', 'coupon', 'bank_transfer', 'gift_card']

@@ -5,4 +5,4 @@ copperpot_pricing:
     dev:
       type: duckdb
       path: 'copperpot_pricing.duckdb'
-      threads: 24
+      threads: 4

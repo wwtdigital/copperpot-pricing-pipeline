@@ -1,0 +1,65 @@
+version: 2
+
+models:
+  - name: dim_menu_items
+    description: Active menu items with their base price in cents.
+    columns:
+      - name: item_id
+        data_tests:
+          - unique
+          - not_null
+      - name: category
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['bowl', 'burrito', 'side', 'drink']
+      - name: base_price_cents
+        data_tests:
+          - not_null
+
+  - name: dim_stores
+    description: Stores with the pricing tier and multiplier that apply to them.
+    columns:
+      - name: store_id
+        data_tests:
+          - unique
+          - not_null
+      - name: pricing_tier
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['standard', 'metro', 'airport']
+      - name: multiplier_bps
+        data_tests:
+          - not_null
+
+  - name: store_item_prices
+    description: Every active item at every store with the tier applied. One row per store and item.
+    columns:
+      - name: list_price_cents
+        data_tests:
+          - not_null
+
+  - name: promotion_windows
+    description: Promotions expanded to the days they run.
+    columns:
+      - name: promo_code
+        data_tests:
+          - not_null
+      - name: price_date
+        data_tests:
+          - not_null
+
+  - name: price_book_daily
+    description: The daily price book. One row per price date, store and active item; the file the commerce API reads is cut from this table.
+    columns:
+      - name: price_book_key
+        data_tests:
+          - unique
+          - not_null
+      - name: price_cents
+        data_tests:
+          - not_null
+      - name: list_price_cents
+        data_tests:
+          - not_null

@@ -199,7 +199,6 @@ typing-extensions==4.16.0
     #   opentelemetry-api
     #   pydantic
     #   pydantic-core
-    #   referencing
     #   snowplow-tracker
     #   typing-inspection
 typing-inspection==0.4.4

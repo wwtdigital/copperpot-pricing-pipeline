@@ -1,3 +1,11 @@
 [sqlfluff]
-
 dialect = duckdb
+templater = jinja
+max_line_length = 100
+
+[sqlfluff:indentation]
+indented_joins = false
+indented_using_on = true
+
+[sqlfluff:templater:jinja]
+load_macros_from_path = macros
