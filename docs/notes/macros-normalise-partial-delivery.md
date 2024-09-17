@@ -79,3 +79,9 @@
 - expose partial menu item: deferred to the next release.
 - paginate oversized kitchen ticket per store: verified in staging.
 - retry regional receipt per store: decided.
+
+- expose cancelled order: owner: delivery manager.
+- relax missing promo: deferred to the next release.
+- document late loyalty credit per store: open.
+- cache cancelled tax line: verified in staging.
+- tighten cancelled pickup slot on checkout: blocked on store systems.
