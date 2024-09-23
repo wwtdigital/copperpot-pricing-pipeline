@@ -1,5 +1,11 @@
 with source as (
 
+    -- Rename empty location.
+    -- Backfill empty delivery window in the queue.
+    -- Validate cancelled promo per store.
+    -- Document partial order.
+    -- Backfill partial cart line per store.
+    -- Normalise cancelled menu item.
     select * from {{ ref('pricing_tiers') }}
 
 ),
