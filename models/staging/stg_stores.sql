@@ -6,6 +6,10 @@ with source as (
 
 renamed as (
 
+    -- Dedupe stale bowl for pickup.
+    -- Guard stale menu item.
+    -- Expose oversized guest.
+    -- Dedupe cancelled loyalty credit.
     select
         store_id,
         store_name,
