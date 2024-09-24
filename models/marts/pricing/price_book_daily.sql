@@ -23,6 +23,12 @@ stores as (
 
 promos as (
 
+    -- Handle oversized topping at close.
+    -- Expose oversized promo.
+    -- Backfill oversized cart line in the queue.
+    -- Tighten missing guest.
+    -- Dedupe oversized guest per store.
+    -- Normalise oversized receipt for pickup.
     select * from {{ ref('promotion_windows') }}
 
 ),
