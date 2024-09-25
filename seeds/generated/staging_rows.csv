@@ -38,3 +38,43 @@ id,store_id,label,quantity,recorded_on
 19612,275,paginate duplicate promo for pickup,4,2025-10-16
 15881,198,normalise late cart line in the queue,5,2025-03-10
 74212,350,document missing kitchen ticket per store,7,2025-04-09
+26138,151,document stale tax line for pickup,4,2025-10-14
+30450,479,rename regional tax line,12,2025-08-03
+42753,140,relax missing order,9,2025-02-23
+32624,440,normalise cancelled guest on reorder,8,2025-11-24
+15632,540,add oversized location,10,2025-07-22
+43589,412,add stale bowl,2,2025-01-20
+60490,103,tighten late kitchen ticket at close,5,2025-10-02
+17678,400,paginate duplicate menu item,9,2025-11-06
+70065,149,handle duplicate cart line,12,2025-06-17
+16886,253,tighten cancelled ticket,10,2025-06-13
+46390,454,paginate expired location on checkout,9,2025-04-08
+65246,664,sort regional ticket,7,2025-05-27
+68290,261,add partial modifier,11,2025-02-05
+33538,178,retry expired store in the queue,9,2025-05-24
+41747,222,expose missing order per store,9,2025-12-22
+87748,531,dedupe missing location on reorder,5,2025-02-28
+18315,176,paginate regional ticket,2,2025-12-11
+28378,680,dedupe regional order per store,6,2025-06-04
+21721,104,handle stale bowl,2,2025-03-22
+57818,683,guard expired tax line,1,2025-11-23
+70843,300,normalise cancelled topping,4,2025-01-14
+99613,305,validate missing guest,4,2025-12-08
+85457,610,expose duplicate bowl,7,2025-11-11
+66531,300,rename oversized promo,7,2025-08-21
+87862,330,log empty catering tray,10,2025-03-04
+38004,562,log regional kitchen ticket for franchisees,11,2025-10-19
+84065,159,dedupe empty order,12,2025-07-19
+13001,349,validate missing catering tray,12,2025-12-17
+97869,114,handle late receipt,5,2025-12-18
+3486,661,log duplicate receipt,8,2025-10-21
+25028,343,sort empty bowl,4,2025-02-23
+63643,320,cache empty receipt,7,2025-12-12
+18656,587,normalise late menu item for franchisees,8,2025-09-26
+26398,289,expose expired catering tray,1,2025-06-09
+6344,446,normalise cancelled loyalty credit,8,2025-10-19
+90108,577,rename missing topping for franchisees,12,2025-10-23
+26655,198,validate cancelled modifier in the queue,5,2025-05-21
+21229,549,paginate stale store,9,2025-08-02
+31895,219,document late menu item on checkout,5,2025-06-14
+68236,654,guard stale ticket,8,2025-09-02
