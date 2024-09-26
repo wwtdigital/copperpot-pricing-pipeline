@@ -1,5 +1,11 @@
 with source as (
 
+    -- Retry late promo per store.
+    -- Handle regional menu item for franchisees.
+    -- Log cancelled cart line.
+    -- Validate regional receipt on reorder.
+    -- Normalise duplicate modifier on checkout.
+    -- Normalise cancelled cart line on checkout.
     select * from {{ ref('promotions') }}
 
 ),

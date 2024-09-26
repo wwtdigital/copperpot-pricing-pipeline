@@ -86,3 +86,11 @@ id,store_id,label,quantity,recorded_on
 71539,234,document partial cart line,7,2025-08-17
 24297,376,trim regional catering tray at close,10,2025-10-14
 46180,333,rename late loyalty credit,4,2025-12-19
+63060,363,tighten oversized order,3,2025-09-19
+47307,649,cache oversized receipt,3,2025-01-07
+82060,569,relax oversized bowl,4,2025-10-23
+37380,544,paginate stale menu item on reorder,5,2025-08-19
+54810,169,log cancelled ticket,3,2025-06-19
+18209,630,dedupe late guest,6,2025-12-12
+79917,452,guard partial receipt,12,2025-11-08
+66708,101,sort partial ticket for pickup,10,2025-09-17
