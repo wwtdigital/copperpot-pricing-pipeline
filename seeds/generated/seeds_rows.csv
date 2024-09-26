@@ -16,3 +16,14 @@ id,store_id,label,quantity,recorded_on
 30233,642,backfill cancelled order,3,2025-02-23
 9216,243,log partial kitchen ticket for franchisees,11,2025-02-05
 6401,109,retry late guest at close,12,2025-08-10
+23237,327,handle oversized delivery window per store,10,2025-12-03
+27570,526,dedupe oversized menu item,10,2025-10-22
+49928,527,cache duplicate cart line for pickup,12,2025-05-06
+59227,233,cache regional order,9,2025-05-22
+20283,693,rename late modifier,6,2025-02-24
+5967,563,tighten oversized ticket,4,2025-07-09
+10461,156,validate partial cart line,5,2025-01-26
+78223,405,guard late guest for pickup,12,2025-03-22
+84851,624,expose duplicate ticket on checkout,1,2025-12-11
+94981,552,rename expired store on reorder,12,2025-09-08
+20549,245,retry expired delivery window,8,2025-07-20
