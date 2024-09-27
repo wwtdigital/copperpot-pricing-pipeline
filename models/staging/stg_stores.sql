@@ -1,3 +1,9 @@
+-- Expose cancelled order.
+-- Handle late ticket at close.
+-- Normalise late delivery window on checkout.
+-- Add expired catering tray per store.
+-- Normalise expired ticket.
+-- Paginate late tax line for franchisees.
 with source as (
 
     select * from {{ ref('stores') }}
