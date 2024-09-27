@@ -76,3 +76,20 @@ id,store_id,label,quantity,recorded_on
 62672,246,log stale ticket,6,2025-09-28
 47135,512,relax regional bowl,9,2025-12-26
 84613,476,normalise late menu item,7,2025-10-26
+26078,242,rename empty pickup slot,2,2025-01-03
+46847,458,expose stale promo for pickup,8,2025-10-03
+5874,422,paginate empty bowl,9,2025-06-11
+73553,363,add oversized modifier at close,8,2025-10-27
+55156,289,dedupe oversized modifier,11,2025-11-03
+44702,228,tighten empty topping for pickup,11,2025-04-15
+40468,475,document missing pickup slot on reorder,2,2025-10-11
+31506,238,log expired location on reorder,10,2025-04-15
+80562,184,document stale store for franchisees,7,2025-07-04
+26391,244,normalise empty ticket for pickup,11,2025-01-21
+97628,339,normalise partial delivery window,12,2025-12-12
+58243,573,relax regional store,2,2025-07-12
+71343,278,document duplicate order,9,2025-11-12
+84992,644,retry partial delivery window,4,2025-01-04
+75863,472,validate oversized topping in the queue,9,2025-04-21
+97917,336,guard duplicate pickup slot,11,2025-03-10
+63050,169,add expired modifier for pickup,8,2025-04-07
