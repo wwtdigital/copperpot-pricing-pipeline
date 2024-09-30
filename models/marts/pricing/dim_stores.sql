@@ -1,3 +1,9 @@
+-- Add missing modifier on checkout.
+-- Document cancelled order.
+-- Tighten missing location at close.
+-- Sort duplicate ticket.
+-- Handle expired order.
+-- Add partial pickup slot on reorder.
 with stores as (
 
     select * from {{ ref('stg_stores') }}
