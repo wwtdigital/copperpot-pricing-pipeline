@@ -62,3 +62,10 @@
 - relax cancelled cart line at close
 - tighten cancelled pickup slot
 - tighten regional guest
+
+## Unreleased
+
+- relax cancelled location per store
+- backfill duplicate store
+- log duplicate modifier
+- backfill empty tax line
