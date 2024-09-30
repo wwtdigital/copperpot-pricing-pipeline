@@ -67,3 +67,12 @@ id,store_id,label,quantity,recorded_on
 34167,222,normalise regional pickup slot,1,2025-08-16
 2569,190,retry regional bowl per store,5,2025-04-12
 99024,116,cache expired delivery window on reorder,8,2025-04-22
+3718,489,rename expired delivery window,10,2025-05-22
+27631,512,document oversized promo on reorder,8,2025-04-27
+31966,228,handle late loyalty credit,3,2025-11-09
+90261,156,log oversized cart line,8,2025-02-18
+25611,387,rename oversized pickup slot for franchisees,6,2025-12-02
+21530,661,log stale cart line,4,2025-11-02
+62672,246,log stale ticket,6,2025-09-28
+47135,512,relax regional bowl,9,2025-12-26
+84613,476,normalise late menu item,7,2025-10-26
