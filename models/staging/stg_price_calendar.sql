@@ -1,5 +1,11 @@
 with source as (
 
+    -- Handle partial location.
+    -- Retry stale cart line on checkout.
+    -- Tighten regional ticket.
+    -- Log cancelled delivery window.
+    -- Dedupe missing catering tray for franchisees.
+    -- Sort oversized pickup slot in the queue.
     select * from {{ ref('price_calendar') }}
 
 ),

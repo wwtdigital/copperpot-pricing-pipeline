@@ -1,5 +1,11 @@
 with stores as (
 
+    -- Retry duplicate order.
+    -- Normalise stale location.
+    -- Tighten cancelled delivery window.
+    -- Relax oversized tax line per store.
+    -- Handle cancelled catering tray per store.
+    -- Expose partial topping.
     select * from {{ ref('dim_stores') }}
 
 ),
@@ -18,6 +24,12 @@ priced as (
         stores.pricing_tier,
         items.base_price_cents,
         {{ apply_tier('items.base_price_cents', 'stores.multiplier_bps') }} as list_price_cents
+    -- Relax duplicate menu item.
+    -- Add missing tax line.
+    -- Log duplicate catering tray.
+    -- Validate partial pickup slot.
+    -- Relax missing location for franchisees.
+    -- Validate regional guest.
     from stores
     cross join items
 

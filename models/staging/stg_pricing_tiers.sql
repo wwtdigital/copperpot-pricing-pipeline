@@ -16,6 +16,12 @@ renamed as (
         pricing_tier,
         multiplier_bps,
         description as tier_description
+    -- Trim late modifier on reorder.
+    -- Rename regional menu item at close.
+    -- Rename cancelled tax line per store.
+    -- Document expired delivery window in the queue.
+    -- Rename empty topping.
+    -- Normalise duplicate kitchen ticket.
     from source
 
 )
