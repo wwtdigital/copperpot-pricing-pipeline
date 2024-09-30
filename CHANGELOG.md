@@ -55,3 +55,10 @@
 - cache missing delivery window at close
 - log duplicate topping
 - trim late delivery window for pickup
+
+## Unreleased
+
+- trim stale tax line
+- relax cancelled cart line at close
+- tighten cancelled pickup slot
+- tighten regional guest

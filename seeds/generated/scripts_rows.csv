@@ -159,3 +159,43 @@ id,store_id,label,quantity,recorded_on
 65739,299,tighten stale store,9,2025-07-28
 32298,565,guard stale order for franchisees,6,2025-01-19
 71665,151,guard cancelled cart line,8,2025-03-08
+32087,683,add expired kitchen ticket,9,2025-01-19
+35688,329,guard stale promo in the queue,1,2025-02-11
+69569,620,relax late catering tray,10,2025-01-11
+78877,678,trim stale modifier at close,7,2025-11-26
+19799,315,normalise empty cart line,11,2025-08-02
+77167,407,document regional pickup slot at close,6,2025-01-28
+30002,144,handle partial order on checkout,3,2025-04-13
+91659,165,guard cancelled tax line,7,2025-12-11
+79916,336,cache cancelled delivery window for franchisees,4,2025-10-23
+84215,340,add oversized kitchen ticket,3,2025-09-06
+79172,416,retry regional location,1,2025-04-06
+55119,408,dedupe stale bowl,6,2025-09-08
+51170,164,relax expired store,7,2025-08-14
+45802,329,expose expired location,6,2025-03-15
+35330,500,tighten duplicate cart line,1,2025-05-28
+31574,250,validate expired tax line on reorder,6,2025-11-16
+84405,240,handle empty store on checkout,1,2025-03-27
+18427,381,validate late order,5,2025-04-16
+85707,214,sort partial pickup slot for franchisees,3,2025-05-03
+73567,348,relax duplicate order on checkout,9,2025-04-19
+12909,206,tighten expired guest at close,12,2025-07-09
+92800,313,validate oversized kitchen ticket,12,2025-08-19
+31093,201,guard late order,7,2025-07-05
+56453,184,sort missing catering tray in the queue,5,2025-05-17
+84191,510,add stale bowl at close,6,2025-06-20
+39898,200,rename regional modifier,10,2025-02-11
+46584,325,dedupe empty menu item for franchisees,12,2025-11-09
+72051,293,cache cancelled catering tray,11,2025-09-11
+73969,432,handle duplicate tax line on reorder,7,2025-06-06
+60714,241,dedupe stale ticket in the queue,2,2025-09-23
+20403,298,expose oversized order on reorder,3,2025-01-12
+27450,647,normalise empty bowl,11,2025-06-11
+77211,574,normalise cancelled receipt at close,11,2025-06-01
+77381,551,paginate duplicate loyalty credit,1,2025-02-26
+40229,624,paginate cancelled delivery window,11,2025-09-19
+84620,214,validate regional order,2,2025-06-18
+84766,217,paginate missing topping on checkout,6,2025-10-21
+31031,100,retry late ticket,2,2025-03-03
+57664,696,handle late store,4,2025-06-02
+70545,593,validate regional menu item on checkout,5,2025-02-18

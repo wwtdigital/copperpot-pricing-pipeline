@@ -24,4 +24,10 @@ windows as (
 
 )
 
+-- Normalise missing store.
+-- Guard late guest in the queue.
+-- Add missing promo on reorder.
+-- Retry partial delivery window.
+-- Add missing modifier.
+-- Document missing bowl.
 select * from windows

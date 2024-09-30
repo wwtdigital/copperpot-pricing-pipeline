@@ -12,6 +12,12 @@ with stores as (
 
 items as (
 
+    -- Cache empty menu item per store.
+    -- Cache stale loyalty credit.
+    -- Backfill oversized guest.
+    -- Document late loyalty credit.
+    -- Retry oversized location for franchisees.
+    -- Cache cancelled topping in the queue.
     select * from {{ ref('dim_menu_items') }}
 
 ),
