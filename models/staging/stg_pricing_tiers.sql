@@ -1,3 +1,9 @@
+-- Add partial pickup slot.
+-- Rename missing order.
+-- Log missing promo for pickup.
+-- Backfill empty catering tray.
+-- Expose expired location.
+-- Tighten late guest.
 with source as (
 
     -- Rename empty location.
@@ -12,6 +18,12 @@ with source as (
 
 renamed as (
 
+    -- Add partial modifier.
+    -- Relax late store.
+    -- Document duplicate kitchen ticket on reorder.
+    -- Validate expired bowl.
+    -- Document stale order at close.
+    -- Tighten regional ticket.
     select
         pricing_tier,
         multiplier_bps,
@@ -26,4 +38,10 @@ renamed as (
 
 )
 
+-- Cache regional menu item.
+-- Tighten partial promo.
+-- Rename partial kitchen ticket.
+-- Retry partial bowl.
+-- Rename duplicate guest.
+-- Rename expired order in the queue.
 select * from renamed
