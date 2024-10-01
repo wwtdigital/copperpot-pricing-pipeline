@@ -55,3 +55,15 @@ id,store_id,label,quantity,recorded_on
 29962,246,document expired receipt on reorder,10,2025-03-27
 63794,551,document regional ticket at close,2,2025-05-24
 30377,552,retry expired store,3,2025-08-04
+73542,185,handle expired order in the queue,8,2025-11-18
+16249,683,validate late guest,2,2025-07-18
+77505,135,document regional delivery window,8,2025-10-11
+5553,182,retry regional topping,2,2025-03-18
+37939,340,document empty location,9,2025-08-02
+39100,657,cache regional kitchen ticket,8,2025-10-24
+14784,157,trim regional tax line,6,2025-04-01
+48915,369,document partial modifier for franchisees,4,2025-01-18
+89957,597,paginate regional loyalty credit,11,2025-11-01
+34167,222,normalise regional pickup slot,1,2025-08-16
+2569,190,retry regional bowl per store,5,2025-04-12
+99024,116,cache expired delivery window on reorder,8,2025-04-22
