@@ -31,3 +31,27 @@ id,store_id,label,quantity,recorded_on
 13119,337,normalise partial pickup slot,9,2025-06-03
 77614,572,handle expired modifier,10,2025-09-25
 2793,147,rename missing guest,6,2025-05-06
+93947,270,validate oversized location for pickup,6,2025-09-19
+69376,450,document empty catering tray,11,2025-03-06
+4189,331,document duplicate catering tray at close,8,2025-09-25
+73802,267,document late topping,3,2025-10-14
+74760,377,retry duplicate catering tray at close,5,2025-08-10
+43179,377,validate stale order per store,11,2025-07-16
+39589,582,log regional promo on checkout,6,2025-05-07
+2830,482,rename empty delivery window for pickup,2,2025-04-05
+21744,180,tighten duplicate modifier,5,2025-10-21
+80597,599,log oversized promo,12,2025-12-11
+25718,235,handle oversized menu item in the queue,1,2025-10-12
+35871,693,trim missing guest in the queue,6,2025-09-08
+50202,199,rename stale delivery window in the queue,8,2025-04-16
+86280,159,paginate oversized ticket for franchisees,8,2025-02-27
+48851,591,expose expired store,1,2025-02-21
+39551,277,retry regional cart line on reorder,3,2025-03-09
+29968,366,normalise oversized guest,7,2025-07-23
+49338,498,guard missing tax line,8,2025-08-04
+62907,216,relax oversized receipt at close,5,2025-12-18
+41386,370,dedupe partial cart line,2,2025-10-18
+66107,621,cache expired catering tray,5,2025-12-01
+29962,246,document expired receipt on reorder,10,2025-03-27
+63794,551,document regional ticket at close,2,2025-05-24
+30377,552,retry expired store,3,2025-08-04

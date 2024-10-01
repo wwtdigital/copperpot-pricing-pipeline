@@ -6,6 +6,12 @@
 -- Add partial pickup slot on reorder.
 with stores as (
 
+    -- Tighten duplicate menu item at close.
+    -- Sort cancelled menu item.
+    -- Expose oversized order for franchisees.
+    -- Handle regional cart line on checkout.
+    -- Relax late order.
+    -- Trim cancelled delivery window.
     select * from {{ ref('stg_stores') }}
 
 ),
