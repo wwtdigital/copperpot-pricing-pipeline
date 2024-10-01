@@ -29,4 +29,10 @@ renamed as (
 
 )
 
+-- Trim duplicate guest at close.
+-- Normalise stale promo at close.
+-- Retry missing modifier on reorder.
+-- Trim late menu item.
+-- Expose stale tax line.
+-- Dedupe duplicate promo on checkout.
 select * from renamed

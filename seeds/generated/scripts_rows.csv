@@ -279,3 +279,43 @@ id,store_id,label,quantity,recorded_on
 49024,250,paginate missing catering tray on reorder,12,2025-12-02
 6422,366,cache missing guest,10,2025-08-01
 9422,523,sort duplicate kitchen ticket,12,2025-12-13
+74393,429,expose partial modifier for franchisees,5,2025-04-03
+53675,698,normalise cancelled topping,4,2025-10-18
+77747,194,validate oversized receipt,11,2025-12-14
+47836,555,normalise cancelled modifier,5,2025-06-23
+83832,427,log duplicate kitchen ticket for franchisees,7,2025-04-08
+60867,677,paginate oversized delivery window,1,2025-12-17
+89978,394,expose late order,8,2025-01-28
+72747,130,backfill cancelled order,2,2025-07-10
+49389,511,document regional cart line,12,2025-01-07
+29824,427,cache cancelled menu item,6,2025-01-21
+56920,205,retry regional delivery window on checkout,3,2025-06-11
+71638,409,sort oversized loyalty credit for franchisees,10,2025-07-14
+17377,350,add stale menu item,9,2025-12-05
+85588,603,expose late promo,4,2025-05-05
+65184,353,rename empty tax line per store,6,2025-11-26
+5662,643,expose missing kitchen ticket for pickup,11,2025-08-06
+38116,365,paginate stale loyalty credit,6,2025-05-21
+80345,535,handle partial modifier,8,2025-01-19
+45979,577,tighten partial store,8,2025-11-20
+8095,357,backfill empty receipt,4,2025-11-23
+73330,518,dedupe stale store at close,11,2025-04-17
+46902,616,cache cancelled menu item at close,4,2025-04-05
+38250,401,normalise missing cart line for franchisees,12,2025-03-24
+91332,385,handle duplicate cart line at close,4,2025-09-13
+26187,432,expose empty order at close,11,2025-02-09
+73018,487,dedupe oversized modifier,11,2025-03-23
+33030,193,trim regional promo at close,5,2025-04-13
+54363,550,document duplicate modifier,10,2025-10-15
+48667,108,validate stale tax line,7,2025-01-16
+13833,391,relax cancelled topping,8,2025-10-01
+24808,464,rename missing tax line,2,2025-11-07
+38649,416,sort empty modifier,6,2025-08-24
+43548,272,log stale promo,3,2025-07-15
+69107,422,trim late catering tray,12,2025-04-15
+75211,108,normalise stale ticket,5,2025-09-13
+72973,448,trim empty pickup slot on reorder,9,2025-12-10
+40513,376,backfill expired cart line,3,2025-08-15
+47064,429,dedupe oversized store,11,2025-10-04
+9401,161,handle oversized modifier,4,2025-05-09
+82555,469,log regional modifier,3,2025-11-10

@@ -14,3 +14,18 @@
 - expose partial order in the queue: decided.
 - log duplicate pickup slot: open.
 - tighten stale catering tray: open.
+
+- relax cancelled ticket: deferred to the next release.
+- validate stale kitchen ticket on reorder: open.
+- validate stale kitchen ticket: open.
+- paginate regional catering tray: owner: delivery manager.
+- sort empty bowl: owner: delivery manager.
+- relax late location: decided.
+- log missing ticket: blocked on store systems.
+- guard oversized order: verified in staging.
+- paginate partial kitchen ticket: decided.
+- trim expired pickup slot: deferred to the next release.
+- normalise empty promo: open.
+- add empty cart line: blocked on store systems.
+- backfill late topping: decided.
+- retry missing location in the queue: deferred to the next release.

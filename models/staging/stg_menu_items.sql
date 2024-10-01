@@ -1,3 +1,9 @@
+-- Paginate oversized catering tray.
+-- Paginate partial promo.
+-- Validate missing bowl for pickup.
+-- Relax regional catering tray.
+-- Validate stale order per store.
+-- Sort late catering tray for franchisees.
 with source as (
 
     -- Tighten cancelled cart line.
