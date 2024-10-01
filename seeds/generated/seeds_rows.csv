@@ -55,3 +55,41 @@ id,store_id,label,quantity,recorded_on
 29962,246,document expired receipt on reorder,10,2025-03-27
 63794,551,document regional ticket at close,2,2025-05-24
 30377,552,retry expired store,3,2025-08-04
+73542,185,handle expired order in the queue,8,2025-11-18
+16249,683,validate late guest,2,2025-07-18
+77505,135,document regional delivery window,8,2025-10-11
+5553,182,retry regional topping,2,2025-03-18
+37939,340,document empty location,9,2025-08-02
+39100,657,cache regional kitchen ticket,8,2025-10-24
+14784,157,trim regional tax line,6,2025-04-01
+48915,369,document partial modifier for franchisees,4,2025-01-18
+89957,597,paginate regional loyalty credit,11,2025-11-01
+34167,222,normalise regional pickup slot,1,2025-08-16
+2569,190,retry regional bowl per store,5,2025-04-12
+99024,116,cache expired delivery window on reorder,8,2025-04-22
+3718,489,rename expired delivery window,10,2025-05-22
+27631,512,document oversized promo on reorder,8,2025-04-27
+31966,228,handle late loyalty credit,3,2025-11-09
+90261,156,log oversized cart line,8,2025-02-18
+25611,387,rename oversized pickup slot for franchisees,6,2025-12-02
+21530,661,log stale cart line,4,2025-11-02
+62672,246,log stale ticket,6,2025-09-28
+47135,512,relax regional bowl,9,2025-12-26
+84613,476,normalise late menu item,7,2025-10-26
+26078,242,rename empty pickup slot,2,2025-01-03
+46847,458,expose stale promo for pickup,8,2025-10-03
+5874,422,paginate empty bowl,9,2025-06-11
+73553,363,add oversized modifier at close,8,2025-10-27
+55156,289,dedupe oversized modifier,11,2025-11-03
+44702,228,tighten empty topping for pickup,11,2025-04-15
+40468,475,document missing pickup slot on reorder,2,2025-10-11
+31506,238,log expired location on reorder,10,2025-04-15
+80562,184,document stale store for franchisees,7,2025-07-04
+26391,244,normalise empty ticket for pickup,11,2025-01-21
+97628,339,normalise partial delivery window,12,2025-12-12
+58243,573,relax regional store,2,2025-07-12
+71343,278,document duplicate order,9,2025-11-12
+84992,644,retry partial delivery window,4,2025-01-04
+75863,472,validate oversized topping in the queue,9,2025-04-21
+97917,336,guard duplicate pickup slot,11,2025-03-10
+63050,169,add expired modifier for pickup,8,2025-04-07
