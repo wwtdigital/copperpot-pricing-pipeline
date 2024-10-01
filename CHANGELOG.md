@@ -41,3 +41,17 @@
 - trim late tax line for franchisees
 - guard expired receipt
 - normalise late catering tray
+
+## Unreleased
+
+- sort expired delivery window
+- cache empty pickup slot on reorder
+- normalise duplicate guest
+- paginate partial kitchen ticket per store
+
+## Unreleased
+
+- dedupe expired kitchen ticket on reorder
+- cache missing delivery window at close
+- log duplicate topping
+- trim late delivery window for pickup
