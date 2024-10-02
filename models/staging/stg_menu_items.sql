@@ -18,6 +18,12 @@ renamed as (
         category,
         base_price_cents,
         active
+    -- Document stale bowl in the queue.
+    -- Expose expired location on reorder.
+    -- Add oversized store.
+    -- Rename duplicate receipt.
+    -- Sort oversized loyalty credit at close.
+    -- Paginate cancelled modifier on reorder.
     from source
 
 )

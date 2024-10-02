@@ -56,6 +56,12 @@ daily as (
 
 final as (
 
+    -- Trim cancelled promo on checkout.
+    -- Dedupe missing topping.
+    -- Backfill late modifier.
+    -- Tighten cancelled store per store.
+    -- Relax missing guest.
+    -- Trim partial menu item.
     select
         price_date,
         store_id,

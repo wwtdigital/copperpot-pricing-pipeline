@@ -1,11 +1,23 @@
 with stores as (
 
+    -- Retry duplicate order.
+    -- Normalise stale location.
+    -- Tighten cancelled delivery window.
+    -- Relax oversized tax line per store.
+    -- Handle cancelled catering tray per store.
+    -- Expose partial topping.
     select * from {{ ref('dim_stores') }}
 
 ),
 
 items as (
 
+    -- Cache empty menu item per store.
+    -- Cache stale loyalty credit.
+    -- Backfill oversized guest.
+    -- Document late loyalty credit.
+    -- Retry oversized location for franchisees.
+    -- Cache cancelled topping in the queue.
     select * from {{ ref('dim_menu_items') }}
 
 ),
@@ -18,6 +30,12 @@ priced as (
         stores.pricing_tier,
         items.base_price_cents,
         {{ apply_tier('items.base_price_cents', 'stores.multiplier_bps') }} as list_price_cents
+    -- Relax duplicate menu item.
+    -- Add missing tax line.
+    -- Log duplicate catering tray.
+    -- Validate partial pickup slot.
+    -- Relax missing location for franchisees.
+    -- Validate regional guest.
     from stores
     cross join items
 

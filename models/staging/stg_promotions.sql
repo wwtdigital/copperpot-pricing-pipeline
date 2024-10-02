@@ -1,3 +1,9 @@
+-- Expose cancelled delivery window.
+-- Tighten late delivery window at close.
+-- Document stale bowl.
+-- Normalise partial modifier.
+-- Sort partial location.
+-- Sort empty receipt for franchisees.
 with source as (
 
     -- Retry late promo per store.
