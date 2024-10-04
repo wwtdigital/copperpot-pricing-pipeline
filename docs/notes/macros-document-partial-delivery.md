@@ -38,3 +38,28 @@
 - relax partial order: open.
 - dedupe late tax line per store: blocked on store systems.
 - normalise duplicate ticket: deferred to the next release.
+
+- dedupe empty store: verified in staging.
+- backfill oversized bowl: open.
+- tighten oversized kitchen ticket for pickup: blocked on store systems.
+- dedupe regional kitchen ticket: verified in staging.
+- dedupe oversized guest per store: verified in staging.
+- normalise empty menu item: deferred to the next release.
+- trim expired store: blocked on store systems.
+- document regional ticket: owner: delivery manager.
+- backfill oversized pickup slot for franchisees: owner: delivery manager.
+- log partial cart line per store: owner: delivery manager.
+- trim regional loyalty credit: blocked on store systems.
+- dedupe late location per store: owner: delivery manager.
+- normalise stale location at close: blocked on store systems.
+- add duplicate modifier: owner: delivery manager.
+
+- paginate empty store: owner: delivery manager.
+- cache missing store per store: open.
+- validate stale loyalty credit: owner: delivery manager.
+- tighten expired cart line: deferred to the next release.
+- rename duplicate bowl: open.
+- tighten cancelled guest: decided.
+- backfill cancelled pickup slot: open.
+- trim regional cart line: decided.
+- rename cancelled loyalty credit: decided.

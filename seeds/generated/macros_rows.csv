@@ -1,0 +1,23 @@
+id,store_id,label,quantity,recorded_on
+80888,309,backfill expired modifier,3,2025-03-15
+58743,480,normalise expired location for franchisees,9,2025-06-26
+95428,481,validate regional topping,12,2025-05-07
+84028,676,paginate regional tax line,7,2025-05-10
+62308,283,rename regional order,1,2025-04-21
+5964,402,paginate missing receipt,10,2025-03-26
+4579,604,sort oversized catering tray,6,2025-07-16
+90515,501,trim partial order per store,7,2025-03-13
+20995,483,trim missing tax line,9,2025-09-07
+96758,157,trim cancelled store in the queue,11,2025-06-15
+69003,604,log regional receipt,6,2025-12-03
+25872,687,relax regional store,2,2025-02-24
+39673,648,guard cancelled kitchen ticket,10,2025-03-06
+44378,394,add stale ticket,7,2025-11-26
+96253,134,normalise missing cart line at close,6,2025-01-21
+54096,169,cache stale topping,12,2025-07-20
+11442,615,cache expired loyalty credit,3,2025-04-18
+15877,682,guard partial topping,7,2025-07-15
+96294,370,trim expired pickup slot,12,2025-09-09
+61282,435,normalise cancelled pickup slot,11,2025-11-08
+68380,508,cache cancelled menu item per store,9,2025-03-09
+88883,216,paginate cancelled guest,4,2025-07-02
