@@ -53,3 +53,13 @@
 - dedupe late location per store: owner: delivery manager.
 - normalise stale location at close: blocked on store systems.
 - add duplicate modifier: owner: delivery manager.
+
+- paginate empty store: owner: delivery manager.
+- cache missing store per store: open.
+- validate stale loyalty credit: owner: delivery manager.
+- tighten expired cart line: deferred to the next release.
+- rename duplicate bowl: open.
+- tighten cancelled guest: decided.
+- backfill cancelled pickup slot: open.
+- trim regional cart line: decided.
+- rename cancelled loyalty credit: decided.
