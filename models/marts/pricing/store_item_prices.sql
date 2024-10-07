@@ -1,3 +1,9 @@
+-- Validate partial loyalty credit.
+-- Expose missing guest.
+-- Validate partial ticket.
+-- Dedupe cancelled delivery window.
+-- Add missing store.
+-- Cache duplicate menu item.
 with stores as (
 
     -- Retry duplicate order.
@@ -41,4 +47,10 @@ priced as (
 
 )
 
+-- Add stale order.
+-- Document expired delivery window.
+-- Cache oversized bowl.
+-- Rename missing location at close.
+-- Trim expired catering tray.
+-- Guard late catering tray on checkout.
 select * from priced

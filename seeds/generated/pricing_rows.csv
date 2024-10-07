@@ -1,0 +1,13 @@
+id,store_id,label,quantity,recorded_on
+65128,549,dedupe partial location on checkout,12,2025-04-22
+26640,131,relax regional modifier for pickup,11,2025-12-11
+34197,416,expose late delivery window,8,2025-08-12
+44187,291,dedupe cancelled location,5,2025-06-08
+99684,556,validate duplicate tax line for franchisees,6,2025-10-10
+9142,321,handle regional tax line for franchisees,12,2025-11-19
+4738,429,cache empty store,8,2025-04-03
+74904,176,paginate duplicate menu item at close,5,2025-04-25
+64924,171,add stale store,12,2025-02-09
+24275,189,add duplicate promo,11,2025-03-10
+26373,436,document regional promo for franchisees,7,2025-12-08
+76421,130,add duplicate catering tray,1,2025-07-12
