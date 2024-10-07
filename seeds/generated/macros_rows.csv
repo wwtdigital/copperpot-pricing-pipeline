@@ -21,3 +21,16 @@ id,store_id,label,quantity,recorded_on
 61282,435,normalise cancelled pickup slot,11,2025-11-08
 68380,508,cache cancelled menu item per store,9,2025-03-09
 88883,216,paginate cancelled guest,4,2025-07-02
+80662,450,retry partial promo,8,2025-10-15
+13741,371,sort oversized order,3,2025-05-02
+39229,531,paginate expired topping,8,2025-11-02
+85329,462,relax late cart line,3,2025-12-26
+3114,202,validate empty menu item,6,2025-05-11
+49711,214,cache regional kitchen ticket,7,2025-08-12
+33527,411,dedupe expired tax line,9,2025-09-03
+99040,398,relax partial ticket,10,2025-08-10
+13539,571,tighten cancelled loyalty credit for pickup,12,2025-02-24
+6815,682,normalise expired kitchen ticket for pickup,12,2025-04-14
+10175,615,cache stale delivery window per store,6,2025-08-17
+64769,331,relax partial modifier,11,2025-09-15
+20716,353,rename oversized ticket per store,12,2025-03-12
