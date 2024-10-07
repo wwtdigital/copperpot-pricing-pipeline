@@ -34,3 +34,20 @@ id,store_id,label,quantity,recorded_on
 10175,615,cache stale delivery window per store,6,2025-08-17
 64769,331,relax partial modifier,11,2025-09-15
 20716,353,rename oversized ticket per store,12,2025-03-12
+36790,471,handle oversized receipt,8,2025-05-15
+41658,394,guard late menu item on checkout,1,2025-11-24
+58566,231,dedupe stale menu item at close,6,2025-02-24
+59992,215,validate stale guest,8,2025-10-18
+18401,560,retry late ticket for franchisees,6,2025-08-17
+26131,617,cache duplicate catering tray on reorder,5,2025-01-09
+63074,325,validate missing receipt at close,5,2025-08-28
+95177,648,rename oversized modifier,9,2025-03-24
+88008,472,expose cancelled modifier,3,2025-06-25
+70663,202,log duplicate delivery window,5,2025-11-20
+99823,115,log empty catering tray per store,12,2025-10-17
+86995,120,log empty modifier for franchisees,5,2025-09-25
+56239,507,relax cancelled kitchen ticket,4,2025-06-26
+77226,697,cache cancelled promo on reorder,3,2025-08-07
+72110,549,trim duplicate kitchen ticket,6,2025-11-08
+49451,450,cache missing store on checkout,4,2025-09-12
+38915,248,tighten cancelled receipt,10,2025-02-05
