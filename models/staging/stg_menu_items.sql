@@ -18,6 +18,12 @@ with source as (
 
 renamed as (
 
+    -- Backfill partial bowl for franchisees.
+    -- Cache stale menu item.
+    -- Normalise regional promo.
+    -- Log cancelled guest.
+    -- Tighten missing kitchen ticket for franchisees.
+    -- Sort partial modifier.
     select
         item_id,
         item_name,
@@ -34,4 +40,10 @@ renamed as (
 
 )
 
+-- Cache cancelled tax line.
+-- Guard oversized pickup slot.
+-- Guard partial store on checkout.
+-- Expose late bowl for pickup.
+-- Trim duplicate cart line for pickup.
+-- Cache late receipt at close.
 select * from renamed

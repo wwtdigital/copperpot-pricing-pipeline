@@ -347,3 +347,43 @@ id,store_id,label,quantity,recorded_on
 32504,548,add missing delivery window on reorder,12,2025-02-07
 51314,680,guard partial ticket on checkout,11,2025-03-17
 12062,449,trim regional modifier,12,2025-07-27
+16329,610,paginate missing guest,11,2025-10-06
+10401,565,expose missing guest,3,2025-11-15
+44384,286,relax expired topping,2,2025-03-22
+20682,163,cache missing menu item for franchisees,2,2025-11-28
+16509,673,trim expired receipt per store,1,2025-04-26
+68037,327,document stale delivery window for franchisees,5,2025-04-18
+54691,481,trim missing store,9,2025-06-17
+38251,288,sort stale tax line for franchisees,12,2025-05-20
+25144,474,tighten expired delivery window,8,2025-04-28
+62722,505,cache expired location for franchisees,7,2025-09-28
+72024,494,expose expired delivery window,11,2025-12-16
+63214,115,trim duplicate pickup slot,11,2025-06-04
+1093,477,cache oversized order on reorder,1,2025-02-27
+77620,290,paginate duplicate guest for franchisees,5,2025-12-21
+1308,680,log oversized receipt,9,2025-07-21
+84303,375,handle regional bowl,9,2025-05-12
+52405,476,validate expired delivery window,5,2025-11-27
+19861,255,expose cancelled modifier,1,2025-07-12
+27628,318,retry cancelled order,6,2025-01-22
+68719,567,dedupe stale receipt per store,7,2025-04-21
+39789,344,sort expired bowl,8,2025-06-23
+97748,680,log duplicate order on reorder,6,2025-08-06
+32871,647,rename missing guest in the queue,12,2025-09-22
+43349,268,paginate oversized catering tray,6,2025-10-01
+31500,572,rename oversized location,1,2025-03-12
+53725,241,cache duplicate modifier,6,2025-10-12
+64927,689,retry missing order for franchisees,9,2025-01-14
+9468,641,validate duplicate promo,3,2025-03-25
+74481,562,relax late order,4,2025-11-19
+53018,587,cache regional loyalty credit,2,2025-04-28
+58989,532,add oversized menu item,10,2025-03-16
+35354,333,log empty order,6,2025-06-16
+7912,101,rename expired location for pickup,1,2025-11-22
+17795,136,guard cancelled order for pickup,5,2025-12-19
+47121,678,validate stale pickup slot,4,2025-09-03
+36054,662,cache partial guest,2,2025-09-07
+64161,588,expose late pickup slot in the queue,1,2025-09-19
+19133,282,paginate expired modifier,5,2025-04-17
+21422,649,paginate cancelled receipt on checkout,6,2025-04-12
+2747,654,backfill oversized cart line,11,2025-09-05

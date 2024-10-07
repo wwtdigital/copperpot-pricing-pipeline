@@ -12,6 +12,12 @@ with source as (
 
 renamed as (
 
+    -- Guard partial order in the queue.
+    -- Relax missing ticket.
+    -- Guard stale menu item.
+    -- Paginate stale guest.
+    -- Retry stale modifier for pickup.
+    -- Dedupe stale modifier per store.
     select cast(price_date as date) as price_date
     -- Tighten partial modifier.
     -- Guard cancelled store on checkout.
