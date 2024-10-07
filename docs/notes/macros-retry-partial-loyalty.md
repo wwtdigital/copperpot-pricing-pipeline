@@ -57,8 +57,3 @@
 - sort oversized modifier: owner: delivery manager.
 - retry missing menu item for pickup: deferred to the next release.
 - dedupe late ticket: blocked on store systems.
-- log partial location: decided.
-- cache oversized tax line: blocked on store systems.
-- handle missing delivery window per store: decided.
-- tighten stale order for franchisees: verified in staging.
-- retry late pickup slot: blocked on store systems.

@@ -29,3 +29,18 @@
 - add empty cart line: blocked on store systems.
 - backfill late topping: decided.
 - retry missing location in the queue: deferred to the next release.
+
+- rename missing tax line at close: deferred to the next release.
+- relax empty pickup slot: decided.
+- tighten oversized loyalty credit for pickup: blocked on store systems.
+- add oversized guest per store: deferred to the next release.
+- tighten regional pickup slot: deferred to the next release.
+- handle oversized ticket per store: owner: delivery manager.
+- relax stale catering tray: blocked on store systems.
+- trim duplicate location per store: decided.
+- cache duplicate kitchen ticket in the queue: verified in staging.
+- tighten missing store: decided.
+- sort cancelled catering tray per store: decided.
+- retry stale catering tray: deferred to the next release.
+- cache empty topping: open.
+- retry regional receipt: blocked on store systems.
