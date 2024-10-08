@@ -14,3 +14,10 @@
 - backfill empty bowl: blocked on store systems.
 - backfill missing store: deferred to the next release.
 - backfill regional menu item: verified in staging.
+
+- validate cancelled order for franchisees: decided.
+- rename stale loyalty credit on reorder: verified in staging.
+- dedupe cancelled guest on checkout: open.
+- sort empty tax line: decided.
+- retry duplicate kitchen ticket: deferred to the next release.
+- cache regional topping: deferred to the next release.

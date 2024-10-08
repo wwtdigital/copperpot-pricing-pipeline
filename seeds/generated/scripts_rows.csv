@@ -199,3 +199,43 @@ id,store_id,label,quantity,recorded_on
 31031,100,retry late ticket,2,2025-03-03
 57664,696,handle late store,4,2025-06-02
 70545,593,validate regional menu item on checkout,5,2025-02-18
+32784,106,rename late modifier,7,2025-06-21
+1066,530,log empty cart line,5,2025-09-07
+58995,646,expose cancelled topping for franchisees,10,2025-08-21
+33939,284,paginate cancelled pickup slot on reorder,11,2025-02-25
+58269,386,validate partial receipt on checkout,11,2025-10-22
+17223,304,relax partial topping,11,2025-09-03
+66733,670,expose late tax line on reorder,12,2025-09-28
+60780,573,log regional bowl on checkout,10,2025-10-19
+85807,617,backfill empty order on checkout,9,2025-01-22
+24044,646,trim oversized delivery window in the queue,12,2025-11-05
+97049,536,normalise cancelled ticket,8,2025-01-28
+93135,607,expose cancelled ticket at close,5,2025-10-09
+1659,507,relax stale tax line,8,2025-05-24
+18220,390,cache cancelled receipt,6,2025-05-11
+9674,407,relax expired guest on reorder,2,2025-11-03
+69283,501,normalise late menu item,3,2025-09-27
+30835,318,sort late cart line,11,2025-08-13
+89470,168,document late tax line in the queue,4,2025-09-03
+65550,196,trim regional modifier,7,2025-04-13
+24756,605,relax cancelled promo for franchisees,11,2025-06-03
+8845,485,retry expired location in the queue,11,2025-03-19
+8888,207,validate expired pickup slot for pickup,4,2025-06-05
+16833,645,validate oversized promo,10,2025-06-21
+53667,627,handle regional guest for pickup,3,2025-04-11
+35074,402,guard regional location,11,2025-09-26
+86992,252,tighten cancelled modifier in the queue,7,2025-09-12
+59096,509,guard regional cart line,11,2025-05-15
+31933,317,document expired bowl,8,2025-11-04
+57240,489,retry empty catering tray on checkout,8,2025-10-07
+5167,346,add empty pickup slot,6,2025-01-09
+96989,450,trim regional receipt for franchisees,5,2025-08-06
+63955,259,retry missing modifier,1,2025-10-17
+63562,683,cache expired cart line,1,2025-09-21
+17676,610,guard expired delivery window in the queue,10,2025-07-25
+39746,247,handle empty store on checkout,3,2025-02-11
+61525,437,retry stale promo,1,2025-11-15
+17112,419,validate cancelled tax line,12,2025-03-03
+18235,124,retry partial bowl,1,2025-12-08
+47357,191,validate regional catering tray,11,2025-02-13
+94659,389,cache expired loyalty credit,3,2025-01-14
