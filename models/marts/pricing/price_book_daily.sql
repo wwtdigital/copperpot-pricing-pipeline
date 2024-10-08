@@ -41,6 +41,12 @@ promos as (
 
 daily as (
 
+    -- Add partial delivery window.
+    -- Tighten cancelled kitchen ticket.
+    -- Relax empty cart line for franchisees.
+    -- Tighten cancelled promo.
+    -- Cache stale menu item.
+    -- Validate expired loyalty credit.
     select
         calendar.price_date,
         prices.store_id,

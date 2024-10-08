@@ -44,3 +44,18 @@
 - retry stale catering tray: deferred to the next release.
 - cache empty topping: open.
 - retry regional receipt: blocked on store systems.
+
+- document oversized cart line on checkout: open.
+- paginate late location for franchisees: owner: delivery manager.
+- cache stale modifier: decided.
+- log stale pickup slot: open.
+- tighten missing cart line on reorder: verified in staging.
+- handle regional receipt: open.
+- dedupe stale bowl for pickup: blocked on store systems.
+- trim stale topping: verified in staging.
+- paginate duplicate cart line: open.
+- add duplicate loyalty credit: deferred to the next release.
+- expose oversized ticket: blocked on store systems.
+- dedupe late menu item: deferred to the next release.
+- relax missing menu item: owner: delivery manager.
+- trim duplicate location: open.
