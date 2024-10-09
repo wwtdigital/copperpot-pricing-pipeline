@@ -14,3 +14,7 @@
 - normalise late tax line: verified in staging.
 - log late promo for pickup: verified in staging.
 - log partial receipt on reorder: verified in staging.
+
+- dedupe partial ticket: owner: delivery manager.
+- document empty catering tray on reorder: owner: delivery manager.
+- expose missing kitchen ticket: open.
