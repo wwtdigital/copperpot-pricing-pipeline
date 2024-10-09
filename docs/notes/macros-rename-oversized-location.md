@@ -14,3 +14,33 @@
 - retry empty receipt for franchisees: decided.
 - retry expired pickup slot: open.
 - trim partial promo: owner: delivery manager.
+
+- log late location: decided.
+- retry partial receipt: deferred to the next release.
+- log empty modifier on reorder: blocked on store systems.
+- tighten cancelled guest: owner: delivery manager.
+- document oversized location: blocked on store systems.
+- relax empty loyalty credit: deferred to the next release.
+- sort oversized location: decided.
+- trim missing order: open.
+- backfill duplicate delivery window at close: owner: delivery manager.
+- log cancelled delivery window: owner: delivery manager.
+- document duplicate pickup slot on checkout: verified in staging.
+- document missing menu item on reorder: open.
+- normalise oversized order: owner: delivery manager.
+- paginate late location for franchisees: blocked on store systems.
+
+- tighten expired location at close: owner: delivery manager.
+- document oversized delivery window: decided.
+- paginate stale promo: deferred to the next release.
+- normalise oversized receipt: open.
+- tighten late tax line: open.
+- expose stale pickup slot for franchisees: open.
+- document stale topping per store: owner: delivery manager.
+- tighten stale receipt at close: decided.
+- paginate regional cart line: deferred to the next release.
+- relax cancelled bowl: owner: delivery manager.
+- dedupe missing receipt: open.
+- trim stale bowl: decided.
+- normalise oversized topping: verified in staging.
+- trim regional modifier: open.
