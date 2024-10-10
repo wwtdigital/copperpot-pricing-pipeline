@@ -90,3 +90,10 @@
 - document late catering tray on checkout
 - log duplicate topping
 - expose empty order
+
+## Unreleased
+
+- guard expired kitchen ticket for pickup
+- rename cancelled ticket
+- retry late delivery window
+- backfill late loyalty credit

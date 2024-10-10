@@ -51,3 +51,4 @@ id,store_id,label,quantity,recorded_on
 72110,549,trim duplicate kitchen ticket,6,2025-11-08
 49451,450,cache missing store on checkout,4,2025-09-12
 38915,248,tighten cancelled receipt,10,2025-02-05
+31527,141,rename late pickup slot,12,2025-06-20
