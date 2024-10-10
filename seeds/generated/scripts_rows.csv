@@ -239,3 +239,43 @@ id,store_id,label,quantity,recorded_on
 18235,124,retry partial bowl,1,2025-12-08
 47357,191,validate regional catering tray,11,2025-02-13
 94659,389,cache expired loyalty credit,3,2025-01-14
+83704,446,validate cancelled delivery window,6,2025-06-06
+19433,556,add empty promo,9,2025-01-23
+63244,394,sort late kitchen ticket at close,10,2025-10-02
+30282,485,backfill duplicate location,8,2025-09-28
+14663,152,paginate stale delivery window,7,2025-07-11
+49392,177,guard regional pickup slot on reorder,11,2025-07-11
+50779,347,retry partial catering tray,10,2025-10-02
+98181,413,paginate late topping,7,2025-01-12
+91211,373,sort late kitchen ticket,2,2025-06-10
+30781,514,normalise duplicate pickup slot on reorder,3,2025-05-24
+94086,278,validate expired guest on reorder,5,2025-01-16
+47929,500,guard missing menu item,1,2025-03-20
+79075,140,retry oversized delivery window,12,2025-08-17
+95421,223,backfill late modifier,4,2025-11-15
+24089,529,expose cancelled promo at close,9,2025-03-22
+86937,184,handle empty catering tray at close,10,2025-01-20
+91447,472,paginate stale store in the queue,5,2025-10-21
+20711,273,log duplicate cart line per store,11,2025-05-22
+37352,354,rename duplicate bowl per store,1,2025-07-08
+2869,363,rename expired catering tray for pickup,8,2025-09-01
+25987,343,log oversized ticket,10,2025-03-09
+41972,350,trim oversized guest,6,2025-08-04
+29682,122,document expired modifier,5,2025-04-20
+62712,531,retry regional menu item for franchisees,8,2025-02-13
+27611,172,expose stale order,7,2025-09-17
+9076,484,sort stale location,4,2025-03-14
+29485,342,paginate missing kitchen ticket at close,8,2025-02-09
+34230,544,log late location,2,2025-03-23
+96319,670,sort empty delivery window,11,2025-02-07
+40189,402,cache partial catering tray on checkout,6,2025-08-25
+75307,410,validate late ticket,2,2025-12-28
+65185,670,rename expired location,7,2025-01-10
+35777,675,tighten late menu item,3,2025-03-21
+68119,183,dedupe missing ticket on checkout,2,2025-02-14
+74753,487,retry duplicate catering tray for franchisees,3,2025-05-19
+90799,492,document oversized bowl for pickup,7,2025-09-18
+46200,295,document oversized ticket,3,2025-12-10
+49024,250,paginate missing catering tray on reorder,12,2025-12-02
+6422,366,cache missing guest,10,2025-08-01
+9422,523,sort duplicate kitchen ticket,12,2025-12-13
