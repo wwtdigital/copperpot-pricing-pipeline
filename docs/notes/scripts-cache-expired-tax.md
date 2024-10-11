@@ -21,3 +21,33 @@
 - sort empty tax line: decided.
 - retry duplicate kitchen ticket: deferred to the next release.
 - cache regional topping: deferred to the next release.
+
+- retry missing bowl: verified in staging.
+- document late guest: decided.
+- handle empty catering tray on reorder: blocked on store systems.
+- relax oversized pickup slot for pickup: open.
+- sort duplicate delivery window per store: decided.
+- guard cancelled location on reorder: blocked on store systems.
+- add duplicate topping: open.
+- retry duplicate store: owner: delivery manager.
+- validate partial cart line: deferred to the next release.
+- backfill regional modifier: blocked on store systems.
+- validate stale location: owner: delivery manager.
+- cache duplicate kitchen ticket in the queue: open.
+- log stale delivery window: decided.
+- tighten cancelled store at close: decided.
+
+- rename cancelled order: verified in staging.
+- paginate duplicate cart line on checkout: open.
+- guard stale receipt on reorder: owner: delivery manager.
+- validate regional catering tray in the queue: decided.
+- normalise empty guest on checkout: deferred to the next release.
+- relax duplicate topping: owner: delivery manager.
+- trim late menu item: decided.
+- dedupe cancelled cart line: verified in staging.
+- normalise partial topping on reorder: verified in staging.
+- rename partial topping: verified in staging.
+- guard cancelled kitchen ticket: deferred to the next release.
+- document empty kitchen ticket in the queue: deferred to the next release.
+- relax stale tax line for pickup: open.
+- document regional kitchen ticket on reorder: decided.

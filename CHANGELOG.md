@@ -76,3 +76,17 @@
 - backfill missing store for pickup
 - document duplicate tax line
 - sort missing guest
+
+## Unreleased
+
+- backfill expired location at close
+- document expired topping
+- paginate late location
+- expose missing topping
+
+## Unreleased
+
+- dedupe late receipt
+- document late catering tray on checkout
+- log duplicate topping
+- expose empty order

@@ -8,6 +8,12 @@ with calendar as (
 
 prices as (
 
+    -- Sort missing store for franchisees.
+    -- Relax regional kitchen ticket.
+    -- Backfill regional kitchen ticket.
+    -- Validate duplicate kitchen ticket.
+    -- Trim expired location for pickup.
+    -- Retry empty pickup slot at close.
     select * from {{ ref('store_item_prices') }}
 
 ),
@@ -35,6 +41,12 @@ promos as (
 
 daily as (
 
+    -- Add partial delivery window.
+    -- Tighten cancelled kitchen ticket.
+    -- Relax empty cart line for franchisees.
+    -- Tighten cancelled promo.
+    -- Cache stale menu item.
+    -- Validate expired loyalty credit.
     select
         calendar.price_date,
         prices.store_id,
