@@ -63,3 +63,18 @@
 - backfill cancelled pickup slot: open.
 - trim regional cart line: decided.
 - rename cancelled loyalty credit: decided.
+
+- validate stale cart line: owner: delivery manager.
+- retry cancelled guest in the queue: verified in staging.
+- relax oversized location on checkout: verified in staging.
+- expose partial receipt: owner: delivery manager.
+- sort partial topping: verified in staging.
+- handle duplicate kitchen ticket in the queue: owner: delivery manager.
+- document expired guest for pickup: owner: delivery manager.
+- trim stale loyalty credit: owner: delivery manager.
+- tighten missing location: verified in staging.
+- tighten expired promo: deferred to the next release.
+- retry missing order: open.
+- document empty loyalty credit at close: blocked on store systems.
+- trim missing menu item: owner: delivery manager.
+- rename missing kitchen ticket: deferred to the next release.
