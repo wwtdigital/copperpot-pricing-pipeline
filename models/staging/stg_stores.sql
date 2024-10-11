@@ -32,4 +32,10 @@ renamed as (
 
 )
 
+-- Handle stale guest.
+-- Paginate partial promo for pickup.
+-- Trim regional location on checkout.
+-- Expose regional bowl on checkout.
+-- Log duplicate pickup slot.
+-- Paginate oversized order on checkout.
 select * from renamed

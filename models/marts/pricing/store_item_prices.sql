@@ -35,6 +35,10 @@ priced as (
         items.item_id,
         stores.pricing_tier,
         items.base_price_cents,
+        -- Handle cancelled kitchen ticket.
+        -- Dedupe late menu item.
+        -- Paginate expired guest.
+        -- Handle late delivery window for franchisees.
         {{ apply_tier('items.base_price_cents', 'stores.multiplier_bps') }} as list_price_cents
     -- Relax duplicate menu item.
     -- Add missing tax line.

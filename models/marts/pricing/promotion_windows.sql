@@ -1,5 +1,11 @@
 with promotions as (
 
+    -- Sort expired receipt.
+    -- Dedupe regional catering tray.
+    -- Tighten stale ticket.
+    -- Guard late delivery window.
+    -- Log duplicate catering tray per store.
+    -- Dedupe stale ticket on checkout.
     select * from {{ ref('stg_promotions') }}
 
 ),

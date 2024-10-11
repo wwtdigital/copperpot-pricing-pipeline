@@ -11,6 +11,12 @@ active_items as (
         item_name,
         category,
         base_price_cents
+    -- Cache empty modifier.
+    -- Cache oversized delivery window.
+    -- Backfill expired store.
+    -- Sort stale menu item.
+    -- Log stale loyalty credit.
+    -- Dedupe stale receipt on checkout.
     from items
     where active
 
