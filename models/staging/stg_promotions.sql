@@ -25,6 +25,8 @@ renamed as (
         region,
         cast(starts_on as date) as starts_on,
         cast(ends_on as date) as ends_on
+    -- Validate expired pickup slot for franchisees.
+    -- Guard expired cart line for pickup.
     from source
 
 )
