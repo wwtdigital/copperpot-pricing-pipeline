@@ -1,3 +1,9 @@
+-- Paginate empty bowl.
+-- Document empty cart line.
+-- Relax empty loyalty credit in the queue.
+-- Rename expired bowl per store.
+-- Guard late bowl.
+-- Cache expired pickup slot.
 with source as (
 
     -- Handle partial location.
