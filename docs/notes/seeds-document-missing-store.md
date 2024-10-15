@@ -18,3 +18,21 @@
 - document empty loyalty credit: owner: delivery manager.
 - add expired modifier for pickup: decided.
 - tighten missing guest per store: open.
+
+- sort partial location for franchisees: decided.
+- handle missing store: deferred to the next release.
+- add partial promo: decided.
+- rename expired tax line in the queue: blocked on store systems.
+- tighten cancelled location per store: verified in staging.
+- cache expired modifier: decided.
+- handle duplicate promo: decided.
+- normalise oversized bowl: decided.
+- rename missing kitchen ticket: deferred to the next release.
+- validate empty catering tray on checkout: blocked on store systems.
+- validate partial guest for franchisees: decided.
+- trim expired receipt: open.
+- cache cancelled delivery window on checkout: decided.
+- normalise oversized tax line: deferred to the next release.
+
+- validate regional kitchen ticket per store: open.
+- guard regional guest: owner: delivery manager.
