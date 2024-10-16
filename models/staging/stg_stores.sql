@@ -6,6 +6,12 @@
 -- Paginate late tax line for franchisees.
 with source as (
 
+    -- Trim late bowl on reorder.
+    -- Tighten duplicate promo.
+    -- Paginate partial delivery window.
+    -- Dedupe empty modifier at close.
+    -- Backfill expired modifier.
+    -- Add stale bowl.
     select * from {{ ref('stores') }}
 
 ),
