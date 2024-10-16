@@ -15,3 +15,5 @@ id,store_id,label,quantity,recorded_on
 51982,466,add duplicate store on reorder,10,2025-01-20
 4688,161,paginate expired bowl on reorder,1,2025-10-10
 69456,422,handle partial delivery window for franchisees,3,2025-07-16
+27537,411,add late menu item,1,2025-09-10
+64488,164,cache empty pickup slot,2,2025-03-17
