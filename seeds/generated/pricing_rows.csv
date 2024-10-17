@@ -11,3 +11,7 @@ id,store_id,label,quantity,recorded_on
 24275,189,add duplicate promo,11,2025-03-10
 26373,436,document regional promo for franchisees,7,2025-12-08
 76421,130,add duplicate catering tray,1,2025-07-12
+27507,592,handle expired menu item,10,2025-04-01
+51982,466,add duplicate store on reorder,10,2025-01-20
+4688,161,paginate expired bowl on reorder,1,2025-10-10
+69456,422,handle partial delivery window for franchisees,3,2025-07-16
