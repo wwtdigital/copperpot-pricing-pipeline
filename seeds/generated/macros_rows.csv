@@ -52,3 +52,36 @@ id,store_id,label,quantity,recorded_on
 49451,450,cache missing store on checkout,4,2025-09-12
 38915,248,tighten cancelled receipt,10,2025-02-05
 31527,141,rename late pickup slot,12,2025-06-20
+38422,379,guard regional location,11,2025-09-05
+72166,483,relax oversized guest in the queue,2,2025-01-13
+88770,379,trim empty store,1,2025-06-13
+39418,305,normalise empty receipt,5,2025-02-27
+13197,471,validate partial modifier on reorder,2,2025-10-12
+66530,331,validate oversized catering tray,4,2025-04-03
+99771,534,expose stale bowl,10,2025-01-14
+1316,530,add expired store,7,2025-05-22
+47621,205,dedupe partial cart line per store,1,2025-03-27
+13043,186,handle cancelled topping,10,2025-06-04
+69329,612,normalise late delivery window,8,2025-07-09
+73734,101,trim empty promo,12,2025-02-05
+61484,456,cache oversized receipt,9,2025-08-22
+86240,647,add partial bowl,2,2025-07-10
+76945,355,sort partial guest,1,2025-07-16
+56504,325,relax partial topping on reorder,7,2025-11-18
+78414,237,log expired guest,2,2025-12-25
+21905,468,dedupe partial promo on reorder,3,2025-07-11
+53097,155,paginate cancelled delivery window,6,2025-01-15
+10652,404,document regional modifier,1,2025-03-26
+96008,106,document cancelled pickup slot,7,2025-06-26
+23529,547,document partial guest on reorder,9,2025-08-25
+70436,677,sort missing loyalty credit on reorder,2,2025-11-27
+89816,354,handle stale menu item on checkout,6,2025-10-09
+31651,207,guard regional catering tray in the queue,1,2025-04-08
+63554,606,relax cancelled promo,6,2025-06-10
+20974,367,tighten partial delivery window for pickup,8,2025-02-16
+46464,132,retry missing kitchen ticket,12,2025-09-09
+68032,154,retry empty pickup slot,6,2025-09-20
+11171,507,guard expired loyalty credit for pickup,12,2025-03-26
+77834,226,retry missing pickup slot,4,2025-09-15
+84620,344,backfill cancelled menu item,7,2025-07-27
+81275,697,normalise expired guest,5,2025-04-04
