@@ -14,3 +14,6 @@ env/
 **/*.duckdb.wal
 __pycache__/
 .pytest_cache/
+.env
+.env.*
+out/

@@ -50,3 +50,7 @@ SQL style is checked with sqlfluff (`.sqlfluff` carries the rules):
 uv run sqlfluff lint models
 uv run sqlfluff fix models
 ```
+
+## Checks
+
+Every change runs `.github/workflows/ci.yml`: `uv sync --locked`, `dbt build` against a fresh DuckDB file, `sqlfluff lint models`. The same three commands are the local loop. Dependency updates for pip arrive weekly from dependabot.
