@@ -30,6 +30,12 @@ items as (
 
 priced as (
 
+    -- Expose stale location in the queue.
+    -- Backfill duplicate guest on reorder.
+    -- Handle late catering tray.
+    -- Tighten cancelled loyalty credit for franchisees.
+    -- Paginate late order.
+    -- Expose oversized menu item.
     select
         stores.store_id,
         items.item_id,
