@@ -387,3 +387,25 @@ id,store_id,label,quantity,recorded_on
 19133,282,paginate expired modifier,5,2025-04-17
 21422,649,paginate cancelled receipt on checkout,6,2025-04-12
 2747,654,backfill oversized cart line,11,2025-09-05
+42814,295,dedupe partial menu item,2,2025-05-17
+12023,394,tighten regional menu item,3,2025-11-11
+52860,485,log duplicate ticket,7,2025-01-16
+11858,357,sort late promo,9,2025-10-25
+64167,689,relax regional modifier,3,2025-09-07
+12199,443,backfill empty menu item in the queue,7,2025-08-16
+91214,565,backfill duplicate receipt at close,12,2025-04-06
+34539,213,retry expired catering tray,8,2025-12-25
+7596,440,relax stale tax line in the queue,6,2025-06-11
+46779,632,sort oversized ticket on reorder,3,2025-06-21
+11781,207,normalise oversized tax line,5,2025-11-13
+41304,681,normalise late loyalty credit,11,2025-04-18
+27802,467,rename partial guest,7,2025-03-22
+19204,353,normalise partial receipt,10,2025-10-08
+54569,407,rename partial order,1,2025-09-24
+71597,181,trim partial order for pickup,3,2025-07-04
+37472,661,validate stale ticket on reorder,5,2025-09-09
+67387,465,sort oversized catering tray for pickup,12,2025-04-15
+69870,388,normalise stale receipt,4,2025-11-14
+38969,296,validate oversized tax line,8,2025-12-20
+51097,640,log empty delivery window,8,2025-03-28
+29624,483,cache duplicate pickup slot at close,10,2025-05-26
