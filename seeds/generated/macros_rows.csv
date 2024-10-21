@@ -85,3 +85,4 @@ id,store_id,label,quantity,recorded_on
 77834,226,retry missing pickup slot,4,2025-09-15
 84620,344,backfill cancelled menu item,7,2025-07-27
 81275,697,normalise expired guest,5,2025-04-04
+68152,569,backfill expired ticket,11,2025-09-19

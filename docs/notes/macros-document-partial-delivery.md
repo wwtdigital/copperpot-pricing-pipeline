@@ -78,3 +78,18 @@
 - document empty loyalty credit at close: blocked on store systems.
 - trim missing menu item: owner: delivery manager.
 - rename missing kitchen ticket: deferred to the next release.
+
+- paginate stale pickup slot: open.
+- backfill oversized tax line for franchisees: open.
+- log missing delivery window for franchisees: open.
+- validate cancelled store: decided.
+- add late ticket: verified in staging.
+- cache regional topping on reorder: deferred to the next release.
+- validate empty bowl: deferred to the next release.
+- add cancelled kitchen ticket: owner: delivery manager.
+- tighten empty cart line: open.
+- retry regional cart line: owner: delivery manager.
+- paginate missing receipt per store: deferred to the next release.
+- retry duplicate ticket for franchisees: decided.
+- rename late tax line for pickup: owner: delivery manager.
+- paginate duplicate modifier for pickup: decided.
