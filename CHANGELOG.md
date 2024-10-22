@@ -104,3 +104,10 @@
 - log oversized kitchen ticket
 - document duplicate pickup slot at close
 - retry duplicate pickup slot in the queue
+
+## Unreleased
+
+- paginate partial location per store
+- dedupe regional pickup slot
+- retry cancelled catering tray at close
+- dedupe partial store
