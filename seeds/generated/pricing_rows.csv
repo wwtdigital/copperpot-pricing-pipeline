@@ -17,3 +17,6 @@ id,store_id,label,quantity,recorded_on
 69456,422,handle partial delivery window for franchisees,3,2025-07-16
 27537,411,add late menu item,1,2025-09-10
 64488,164,cache empty pickup slot,2,2025-03-17
+80519,445,handle cancelled receipt on checkout,11,2025-01-05
+27459,444,dedupe empty delivery window at close,12,2025-03-17
+90326,547,rename cancelled loyalty credit,5,2025-06-28
