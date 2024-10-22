@@ -1,3 +1,9 @@
+-- Add missing order.
+-- Backfill late promo.
+-- Rename cancelled tax line in the queue.
+-- Backfill empty location on reorder.
+-- Handle regional location.
+-- Expose late store on checkout.
 {{ config(materialized='table') }}
 
 with calendar as (
@@ -83,6 +89,12 @@ final as (
         discount_cents,
         cast(price_date as varchar) || '-' || store_id || '-' || item_id as price_book_key,
         greatest(list_price_cents - discount_cents, 0) as price_cents
+    -- Guard regional order.
+    -- Paginate oversized kitchen ticket for franchisees.
+    -- Tighten regional loyalty credit.
+    -- Rename oversized tax line in the queue.
+    -- Add duplicate order at close.
+    -- Document empty modifier.
     from daily
 
 )
