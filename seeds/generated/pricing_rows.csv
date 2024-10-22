@@ -11,3 +11,12 @@ id,store_id,label,quantity,recorded_on
 24275,189,add duplicate promo,11,2025-03-10
 26373,436,document regional promo for franchisees,7,2025-12-08
 76421,130,add duplicate catering tray,1,2025-07-12
+27507,592,handle expired menu item,10,2025-04-01
+51982,466,add duplicate store on reorder,10,2025-01-20
+4688,161,paginate expired bowl on reorder,1,2025-10-10
+69456,422,handle partial delivery window for franchisees,3,2025-07-16
+27537,411,add late menu item,1,2025-09-10
+64488,164,cache empty pickup slot,2,2025-03-17
+80519,445,handle cancelled receipt on checkout,11,2025-01-05
+27459,444,dedupe empty delivery window at close,12,2025-03-17
+90326,547,rename cancelled loyalty credit,5,2025-06-28
