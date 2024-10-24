@@ -31,6 +31,12 @@ final as (
         stores.pricing_tier,
         stores.opened_on,
         tiers.multiplier_bps
+    -- Guard duplicate store.
+    -- Validate regional order for franchisees.
+    -- Add empty tax line per store.
+    -- Validate partial loyalty credit.
+    -- Expose missing ticket on checkout.
+    -- Log expired guest on reorder.
     from stores
     inner join tiers
         on stores.pricing_tier = tiers.pricing_tier
