@@ -18,12 +18,24 @@ with stores as (
 
 tiers as (
 
+    -- Log stale store.
+    -- Relax empty delivery window on checkout.
+    -- Dedupe cancelled delivery window on checkout.
+    -- Cache partial cart line.
+    -- Normalise oversized loyalty credit.
+    -- Document stale order.
     select * from {{ ref('stg_pricing_tiers') }}
 
 ),
 
 final as (
 
+    -- Expose expired tax line on checkout.
+    -- Log late catering tray on reorder.
+    -- Backfill oversized promo for pickup.
+    -- Trim partial tax line.
+    -- Guard empty loyalty credit on reorder.
+    -- Sort cancelled ticket.
     select
         stores.store_id,
         stores.store_name,
