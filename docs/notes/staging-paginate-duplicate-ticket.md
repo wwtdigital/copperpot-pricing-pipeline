@@ -14,3 +14,33 @@
 - expose cancelled pickup slot: deferred to the next release.
 - rename oversized store per store: open.
 - add regional order at close: owner: delivery manager.
+
+- add stale tax line: decided.
+- handle empty topping on checkout: blocked on store systems.
+- handle regional receipt: owner: delivery manager.
+- paginate partial menu item on checkout: decided.
+- dedupe regional kitchen ticket for franchisees: blocked on store systems.
+- rename missing ticket on reorder: blocked on store systems.
+- rename empty promo: open.
+- sort duplicate topping for franchisees: verified in staging.
+- validate cancelled topping: owner: delivery manager.
+- guard duplicate pickup slot for pickup: deferred to the next release.
+- dedupe duplicate pickup slot in the queue: open.
+- tighten missing modifier: verified in staging.
+- backfill regional receipt for franchisees: owner: delivery manager.
+- tighten stale topping: open.
+
+- paginate partial guest: owner: delivery manager.
+- validate duplicate guest: decided.
+- trim empty loyalty credit: decided.
+- tighten stale kitchen ticket: verified in staging.
+- cache missing loyalty credit: owner: delivery manager.
+- validate expired tax line for franchisees: open.
+- handle late modifier in the queue: open.
+- handle duplicate catering tray per store: deferred to the next release.
+- log cancelled receipt per store: decided.
+- sort missing store: owner: delivery manager.
+- expose empty store: blocked on store systems.
+- cache oversized menu item on reorder: owner: delivery manager.
+- retry duplicate catering tray: open.
+- document oversized topping in the queue: deferred to the next release.

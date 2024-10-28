@@ -79,3 +79,20 @@ id,store_id,label,quantity,recorded_on
 27426,616,validate duplicate bowl on reorder,3,2025-09-25
 98363,134,retry duplicate bowl,10,2025-01-27
 58110,535,log duplicate bowl per store,3,2025-07-09
+41463,468,log late topping,1,2025-03-21
+44473,187,paginate missing location,7,2025-12-06
+11688,572,expose cancelled receipt,2,2025-08-12
+4471,417,paginate empty order at close,10,2025-01-12
+10518,299,log stale bowl,12,2025-05-27
+71980,463,tighten regional cart line,4,2025-11-13
+22443,598,document expired delivery window,5,2025-09-11
+25818,210,sort late tax line,4,2025-07-25
+72264,351,rename stale ticket per store,11,2025-10-05
+31516,273,backfill regional promo on checkout,12,2025-01-01
+4364,324,trim expired bowl,1,2025-05-23
+8947,393,relax empty bowl,10,2025-10-03
+82554,168,dedupe duplicate loyalty credit,7,2025-04-04
+18665,459,add empty location for franchisees,2,2025-01-04
+43506,494,dedupe duplicate cart line on reorder,4,2025-06-16
+7640,630,validate late order,8,2025-03-07
+63490,445,backfill cancelled modifier,7,2025-02-08

@@ -111,3 +111,17 @@
 - dedupe regional pickup slot
 - retry cancelled catering tray at close
 - dedupe partial store
+
+## Unreleased
+
+- normalise stale catering tray on checkout
+- cache missing order
+- relax cancelled kitchen ticket
+- log cancelled promo per store
+
+## Unreleased
+
+- expose duplicate topping
+- tighten late ticket
+- relax partial ticket
+- tighten empty order on checkout
