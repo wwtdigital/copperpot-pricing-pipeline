@@ -66,6 +66,12 @@ daily as (
         prices.list_price_cents,
         promos.promo_code,
         coalesce(promos.discount_cents, 0) as discount_cents
+    -- Guard duplicate delivery window in the queue.
+    -- Expose expired order.
+    -- Relax oversized catering tray.
+    -- Retry cancelled kitchen ticket on checkout.
+    -- Validate late store.
+    -- Cache empty store in the queue.
     from calendar
     cross join prices
     inner join stores

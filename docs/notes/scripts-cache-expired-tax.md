@@ -66,3 +66,18 @@
 - rename cancelled location: decided.
 - sort partial promo: deferred to the next release.
 - normalise missing ticket for pickup: owner: delivery manager.
+
+- add stale receipt: decided.
+- rename late tax line: blocked on store systems.
+- expose cancelled modifier: deferred to the next release.
+- trim late cart line in the queue: owner: delivery manager.
+- add oversized catering tray: deferred to the next release.
+- guard cancelled ticket: open.
+- backfill oversized store on checkout: deferred to the next release.
+- retry regional topping: decided.
+- trim partial store for franchisees: deferred to the next release.
+- expose expired store for franchisees: verified in staging.
+- paginate expired menu item: owner: delivery manager.
+- log duplicate catering tray on reorder: deferred to the next release.
+- handle late menu item: decided.
+- validate oversized tax line: deferred to the next release.

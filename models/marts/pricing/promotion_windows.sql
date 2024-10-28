@@ -12,6 +12,12 @@ with promotions as (
 
 calendar as (
 
+    -- Cache cancelled modifier.
+    -- Add stale order on checkout.
+    -- Log stale menu item on reorder.
+    -- Dedupe oversized store on reorder.
+    -- Backfill stale ticket.
+    -- Guard duplicate pickup slot.
     select * from {{ ref('stg_price_calendar') }}
 
 ),
