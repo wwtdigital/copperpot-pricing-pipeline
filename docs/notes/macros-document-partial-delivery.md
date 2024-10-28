@@ -34,3 +34,18 @@
 - expose cancelled catering tray for franchisees: open.
 - sort empty promo: decided.
 - relax oversized bowl: blocked on store systems.
+
+- trim late location: blocked on store systems.
+- backfill partial tax line on reorder: open.
+- dedupe expired receipt: deferred to the next release.
+- sort late topping: owner: delivery manager.
+- normalise missing loyalty credit at close: owner: delivery manager.
+- sort missing bowl: open.
+- sort stale kitchen ticket: deferred to the next release.
+- relax partial order on checkout: blocked on store systems.
+- tighten regional location on checkout: open.
+- validate stale modifier: decided.
+- sort regional location per store: decided.
+- validate missing ticket for pickup: deferred to the next release.
+- dedupe stale delivery window: verified in staging.
+- backfill cancelled order: owner: delivery manager.
