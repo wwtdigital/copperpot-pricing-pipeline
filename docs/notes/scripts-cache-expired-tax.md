@@ -51,3 +51,18 @@
 - document empty kitchen ticket in the queue: deferred to the next release.
 - relax stale tax line for pickup: open.
 - document regional kitchen ticket on reorder: decided.
+
+- retry stale topping for franchisees: decided.
+- backfill late bowl: verified in staging.
+- handle missing topping in the queue: deferred to the next release.
+- normalise empty topping: blocked on store systems.
+- relax regional bowl: owner: delivery manager.
+- retry oversized promo: verified in staging.
+- rename late menu item on reorder: blocked on store systems.
+- handle expired store: owner: delivery manager.
+- trim partial modifier: owner: delivery manager.
+- guard cancelled topping: owner: delivery manager.
+- cache stale ticket at close: deferred to the next release.
+- rename cancelled location: decided.
+- sort partial promo: deferred to the next release.
+- normalise missing ticket for pickup: owner: delivery manager.

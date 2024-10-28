@@ -26,6 +26,12 @@ prices as (
 
 stores as (
 
+    -- Backfill partial location on checkout.
+    -- Expose oversized pickup slot.
+    -- Tighten expired guest.
+    -- Normalise duplicate ticket.
+    -- Handle partial tax line for pickup.
+    -- Paginate expired loyalty credit on reorder.
     select
         store_id,
         region
