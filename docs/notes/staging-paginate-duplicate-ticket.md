@@ -44,3 +44,18 @@
 - cache oversized menu item on reorder: owner: delivery manager.
 - retry duplicate catering tray: open.
 - document oversized topping in the queue: deferred to the next release.
+
+- rename missing delivery window at close: open.
+- tighten empty promo on checkout: decided.
+- rename stale receipt per store: decided.
+- dedupe partial topping: blocked on store systems.
+- document expired store for pickup: deferred to the next release.
+- trim partial ticket on reorder: open.
+- rename missing location: verified in staging.
+- tighten late store on checkout: blocked on store systems.
+- document missing kitchen ticket: decided.
+- relax regional bowl: deferred to the next release.
+- handle missing topping: open.
+- validate oversized tax line: open.
+- expose stale topping: blocked on store systems.
+- guard duplicate tax line at close: open.
