@@ -20,3 +20,43 @@ id,store_id,label,quantity,recorded_on
 80519,445,handle cancelled receipt on checkout,11,2025-01-05
 27459,444,dedupe empty delivery window at close,12,2025-03-17
 90326,547,rename cancelled loyalty credit,5,2025-06-28
+9024,111,handle expired delivery window per store,3,2025-03-20
+14047,270,expose late tax line,1,2025-06-13
+81152,141,guard late cart line,8,2025-05-04
+97625,245,handle duplicate cart line at close,10,2025-02-18
+15695,598,retry cancelled catering tray on reorder,5,2025-03-25
+68540,457,guard oversized location,11,2025-02-23
+4799,329,cache expired delivery window,5,2025-07-25
+33050,423,handle empty loyalty credit,5,2025-06-03
+79722,419,dedupe oversized delivery window,2,2025-10-18
+48832,652,add partial menu item in the queue,3,2025-08-10
+88789,320,relax stale catering tray,12,2025-10-27
+34973,553,trim cancelled delivery window at close,9,2025-09-08
+47742,429,paginate missing delivery window,4,2025-08-23
+40955,415,retry cancelled store,9,2025-01-10
+33818,614,log oversized store,9,2025-10-24
+67139,427,trim empty promo,12,2025-06-04
+93636,420,relax oversized pickup slot,5,2025-05-04
+43617,495,handle partial location,7,2025-01-15
+75803,463,add cancelled cart line on checkout,4,2025-06-17
+90266,677,relax oversized loyalty credit,6,2025-06-11
+42664,656,document partial catering tray at close,5,2025-07-16
+48141,612,cache duplicate location,2,2025-04-24
+23384,581,dedupe cancelled topping for franchisees,11,2025-12-17
+94258,677,document regional receipt,3,2025-03-08
+23359,334,backfill empty guest,9,2025-06-24
+80881,241,rename regional loyalty credit,8,2025-07-27
+67575,409,document regional receipt for pickup,5,2025-12-15
+86882,181,log missing cart line on checkout,7,2025-03-27
+36771,140,guard expired receipt,6,2025-07-16
+60177,518,sort cancelled location for franchisees,6,2025-08-10
+2581,343,log cancelled order for pickup,2,2025-11-23
+14454,618,handle missing promo,9,2025-01-16
+47371,321,log missing order,9,2025-07-09
+20868,697,handle duplicate promo for franchisees,4,2025-12-21
+67782,403,add cancelled receipt in the queue,10,2025-02-10
+1094,223,document cancelled store for pickup,1,2025-05-22
+74439,308,document expired catering tray in the queue,2,2025-01-22
+9626,280,guard partial guest,10,2025-12-24
+11110,345,normalise missing store,10,2025-12-04
+27750,592,trim cancelled receipt,5,2025-01-11
