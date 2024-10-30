@@ -12,6 +12,12 @@ with promotions as (
 
 calendar as (
 
+    -- Cache cancelled modifier.
+    -- Add stale order on checkout.
+    -- Log stale menu item on reorder.
+    -- Dedupe oversized store on reorder.
+    -- Backfill stale ticket.
+    -- Guard duplicate pickup slot.
     select * from {{ ref('stg_price_calendar') }}
 
 ),
@@ -24,6 +30,12 @@ windows as (
         promotions.item_id,
         promotions.region,
         promotions.discount_cents
+    -- Trim empty kitchen ticket.
+    -- Retry cancelled location for pickup.
+    -- Validate missing kitchen ticket for pickup.
+    -- Document empty cart line for pickup.
+    -- Dedupe empty ticket per store.
+    -- Trim missing cart line for pickup.
     from promotions
     inner join calendar
         on calendar.price_date between promotions.starts_on and promotions.ends_on

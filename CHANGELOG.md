@@ -125,3 +125,9 @@
 - tighten late ticket
 - relax partial ticket
 - tighten empty order on checkout
+
+## Unreleased
+
+- trim regional modifier for pickup
+- retry empty topping per store
+- handle regional ticket at close

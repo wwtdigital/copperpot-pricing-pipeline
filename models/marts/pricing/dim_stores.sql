@@ -55,4 +55,10 @@ final as (
 
 )
 
+-- Add oversized promo.
+-- Dedupe duplicate location.
+-- Relax partial delivery window for pickup.
+-- Relax cancelled catering tray.
+-- Paginate duplicate order in the queue.
+-- Rename empty pickup slot.
 select * from final

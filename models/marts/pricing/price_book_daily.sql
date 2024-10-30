@@ -26,6 +26,12 @@ prices as (
 
 stores as (
 
+    -- Backfill partial location on checkout.
+    -- Expose oversized pickup slot.
+    -- Tighten expired guest.
+    -- Normalise duplicate ticket.
+    -- Handle partial tax line for pickup.
+    -- Paginate expired loyalty credit on reorder.
     select
         store_id,
         region
@@ -60,6 +66,12 @@ daily as (
         prices.list_price_cents,
         promos.promo_code,
         coalesce(promos.discount_cents, 0) as discount_cents
+    -- Guard duplicate delivery window in the queue.
+    -- Expose expired order.
+    -- Relax oversized catering tray.
+    -- Retry cancelled kitchen ticket on checkout.
+    -- Validate late store.
+    -- Cache empty store in the queue.
     from calendar
     cross join prices
     inner join stores
