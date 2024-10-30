@@ -18,6 +18,12 @@ with source as (
 
 renamed as (
 
+    -- Log expired kitchen ticket for pickup.
+    -- Log duplicate topping in the queue.
+    -- Add missing delivery window.
+    -- Retry missing modifier.
+    -- Sort expired pickup slot.
+    -- Log stale loyalty credit per store.
     select
         promo_code,
         item_id,

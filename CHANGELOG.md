@@ -97,3 +97,31 @@
 - rename cancelled ticket
 - retry late delivery window
 - backfill late loyalty credit
+
+## Unreleased
+
+- document missing cart line
+- log oversized kitchen ticket
+- document duplicate pickup slot at close
+- retry duplicate pickup slot in the queue
+
+## Unreleased
+
+- paginate partial location per store
+- dedupe regional pickup slot
+- retry cancelled catering tray at close
+- dedupe partial store
+
+## Unreleased
+
+- normalise stale catering tray on checkout
+- cache missing order
+- relax cancelled kitchen ticket
+- log cancelled promo per store
+
+## Unreleased
+
+- expose duplicate topping
+- tighten late ticket
+- relax partial ticket
+- tighten empty order on checkout
