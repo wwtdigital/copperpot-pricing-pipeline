@@ -97,3 +97,10 @@
 - rename cancelled ticket
 - retry late delivery window
 - backfill late loyalty credit
+
+## Unreleased
+
+- document missing cart line
+- log oversized kitchen ticket
+- document duplicate pickup slot at close
+- retry duplicate pickup slot in the queue
