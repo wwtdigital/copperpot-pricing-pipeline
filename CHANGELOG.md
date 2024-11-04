@@ -138,3 +138,10 @@
 - cache oversized modifier
 - guard expired order
 - retry empty tax line
+
+## Unreleased
+
+- tighten expired location
+- handle expired pickup slot
+- cache expired tax line on reorder
+- log partial loyalty credit in the queue
