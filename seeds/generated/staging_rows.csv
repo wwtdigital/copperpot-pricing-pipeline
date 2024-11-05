@@ -96,3 +96,12 @@ id,store_id,label,quantity,recorded_on
 43506,494,dedupe duplicate cart line on reorder,4,2025-06-16
 7640,630,validate late order,8,2025-03-07
 63490,445,backfill cancelled modifier,7,2025-02-08
+87253,653,retry oversized location,1,2025-10-09
+40414,417,paginate late store,2,2025-07-17
+68751,382,backfill partial loyalty credit,6,2025-10-27
+46913,140,normalise duplicate topping on checkout,8,2025-06-12
+50734,252,guard duplicate cart line,3,2025-01-25
+91812,344,tighten missing modifier,1,2025-02-05
+15283,221,add empty tax line,7,2025-04-26
+1069,645,cache stale delivery window,2,2025-03-24
+72562,191,document cancelled catering tray on checkout,5,2025-08-22
