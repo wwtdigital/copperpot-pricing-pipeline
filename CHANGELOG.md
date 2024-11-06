@@ -131,3 +131,10 @@
 - trim regional modifier for pickup
 - retry empty topping per store
 - handle regional ticket at close
+
+## Unreleased
+
+- tighten stale cart line
+- cache oversized modifier
+- guard expired order
+- retry empty tax line

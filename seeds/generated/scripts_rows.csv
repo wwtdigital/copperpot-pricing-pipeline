@@ -440,3 +440,43 @@ id,store_id,label,quantity,recorded_on
 69222,166,tighten oversized delivery window at close,10,2025-09-09
 96200,263,dedupe oversized ticket,12,2025-04-20
 48152,571,backfill late bowl,7,2025-01-27
+34886,401,rename regional tax line,5,2025-04-09
+8778,234,tighten stale kitchen ticket in the queue,10,2025-10-17
+65330,166,guard expired loyalty credit,10,2025-04-02
+60719,351,retry regional topping on reorder,11,2025-06-22
+15867,593,normalise late cart line,9,2025-04-05
+86141,498,guard duplicate cart line,11,2025-12-18
+2241,660,normalise late menu item on reorder,1,2025-05-07
+22722,102,tighten stale menu item,8,2025-08-05
+94707,686,rename duplicate receipt,7,2025-04-03
+83087,265,tighten late modifier,10,2025-10-07
+91349,568,expose cancelled receipt,10,2025-07-26
+21394,210,add late order in the queue,1,2025-12-13
+89819,348,retry cancelled tax line,12,2025-01-27
+87159,358,relax missing topping,9,2025-09-12
+14097,314,normalise empty promo on reorder,12,2025-08-09
+88015,433,retry expired cart line,6,2025-09-14
+72394,269,backfill expired kitchen ticket,11,2025-09-15
+62141,274,normalise duplicate promo,4,2025-10-01
+66075,349,add partial location,3,2025-09-10
+32131,443,dedupe partial topping,3,2025-11-01
+71426,544,dedupe partial order,4,2025-07-13
+19819,173,sort missing guest,2,2025-10-22
+40715,679,trim cancelled location,2,2025-03-26
+23179,169,normalise late loyalty credit for franchisees,10,2025-02-01
+99033,342,expose expired catering tray,10,2025-07-03
+81110,533,add regional location,6,2025-02-16
+14262,660,validate missing delivery window,6,2025-10-10
+84483,325,rename oversized topping at close,10,2025-12-04
+72673,157,add cancelled cart line,4,2025-06-28
+52438,248,expose oversized ticket per store,10,2025-05-18
+40054,139,dedupe empty topping,7,2025-01-27
+60897,530,dedupe missing promo,11,2025-01-17
+36052,109,expose duplicate catering tray,10,2025-06-25
+36369,545,handle stale loyalty credit,9,2025-01-16
+36611,241,trim cancelled loyalty credit for franchisees,9,2025-10-06
+90131,314,sort missing store for franchisees,5,2025-02-03
+9432,639,paginate cancelled cart line,2,2025-11-11
+22843,171,expose partial tax line,10,2025-10-22
+86894,248,backfill empty tax line,5,2025-02-05
+45885,247,trim duplicate pickup slot on reorder,11,2025-04-10
