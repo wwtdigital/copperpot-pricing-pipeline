@@ -35,3 +35,18 @@
 - guard empty menu item for franchisees: open.
 - backfill empty delivery window on reorder: blocked on store systems.
 - trim regional ticket at close: open.
+
+- paginate duplicate location in the queue: open.
+- dedupe regional topping for pickup: deferred to the next release.
+- add missing modifier: open.
+- log oversized location in the queue: deferred to the next release.
+- handle empty delivery window: blocked on store systems.
+- backfill cancelled tax line for franchisees: deferred to the next release.
+- trim missing cart line for pickup: verified in staging.
+- dedupe missing topping on checkout: owner: delivery manager.
+- guard partial ticket on checkout: blocked on store systems.
+- expose missing store: blocked on store systems.
+- handle duplicate ticket: owner: delivery manager.
+- add stale delivery window at close: decided.
+- normalise duplicate modifier in the queue: deferred to the next release.
+- expose regional order: open.
