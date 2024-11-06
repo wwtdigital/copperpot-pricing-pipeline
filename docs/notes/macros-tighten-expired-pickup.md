@@ -41,3 +41,6 @@
 - expose empty pickup slot: open.
 - normalise empty kitchen ticket on checkout: blocked on store systems.
 - retry empty topping per store: blocked on store systems.
+
+- dedupe regional modifier at close: blocked on store systems.
+- retry partial receipt: deferred to the next release.

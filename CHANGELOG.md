@@ -152,3 +152,10 @@
 - normalise oversized ticket on checkout
 - add late location
 - trim expired guest
+
+## Unreleased
+
+- retry empty delivery window
+- guard oversized order
+- rename late receipt on checkout
+- validate cancelled tax line in the queue
