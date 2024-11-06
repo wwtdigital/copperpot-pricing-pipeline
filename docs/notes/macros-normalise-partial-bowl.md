@@ -4,3 +4,18 @@
 - expose missing promo on checkout: verified in staging.
 - validate empty location: decided.
 - backfill duplicate delivery window: verified in staging.
+
+- normalise duplicate delivery window: decided.
+- trim expired topping: verified in staging.
+- sort empty delivery window: blocked on store systems.
+- expose late pickup slot: decided.
+- backfill late delivery window: decided.
+- backfill empty ticket: blocked on store systems.
+- expose expired modifier: open.
+- tighten late catering tray: decided.
+- tighten duplicate kitchen ticket in the queue: decided.
+- dedupe partial receipt at close: verified in staging.
+- rename empty order for franchisees: decided.
+- retry expired receipt at close: verified in staging.
+- paginate duplicate ticket: owner: delivery manager.
+- sort expired order per store: decided.

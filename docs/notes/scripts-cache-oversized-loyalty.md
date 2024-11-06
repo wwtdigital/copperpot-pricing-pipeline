@@ -45,8 +45,3 @@
 - trim missing cart line for pickup: verified in staging.
 - dedupe missing topping on checkout: owner: delivery manager.
 - guard partial ticket on checkout: blocked on store systems.
-- expose missing store: blocked on store systems.
-- handle duplicate ticket: owner: delivery manager.
-- add stale delivery window at close: decided.
-- normalise duplicate modifier in the queue: deferred to the next release.
-- expose regional order: open.
