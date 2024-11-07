@@ -145,3 +145,43 @@ id,store_id,label,quantity,recorded_on
 9353,407,trim late cart line,2,2025-07-03
 3628,197,handle regional modifier,3,2025-05-19
 28957,257,normalise late ticket,10,2025-05-11
+49953,238,backfill duplicate store on checkout,11,2025-08-28
+78826,122,normalise expired kitchen ticket for franchisees,11,2025-12-01
+15179,452,guard late topping for pickup,6,2025-11-18
+44599,166,handle duplicate modifier on checkout,5,2025-08-05
+25275,666,handle regional bowl,2,2025-11-07
+33672,210,sort late menu item,8,2025-09-22
+72537,311,validate stale delivery window,5,2025-02-18
+53387,443,rename oversized order per store,4,2025-08-05
+23567,627,retry cancelled modifier,5,2025-02-08
+19244,366,handle regional cart line,3,2025-06-13
+87799,605,trim empty bowl at close,3,2025-12-04
+33412,627,relax missing pickup slot,8,2025-11-21
+74829,629,validate oversized delivery window on reorder,2,2025-10-09
+9401,449,document empty kitchen ticket in the queue,5,2025-11-08
+37604,300,dedupe duplicate location for pickup,7,2025-07-20
+81750,335,validate cancelled menu item,7,2025-01-23
+70508,195,document empty ticket,8,2025-09-13
+1671,343,validate late pickup slot,10,2025-02-08
+23643,225,relax duplicate pickup slot,10,2025-02-11
+36681,586,trim cancelled bowl on reorder,4,2025-11-16
+49776,687,rename empty promo,12,2025-09-28
+14114,555,validate duplicate modifier for franchisees,5,2025-03-13
+59384,580,document cancelled ticket,6,2025-08-17
+33313,126,handle empty cart line for pickup,3,2025-01-12
+39336,105,normalise partial ticket for franchisees,9,2025-11-10
+86473,406,dedupe duplicate guest,4,2025-10-24
+2160,364,paginate stale receipt,9,2025-09-17
+20692,525,sort duplicate pickup slot,11,2025-06-21
+38726,652,rename missing order for pickup,3,2025-09-10
+51313,118,guard late modifier for pickup,3,2025-12-12
+68320,484,tighten empty delivery window for franchisees,2,2025-02-28
+19257,666,paginate regional loyalty credit,3,2025-12-22
+79703,185,relax partial pickup slot,6,2025-05-20
+79433,227,backfill duplicate receipt for franchisees,9,2025-04-05
+17711,299,dedupe stale topping,4,2025-08-16
+55018,484,guard oversized modifier,1,2025-12-23
+35208,329,dedupe expired promo on reorder,9,2025-06-04
+7877,393,add oversized topping,11,2025-03-02
+73548,271,backfill empty menu item at close,8,2025-11-22
+79981,309,normalise expired store,2,2025-08-15
