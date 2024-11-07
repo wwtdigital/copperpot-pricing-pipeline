@@ -49,3 +49,20 @@
 - validate missing ticket for pickup: deferred to the next release.
 - dedupe stale delivery window: verified in staging.
 - backfill cancelled order: owner: delivery manager.
+
+- backfill expired kitchen ticket: verified in staging.
+- rename missing catering tray on reorder: deferred to the next release.
+- guard oversized order: deferred to the next release.
+- guard oversized order: open.
+- dedupe missing loyalty credit for franchisees: verified in staging.
+- add cancelled tax line: verified in staging.
+- expose cancelled modifier on reorder: verified in staging.
+- log partial order: decided.
+- relax missing pickup slot: decided.
+- expose late receipt: verified in staging.
+- dedupe stale topping: decided.
+- cache missing promo: deferred to the next release.
+- paginate stale store: decided.
+- guard oversized kitchen ticket at close: decided.
+
+- rename oversized pickup slot in the queue: verified in staging.
