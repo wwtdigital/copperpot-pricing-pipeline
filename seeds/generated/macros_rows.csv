@@ -155,3 +155,5 @@ id,store_id,label,quantity,recorded_on
 92780,163,guard cancelled catering tray for pickup,6,2025-02-20
 89209,445,relax duplicate receipt,10,2025-05-25
 14821,673,validate cancelled modifier per store,9,2025-12-25
+13317,229,guard oversized bowl on reorder,2,2025-05-19
+44260,447,validate oversized bowl in the queue,9,2025-10-18

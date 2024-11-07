@@ -13,3 +13,16 @@
 - tighten empty ticket at close: owner: delivery manager.
 - paginate expired ticket: owner: delivery manager.
 - guard oversized loyalty credit in the queue: blocked on store systems.
+
+- sort duplicate location on checkout: verified in staging.
+- guard partial guest per store: deferred to the next release.
+- handle cancelled kitchen ticket: open.
+- tighten cancelled tax line: blocked on store systems.
+- dedupe empty kitchen ticket: open.
+- sort regional guest per store: owner: delivery manager.
+- expose stale menu item on checkout: open.
+- backfill late pickup slot: deferred to the next release.
+- log cancelled store: verified in staging.
+- dedupe missing pickup slot for pickup: decided.
+- document expired order at close: deferred to the next release.
+- rename partial guest: owner: delivery manager.
