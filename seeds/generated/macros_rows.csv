@@ -157,3 +157,39 @@ id,store_id,label,quantity,recorded_on
 14821,673,validate cancelled modifier per store,9,2025-12-25
 13317,229,guard oversized bowl on reorder,2,2025-05-19
 44260,447,validate oversized bowl in the queue,9,2025-10-18
+42860,442,trim missing topping at close,4,2025-04-13
+10918,299,validate oversized store,11,2025-01-15
+23411,544,handle late menu item,2,2025-01-17
+59739,653,validate oversized pickup slot per store,10,2025-07-28
+61852,477,sort late pickup slot,9,2025-09-09
+14856,198,log stale bowl,8,2025-04-15
+66202,683,tighten oversized order,5,2025-05-16
+12363,258,document cancelled modifier for pickup,4,2025-08-19
+60857,657,rename empty tax line,9,2025-02-03
+87913,274,tighten cancelled location,2,2025-01-12
+77745,657,tighten missing guest on reorder,2,2025-03-22
+22249,647,validate expired receipt,7,2025-11-13
+95987,350,dedupe partial loyalty credit on checkout,1,2025-06-22
+9945,103,dedupe stale bowl for franchisees,3,2025-12-02
+83326,533,backfill expired store,8,2025-05-26
+14810,330,tighten expired kitchen ticket,4,2025-12-20
+10024,468,add cancelled topping on checkout,7,2025-10-28
+68379,388,handle partial tax line on checkout,11,2025-08-08
+19260,522,handle empty cart line on checkout,12,2025-07-24
+41315,402,trim oversized kitchen ticket for franchisees,9,2025-10-09
+38658,103,normalise stale catering tray at close,7,2025-08-01
+86621,131,document expired menu item,3,2025-10-03
+95921,571,sort oversized delivery window for franchisees,2,2025-05-15
+41663,648,handle missing topping on checkout,4,2025-01-04
+22791,185,add oversized store,8,2025-10-15
+78091,488,rename late pickup slot,1,2025-02-19
+1318,356,dedupe missing kitchen ticket on checkout,5,2025-03-15
+59089,526,cache missing store,1,2025-12-19
+93908,133,log empty promo on checkout,1,2025-01-18
+54189,553,validate expired promo for franchisees,5,2025-09-15
+59768,392,tighten cancelled store,3,2025-07-04
+82784,257,document partial catering tray,10,2025-09-18
+37701,141,retry missing tax line,5,2025-04-11
+98905,448,document duplicate catering tray,5,2025-05-11
+75892,535,trim expired modifier for pickup,2,2025-11-04
+38758,211,handle expired promo,6,2025-08-07

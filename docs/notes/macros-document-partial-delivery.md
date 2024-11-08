@@ -66,3 +66,13 @@
 - guard oversized kitchen ticket at close: decided.
 
 - rename oversized pickup slot in the queue: verified in staging.
+
+- retry stale location: deferred to the next release.
+- document oversized delivery window for franchisees: decided.
+- cache duplicate delivery window: owner: delivery manager.
+- sort duplicate guest: decided.
+- retry missing catering tray: deferred to the next release.
+- paginate cancelled tax line: decided.
+- handle empty bowl in the queue: decided.
+- expose duplicate store: deferred to the next release.
+- retry cancelled menu item: deferred to the next release.

@@ -26,3 +26,21 @@
 - dedupe missing pickup slot for pickup: decided.
 - document expired order at close: deferred to the next release.
 - rename partial guest: owner: delivery manager.
+
+- paginate missing guest: deferred to the next release.
+- document stale topping on checkout: deferred to the next release.
+- paginate missing promo for franchisees: open.
+- document partial order: deferred to the next release.
+- relax empty bowl at close: deferred to the next release.
+- dedupe duplicate kitchen ticket per store: decided.
+- trim late store: open.
+- cache duplicate kitchen ticket at close: decided.
+- log expired catering tray on reorder: decided.
+- trim stale cart line: deferred to the next release.
+- tighten missing cart line in the queue: owner: delivery manager.
+- expose empty pickup slot: open.
+- normalise empty kitchen ticket on checkout: blocked on store systems.
+- retry empty topping per store: blocked on store systems.
+
+- dedupe regional modifier at close: blocked on store systems.
+- retry partial receipt: deferred to the next release.
