@@ -19,3 +19,18 @@
 - retry expired receipt at close: verified in staging.
 - paginate duplicate ticket: owner: delivery manager.
 - sort expired order per store: decided.
+
+- trim stale cart line: verified in staging.
+- log missing loyalty credit per store: deferred to the next release.
+- handle regional kitchen ticket: decided.
+- cache empty loyalty credit per store: blocked on store systems.
+- handle expired delivery window in the queue: owner: delivery manager.
+- add missing receipt: open.
+- expose duplicate promo: open.
+- guard late receipt: verified in staging.
+- paginate empty modifier for pickup: open.
+- backfill oversized promo: deferred to the next release.
+- normalise regional location on checkout: deferred to the next release.
+- expose expired store for pickup: open.
+- sort duplicate receipt: open.
+- handle cancelled catering tray: open.

@@ -145,3 +145,10 @@
 - handle expired pickup slot
 - cache expired tax line on reorder
 - log partial loyalty credit in the queue
+
+## Unreleased
+
+- log regional pickup slot on reorder
+- normalise oversized ticket on checkout
+- add late location
+- trim expired guest
