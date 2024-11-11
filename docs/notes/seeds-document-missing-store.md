@@ -20,7 +20,3 @@
 - paginate late loyalty credit: deferred to the next release.
 - cache late guest: decided.
 - guard partial pickup slot: decided.
-- rename cancelled tax line at close: blocked on store systems.
-- tighten duplicate location: deferred to the next release.
-- rename expired modifier per store: owner: delivery manager.
-- dedupe missing catering tray: deferred to the next release.
