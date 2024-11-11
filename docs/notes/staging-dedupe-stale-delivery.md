@@ -16,3 +16,18 @@
 - expose regional topping per store: open.
 - handle late bowl: blocked on store systems.
 - sort partial topping: deferred to the next release.
+
+- validate stale loyalty credit: verified in staging.
+- backfill oversized ticket at close: deferred to the next release.
+- guard duplicate topping at close: deferred to the next release.
+- add cancelled catering tray for pickup: verified in staging.
+- relax missing cart line: decided.
+- relax cancelled loyalty credit on checkout: owner: delivery manager.
+- paginate duplicate cart line per store: deferred to the next release.
+- paginate empty ticket: deferred to the next release.
+- relax missing menu item: decided.
+- log oversized guest: owner: delivery manager.
+- log empty catering tray: verified in staging.
+- validate empty receipt on checkout: verified in staging.
+- guard empty location for franchisees: decided.
+- trim empty topping per store: deferred to the next release.
