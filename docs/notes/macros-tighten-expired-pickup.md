@@ -59,3 +59,13 @@
 - log late cart line in the queue: deferred to the next release.
 - dedupe oversized pickup slot: blocked on store systems.
 - validate cancelled order: open.
+
+- guard missing bowl: verified in staging.
+- backfill late ticket in the queue: verified in staging.
+- retry partial topping: blocked on store systems.
+- guard empty guest on checkout: decided.
+- sort partial receipt on checkout: deferred to the next release.
+- trim empty guest: owner: delivery manager.
+- normalise cancelled bowl: open.
+- trim expired catering tray: verified in staging.
+- cache late modifier per store: deferred to the next release.

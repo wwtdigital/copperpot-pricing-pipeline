@@ -166,3 +166,10 @@
 - add oversized cart line
 - cache partial loyalty credit
 - validate stale cart line
+
+## Unreleased
+
+- sort missing promo
+- tighten expired cart line for franchisees
+- paginate expired bowl
+- handle partial guest on checkout

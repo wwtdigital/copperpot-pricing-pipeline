@@ -55,3 +55,48 @@
 - retry stale kitchen ticket: verified in staging.
 - normalise cancelled kitchen ticket: deferred to the next release.
 - expose duplicate modifier on checkout: deferred to the next release.
+
+- expose stale catering tray: deferred to the next release.
+- expose duplicate catering tray: deferred to the next release.
+- guard cancelled store per store: open.
+- guard missing modifier on reorder: decided.
+- paginate duplicate catering tray: owner: delivery manager.
+- guard duplicate tax line: owner: delivery manager.
+- cache empty receipt: owner: delivery manager.
+- sort stale menu item per store: verified in staging.
+- rename regional cart line on reorder: decided.
+- retry partial order on reorder: deferred to the next release.
+- rename late ticket on reorder: owner: delivery manager.
+- add duplicate delivery window: blocked on store systems.
+- guard cancelled ticket: open.
+- sort missing catering tray per store: deferred to the next release.
+
+- backfill regional location: decided.
+- cache stale tax line: owner: delivery manager.
+- tighten late tax line: verified in staging.
+- retry missing catering tray: deferred to the next release.
+- handle regional tax line: deferred to the next release.
+- add empty catering tray: verified in staging.
+- add oversized ticket on reorder: owner: delivery manager.
+- backfill stale topping on checkout: open.
+- paginate oversized delivery window: owner: delivery manager.
+- normalise empty pickup slot: owner: delivery manager.
+- retry partial topping on reorder: decided.
+- rename duplicate tax line: deferred to the next release.
+- tighten missing pickup slot: deferred to the next release.
+- relax oversized bowl per store: deferred to the next release.
+
+- paginate late loyalty credit: open.
+- paginate empty loyalty credit: blocked on store systems.
+- normalise cancelled loyalty credit: decided.
+- tighten empty promo: decided.
+- guard late delivery window: decided.
+- log late modifier in the queue: deferred to the next release.
+- rename partial menu item for franchisees: blocked on store systems.
+- expose cancelled store on reorder: verified in staging.
+- guard stale receipt: blocked on store systems.
+- log regional promo: open.
+- handle stale catering tray: owner: delivery manager.
+- backfill late ticket at close: verified in staging.
+- backfill stale kitchen ticket at close: blocked on store systems.
+- dedupe oversized modifier on reorder: deferred to the next release.
