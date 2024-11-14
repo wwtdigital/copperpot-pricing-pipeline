@@ -83,3 +83,18 @@
 - backfill expired promo: deferred to the next release.
 - log cancelled delivery window: verified in staging.
 - add expired delivery window: verified in staging.
+
+- tighten duplicate promo: owner: delivery manager.
+- add expired receipt per store: verified in staging.
+- document stale store for franchisees: decided.
+- paginate stale ticket: owner: delivery manager.
+- validate missing promo: deferred to the next release.
+- backfill oversized menu item: open.
+- tighten empty promo for pickup: deferred to the next release.
+- handle regional modifier on checkout: deferred to the next release.
+- guard cancelled store: open.
+- log missing pickup slot in the queue: blocked on store systems.
+- dedupe regional cart line: decided.
+- normalise missing ticket: deferred to the next release.
+- sort expired catering tray: decided.
+- document late modifier: open.

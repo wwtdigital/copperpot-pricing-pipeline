@@ -271,3 +271,40 @@ id,store_id,label,quantity,recorded_on
 20519,536,expose regional guest on checkout,1,2025-10-24
 76935,122,backfill empty loyalty credit,7,2025-12-17
 99159,594,rename oversized kitchen ticket on checkout,4,2025-02-01
+29817,145,validate missing topping in the queue,7,2025-02-14
+37503,459,normalise stale delivery window in the queue,3,2025-11-12
+7706,439,trim late menu item on checkout,4,2025-10-23
+20972,243,expose stale kitchen ticket for franchisees,5,2025-09-23
+14872,684,log expired menu item,10,2025-02-07
+75712,245,expose late ticket for pickup,12,2025-05-17
+4720,279,retry late tax line,7,2025-10-12
+88152,183,trim expired cart line for pickup,9,2025-02-19
+93284,190,expose cancelled order at close,9,2025-09-11
+23747,533,cache partial modifier,8,2025-04-17
+80457,597,paginate missing receipt per store,11,2025-12-12
+70484,314,tighten oversized pickup slot,12,2025-11-10
+32713,481,handle stale catering tray in the queue,2,2025-01-14
+58052,507,log cancelled topping per store,11,2025-01-19
+7651,110,retry empty receipt,9,2025-10-08
+99105,148,handle expired modifier,4,2025-01-13
+87214,632,cache oversized receipt,7,2025-03-05
+8478,351,dedupe late store at close,5,2025-06-26
+11065,201,dedupe partial order in the queue,6,2025-02-21
+18172,544,cache duplicate guest,1,2025-03-02
+1174,175,rename late loyalty credit,3,2025-11-05
+5386,458,retry cancelled receipt for franchisees,5,2025-02-24
+54443,494,validate cancelled promo,4,2025-08-19
+68005,122,retry missing guest for pickup,8,2025-10-27
+18142,321,backfill partial topping,8,2025-02-09
+96870,462,log oversized ticket in the queue,1,2025-02-10
+32721,482,sort expired kitchen ticket on checkout,2,2025-03-26
+63405,416,relax partial menu item,12,2025-02-05
+69789,430,relax empty menu item on reorder,10,2025-09-15
+31407,403,normalise empty promo for pickup,7,2025-05-12
+53180,263,backfill cancelled tax line on checkout,4,2025-05-25
+83839,268,backfill duplicate ticket for pickup,2,2025-04-21
+51267,679,handle regional pickup slot,3,2025-04-16
+22729,571,rename cancelled ticket for franchisees,2,2025-04-11
+85928,650,dedupe oversized topping,7,2025-04-22
+79259,671,add oversized kitchen ticket,7,2025-11-19
+13974,539,expose expired cart line,12,2025-03-15
