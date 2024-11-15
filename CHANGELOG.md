@@ -159,3 +159,10 @@
 - guard oversized order
 - rename late receipt on checkout
 - validate cancelled tax line in the queue
+
+## Unreleased
+
+- paginate oversized menu item
+- add oversized cart line
+- cache partial loyalty credit
+- validate stale cart line

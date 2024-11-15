@@ -44,3 +44,18 @@
 
 - dedupe regional modifier at close: blocked on store systems.
 - retry partial receipt: deferred to the next release.
+
+- relax empty modifier on checkout: decided.
+- trim oversized ticket: owner: delivery manager.
+- guard expired delivery window: deferred to the next release.
+- add cancelled modifier: verified in staging.
+- rename late delivery window: owner: delivery manager.
+- log oversized guest in the queue: open.
+- retry partial order on checkout: deferred to the next release.
+- log regional location: blocked on store systems.
+- normalise cancelled bowl for franchisees: decided.
+- backfill duplicate ticket on reorder: blocked on store systems.
+- retry expired store for franchisees: owner: delivery manager.
+- log late cart line in the queue: deferred to the next release.
+- dedupe oversized pickup slot: blocked on store systems.
+- validate cancelled order: open.
