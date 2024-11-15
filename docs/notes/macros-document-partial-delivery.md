@@ -76,3 +76,18 @@
 - handle empty bowl in the queue: decided.
 - expose duplicate store: deferred to the next release.
 - retry cancelled menu item: deferred to the next release.
+
+- retry partial guest: deferred to the next release.
+- tighten missing catering tray: deferred to the next release.
+- document cancelled kitchen ticket: owner: delivery manager.
+- handle partial topping: decided.
+- relax regional store in the queue: deferred to the next release.
+- trim stale tax line: open.
+- tighten regional bowl: decided.
+- dedupe stale bowl: blocked on store systems.
+- expose partial location: deferred to the next release.
+- expose late catering tray: verified in staging.
+- paginate duplicate kitchen ticket on reorder: open.
+- validate duplicate order: deferred to the next release.
+- rename expired bowl for franchisees: deferred to the next release.
+- handle partial receipt: decided.

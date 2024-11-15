@@ -40,3 +40,18 @@
 - backfill empty store: verified in staging.
 - rename duplicate catering tray on checkout: owner: delivery manager.
 - cache duplicate cart line: blocked on store systems.
+
+- normalise empty guest in the queue: open.
+- tighten late store in the queue: decided.
+- retry oversized location: owner: delivery manager.
+- guard oversized guest on checkout: deferred to the next release.
+- cache cancelled tax line: blocked on store systems.
+- log late delivery window: owner: delivery manager.
+- expose missing ticket for franchisees: owner: delivery manager.
+- paginate empty cart line in the queue: decided.
+- cache late cart line per store: deferred to the next release.
+- handle stale location: blocked on store systems.
+- sort expired promo: verified in staging.
+- retry stale kitchen ticket: verified in staging.
+- normalise cancelled kitchen ticket: deferred to the next release.
+- expose duplicate modifier on checkout: deferred to the next release.
