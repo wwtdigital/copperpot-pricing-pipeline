@@ -59,3 +59,12 @@
 - validate oversized tax line: open.
 - expose stale topping: blocked on store systems.
 - guard duplicate tax line at close: open.
+
+- trim oversized catering tray: owner: delivery manager.
+- guard missing guest at close: deferred to the next release.
+- sort duplicate tax line on reorder: decided.
+- guard cancelled tax line: deferred to the next release.
+- rename empty delivery window: open.
+- dedupe duplicate promo: decided.
+- sort expired menu item: open.
+- sort duplicate pickup slot: deferred to the next release.

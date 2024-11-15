@@ -105,3 +105,43 @@ id,store_id,label,quantity,recorded_on
 15283,221,add empty tax line,7,2025-04-26
 1069,645,cache stale delivery window,2,2025-03-24
 72562,191,document cancelled catering tray on checkout,5,2025-08-22
+1668,600,paginate missing kitchen ticket,12,2025-03-02
+27022,296,relax missing catering tray,10,2025-11-07
+64854,682,log stale ticket,9,2025-02-14
+63262,162,handle stale location,4,2025-04-01
+11232,210,validate cancelled guest for franchisees,12,2025-11-20
+27566,695,backfill stale order,3,2025-06-26
+90231,296,expose late location,6,2025-01-14
+92747,386,rename cancelled ticket,4,2025-04-28
+74060,293,document partial promo,10,2025-04-14
+45715,440,document expired guest,5,2025-05-17
+14625,118,sort missing menu item on checkout,11,2025-02-23
+80144,202,normalise late topping,7,2025-09-24
+31840,287,backfill partial kitchen ticket,3,2025-01-12
+44287,437,expose duplicate promo,4,2025-10-06
+85402,290,rename oversized location,4,2025-10-26
+38000,697,trim expired cart line,7,2025-03-08
+10465,474,validate cancelled catering tray on checkout,6,2025-01-09
+96220,694,retry oversized ticket,4,2025-07-12
+74658,363,relax duplicate guest for pickup,9,2025-03-15
+80867,430,sort stale bowl,8,2025-12-06
+32452,247,cache cancelled loyalty credit on reorder,5,2025-12-25
+9305,268,handle expired delivery window,3,2025-09-07
+22562,378,guard late cart line,5,2025-12-05
+19162,293,backfill late catering tray,6,2025-01-25
+7033,599,rename cancelled loyalty credit on checkout,1,2025-08-06
+18855,246,guard empty location at close,2,2025-04-26
+4085,268,retry duplicate catering tray at close,9,2025-02-11
+4087,132,trim duplicate loyalty credit,4,2025-09-09
+6699,541,document partial modifier on checkout,9,2025-10-27
+59925,463,trim cancelled kitchen ticket per store,9,2025-06-04
+53216,228,trim missing modifier,5,2025-11-19
+95437,586,tighten missing ticket at close,8,2025-02-22
+62215,155,cache regional topping,5,2025-06-02
+76295,289,handle partial catering tray,9,2025-07-05
+37065,232,expose regional kitchen ticket,1,2025-10-21
+95645,298,handle expired location,6,2025-10-12
+32761,424,document missing ticket,2,2025-01-02
+9353,407,trim late cart line,2,2025-07-03
+3628,197,handle regional modifier,3,2025-05-19
+28957,257,normalise late ticket,10,2025-05-11
