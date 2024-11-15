@@ -68,3 +68,18 @@
 - dedupe duplicate promo: decided.
 - sort expired menu item: open.
 - sort duplicate pickup slot: deferred to the next release.
+
+- dedupe oversized menu item: owner: delivery manager.
+- rename partial topping: verified in staging.
+- rename late bowl for pickup: owner: delivery manager.
+- sort expired catering tray: open.
+- backfill missing ticket: decided.
+- rename expired delivery window: decided.
+- guard regional receipt at close: blocked on store systems.
+- add cancelled pickup slot: owner: delivery manager.
+- backfill empty loyalty credit: verified in staging.
+- backfill duplicate loyalty credit: deferred to the next release.
+- log duplicate menu item: deferred to the next release.
+- backfill expired promo: deferred to the next release.
+- log cancelled delivery window: verified in staging.
+- add expired delivery window: verified in staging.

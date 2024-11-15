@@ -185,3 +185,43 @@ id,store_id,label,quantity,recorded_on
 7877,393,add oversized topping,11,2025-03-02
 73548,271,backfill empty menu item at close,8,2025-11-22
 79981,309,normalise expired store,2,2025-08-15
+93349,334,dedupe expired topping on reorder,3,2025-12-23
+7121,350,paginate late guest per store,7,2025-07-19
+37383,273,handle partial promo,7,2025-06-03
+9280,349,add cancelled topping,11,2025-11-20
+93948,242,add missing ticket in the queue,11,2025-06-01
+71157,520,dedupe expired topping per store,9,2025-02-09
+37514,499,tighten missing promo,9,2025-02-23
+37274,349,rename duplicate store on reorder,3,2025-06-17
+44126,348,tighten stale menu item per store,2,2025-06-07
+49256,568,handle stale tax line on checkout,9,2025-07-24
+62090,553,handle oversized receipt for franchisees,1,2025-03-23
+30574,212,validate oversized topping,12,2025-03-27
+95146,486,validate cancelled topping,2,2025-12-04
+20983,487,dedupe stale order,7,2025-07-01
+67513,140,handle cancelled bowl,7,2025-03-07
+37228,340,handle partial catering tray,12,2025-07-21
+41514,230,retry duplicate modifier,11,2025-03-16
+71098,303,trim duplicate cart line,1,2025-03-09
+79511,533,backfill missing bowl for franchisees,3,2025-04-18
+50782,211,expose empty store,10,2025-05-05
+10047,139,document regional catering tray,11,2025-03-04
+62147,229,expose regional guest for pickup,1,2025-03-02
+92973,194,rename regional menu item,9,2025-04-28
+22169,617,paginate duplicate catering tray,7,2025-06-05
+26183,254,dedupe oversized cart line,10,2025-06-11
+28778,524,retry missing receipt at close,6,2025-11-19
+43599,170,guard cancelled ticket on checkout,10,2025-04-27
+52597,260,add regional location,5,2025-10-15
+25124,157,cache duplicate receipt,9,2025-11-20
+13912,364,relax duplicate bowl per store,7,2025-05-01
+25758,615,rename cancelled tax line,1,2025-12-10
+80012,240,document missing location,3,2025-06-21
+64577,478,sort empty receipt for franchisees,5,2025-10-14
+81237,495,log expired location on reorder,7,2025-12-24
+36689,614,guard regional menu item,8,2025-08-19
+59731,132,trim expired catering tray,3,2025-08-13
+91698,212,sort missing pickup slot,12,2025-01-19
+82961,305,relax cancelled guest,1,2025-03-25
+53813,525,handle stale location in the queue,5,2025-02-14
+90544,221,rename missing tax line,11,2025-01-22
