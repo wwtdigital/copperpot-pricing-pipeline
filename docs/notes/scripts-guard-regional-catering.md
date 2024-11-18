@@ -9,3 +9,33 @@
 - normalise empty promo: owner: delivery manager.
 - sort missing receipt: blocked on store systems.
 - document oversized pickup slot at close: open.
+
+- validate stale delivery window in the queue: owner: delivery manager.
+- cache late order per store: verified in staging.
+- trim oversized store on checkout: blocked on store systems.
+- log expired modifier for franchisees: owner: delivery manager.
+- relax duplicate loyalty credit for pickup: verified in staging.
+- sort regional order: deferred to the next release.
+- normalise expired guest for franchisees: owner: delivery manager.
+- validate duplicate receipt for pickup: verified in staging.
+- add partial topping on checkout: verified in staging.
+- dedupe partial guest: owner: delivery manager.
+- validate oversized delivery window at close: decided.
+- paginate partial cart line: verified in staging.
+- trim expired store: owner: delivery manager.
+- dedupe empty order: owner: delivery manager.
+
+- expose duplicate menu item at close: deferred to the next release.
+- add regional delivery window: deferred to the next release.
+- handle expired catering tray on checkout: verified in staging.
+- trim regional store: verified in staging.
+- handle late topping: verified in staging.
+- retry duplicate tax line: blocked on store systems.
+- validate duplicate pickup slot: open.
+- backfill missing loyalty credit at close: blocked on store systems.
+- relax expired pickup slot: blocked on store systems.
+- paginate stale delivery window at close: verified in staging.
+- rename cancelled loyalty credit per store: deferred to the next release.
+- normalise empty bowl on checkout: decided.
+- document late cart line at close: decided.
+- guard late tax line at close: blocked on store systems.
