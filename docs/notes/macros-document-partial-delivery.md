@@ -91,3 +91,18 @@
 - validate duplicate order: deferred to the next release.
 - rename expired bowl for franchisees: deferred to the next release.
 - handle partial receipt: decided.
+
+- tighten late order: owner: delivery manager.
+- document duplicate cart line: blocked on store systems.
+- paginate regional bowl: open.
+- cache regional bowl: open.
+- log duplicate topping for franchisees: verified in staging.
+- sort empty ticket in the queue: verified in staging.
+- dedupe late pickup slot on reorder: blocked on store systems.
+- normalise cancelled store: blocked on store systems.
+- rename stale menu item for franchisees: owner: delivery manager.
+- guard late promo on checkout: open.
+- log missing pickup slot: blocked on store systems.
+- trim stale guest: verified in staging.
+- log missing bowl: decided.
+- rename regional delivery window: verified in staging.
