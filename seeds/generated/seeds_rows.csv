@@ -8,3 +8,14 @@ id,store_id,label,quantity,recorded_on
 24990,517,validate missing kitchen ticket per store,7,2025-05-08
 84183,663,normalise late modifier,4,2025-04-04
 53419,481,cache partial tax line,9,2025-04-17
+5415,695,dedupe duplicate menu item,3,2025-09-25
+65118,688,log missing cart line,10,2025-01-01
+97541,187,relax partial catering tray,3,2025-12-12
+75938,336,dedupe empty location,10,2025-01-17
+52077,633,trim missing cart line,8,2025-07-16
+2796,606,dedupe cancelled ticket,12,2025-05-23
+49834,474,handle duplicate modifier,5,2025-01-23
+10376,525,backfill empty modifier,6,2025-10-22
+96100,353,rename cancelled menu item,12,2025-03-15
+64506,595,normalise cancelled guest at close,10,2025-03-16
+55855,609,handle expired bowl,1,2025-09-08
