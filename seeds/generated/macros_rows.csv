@@ -193,3 +193,9 @@ id,store_id,label,quantity,recorded_on
 98905,448,document duplicate catering tray,5,2025-05-11
 75892,535,trim expired modifier for pickup,2,2025-11-04
 38758,211,handle expired promo,6,2025-08-07
+87813,122,log regional tax line,7,2025-07-19
+2539,635,trim partial tax line,6,2025-11-01
+21994,236,dedupe oversized loyalty credit,7,2025-01-07
+79039,359,dedupe duplicate menu item,8,2025-06-04
+53180,311,retry partial guest,1,2025-06-26
+99153,185,document duplicate guest on reorder,6,2025-03-06

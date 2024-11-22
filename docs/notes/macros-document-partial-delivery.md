@@ -106,3 +106,18 @@
 - trim stale guest: verified in staging.
 - log missing bowl: decided.
 - rename regional delivery window: verified in staging.
+
+- validate expired store for franchisees: open.
+- sort empty delivery window on reorder: blocked on store systems.
+- tighten late cart line per store: owner: delivery manager.
+- guard missing cart line: deferred to the next release.
+- backfill missing pickup slot: verified in staging.
+- cache partial modifier: owner: delivery manager.
+- sort duplicate pickup slot at close: verified in staging.
+- validate cancelled store at close: owner: delivery manager.
+- cache oversized order in the queue: blocked on store systems.
+- log expired store: deferred to the next release.
+- add late kitchen ticket for franchisees: owner: delivery manager.
+- expose late modifier per store: decided.
+- backfill regional tax line on checkout: deferred to the next release.
+- log cancelled cart line: blocked on store systems.
