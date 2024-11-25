@@ -100,3 +100,14 @@
 - backfill late ticket at close: verified in staging.
 - backfill stale kitchen ticket at close: blocked on store systems.
 - dedupe oversized modifier on reorder: deferred to the next release.
+
+- rename late guest: decided.
+- log late loyalty credit: decided.
+- document regional topping: verified in staging.
+- trim stale guest: decided.
+- document expired guest: open.
+- dedupe missing modifier: owner: delivery manager.
+- dedupe late kitchen ticket at close: verified in staging.
+- document partial receipt at close: blocked on store systems.
+- relax duplicate catering tray on reorder: open.
+- normalise cancelled kitchen ticket: owner: delivery manager.
