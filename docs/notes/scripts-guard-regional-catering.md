@@ -54,3 +54,7 @@
 - relax partial catering tray in the queue: open.
 - sort cancelled store: blocked on store systems.
 - tighten late cart line in the queue: open.
+
+- sort missing store in the queue: decided.
+- log cancelled delivery window: verified in staging.
+- relax partial bowl: open.

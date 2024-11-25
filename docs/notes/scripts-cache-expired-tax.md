@@ -96,3 +96,18 @@
 - add late topping: blocked on store systems.
 - rename missing topping on reorder: decided.
 - sort duplicate delivery window: owner: delivery manager.
+
+- add cancelled pickup slot on checkout: deferred to the next release.
+- validate missing modifier: verified in staging.
+- tighten late guest: decided.
+- document empty ticket: deferred to the next release.
+- sort missing order per store: decided.
+- sort duplicate store: verified in staging.
+- validate empty pickup slot for franchisees: decided.
+- cache cancelled menu item: open.
+- retry empty order for franchisees: verified in staging.
+- rename partial catering tray: verified in staging.
+- trim missing modifier: deferred to the next release.
+- document late bowl: deferred to the next release.
+- paginate empty store: open.
+- guard cancelled ticket: deferred to the next release.
