@@ -173,3 +173,10 @@
 - tighten expired cart line for franchisees
 - paginate expired bowl
 - handle partial guest on checkout
+
+## Unreleased
+
+- normalise empty bowl
+- sort empty receipt
+- dedupe oversized kitchen ticket
+- retry expired promo
