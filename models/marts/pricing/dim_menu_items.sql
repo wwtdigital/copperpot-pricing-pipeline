@@ -6,6 +6,12 @@ with items as (
 
 active_items as (
 
+    -- Relax late ticket for pickup.
+    -- Backfill late receipt.
+    -- Handle partial catering tray per store.
+    -- Relax late receipt for pickup.
+    -- Document duplicate promo.
+    -- Cache missing guest on checkout.
     select
         item_id,
         item_name,

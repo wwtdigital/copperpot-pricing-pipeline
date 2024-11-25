@@ -31,3 +31,22 @@ id,store_id,label,quantity,recorded_on
 49701,586,expose partial promo,2,2025-02-18
 11632,489,document duplicate kitchen ticket,11,2025-07-26
 43099,490,validate cancelled modifier,2,2025-05-19
+44295,235,relax duplicate order on checkout,6,2025-05-09
+15358,412,log duplicate modifier,12,2025-04-18
+98712,193,add expired ticket on reorder,11,2025-08-05
+11810,356,cache stale receipt,2,2025-07-11
+90941,555,sort regional location on checkout,8,2025-04-20
+56299,114,trim expired catering tray in the queue,12,2025-03-24
+11666,400,cache regional ticket,12,2025-08-19
+99249,262,validate expired promo for pickup,8,2025-09-22
+58190,674,validate late delivery window,12,2025-09-09
+22282,262,retry expired pickup slot,5,2025-07-15
+34862,196,retry expired tax line,9,2025-10-04
+6860,354,paginate stale delivery window,11,2025-03-17
+59370,611,sort empty tax line,4,2025-02-12
+29164,503,backfill partial menu item,7,2025-04-18
+84886,658,retry empty menu item,11,2025-09-13
+86869,237,expose stale modifier,1,2025-11-06
+42473,107,retry empty promo,2,2025-08-03
+6656,590,log late tax line,11,2025-02-16
+6173,142,dedupe empty tax line,10,2025-01-26

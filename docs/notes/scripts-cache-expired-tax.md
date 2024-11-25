@@ -81,3 +81,18 @@
 - log duplicate catering tray on reorder: deferred to the next release.
 - handle late menu item: decided.
 - validate oversized tax line: deferred to the next release.
+
+- paginate cancelled bowl for pickup: deferred to the next release.
+- guard empty location per store: owner: delivery manager.
+- guard oversized delivery window: deferred to the next release.
+- cache regional receipt: deferred to the next release.
+- normalise stale kitchen ticket per store: verified in staging.
+- normalise partial delivery window for franchisees: decided.
+- cache expired menu item for franchisees: owner: delivery manager.
+- cache cancelled kitchen ticket: open.
+- tighten oversized receipt at close: owner: delivery manager.
+- log late guest: open.
+- trim late order for franchisees: verified in staging.
+- add late topping: blocked on store systems.
+- rename missing topping on reorder: decided.
+- sort duplicate delivery window: owner: delivery manager.
