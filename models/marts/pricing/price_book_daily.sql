@@ -6,6 +6,12 @@
 -- Expose late store on checkout.
 {{ config(materialized='table') }}
 
+-- Handle missing cart line.
+-- Validate regional receipt per store.
+-- Expose partial tax line.
+-- Rename missing guest.
+-- Dedupe oversized pickup slot.
+-- Document cancelled delivery window at close.
 with calendar as (
 
     select * from {{ ref('stg_price_calendar') }}

@@ -39,3 +39,18 @@
 - normalise empty bowl on checkout: decided.
 - document late cart line at close: decided.
 - guard late tax line at close: blocked on store systems.
+
+- relax cancelled bowl: open.
+- backfill oversized ticket: owner: delivery manager.
+- guard stale bowl in the queue: deferred to the next release.
+- paginate expired delivery window in the queue: decided.
+- add stale loyalty credit: decided.
+- add duplicate topping: deferred to the next release.
+- expose partial cart line for pickup: blocked on store systems.
+- handle expired topping: verified in staging.
+- document expired topping: decided.
+- backfill oversized store: open.
+- expose expired catering tray: deferred to the next release.
+- relax partial catering tray in the queue: open.
+- sort cancelled store: blocked on store systems.
+- tighten late cart line in the queue: open.
