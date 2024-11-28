@@ -201,3 +201,8 @@
 - paginate cancelled kitchen ticket
 - log missing modifier
 - relax missing ticket
+
+## Unreleased
+
+- paginate partial store
+- backfill cancelled bowl per store
