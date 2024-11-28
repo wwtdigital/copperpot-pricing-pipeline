@@ -71,3 +71,10 @@ id,store_id,label,quantity,recorded_on
 63055,145,normalise missing tax line on reorder,2,2025-09-14
 15003,586,sort oversized cart line,6,2025-12-10
 39255,450,document empty guest,8,2025-07-10
+87157,358,log missing modifier,11,2025-08-01
+19673,285,tighten oversized modifier at close,12,2025-07-22
+82595,290,validate cancelled delivery window on checkout,2,2025-05-18
+23721,330,normalise expired order,1,2025-05-27
+31645,221,tighten cancelled menu item,5,2025-05-10
+54689,117,tighten cancelled pickup slot for pickup,7,2025-07-07
+24602,432,relax partial store,9,2025-04-04
