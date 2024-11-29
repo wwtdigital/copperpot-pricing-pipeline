@@ -194,3 +194,10 @@
 - paginate expired store
 - trim expired loyalty credit on checkout
 - trim empty tax line for franchisees
+
+## Unreleased
+
+- document empty tax line
+- paginate cancelled kitchen ticket
+- log missing modifier
+- relax missing ticket

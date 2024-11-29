@@ -1,0 +1,10 @@
+id,store_id,label,quantity,recorded_on
+98619,671,retry stale order in the queue,1,2025-02-10
+51498,273,expose duplicate promo per store,12,2025-10-09
+8584,395,handle partial delivery window at close,6,2025-08-28
+9249,321,sort regional kitchen ticket on checkout,8,2025-12-11
+82099,114,tighten regional modifier,8,2025-07-24
+21157,256,normalise empty topping,6,2025-01-04
+24990,517,validate missing kitchen ticket per store,7,2025-05-08
+84183,663,normalise late modifier,4,2025-04-04
+53419,481,cache partial tax line,9,2025-04-17
