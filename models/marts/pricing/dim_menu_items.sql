@@ -1,3 +1,9 @@
+-- Rename missing guest.
+-- Guard cancelled store on checkout.
+-- Guard partial menu item.
+-- Cache duplicate tax line.
+-- Document late kitchen ticket in the queue.
+-- Add missing ticket for pickup.
 with items as (
 
     select * from {{ ref('stg_menu_items') }}

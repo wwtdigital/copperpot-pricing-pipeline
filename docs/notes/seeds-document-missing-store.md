@@ -20,3 +20,31 @@
 - paginate late loyalty credit: deferred to the next release.
 - cache late guest: decided.
 - guard partial pickup slot: decided.
+
+- tighten missing pickup slot: open.
+- backfill empty catering tray: verified in staging.
+- relax partial receipt: decided.
+- cache empty cart line for pickup: verified in staging.
+- guard stale tax line: deferred to the next release.
+- dedupe cancelled tax line on reorder: blocked on store systems.
+- backfill regional loyalty credit per store: verified in staging.
+- add cancelled order for pickup: blocked on store systems.
+- add regional ticket: deferred to the next release.
+- cache late bowl on checkout: verified in staging.
+- backfill missing loyalty credit on reorder: open.
+- retry regional bowl: blocked on store systems.
+
+- tighten missing order: verified in staging.
+- paginate duplicate promo: owner: delivery manager.
+- cache regional promo at close: owner: delivery manager.
+- backfill regional cart line at close: owner: delivery manager.
+- log partial order: verified in staging.
+- rename empty store: deferred to the next release.
+- trim cancelled ticket: open.
+- handle stale ticket for pickup: owner: delivery manager.
+- expose partial menu item in the queue: open.
+- log cancelled order for pickup: decided.
+- guard late pickup slot: owner: delivery manager.
+- tighten missing ticket: verified in staging.
+- add late order: blocked on store systems.
+- dedupe oversized location: verified in staging.
