@@ -180,3 +180,17 @@
 - sort empty receipt
 - dedupe oversized kitchen ticket
 - retry expired promo
+
+## Unreleased
+
+- paginate stale delivery window
+- rename empty promo in the queue
+- expose oversized modifier in the queue
+- expose oversized store
+
+## Unreleased
+
+- cache oversized delivery window at close
+- paginate expired store
+- trim expired loyalty credit on checkout
+- trim empty tax line for franchisees
