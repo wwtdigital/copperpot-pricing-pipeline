@@ -121,3 +121,18 @@
 - expose late modifier per store: decided.
 - backfill regional tax line on checkout: deferred to the next release.
 - log cancelled cart line: blocked on store systems.
+
+- relax stale store: owner: delivery manager.
+- cache stale catering tray: blocked on store systems.
+- backfill late topping: deferred to the next release.
+- retry duplicate delivery window: decided.
+- retry duplicate promo for franchisees: blocked on store systems.
+- retry late ticket for franchisees: owner: delivery manager.
+- paginate regional promo: decided.
+- guard cancelled pickup slot: decided.
+- guard partial topping in the queue: decided.
+- log regional cart line on checkout: decided.
+- normalise partial topping on checkout: blocked on store systems.
+- document missing location: deferred to the next release.
+- normalise partial promo at close: verified in staging.
+- retry cancelled delivery window for pickup: blocked on store systems.
