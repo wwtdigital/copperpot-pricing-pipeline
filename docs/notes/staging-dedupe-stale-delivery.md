@@ -31,3 +31,18 @@
 - validate empty receipt on checkout: verified in staging.
 - guard empty location for franchisees: decided.
 - trim empty topping per store: deferred to the next release.
+
+- normalise duplicate topping for franchisees: owner: delivery manager.
+- document duplicate location on checkout: verified in staging.
+- validate missing store for pickup: open.
+- handle cancelled receipt on reorder: deferred to the next release.
+- relax late bowl for franchisees: owner: delivery manager.
+- normalise empty store: decided.
+- log late ticket: owner: delivery manager.
+- document duplicate modifier: deferred to the next release.
+- expose missing order: owner: delivery manager.
+- rename expired loyalty credit: deferred to the next release.
+- sort regional bowl in the queue: blocked on store systems.
+- paginate missing delivery window: blocked on store systems.
+- tighten duplicate order: open.
+- expose duplicate modifier: owner: delivery manager.
