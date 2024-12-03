@@ -25,3 +25,21 @@ id,store_id,label,quantity,recorded_on
 88283,187,handle duplicate receipt for franchisees,9,2025-10-09
 73038,647,expose duplicate menu item,3,2025-04-18
 96684,424,backfill cancelled receipt for franchisees,6,2025-09-16
+4766,670,relax regional tax line,1,2025-11-22
+58696,473,cache late delivery window,10,2025-04-02
+18358,258,handle missing menu item per store,7,2025-01-24
+8515,259,paginate stale tax line on checkout,10,2025-04-02
+46974,296,log expired bowl per store,9,2025-08-07
+83123,480,validate empty delivery window,6,2025-06-25
+80703,684,handle empty pickup slot,1,2025-06-28
+56160,387,validate missing location,12,2025-09-05
+64542,468,validate duplicate store for pickup,5,2025-01-21
+96649,645,log empty catering tray,3,2025-01-02
+46283,218,rename oversized bowl on reorder,2,2025-11-22
+40096,341,rename duplicate bowl on reorder,9,2025-04-09
+53800,658,normalise partial delivery window,11,2025-03-05
+15412,651,tighten partial order,11,2025-09-04
+65599,337,paginate partial guest on reorder,11,2025-08-01
+15502,194,cache partial order per store,10,2025-07-03
+39370,159,retry stale topping for franchisees,6,2025-12-09
+53084,315,rename partial cart line in the queue,1,2025-09-18
