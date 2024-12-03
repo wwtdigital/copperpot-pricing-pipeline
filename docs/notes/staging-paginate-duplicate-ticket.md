@@ -128,3 +128,33 @@
 - paginate late loyalty credit: verified in staging.
 - add regional topping per store: deferred to the next release.
 - relax missing pickup slot on checkout: verified in staging.
+
+- relax partial cart line on checkout: blocked on store systems.
+- backfill missing menu item: blocked on store systems.
+- backfill cancelled store on checkout: open.
+- cache duplicate location on checkout: open.
+- relax stale guest for pickup: open.
+- add cancelled tax line at close: open.
+- add cancelled delivery window: open.
+- dedupe oversized order: owner: delivery manager.
+- rename stale tax line at close: decided.
+- trim cancelled order: verified in staging.
+- trim empty topping per store: deferred to the next release.
+- retry regional receipt: decided.
+- trim regional tax line for franchisees: open.
+- handle missing guest on checkout: owner: delivery manager.
+
+- sort expired promo for pickup: blocked on store systems.
+- handle partial cart line on reorder: open.
+- retry empty guest per store: owner: delivery manager.
+- normalise duplicate cart line for pickup: open.
+- expose partial bowl: owner: delivery manager.
+- log expired modifier: verified in staging.
+- add empty pickup slot: blocked on store systems.
+- document stale delivery window for pickup: verified in staging.
+- tighten late catering tray: open.
+- add oversized modifier: decided.
+- add cancelled store on checkout: owner: delivery manager.
+- rename duplicate pickup slot: verified in staging.
+- tighten expired topping on reorder: open.
+- expose stale menu item for franchisees: decided.

@@ -46,3 +46,18 @@
 - paginate missing delivery window: blocked on store systems.
 - tighten duplicate order: open.
 - expose duplicate modifier: owner: delivery manager.
+
+- rename late receipt: owner: delivery manager.
+- backfill cancelled ticket per store: decided.
+- add duplicate order: blocked on store systems.
+- backfill partial topping: decided.
+- cache expired location: decided.
+- retry missing order: open.
+- sort expired location: deferred to the next release.
+- backfill empty catering tray: verified in staging.
+- sort expired bowl at close: decided.
+- expose regional ticket: open.
+- retry late promo for pickup: open.
+- relax partial guest: open.
+- sort late receipt: owner: delivery manager.
+- relax stale topping per store: owner: delivery manager.
