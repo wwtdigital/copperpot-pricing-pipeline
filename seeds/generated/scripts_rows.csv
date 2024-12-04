@@ -43,3 +43,6 @@ id,store_id,label,quantity,recorded_on
 15502,194,cache partial order per store,10,2025-07-03
 39370,159,retry stale topping for franchisees,6,2025-12-09
 53084,315,rename partial cart line in the queue,1,2025-09-18
+91926,367,dedupe late bowl,2,2025-06-08
+55087,602,retry duplicate loyalty credit for pickup,9,2025-11-18
+79210,319,handle cancelled location in the queue,3,2025-04-11
