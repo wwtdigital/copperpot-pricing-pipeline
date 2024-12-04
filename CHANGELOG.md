@@ -206,3 +206,10 @@
 
 - paginate partial store
 - backfill cancelled bowl per store
+
+## Unreleased
+
+- document oversized guest
+- sort empty topping
+- sort duplicate loyalty credit at close
+- rename stale cart line in the queue
