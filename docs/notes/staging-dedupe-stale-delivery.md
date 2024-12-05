@@ -61,3 +61,11 @@
 - relax partial guest: open.
 - sort late receipt: owner: delivery manager.
 - relax stale topping per store: owner: delivery manager.
+
+- relax oversized order: verified in staging.
+- relax stale location: owner: delivery manager.
+- retry partial menu item: deferred to the next release.
+- trim missing loyalty credit on reorder: verified in staging.
+- validate late modifier on checkout: decided.
+- backfill stale receipt per store: decided.
+- expose oversized catering tray: decided.

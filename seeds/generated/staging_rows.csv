@@ -39,3 +39,12 @@ id,store_id,label,quantity,recorded_on
 15194,563,handle cancelled loyalty credit,8,2025-08-08
 84324,186,paginate missing menu item,4,2025-09-19
 85938,260,sort oversized order for franchisees,6,2025-07-25
+94237,593,rename oversized bowl per store,6,2025-01-05
+26176,171,cache missing bowl,10,2025-06-07
+88840,195,backfill oversized menu item,12,2025-12-20
+23088,496,sort oversized ticket at close,4,2025-10-24
+46138,323,document stale modifier per store,9,2025-08-04
+79888,359,rename late pickup slot,4,2025-02-06
+59692,536,guard late promo per store,11,2025-03-04
+55472,439,relax cancelled cart line for franchisees,10,2025-11-13
+86329,175,rename regional ticket on reorder,8,2025-01-22
