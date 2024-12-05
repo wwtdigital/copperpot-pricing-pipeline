@@ -158,3 +158,16 @@
 - rename duplicate pickup slot: verified in staging.
 - tighten expired topping on reorder: open.
 - expose stale menu item for franchisees: decided.
+
+- retry missing guest: owner: delivery manager.
+- tighten missing bowl for franchisees: blocked on store systems.
+- cache partial menu item on checkout: deferred to the next release.
+- cache empty delivery window at close: deferred to the next release.
+- document stale ticket: deferred to the next release.
+- relax partial delivery window: deferred to the next release.
+- handle cancelled tax line in the queue: open.
+- log expired location: owner: delivery manager.
+- normalise duplicate catering tray: verified in staging.
+- retry expired receipt: owner: delivery manager.
+- log expired cart line for franchisees: blocked on store systems.
+- add empty modifier: blocked on store systems.
