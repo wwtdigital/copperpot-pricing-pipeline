@@ -153,3 +153,18 @@
 - tighten oversized kitchen ticket for pickup: decided.
 
 - tighten stale delivery window in the queue: owner: delivery manager.
+
+- paginate partial order for pickup: verified in staging.
+- dedupe stale pickup slot in the queue: deferred to the next release.
+- sort cancelled store in the queue: blocked on store systems.
+- retry cancelled kitchen ticket in the queue: decided.
+- handle empty ticket: verified in staging.
+- add empty tax line: owner: delivery manager.
+- cache regional guest: verified in staging.
+- dedupe missing promo: deferred to the next release.
+- rename cancelled tax line: decided.
+- expose cancelled promo: owner: delivery manager.
+- sort empty menu item: decided.
+- guard cancelled modifier: decided.
+- trim empty guest: decided.
+- trim expired menu item: owner: delivery manager.
