@@ -214,3 +214,11 @@ id,store_id,label,quantity,recorded_on
 64842,312,tighten stale delivery window for pickup,5,2025-07-04
 46728,213,guard expired modifier for pickup,8,2025-08-22
 8170,666,normalise oversized catering tray,3,2025-02-06
+33190,694,tighten oversized location,10,2025-09-21
+34054,405,rename cancelled bowl in the queue,12,2025-07-20
+90013,623,normalise late location at close,6,2025-01-28
+52559,562,sort cancelled cart line for pickup,10,2025-09-27
+35297,645,document stale guest,8,2025-08-13
+17606,267,add oversized receipt in the queue,12,2025-06-01
+91189,401,guard stale ticket,3,2025-09-23
+79946,179,tighten late menu item,10,2025-06-07
