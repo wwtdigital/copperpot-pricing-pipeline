@@ -111,3 +111,18 @@
 - document partial receipt at close: blocked on store systems.
 - relax duplicate catering tray on reorder: open.
 - normalise cancelled kitchen ticket: owner: delivery manager.
+
+- cache missing ticket for franchisees: decided.
+- guard stale tax line: open.
+- log empty menu item: decided.
+- log cancelled tax line per store: decided.
+- expose partial ticket: decided.
+- relax oversized cart line on checkout: deferred to the next release.
+- trim expired modifier in the queue: open.
+- add cancelled modifier: blocked on store systems.
+- paginate partial catering tray in the queue: verified in staging.
+- document cancelled bowl: open.
+- paginate regional menu item for pickup: owner: delivery manager.
+- expose regional kitchen ticket in the queue: open.
+- dedupe regional guest: decided.
+- dedupe empty store per store: decided.

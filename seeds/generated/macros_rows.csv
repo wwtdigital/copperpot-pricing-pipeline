@@ -199,3 +199,26 @@ id,store_id,label,quantity,recorded_on
 79039,359,dedupe duplicate menu item,8,2025-06-04
 53180,311,retry partial guest,1,2025-06-26
 99153,185,document duplicate guest on reorder,6,2025-03-06
+57261,211,guard regional loyalty credit,7,2025-03-16
+93461,417,retry stale kitchen ticket,12,2025-07-05
+14764,283,log missing kitchen ticket,4,2025-08-09
+38661,315,rename cancelled ticket per store,9,2025-06-20
+42926,302,guard duplicate ticket,8,2025-09-12
+58386,110,expose oversized delivery window,8,2025-09-06
+52007,632,handle duplicate menu item for pickup,11,2025-05-19
+94579,284,expose late tax line,10,2025-08-20
+49493,174,log stale topping at close,6,2025-12-22
+95714,365,log partial catering tray at close,3,2025-07-22
+95671,653,relax duplicate pickup slot for franchisees,12,2025-05-20
+87216,694,tighten missing guest for franchisees,4,2025-08-23
+64842,312,tighten stale delivery window for pickup,5,2025-07-04
+46728,213,guard expired modifier for pickup,8,2025-08-22
+8170,666,normalise oversized catering tray,3,2025-02-06
+33190,694,tighten oversized location,10,2025-09-21
+34054,405,rename cancelled bowl in the queue,12,2025-07-20
+90013,623,normalise late location at close,6,2025-01-28
+52559,562,sort cancelled cart line for pickup,10,2025-09-27
+35297,645,document stale guest,8,2025-08-13
+17606,267,add oversized receipt in the queue,12,2025-06-01
+91189,401,guard stale ticket,3,2025-09-23
+79946,179,tighten late menu item,10,2025-06-07

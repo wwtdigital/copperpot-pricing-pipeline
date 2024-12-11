@@ -136,3 +136,35 @@
 - document missing location: deferred to the next release.
 - normalise partial promo at close: verified in staging.
 - retry cancelled delivery window for pickup: blocked on store systems.
+
+- expose expired pickup slot: verified in staging.
+- guard partial order for pickup: owner: delivery manager.
+- trim expired catering tray in the queue: decided.
+- tighten duplicate loyalty credit: decided.
+- dedupe missing location for pickup: open.
+- sort regional guest: open.
+- relax cancelled modifier: decided.
+- relax stale bowl for pickup: deferred to the next release.
+- relax empty ticket on checkout: open.
+- retry expired order in the queue: open.
+- cache partial bowl: deferred to the next release.
+- validate partial promo: open.
+- handle oversized guest: open.
+- tighten oversized kitchen ticket for pickup: decided.
+
+- tighten stale delivery window in the queue: owner: delivery manager.
+
+- paginate partial order for pickup: verified in staging.
+- dedupe stale pickup slot in the queue: deferred to the next release.
+- sort cancelled store in the queue: blocked on store systems.
+- retry cancelled kitchen ticket in the queue: decided.
+- handle empty ticket: verified in staging.
+- add empty tax line: owner: delivery manager.
+- cache regional guest: verified in staging.
+- dedupe missing promo: deferred to the next release.
+- rename cancelled tax line: decided.
+- expose cancelled promo: owner: delivery manager.
+- sort empty menu item: decided.
+- guard cancelled modifier: decided.
+- trim empty guest: decided.
+- trim expired menu item: owner: delivery manager.
