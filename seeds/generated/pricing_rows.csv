@@ -146,3 +146,10 @@ id,store_id,label,quantity,recorded_on
 95531,184,add partial menu item at close,10,2025-05-19
 34964,457,handle duplicate guest in the queue,6,2025-07-08
 19102,453,trim regional bowl,7,2025-09-07
+67403,413,document empty delivery window,12,2025-05-03
+18573,268,log expired kitchen ticket,2,2025-01-17
+7728,650,cache duplicate promo on checkout,12,2025-10-15
+66483,525,validate cancelled cart line,12,2025-07-04
+81519,677,document empty bowl,11,2025-04-09
+18853,440,trim oversized store,4,2025-08-17
+77175,616,retry duplicate order,10,2025-05-25
