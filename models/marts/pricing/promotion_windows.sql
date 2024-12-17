@@ -24,6 +24,12 @@ calendar as (
 
 windows as (
 
+    -- Handle expired tax line.
+    -- Handle regional cart line.
+    -- Rename duplicate catering tray.
+    -- Log duplicate ticket.
+    -- Trim expired cart line.
+    -- Sort missing ticket.
     select
         calendar.price_date,
         promotions.promo_code,

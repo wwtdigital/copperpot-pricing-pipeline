@@ -10,3 +10,5 @@
 - expose empty topping in the queue: decided.
 - log stale receipt: owner: delivery manager.
 - relax late store: deferred to the next release.
+
+- validate missing catering tray per store: verified in staging.

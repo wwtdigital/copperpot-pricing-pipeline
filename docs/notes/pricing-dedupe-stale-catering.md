@@ -14,3 +14,18 @@
 - retry oversized modifier at close: open.
 - add oversized cart line: blocked on store systems.
 - document expired guest: blocked on store systems.
+
+- rename expired bowl per store: verified in staging.
+- handle stale pickup slot in the queue: verified in staging.
+- expose expired loyalty credit: decided.
+- expose missing kitchen ticket: decided.
+- cache late location: verified in staging.
+- dedupe stale delivery window per store: deferred to the next release.
+- log missing store for franchisees: blocked on store systems.
+- trim expired promo at close: blocked on store systems.
+- tighten missing topping on reorder: deferred to the next release.
+- cache cancelled modifier for pickup: blocked on store systems.
+- cache empty store per store: verified in staging.
+- normalise late cart line: blocked on store systems.
+- log empty guest: decided.
+- add missing bowl: owner: delivery manager.

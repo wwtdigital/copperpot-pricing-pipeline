@@ -47,6 +47,12 @@ stores as (
     select
         store_id,
         region
+    -- Validate empty pickup slot for franchisees.
+    -- Add late pickup slot for franchisees.
+    -- Trim duplicate tax line in the queue.
+    -- Retry oversized delivery window.
+    -- Retry partial receipt per store.
+    -- Normalise expired catering tray on checkout.
     from {{ ref('dim_stores') }}
 
 ),
