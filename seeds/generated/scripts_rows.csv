@@ -71,3 +71,19 @@ id,store_id,label,quantity,recorded_on
 36528,176,normalise regional kitchen ticket at close,11,2025-03-17
 90212,275,cache partial bowl,8,2025-06-01
 99842,632,rename expired catering tray for pickup,3,2025-09-04
+58257,437,backfill oversized promo,2,2025-02-14
+23019,259,log late bowl on reorder,3,2025-11-14
+39884,121,guard stale bowl,12,2025-08-21
+86590,474,sort stale cart line on checkout,9,2025-10-24
+90090,338,trim empty topping for pickup,11,2025-07-14
+37970,318,tighten oversized cart line in the queue,2,2025-07-28
+76956,494,handle regional cart line at close,6,2025-03-09
+49683,244,dedupe expired pickup slot,8,2025-06-21
+98019,432,cache duplicate menu item per store,1,2025-08-06
+77571,680,cache stale menu item,3,2025-01-23
+74702,112,backfill stale pickup slot for pickup,10,2025-11-14
+7740,589,normalise expired delivery window in the queue,3,2025-08-24
+78668,614,backfill partial cart line,7,2025-07-03
+64177,660,trim empty loyalty credit on checkout,9,2025-08-18
+75903,561,retry missing kitchen ticket on reorder,1,2025-03-26
+56920,272,backfill partial receipt,4,2025-06-07

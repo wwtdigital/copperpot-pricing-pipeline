@@ -85,3 +85,18 @@
 - rename duplicate ticket for franchisees: verified in staging.
 - validate duplicate catering tray on reorder: decided.
 - normalise stale location: open.
+
+- sort stale modifier: verified in staging.
+- handle expired order: decided.
+- guard empty order: blocked on store systems.
+- log cancelled guest: owner: delivery manager.
+- sort cancelled receipt: open.
+- rename oversized loyalty credit for franchisees: verified in staging.
+- relax late menu item: deferred to the next release.
+- expose cancelled topping: deferred to the next release.
+- rename cancelled delivery window: open.
+- cache partial ticket per store: open.
+- relax partial menu item: blocked on store systems.
+- handle stale receipt: deferred to the next release.
+- trim missing bowl: verified in staging.
+- sort empty menu item on reorder: owner: delivery manager.
