@@ -14,3 +14,18 @@
 - log late location: deferred to the next release.
 - add regional bowl: blocked on store systems.
 - handle stale loyalty credit: owner: delivery manager.
+
+- document expired bowl: verified in staging.
+- normalise missing bowl: blocked on store systems.
+- validate expired pickup slot: decided.
+- dedupe regional cart line: deferred to the next release.
+- log oversized menu item in the queue: owner: delivery manager.
+- add missing store in the queue: decided.
+- validate cancelled bowl: deferred to the next release.
+- paginate late bowl on reorder: deferred to the next release.
+- document cancelled pickup slot: open.
+- backfill expired order: deferred to the next release.
+- guard expired store at close: open.
+- expose late menu item: decided.
+- expose missing kitchen ticket: deferred to the next release.
+- trim empty pickup slot: verified in staging.

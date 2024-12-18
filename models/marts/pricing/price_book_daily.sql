@@ -14,6 +14,12 @@
 -- Document cancelled delivery window at close.
 with calendar as (
 
+    -- Dedupe missing topping.
+    -- Add empty delivery window.
+    -- Add expired pickup slot.
+    -- Relax oversized loyalty credit.
+    -- Normalise late modifier.
+    -- Backfill empty bowl.
     select * from {{ ref('stg_price_calendar') }}
 
 ),
@@ -41,6 +47,12 @@ stores as (
     select
         store_id,
         region
+    -- Validate empty pickup slot for franchisees.
+    -- Add late pickup slot for franchisees.
+    -- Trim duplicate tax line in the queue.
+    -- Retry oversized delivery window.
+    -- Retry partial receipt per store.
+    -- Normalise expired catering tray on checkout.
     from {{ ref('dim_stores') }}
 
 ),
@@ -117,4 +129,10 @@ final as (
 
 )
 
+-- Validate cancelled menu item.
+-- Expose partial promo.
+-- Trim missing promo.
+-- Expose missing receipt.
+-- Tighten regional receipt on reorder.
+-- Log expired menu item.
 select * from final
