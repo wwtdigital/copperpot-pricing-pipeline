@@ -119,3 +119,23 @@ id,store_id,label,quantity,recorded_on
 60401,317,add cancelled modifier,3,2025-11-01
 15848,287,relax late loyalty credit,11,2025-11-04
 89254,390,handle regional order for franchisees,3,2025-02-12
+83186,160,paginate duplicate guest on checkout,11,2025-02-08
+75596,228,trim regional promo for pickup,2,2025-01-02
+83700,420,backfill cancelled kitchen ticket for franchisees,4,2025-05-14
+94939,578,expose cancelled catering tray,8,2025-12-16
+65882,307,normalise regional kitchen ticket for franchisees,9,2025-09-25
+46699,589,log late ticket per store,2,2025-09-21
+72199,474,cache oversized tax line,2,2025-04-01
+61052,111,retry stale ticket on reorder,1,2025-09-27
+43006,459,normalise partial tax line,4,2025-07-12
+69956,559,tighten oversized receipt,3,2025-10-05
+51502,219,rename stale menu item,2,2025-07-21
+16768,393,validate regional cart line,10,2025-06-08
+95487,458,document late location,5,2025-03-14
+89723,435,tighten stale topping per store,3,2025-01-25
+75825,585,document late store for franchisees,11,2025-11-07
+43629,562,cache late kitchen ticket,6,2025-10-26
+71001,183,guard regional receipt at close,10,2025-03-26
+44244,670,expose cancelled promo,12,2025-05-06
+24597,450,log duplicate tax line,8,2025-07-26
+63878,179,sort regional location,10,2025-11-05
