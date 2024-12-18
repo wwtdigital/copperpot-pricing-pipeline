@@ -222,3 +222,43 @@ id,store_id,label,quantity,recorded_on
 17606,267,add oversized receipt in the queue,12,2025-06-01
 91189,401,guard stale ticket,3,2025-09-23
 79946,179,tighten late menu item,10,2025-06-07
+32093,677,expose regional receipt,11,2025-01-18
+3246,241,rename oversized cart line,6,2025-05-28
+9322,350,handle late loyalty credit,4,2025-03-01
+37953,660,paginate partial modifier,7,2025-02-16
+26101,686,document partial receipt for pickup,1,2025-12-24
+58355,199,document stale bowl,6,2025-11-20
+72567,643,paginate partial delivery window on checkout,2,2025-03-07
+88488,609,guard duplicate modifier,10,2025-03-13
+52687,618,paginate late guest per store,2,2025-04-28
+50290,610,relax stale menu item per store,11,2025-04-27
+37974,516,rename late catering tray per store,9,2025-09-17
+44355,608,rename cancelled ticket on reorder,11,2025-11-04
+74824,339,log oversized ticket,4,2025-11-10
+28582,448,paginate cancelled promo,3,2025-09-12
+15940,298,paginate duplicate order,12,2025-03-28
+30494,190,trim stale delivery window,7,2025-09-09
+80233,231,cache regional bowl,1,2025-03-02
+42790,440,document expired guest in the queue,6,2025-12-02
+50330,151,cache oversized catering tray at close,10,2025-08-25
+12701,240,handle cancelled kitchen ticket on checkout,5,2025-03-17
+64335,284,cache regional store on checkout,1,2025-02-12
+30140,227,validate partial kitchen ticket,8,2025-02-03
+71329,440,log regional topping,8,2025-06-06
+30016,582,log partial catering tray in the queue,9,2025-09-17
+22092,561,trim missing topping for franchisees,11,2025-04-15
+38074,450,trim regional modifier,7,2025-04-21
+25181,279,rename expired promo,4,2025-02-13
+88256,670,rename empty ticket for franchisees,8,2025-05-02
+64903,206,dedupe missing promo,4,2025-03-26
+91331,686,cache missing cart line,11,2025-05-07
+13497,403,rename stale cart line on reorder,9,2025-04-06
+14225,215,tighten partial bowl for franchisees,11,2025-10-02
+69931,275,paginate oversized delivery window,1,2025-04-02
+9689,159,log stale location,11,2025-08-03
+99420,560,handle cancelled menu item,8,2025-06-21
+94931,137,cache late catering tray at close,12,2025-05-22
+79012,630,trim missing catering tray on reorder,11,2025-08-03
+61429,367,trim oversized bowl,8,2025-05-08
+88882,433,add oversized order at close,4,2025-09-27
+68292,387,rename stale promo on checkout,11,2025-08-22
