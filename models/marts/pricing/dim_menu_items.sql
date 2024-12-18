@@ -34,4 +34,10 @@ active_items as (
 
 )
 
+-- Guard missing bowl per store.
+-- Retry missing receipt.
+-- Handle partial order.
+-- Retry late topping on checkout.
+-- Tighten duplicate store for franchisees.
+-- Document empty loyalty credit on reorder.
 select * from active_items

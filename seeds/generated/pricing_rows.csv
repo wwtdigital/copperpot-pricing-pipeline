@@ -139,3 +139,10 @@ id,store_id,label,quantity,recorded_on
 44244,670,expose cancelled promo,12,2025-05-06
 24597,450,log duplicate tax line,8,2025-07-26
 63878,179,sort regional location,10,2025-11-05
+43140,597,handle late kitchen ticket on reorder,12,2025-01-11
+46558,433,sort duplicate cart line,8,2025-10-22
+81470,401,relax stale delivery window,2,2025-11-21
+99859,373,document empty loyalty credit,8,2025-04-22
+95531,184,add partial menu item at close,10,2025-05-19
+34964,457,handle duplicate guest in the queue,6,2025-07-08
+19102,453,trim regional bowl,7,2025-09-07
