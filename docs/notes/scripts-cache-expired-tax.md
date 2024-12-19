@@ -111,3 +111,18 @@
 - document late bowl: deferred to the next release.
 - paginate empty store: open.
 - guard cancelled ticket: deferred to the next release.
+
+- tighten oversized pickup slot: decided.
+- add cancelled topping for franchisees: decided.
+- sort expired cart line: owner: delivery manager.
+- paginate expired ticket: blocked on store systems.
+- add duplicate catering tray: blocked on store systems.
+- cache missing cart line: blocked on store systems.
+- cache oversized catering tray: open.
+- normalise empty order: blocked on store systems.
+- backfill cancelled loyalty credit on reorder: open.
+- handle expired pickup slot: deferred to the next release.
+- relax missing modifier: open.
+- sort partial pickup slot: blocked on store systems.
+- handle missing modifier: deferred to the next release.
+- trim stale guest in the queue: open.
