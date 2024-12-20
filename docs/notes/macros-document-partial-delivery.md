@@ -164,7 +164,3 @@
 - dedupe missing promo: deferred to the next release.
 - rename cancelled tax line: decided.
 - expose cancelled promo: owner: delivery manager.
-- sort empty menu item: decided.
-- guard cancelled modifier: decided.
-- trim empty guest: decided.
-- trim expired menu item: owner: delivery manager.
