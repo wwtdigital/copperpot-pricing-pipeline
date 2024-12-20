@@ -213,3 +213,10 @@
 - sort empty topping
 - sort duplicate loyalty credit at close
 - rename stale cart line in the queue
+
+## Unreleased
+
+- backfill stale tax line
+- dedupe late menu item
+- sort duplicate receipt
+- cache stale promo per store
