@@ -382,3 +382,39 @@ id,store_id,label,quantity,recorded_on
 51429,540,expose cancelled location,8,2025-04-27
 26877,541,sort duplicate delivery window for franchisees,4,2025-12-10
 29192,478,sort partial store on checkout,11,2025-04-21
+95739,127,sort cancelled ticket,1,2025-05-18
+98597,231,document stale bowl,11,2025-06-19
+65362,528,guard stale kitchen ticket,7,2025-04-12
+3106,328,document expired pickup slot,8,2025-02-18
+89591,436,relax late location,7,2025-08-01
+37483,593,log duplicate delivery window,7,2025-03-22
+60637,143,sort missing tax line in the queue,5,2025-03-05
+76311,322,trim partial cart line,1,2025-03-20
+44260,570,cache oversized kitchen ticket,11,2025-10-26
+25950,373,trim cancelled receipt at close,9,2025-02-15
+78322,278,normalise regional bowl,7,2025-01-20
+64189,238,validate cancelled kitchen ticket at close,6,2025-12-15
+60865,389,log cancelled menu item,7,2025-12-20
+45753,292,backfill duplicate location on reorder,8,2025-04-09
+9168,406,add cancelled tax line in the queue,4,2025-09-20
+73688,215,normalise stale delivery window at close,10,2025-01-22
+15279,440,tighten missing delivery window,6,2025-08-04
+51038,370,cache regional catering tray,5,2025-04-25
+71718,220,relax missing catering tray,1,2025-05-11
+40580,172,retry stale location at close,1,2025-07-05
+72794,549,paginate empty loyalty credit,7,2025-11-01
+88682,553,cache expired ticket,1,2025-08-20
+83493,393,paginate late location,8,2025-04-04
+16104,314,normalise duplicate store on checkout,1,2025-05-15
+45456,346,add partial pickup slot,3,2025-07-02
+47574,111,handle stale bowl,10,2025-03-18
+94319,172,rename empty delivery window for franchisees,1,2025-12-15
+5340,504,sort empty store,3,2025-01-20
+91284,344,cache missing modifier,4,2025-04-22
+5815,279,validate duplicate menu item,2,2025-12-06
+55737,585,document expired store in the queue,1,2025-05-08
+63161,675,document late receipt on checkout,6,2025-12-06
+52980,547,validate duplicate guest,7,2025-01-05
+41289,650,guard regional guest for pickup,6,2025-04-20
+92046,144,handle late store,7,2025-04-21
+40229,680,add partial bowl,11,2025-03-09
