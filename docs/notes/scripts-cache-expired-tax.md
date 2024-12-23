@@ -126,3 +126,21 @@
 - sort partial pickup slot: blocked on store systems.
 - handle missing modifier: deferred to the next release.
 - trim stale guest in the queue: open.
+
+- paginate duplicate catering tray: deferred to the next release.
+- dedupe late promo on reorder: decided.
+- backfill cancelled bowl: owner: delivery manager.
+- handle oversized modifier at close: owner: delivery manager.
+- backfill late pickup slot: decided.
+- trim stale order in the queue: owner: delivery manager.
+- relax regional tax line: owner: delivery manager.
+- document expired cart line: blocked on store systems.
+- dedupe late loyalty credit in the queue: decided.
+- rename partial catering tray on checkout: owner: delivery manager.
+- relax late order: decided.
+- normalise duplicate store at close: owner: delivery manager.
+- sort missing tax line: owner: delivery manager.
+- document regional bowl: blocked on store systems.
+
+- guard duplicate receipt for franchisees: decided.
+- cache cancelled pickup slot on reorder: owner: delivery manager.
