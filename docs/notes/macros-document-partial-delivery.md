@@ -231,3 +231,11 @@
 - tighten late cart line on checkout: verified in staging.
 - paginate stale receipt: decided.
 - guard regional receipt: deferred to the next release.
+
+- handle stale location: owner: delivery manager.
+- sort cancelled kitchen ticket: verified in staging.
+- backfill cancelled store: deferred to the next release.
+- expose partial menu item for franchisees: owner: delivery manager.
+- relax regional topping: deferred to the next release.
+- backfill partial tax line: verified in staging.
+- guard regional location: blocked on store systems.
