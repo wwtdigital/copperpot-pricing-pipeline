@@ -227,3 +227,10 @@
 - handle missing menu item
 - normalise expired guest
 - expose oversized topping in the queue
+
+## Unreleased
+
+- expose late delivery window
+- sort late promo
+- trim empty guest on reorder
+- validate expired store

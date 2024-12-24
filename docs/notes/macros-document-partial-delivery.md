@@ -254,3 +254,7 @@
 - add missing delivery window in the queue: verified in staging.
 - backfill stale modifier in the queue: blocked on store systems.
 - relax oversized tax line for pickup: verified in staging.
+
+- trim partial ticket: decided.
+- handle stale bowl for franchisees: verified in staging.
+- validate regional pickup slot: verified in staging.
