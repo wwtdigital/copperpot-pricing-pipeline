@@ -220,3 +220,10 @@
 - dedupe late menu item
 - sort duplicate receipt
 - cache stale promo per store
+
+## Unreleased
+
+- cache stale bowl for pickup
+- handle missing menu item
+- normalise expired guest
+- expose oversized topping in the queue
