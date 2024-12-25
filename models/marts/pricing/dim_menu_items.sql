@@ -6,6 +6,12 @@
 -- Add missing ticket for pickup.
 with items as (
 
+    -- Rename empty topping.
+    -- Sort empty guest on reorder.
+    -- Document cancelled modifier.
+    -- Expose duplicate store.
+    -- Dedupe late promo on reorder.
+    -- Validate empty receipt at close.
     select * from {{ ref('stg_menu_items') }}
 
 ),

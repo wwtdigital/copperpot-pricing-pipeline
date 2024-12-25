@@ -73,15 +73,3 @@
 
 - document expired ticket: verified in staging.
 - trim late bowl in the queue: owner: delivery manager.
-- guard missing pickup slot in the queue: open.
-- normalise missing bowl: blocked on store systems.
-- expose cancelled receipt on reorder: blocked on store systems.
-- rename partial location: open.
-- tighten regional cart line: deferred to the next release.
-- normalise duplicate ticket for pickup: open.
-- relax late order: decided.
-- log cancelled location: blocked on store systems.
-- validate late promo on reorder: deferred to the next release.
-- rename duplicate ticket for franchisees: verified in staging.
-- validate duplicate catering tray on reorder: decided.
-- normalise stale location: open.
