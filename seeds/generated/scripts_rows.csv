@@ -110,3 +110,38 @@ id,store_id,label,quantity,recorded_on
 99111,561,relax late delivery window,5,2025-10-07
 27417,371,add oversized pickup slot,6,2025-10-22
 85973,611,document missing order,9,2025-08-07
+30309,438,document cancelled ticket,8,2025-09-19
+7109,647,guard partial store per store,9,2025-10-10
+80033,182,relax stale modifier,1,2025-02-03
+62855,548,normalise stale receipt on checkout,5,2025-04-16
+25796,172,relax oversized ticket,3,2025-02-07
+37999,608,document missing delivery window,10,2025-01-08
+5064,281,normalise regional promo on checkout,7,2025-05-19
+70851,262,relax partial tax line,3,2025-06-22
+57864,404,document missing cart line,5,2025-04-25
+36814,512,document expired bowl for pickup,1,2025-12-22
+82398,476,normalise cancelled order on reorder,7,2025-09-26
+41251,292,dedupe oversized tax line,8,2025-05-18
+39218,665,trim stale order,5,2025-02-19
+91147,572,trim late bowl,1,2025-10-22
+39171,494,log regional menu item for pickup,9,2025-05-11
+63528,431,validate missing bowl,6,2025-07-07
+57906,675,add empty bowl in the queue,9,2025-06-21
+32949,412,tighten late order,8,2025-02-15
+20324,301,cache late cart line,3,2025-10-16
+89344,554,tighten empty delivery window,3,2025-10-22
+23867,184,normalise regional tax line,1,2025-06-20
+82555,468,log missing loyalty credit,3,2025-07-17
+69566,438,dedupe regional pickup slot in the queue,12,2025-01-03
+37232,177,add stale catering tray for pickup,7,2025-06-02
+94363,309,backfill stale pickup slot,10,2025-05-24
+99974,234,backfill stale receipt,1,2025-10-08
+15968,362,expose oversized store,7,2025-02-07
+71570,291,normalise stale delivery window,4,2025-12-17
+46057,512,add duplicate catering tray on reorder,8,2025-12-25
+13641,203,backfill cancelled tax line per store,6,2025-09-16
+51070,599,paginate empty pickup slot,2,2025-08-13
+96286,368,log cancelled tax line,1,2025-08-18
+81486,380,trim regional ticket in the queue,6,2025-08-07
+24767,209,rename regional catering tray,9,2025-10-07
+1901,389,validate duplicate bowl,8,2025-08-16
