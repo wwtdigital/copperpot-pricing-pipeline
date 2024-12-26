@@ -258,3 +258,18 @@
 - trim partial ticket: decided.
 - handle stale bowl for franchisees: verified in staging.
 - validate regional pickup slot: verified in staging.
+
+- retry partial pickup slot: decided.
+- expose expired promo: open.
+- rename regional catering tray for pickup: blocked on store systems.
+- trim stale catering tray on reorder: decided.
+- expose partial cart line: owner: delivery manager.
+- expose stale guest: open.
+- cache stale promo for franchisees: open.
+- cache regional ticket: decided.
+- log expired store for pickup: blocked on store systems.
+- backfill stale catering tray: blocked on store systems.
+- backfill duplicate pickup slot on reorder: owner: delivery manager.
+- document duplicate topping on checkout: verified in staging.
+- retry late modifier in the queue: open.
+- retry expired promo on checkout: open.
