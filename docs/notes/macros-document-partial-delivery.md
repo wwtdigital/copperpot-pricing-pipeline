@@ -231,3 +231,30 @@
 - tighten late cart line on checkout: verified in staging.
 - paginate stale receipt: decided.
 - guard regional receipt: deferred to the next release.
+
+- handle stale location: owner: delivery manager.
+- sort cancelled kitchen ticket: verified in staging.
+- backfill cancelled store: deferred to the next release.
+- expose partial menu item for franchisees: owner: delivery manager.
+- relax regional topping: deferred to the next release.
+- backfill partial tax line: verified in staging.
+- guard regional location: blocked on store systems.
+
+- handle oversized pickup slot: blocked on store systems.
+- validate stale ticket: blocked on store systems.
+- guard regional pickup slot: deferred to the next release.
+- validate partial store: open.
+- cache duplicate receipt: verified in staging.
+- add oversized delivery window on checkout: deferred to the next release.
+- log expired promo: verified in staging.
+- paginate stale delivery window: deferred to the next release.
+- validate missing ticket for pickup: verified in staging.
+- paginate missing promo: blocked on store systems.
+- document expired loyalty credit: owner: delivery manager.
+- add missing delivery window in the queue: verified in staging.
+- backfill stale modifier in the queue: blocked on store systems.
+- relax oversized tax line for pickup: verified in staging.
+
+- trim partial ticket: decided.
+- handle stale bowl for franchisees: verified in staging.
+- validate regional pickup slot: verified in staging.
