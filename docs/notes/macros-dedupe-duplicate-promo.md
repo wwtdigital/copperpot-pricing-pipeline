@@ -14,3 +14,31 @@
 - add stale promo: decided.
 - normalise missing tax line in the queue: deferred to the next release.
 - sort oversized store in the queue: blocked on store systems.
+
+- document partial order at close: blocked on store systems.
+- cache stale loyalty credit for franchisees: verified in staging.
+- cache partial menu item on checkout: owner: delivery manager.
+- document expired ticket in the queue: verified in staging.
+- dedupe empty delivery window for franchisees: verified in staging.
+- expose late modifier: verified in staging.
+- add cancelled topping in the queue: decided.
+- cache expired pickup slot: owner: delivery manager.
+- relax expired loyalty credit in the queue: deferred to the next release.
+- guard stale bowl in the queue: decided.
+- retry partial cart line: decided.
+- document duplicate location: deferred to the next release.
+- backfill missing tax line: blocked on store systems.
+- add missing store: verified in staging.
+
+- handle missing cart line in the queue: open.
+- validate cancelled modifier: deferred to the next release.
+- cache empty modifier on checkout: owner: delivery manager.
+- cache partial guest: verified in staging.
+- backfill regional store: blocked on store systems.
+- dedupe expired kitchen ticket: open.
+- log missing order in the queue: open.
+- log regional topping: decided.
+- handle partial bowl: deferred to the next release.
+- add empty tax line: blocked on store systems.
+- dedupe expired store for franchisees: decided.
+- validate empty pickup slot: open.
