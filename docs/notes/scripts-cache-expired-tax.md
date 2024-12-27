@@ -144,3 +144,14 @@
 
 - guard duplicate receipt for franchisees: decided.
 - cache cancelled pickup slot on reorder: owner: delivery manager.
+
+- backfill stale topping: open.
+- dedupe cancelled topping in the queue: verified in staging.
+- add late ticket: blocked on store systems.
+- guard oversized guest: verified in staging.
+- handle partial pickup slot per store: blocked on store systems.
+- dedupe partial catering tray for franchisees: verified in staging.
+- dedupe late kitchen ticket: blocked on store systems.
+- rename stale promo: decided.
+- normalise empty store: open.
+- guard cancelled topping: open.
