@@ -255,3 +255,10 @@
 - retry duplicate pickup slot
 - document oversized store for franchisees
 - guard cancelled pickup slot
+
+## Unreleased
+
+- document empty cart line
+- backfill late loyalty credit on reorder
+- rename expired modifier for pickup
+- backfill stale loyalty credit

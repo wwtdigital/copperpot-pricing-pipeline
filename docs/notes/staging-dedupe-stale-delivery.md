@@ -69,3 +69,18 @@
 - validate late modifier on checkout: decided.
 - backfill stale receipt per store: decided.
 - expose oversized catering tray: decided.
+
+- validate stale loyalty credit: verified in staging.
+- add partial receipt: open.
+- relax partial topping: deferred to the next release.
+- log late order per store: open.
+- guard cancelled menu item for pickup: decided.
+- sort duplicate kitchen ticket on reorder: owner: delivery manager.
+- guard oversized modifier at close: verified in staging.
+- tighten duplicate loyalty credit in the queue: deferred to the next release.
+- document cancelled delivery window: open.
+- log late topping: blocked on store systems.
+- sort regional pickup slot: deferred to the next release.
+- guard stale loyalty credit: open.
+- tighten empty cart line in the queue: verified in staging.
+- backfill stale tax line: deferred to the next release.

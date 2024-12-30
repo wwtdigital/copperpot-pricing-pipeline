@@ -1,0 +1,39 @@
+id,store_id,label,quantity,recorded_on
+69504,444,tighten duplicate tax line,9,2025-04-12
+49161,385,log cancelled store in the queue,1,2025-03-28
+41839,522,validate late bowl,7,2025-11-17
+50966,415,add duplicate promo,2,2025-05-16
+98712,527,add expired loyalty credit,6,2025-11-19
+96415,433,backfill duplicate modifier,5,2025-01-17
+40488,650,normalise duplicate kitchen ticket on checkout,5,2025-12-24
+31538,152,cache stale bowl for pickup,5,2025-02-05
+71659,473,retry empty bowl,5,2025-12-22
+67931,535,normalise empty menu item,6,2025-01-23
+11496,199,rename late topping,5,2025-03-13
+45009,148,paginate late guest,9,2025-02-16
+38640,569,relax expired modifier per store,7,2025-03-02
+64285,454,cache regional kitchen ticket for franchisees,6,2025-01-13
+27624,239,cache oversized ticket,8,2025-07-02
+6114,331,paginate stale catering tray,1,2025-02-08
+57518,240,log partial cart line,12,2025-11-11
+65130,592,rename missing bowl,2,2025-08-17
+56795,154,validate oversized cart line,12,2025-10-23
+45684,694,trim cancelled promo per store,1,2025-01-22
+90385,228,trim oversized topping,7,2025-01-09
+74333,223,rename cancelled cart line,10,2025-09-27
+68090,685,backfill expired cart line for pickup,12,2025-10-16
+5034,165,guard regional delivery window,4,2025-05-27
+17763,236,validate cancelled store on reorder,7,2025-06-02
+89200,435,handle stale cart line for franchisees,1,2025-05-15
+28599,166,paginate expired menu item on checkout,9,2025-06-04
+35353,597,validate cancelled bowl,6,2025-09-18
+61374,244,handle stale menu item on checkout,5,2025-08-01
+66994,683,log stale topping,12,2025-09-23
+18825,324,cache late loyalty credit,9,2025-12-07
+5065,485,normalise regional pickup slot,11,2025-10-06
+94540,669,backfill cancelled order,10,2025-04-25
+77096,408,backfill oversized tax line per store,1,2025-12-25
+98330,431,expose duplicate bowl per store,8,2025-06-19
+82036,354,dedupe expired loyalty credit,2,2025-09-07
+83264,647,retry late catering tray in the queue,10,2025-08-11
+69550,549,paginate cancelled bowl on reorder,8,2025-07-09
