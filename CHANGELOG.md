@@ -234,3 +234,17 @@
 - sort late promo
 - trim empty guest on reorder
 - validate expired store
+
+## Unreleased
+
+- paginate expired modifier on reorder
+- relax duplicate topping in the queue
+- sort stale pickup slot on checkout
+- relax oversized receipt
+
+## Unreleased
+
+- guard empty bowl on reorder
+- tighten missing pickup slot
+- guard empty guest on reorder
+- sort late catering tray per store
