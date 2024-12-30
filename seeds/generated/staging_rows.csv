@@ -20,3 +20,25 @@ id,store_id,label,quantity,recorded_on
 73857,663,normalise expired loyalty credit,3,2025-04-25
 8958,631,trim stale topping,4,2025-03-01
 50711,614,add expired bowl in the queue,12,2025-06-06
+33932,519,dedupe stale delivery window,4,2025-04-10
+45331,374,cache cancelled kitchen ticket for pickup,10,2025-08-28
+78064,269,rename cancelled delivery window,7,2025-09-01
+61404,523,backfill cancelled tax line for franchisees,2,2025-11-14
+59911,110,validate duplicate ticket,5,2025-12-11
+13562,330,relax expired menu item for pickup,2,2025-01-23
+58963,372,tighten duplicate guest,2,2025-12-11
+79955,140,paginate regional order at close,6,2025-03-26
+24512,504,guard late store for pickup,12,2025-01-10
+58347,615,add empty delivery window,1,2025-04-07
+16585,269,guard empty menu item,10,2025-08-27
+85832,464,guard expired catering tray,12,2025-03-27
+98873,388,handle stale cart line per store,8,2025-01-27
+63527,306,log late tax line,7,2025-05-18
+58108,585,dedupe duplicate modifier for franchisees,10,2025-04-28
+15108,425,backfill cancelled receipt,4,2025-05-12
+24700,584,document empty ticket,12,2025-08-24
+69421,671,normalise cancelled topping,1,2025-12-26
+97274,617,add missing receipt,8,2025-06-02
+9437,357,trim oversized guest,7,2025-11-06
+73635,244,tighten late tax line,1,2025-07-02
+27544,507,rename missing guest on reorder,12,2025-02-08
