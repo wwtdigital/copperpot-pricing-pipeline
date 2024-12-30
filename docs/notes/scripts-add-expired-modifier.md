@@ -29,3 +29,16 @@
 - trim duplicate modifier: verified in staging.
 - paginate oversized kitchen ticket: open.
 - relax partial kitchen ticket at close: open.
+
+- dedupe missing promo: deferred to the next release.
+- handle oversized pickup slot: decided.
+- rename stale store: decided.
+- sort late loyalty credit in the queue: open.
+- trim missing loyalty credit per store: verified in staging.
+- cache late guest at close: decided.
+- retry expired menu item: verified in staging.
+- relax regional loyalty credit: verified in staging.
+- retry empty bowl: deferred to the next release.
+- rename empty loyalty credit: deferred to the next release.
+- document regional cart line for pickup: verified in staging.
+- paginate regional pickup slot at close: decided.
