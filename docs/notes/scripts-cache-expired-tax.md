@@ -215,3 +215,18 @@
 - handle stale kitchen ticket: blocked on store systems.
 - dedupe duplicate receipt: open.
 - add empty catering tray: decided.
+
+- tighten expired topping for franchisees: blocked on store systems.
+- sort missing guest: owner: delivery manager.
+- retry expired pickup slot at close: open.
+- sort oversized pickup slot: deferred to the next release.
+- handle missing catering tray in the queue: blocked on store systems.
+- normalise oversized store: blocked on store systems.
+- validate cancelled menu item in the queue: deferred to the next release.
+- retry missing promo in the queue: deferred to the next release.
+- log partial modifier: owner: delivery manager.
+- dedupe late location: owner: delivery manager.
+- trim partial kitchen ticket: decided.
+- document partial cart line for pickup: decided.
+- normalise duplicate guest: verified in staging.
+- log missing topping: deferred to the next release.

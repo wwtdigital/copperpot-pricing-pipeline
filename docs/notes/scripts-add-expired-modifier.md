@@ -57,3 +57,18 @@
 - validate late topping on reorder: verified in staging.
 - guard empty guest: open.
 - add missing menu item at close: decided.
+
+- trim expired cart line: open.
+- rename oversized loyalty credit on checkout: deferred to the next release.
+- handle late menu item: blocked on store systems.
+- log regional location: open.
+- relax cancelled menu item: open.
+- retry oversized store for pickup: verified in staging.
+- validate partial cart line for franchisees: owner: delivery manager.
+- backfill duplicate menu item per store: blocked on store systems.
+- log expired bowl: deferred to the next release.
+- expose stale cart line per store: open.
+- handle oversized menu item: blocked on store systems.
+- guard duplicate store for pickup: blocked on store systems.
+- document partial catering tray per store: deferred to the next release.
+- backfill oversized cart line: open.
