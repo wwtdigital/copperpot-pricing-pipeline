@@ -1,0 +1,44 @@
+id,store_id,label,quantity,recorded_on
+6589,656,expose cancelled store on checkout,5,2025-03-25
+62889,572,relax duplicate guest,11,2025-06-11
+36975,690,handle stale tax line,10,2025-03-20
+59158,157,expose duplicate order,11,2025-12-13
+96754,302,add stale location at close,11,2025-01-01
+64844,580,sort empty location,10,2025-09-09
+83340,588,validate expired promo for pickup,8,2025-04-19
+69263,612,paginate oversized order,12,2025-02-28
+76035,642,validate cancelled receipt,12,2025-02-17
+11746,198,trim regional ticket,3,2025-07-16
+5925,676,log missing promo,1,2025-04-22
+45995,223,retry late pickup slot,1,2025-10-27
+29931,648,retry oversized ticket for pickup,8,2025-07-04
+2377,428,add missing pickup slot,6,2025-04-08
+5822,113,relax expired promo,5,2025-11-12
+24885,197,expose duplicate tax line,10,2025-02-06
+82398,266,document missing guest for pickup,5,2025-10-23
+99926,271,relax late menu item,12,2025-09-08
+73857,663,normalise expired loyalty credit,3,2025-04-25
+8958,631,trim stale topping,4,2025-03-01
+50711,614,add expired bowl in the queue,12,2025-06-06
+33932,519,dedupe stale delivery window,4,2025-04-10
+45331,374,cache cancelled kitchen ticket for pickup,10,2025-08-28
+78064,269,rename cancelled delivery window,7,2025-09-01
+61404,523,backfill cancelled tax line for franchisees,2,2025-11-14
+59911,110,validate duplicate ticket,5,2025-12-11
+13562,330,relax expired menu item for pickup,2,2025-01-23
+58963,372,tighten duplicate guest,2,2025-12-11
+79955,140,paginate regional order at close,6,2025-03-26
+24512,504,guard late store for pickup,12,2025-01-10
+58347,615,add empty delivery window,1,2025-04-07
+16585,269,guard empty menu item,10,2025-08-27
+85832,464,guard expired catering tray,12,2025-03-27
+98873,388,handle stale cart line per store,8,2025-01-27
+63527,306,log late tax line,7,2025-05-18
+58108,585,dedupe duplicate modifier for franchisees,10,2025-04-28
+15108,425,backfill cancelled receipt,4,2025-05-12
+24700,584,document empty ticket,12,2025-08-24
+69421,671,normalise cancelled topping,1,2025-12-26
+97274,617,add missing receipt,8,2025-06-02
+9437,357,trim oversized guest,7,2025-11-06
+73635,244,tighten late tax line,1,2025-07-02
+27544,507,rename missing guest on reorder,12,2025-02-08
