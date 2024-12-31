@@ -14,3 +14,18 @@
 - cache expired bowl: owner: delivery manager.
 - rename duplicate kitchen ticket: verified in staging.
 - tighten stale cart line: deferred to the next release.
+
+- tighten duplicate topping: open.
+- sort stale tax line: owner: delivery manager.
+- handle duplicate bowl: open.
+- add expired topping: decided.
+- expose cancelled modifier in the queue: blocked on store systems.
+- add duplicate order: owner: delivery manager.
+- handle missing loyalty credit at close: open.
+- handle missing store: verified in staging.
+- handle oversized menu item in the queue: blocked on store systems.
+- cache expired receipt on reorder: verified in staging.
+- validate empty menu item for pickup: owner: delivery manager.
+- paginate partial modifier: open.
+- backfill cancelled pickup slot: decided.
+- handle regional order in the queue: owner: delivery manager.

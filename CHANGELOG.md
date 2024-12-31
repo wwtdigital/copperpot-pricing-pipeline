@@ -262,3 +262,10 @@
 - backfill late loyalty credit on reorder
 - rename expired modifier for pickup
 - backfill stale loyalty credit
+
+## Unreleased
+
+- retry late cart line
+- paginate regional bowl
+- guard duplicate menu item
+- trim expired cart line per store

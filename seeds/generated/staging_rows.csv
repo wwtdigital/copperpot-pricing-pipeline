@@ -37,3 +37,43 @@ id,store_id,label,quantity,recorded_on
 82036,354,dedupe expired loyalty credit,2,2025-09-07
 83264,647,retry late catering tray in the queue,10,2025-08-11
 69550,549,paginate cancelled bowl on reorder,8,2025-07-09
+42207,418,trim cancelled delivery window,5,2025-02-04
+99389,410,sort cancelled kitchen ticket,8,2025-11-28
+1233,229,paginate cancelled tax line,7,2025-06-26
+26772,468,dedupe missing delivery window on reorder,8,2025-03-07
+4309,181,guard partial menu item,9,2025-10-13
+76964,671,rename partial catering tray for pickup,6,2025-07-19
+77345,303,guard late order in the queue,8,2025-11-03
+46826,321,trim stale cart line,9,2025-07-16
+89621,517,document duplicate modifier,6,2025-06-20
+36586,430,guard expired order for pickup,9,2025-02-27
+25617,384,normalise missing ticket per store,5,2025-01-12
+13506,683,trim late tax line,4,2025-02-10
+95438,140,guard stale modifier in the queue,9,2025-09-28
+78560,186,paginate missing menu item,7,2025-11-18
+93392,374,handle missing location,8,2025-01-03
+12391,376,trim duplicate loyalty credit,4,2025-09-18
+30016,631,relax duplicate bowl in the queue,10,2025-04-15
+36783,627,sort late topping,10,2025-04-02
+77207,180,paginate missing order,9,2025-02-02
+16529,416,rename missing menu item per store,10,2025-05-25
+53191,640,tighten duplicate receipt,8,2025-12-27
+96784,405,backfill late loyalty credit,4,2025-07-05
+69099,684,retry late order for franchisees,10,2025-05-17
+20624,400,tighten oversized location,5,2025-06-20
+80884,518,rename empty tax line on checkout,2,2025-07-10
+84478,514,validate missing catering tray,11,2025-09-27
+15582,395,sort partial delivery window,3,2025-11-21
+88191,625,log regional pickup slot,7,2025-12-16
+39856,117,retry oversized ticket for franchisees,8,2025-03-26
+55991,260,paginate duplicate catering tray,8,2025-07-19
+80383,683,retry empty tax line,2,2025-10-08
+65041,697,paginate late catering tray,11,2025-03-07
+96659,295,add late menu item,7,2025-05-05
+57811,508,backfill partial menu item,4,2025-01-20
+62265,694,log stale ticket,11,2025-03-01
+10525,320,log stale order,4,2025-07-23
+2899,222,normalise duplicate location,8,2025-07-07
+5357,230,handle regional location,1,2025-07-15
+3158,357,tighten stale modifier at close,8,2025-08-04
+83204,301,document duplicate modifier,1,2025-08-10
