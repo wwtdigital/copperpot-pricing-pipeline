@@ -42,3 +42,18 @@
 - rename empty loyalty credit: deferred to the next release.
 - document regional cart line for pickup: verified in staging.
 - paginate regional pickup slot at close: decided.
+
+- normalise expired guest: verified in staging.
+- dedupe missing cart line in the queue: deferred to the next release.
+- sort expired menu item on checkout: deferred to the next release.
+- cache duplicate bowl on checkout: decided.
+- rename empty ticket per store: decided.
+- paginate partial guest per store: owner: delivery manager.
+- rename stale receipt per store: decided.
+- retry cancelled bowl in the queue: deferred to the next release.
+- paginate missing promo on checkout: decided.
+- rename partial order at close: verified in staging.
+- handle expired delivery window: open.
+- validate late topping on reorder: verified in staging.
+- guard empty guest: open.
+- add missing menu item at close: decided.

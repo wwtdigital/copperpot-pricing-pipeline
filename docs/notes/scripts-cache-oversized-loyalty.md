@@ -73,3 +73,9 @@
 
 - document expired ticket: verified in staging.
 - trim late bowl in the queue: owner: delivery manager.
+
+- guard late ticket: open.
+- guard oversized store per store: open.
+- handle empty bowl per store: blocked on store systems.
+- backfill late modifier: owner: delivery manager.
+- sort cancelled modifier for franchisees: deferred to the next release.
