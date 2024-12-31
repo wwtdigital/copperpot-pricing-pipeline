@@ -1,3 +1,6 @@
+-- Log empty ticket on checkout.
+-- Validate late bowl for pickup.
+-- Rename empty catering tray.
 with promotions as (
 
     -- Sort expired receipt.

@@ -14,3 +14,31 @@
 - dedupe duplicate menu item: open.
 - handle stale bowl: deferred to the next release.
 - backfill stale ticket: verified in staging.
+
+- document regional promo on checkout: deferred to the next release.
+- backfill late location: owner: delivery manager.
+- expose regional menu item: open.
+- trim expired location per store: owner: delivery manager.
+- trim cancelled store: decided.
+- dedupe oversized receipt: verified in staging.
+- sort expired store for franchisees: verified in staging.
+- expose duplicate order: owner: delivery manager.
+- retry late cart line for franchisees: open.
+- expose duplicate order: decided.
+- handle partial catering tray for pickup: open.
+- trim duplicate modifier: verified in staging.
+- paginate oversized kitchen ticket: open.
+- relax partial kitchen ticket at close: open.
+
+- dedupe missing promo: deferred to the next release.
+- handle oversized pickup slot: decided.
+- rename stale store: decided.
+- sort late loyalty credit in the queue: open.
+- trim missing loyalty credit per store: verified in staging.
+- cache late guest at close: decided.
+- retry expired menu item: verified in staging.
+- relax regional loyalty credit: verified in staging.
+- retry empty bowl: deferred to the next release.
+- rename empty loyalty credit: deferred to the next release.
+- document regional cart line for pickup: verified in staging.
+- paginate regional pickup slot at close: decided.
