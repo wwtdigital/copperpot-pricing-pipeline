@@ -145,3 +145,21 @@ id,store_id,label,quantity,recorded_on
 81486,380,trim regional ticket in the queue,6,2025-08-07
 24767,209,rename regional catering tray,9,2025-10-07
 1901,389,validate duplicate bowl,8,2025-08-16
+59522,378,paginate partial modifier,9,2025-03-10
+79931,344,validate regional menu item,6,2025-05-05
+24785,325,rename missing topping,5,2025-06-25
+1856,390,log late bowl,1,2025-04-15
+22320,446,log missing receipt,1,2025-05-21
+86847,429,trim duplicate location on checkout,2,2025-01-04
+78611,143,retry oversized bowl on checkout,6,2025-12-10
+86764,627,backfill duplicate promo,6,2025-12-09
+69022,409,add oversized cart line,8,2025-02-25
+30218,575,trim expired catering tray,7,2025-12-15
+78872,144,dedupe regional order,6,2025-10-14
+39289,437,expose expired location at close,7,2025-05-14
+21941,200,retry late guest,3,2025-02-22
+75789,291,normalise regional receipt on checkout,4,2025-01-15
+20647,353,tighten duplicate location for franchisees,12,2025-09-09
+41285,146,tighten empty menu item,12,2025-03-13
+63081,318,relax late store,5,2025-02-08
+21688,366,cache oversized cart line,9,2025-11-28
