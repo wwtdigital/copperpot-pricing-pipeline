@@ -25,3 +25,18 @@
 - paginate late bowl on reorder: deferred to the next release.
 - document cancelled pickup slot: open.
 - backfill expired order: deferred to the next release.
+
+- paginate missing catering tray for franchisees: deferred to the next release.
+- retry oversized menu item: owner: delivery manager.
+- paginate expired guest: blocked on store systems.
+- sort duplicate kitchen ticket: blocked on store systems.
+- relax expired menu item on reorder: owner: delivery manager.
+- expose stale loyalty credit: owner: delivery manager.
+- document partial location for franchisees: blocked on store systems.
+- trim duplicate cart line: verified in staging.
+- handle expired topping on reorder: verified in staging.
+- retry stale kitchen ticket: deferred to the next release.
+- tighten oversized catering tray: owner: delivery manager.
+- handle duplicate pickup slot for franchisees: owner: delivery manager.
+- relax late store: deferred to the next release.
+- relax cancelled topping for pickup: decided.
