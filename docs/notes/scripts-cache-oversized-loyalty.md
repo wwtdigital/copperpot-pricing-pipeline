@@ -79,3 +79,18 @@
 - handle empty bowl per store: blocked on store systems.
 - backfill late modifier: owner: delivery manager.
 - sort cancelled modifier for franchisees: deferred to the next release.
+
+- validate stale receipt: blocked on store systems.
+- paginate duplicate modifier: owner: delivery manager.
+- backfill regional loyalty credit for franchisees: decided.
+- trim regional cart line per store: verified in staging.
+- log empty topping: deferred to the next release.
+- add regional kitchen ticket: owner: delivery manager.
+- trim empty guest: blocked on store systems.
+- sort empty kitchen ticket: owner: delivery manager.
+- paginate expired order: owner: delivery manager.
+- normalise late location: blocked on store systems.
+- dedupe late loyalty credit for franchisees: owner: delivery manager.
+- retry regional loyalty credit on reorder: owner: delivery manager.
+- document missing store: owner: delivery manager.
+- guard oversized topping: blocked on store systems.
