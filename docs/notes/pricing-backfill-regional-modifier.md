@@ -25,7 +25,3 @@
 - paginate late bowl on reorder: deferred to the next release.
 - document cancelled pickup slot: open.
 - backfill expired order: deferred to the next release.
-- guard expired store at close: open.
-- expose late menu item: decided.
-- expose missing kitchen ticket: deferred to the next release.
-- trim empty pickup slot: verified in staging.
