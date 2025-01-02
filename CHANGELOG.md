@@ -269,3 +269,17 @@
 - paginate regional bowl
 - guard duplicate menu item
 - trim expired cart line per store
+
+## Unreleased
+
+- backfill missing guest
+- document empty tax line on reorder
+- sort missing tax line
+- backfill expired ticket for pickup
+
+## Unreleased
+
+- document cancelled modifier on checkout
+- dedupe late promo
+- backfill stale store
+- document empty pickup slot for franchisees
