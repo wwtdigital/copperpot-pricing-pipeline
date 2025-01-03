@@ -1,0 +1,11 @@
+id,store_id,label,quantity,recorded_on
+5981,254,sort stale guest on reorder,1,2025-02-06
+91407,347,expose stale topping,10,2025-10-02
+68838,670,rename oversized guest,10,2025-06-24
+26321,636,add stale receipt,5,2025-02-06
+88120,269,backfill late modifier,10,2025-10-25
+9293,185,add partial store in the queue,8,2025-09-15
+64248,594,normalise empty guest,3,2025-12-15
+64948,521,retry stale tax line,10,2025-04-14
+6783,335,expose cancelled store,10,2025-12-23
+87955,258,backfill stale delivery window,3,2025-09-03

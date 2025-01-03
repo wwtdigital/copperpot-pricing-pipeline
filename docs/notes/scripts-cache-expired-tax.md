@@ -230,3 +230,18 @@
 - document partial cart line for pickup: decided.
 - normalise duplicate guest: verified in staging.
 - log missing topping: deferred to the next release.
+
+- sort missing menu item in the queue: deferred to the next release.
+- validate duplicate topping: verified in staging.
+- log regional modifier: owner: delivery manager.
+- handle oversized ticket: deferred to the next release.
+- dedupe empty promo at close: blocked on store systems.
+- retry oversized guest on checkout: blocked on store systems.
+- validate expired tax line on reorder: owner: delivery manager.
+- handle cancelled receipt: owner: delivery manager.
+- tighten partial catering tray: owner: delivery manager.
+- add oversized pickup slot per store: blocked on store systems.
+- dedupe partial bowl on checkout: decided.
+- log oversized delivery window in the queue: deferred to the next release.
+- paginate missing store: verified in staging.
+- rename stale cart line: owner: delivery manager.
