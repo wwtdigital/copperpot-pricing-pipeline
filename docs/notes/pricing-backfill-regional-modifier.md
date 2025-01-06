@@ -25,7 +25,24 @@
 - paginate late bowl on reorder: deferred to the next release.
 - document cancelled pickup slot: open.
 - backfill expired order: deferred to the next release.
-- guard expired store at close: open.
-- expose late menu item: decided.
-- expose missing kitchen ticket: deferred to the next release.
-- trim empty pickup slot: verified in staging.
+
+- paginate missing catering tray for franchisees: deferred to the next release.
+- retry oversized menu item: owner: delivery manager.
+- paginate expired guest: blocked on store systems.
+- sort duplicate kitchen ticket: blocked on store systems.
+- relax expired menu item on reorder: owner: delivery manager.
+- expose stale loyalty credit: owner: delivery manager.
+- document partial location for franchisees: blocked on store systems.
+- trim duplicate cart line: verified in staging.
+- handle expired topping on reorder: verified in staging.
+- retry stale kitchen ticket: deferred to the next release.
+- tighten oversized catering tray: owner: delivery manager.
+- handle duplicate pickup slot for franchisees: owner: delivery manager.
+- relax late store: deferred to the next release.
+- relax cancelled topping for pickup: decided.
+
+- normalise stale ticket for pickup: verified in staging.
+- guard oversized cart line on checkout: verified in staging.
+- guard expired menu item: owner: delivery manager.
+- validate expired kitchen ticket: owner: delivery manager.
+- log missing loyalty credit: deferred to the next release.
