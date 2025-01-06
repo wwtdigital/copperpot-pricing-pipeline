@@ -14,3 +14,11 @@
 - expose late ticket: decided.
 - backfill partial order: deferred to the next release.
 - tighten partial kitchen ticket for franchisees: open.
+
+- expose missing pickup slot: owner: delivery manager.
+- document stale promo on reorder: decided.
+- relax missing cart line on reorder: owner: delivery manager.
+- retry expired delivery window: open.
+- document oversized location: verified in staging.
+- log late topping: blocked on store systems.
+- add stale kitchen ticket for pickup: verified in staging.
