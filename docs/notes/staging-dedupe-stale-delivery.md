@@ -114,3 +114,13 @@
 - paginate duplicate delivery window: owner: delivery manager.
 - retry empty modifier per store: owner: delivery manager.
 - tighten duplicate ticket on reorder: owner: delivery manager.
+
+- handle partial location: decided.
+- log cancelled cart line: open.
+- paginate empty catering tray in the queue: deferred to the next release.
+- expose missing receipt: blocked on store systems.
+- trim duplicate order: owner: delivery manager.
+- backfill partial pickup slot: decided.
+- validate late delivery window: open.
+- backfill expired menu item: blocked on store systems.
+- backfill cancelled tax line: verified in staging.

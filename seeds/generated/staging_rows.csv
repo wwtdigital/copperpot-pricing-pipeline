@@ -77,3 +77,43 @@ id,store_id,label,quantity,recorded_on
 5357,230,handle regional location,1,2025-07-15
 3158,357,tighten stale modifier at close,8,2025-08-04
 83204,301,document duplicate modifier,1,2025-08-10
+35251,599,dedupe late receipt,2,2025-11-12
+30477,172,rename missing location,7,2025-12-09
+44446,259,dedupe cancelled promo for pickup,11,2025-01-11
+30700,429,guard oversized delivery window,12,2025-05-12
+10587,668,handle duplicate delivery window,3,2025-07-13
+34162,588,expose expired catering tray at close,7,2025-06-03
+85468,608,add oversized receipt,4,2025-10-05
+68510,275,relax partial guest for pickup,2,2025-02-24
+66125,526,trim expired tax line,11,2025-06-26
+57869,683,trim late catering tray,12,2025-01-10
+29375,407,cache empty bowl for pickup,6,2025-11-04
+59500,327,rename duplicate loyalty credit,10,2025-09-08
+81699,324,validate partial store,3,2025-01-25
+38020,373,log oversized guest,5,2025-08-17
+51574,137,add stale tax line,5,2025-12-06
+94340,198,relax regional receipt,7,2025-10-06
+72127,441,sort empty pickup slot per store,10,2025-06-13
+12874,449,guard missing pickup slot at close,1,2025-10-26
+78855,319,normalise oversized order,7,2025-11-17
+53525,385,backfill late receipt,11,2025-05-09
+17059,456,add missing tax line,5,2025-02-20
+79899,587,retry late location,11,2025-04-04
+85061,258,normalise empty topping,1,2025-04-21
+17325,663,log duplicate tax line,9,2025-04-13
+64899,191,expose cancelled modifier,12,2025-06-13
+73411,249,tighten late kitchen ticket,1,2025-12-14
+89680,642,expose stale receipt,8,2025-04-28
+69109,478,add late bowl at close,10,2025-10-20
+18549,280,backfill regional topping,2,2025-11-08
+19611,103,document missing topping,8,2025-10-08
+39996,197,relax late menu item in the queue,11,2025-01-23
+73213,242,add duplicate loyalty credit,9,2025-01-22
+31640,188,guard oversized kitchen ticket,3,2025-08-24
+25082,671,backfill regional menu item,9,2025-09-14
+18739,183,backfill stale guest,9,2025-05-23
+87978,688,sort duplicate modifier for pickup,4,2025-10-28
+52420,307,trim regional cart line,3,2025-06-16
+16155,242,tighten stale tax line,3,2025-03-04
+78195,496,add partial promo in the queue,3,2025-09-01
+78065,164,validate duplicate pickup slot for franchisees,1,2025-07-08

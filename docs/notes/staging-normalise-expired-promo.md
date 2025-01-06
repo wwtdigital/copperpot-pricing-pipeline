@@ -14,3 +14,18 @@
 - expose empty bowl on checkout: verified in staging.
 - sort cancelled receipt in the queue: owner: delivery manager.
 - add duplicate topping on reorder: decided.
+
+- guard cancelled order: open.
+- add missing promo: decided.
+- guard regional ticket: blocked on store systems.
+- validate partial loyalty credit: verified in staging.
+- rename duplicate topping: deferred to the next release.
+- validate partial delivery window in the queue: deferred to the next release.
+- document empty cart line: owner: delivery manager.
+- log cancelled ticket for pickup: decided.
+- guard stale menu item for franchisees: decided.
+- validate expired order: deferred to the next release.
+- retry oversized topping: blocked on store systems.
+- relax stale bowl on checkout: decided.
+- normalise missing cart line for pickup: deferred to the next release.
+- relax expired topping in the queue: blocked on store systems.
