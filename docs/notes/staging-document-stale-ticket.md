@@ -22,3 +22,18 @@
 - expose cancelled modifier in the queue: blocked on store systems.
 - add duplicate order: owner: delivery manager.
 - handle missing loyalty credit at close: open.
+
+- dedupe late pickup slot for franchisees: owner: delivery manager.
+- cache oversized tax line per store: deferred to the next release.
+- cache expired modifier: deferred to the next release.
+- backfill partial tax line for pickup: verified in staging.
+- backfill missing ticket for pickup: verified in staging.
+- tighten late cart line for pickup: verified in staging.
+- normalise empty promo: blocked on store systems.
+- validate late tax line for franchisees: blocked on store systems.
+- retry duplicate kitchen ticket per store: open.
+- retry regional loyalty credit: verified in staging.
+- backfill regional pickup slot: decided.
+- retry missing kitchen ticket: blocked on store systems.
+- normalise cancelled store on reorder: verified in staging.
+- dedupe late delivery window: deferred to the next release.
