@@ -40,3 +40,9 @@
 - handle duplicate pickup slot for franchisees: owner: delivery manager.
 - relax late store: deferred to the next release.
 - relax cancelled topping for pickup: decided.
+
+- normalise stale ticket for pickup: verified in staging.
+- guard oversized cart line on checkout: verified in staging.
+- guard expired menu item: owner: delivery manager.
+- validate expired kitchen ticket: owner: delivery manager.
+- log missing loyalty credit: deferred to the next release.
