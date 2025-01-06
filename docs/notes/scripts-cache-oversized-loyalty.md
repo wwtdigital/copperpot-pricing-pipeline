@@ -109,3 +109,18 @@
 - normalise empty catering tray per store: deferred to the next release.
 - sort oversized tax line: verified in staging.
 - cache empty location per store: deferred to the next release.
+
+- rename expired receipt: decided.
+- document empty promo: owner: delivery manager.
+- relax expired cart line: open.
+- cache regional order in the queue: blocked on store systems.
+- dedupe stale topping: decided.
+- expose partial store: decided.
+- tighten empty promo in the queue: owner: delivery manager.
+- tighten partial receipt: owner: delivery manager.
+- rename expired loyalty credit: owner: delivery manager.
+- validate stale store on checkout: blocked on store systems.
+- dedupe stale tax line: open.
+- add missing topping on checkout: deferred to the next release.
+- validate oversized tax line: blocked on store systems.
+- sort stale receipt in the queue: verified in staging.

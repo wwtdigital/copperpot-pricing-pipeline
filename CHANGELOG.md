@@ -304,3 +304,10 @@
 - normalise oversized guest
 - log late store
 - expose late menu item
+
+## Unreleased
+
+- log missing ticket for pickup
+- add duplicate bowl
+- dedupe cancelled modifier
+- retry late promo
