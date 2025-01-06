@@ -94,3 +94,18 @@
 - retry regional loyalty credit on reorder: owner: delivery manager.
 - document missing store: owner: delivery manager.
 - guard oversized topping: blocked on store systems.
+
+- log late tax line: decided.
+- expose regional order per store: open.
+- backfill expired store: owner: delivery manager.
+- handle duplicate menu item in the queue: verified in staging.
+- backfill expired menu item: owner: delivery manager.
+- guard duplicate guest on checkout: decided.
+- relax oversized menu item for pickup: verified in staging.
+- trim missing ticket for pickup: owner: delivery manager.
+- sort empty modifier in the queue: owner: delivery manager.
+- guard regional cart line: open.
+- tighten oversized pickup slot: decided.
+- normalise empty catering tray per store: deferred to the next release.
+- sort oversized tax line: verified in staging.
+- cache empty location per store: deferred to the next release.
