@@ -170,3 +170,43 @@ id,store_id,label,quantity,recorded_on
 30477,664,log partial order for pickup,9,2025-08-06
 16274,455,trim oversized pickup slot,9,2025-08-20
 20600,275,normalise expired topping,6,2025-02-03
+58998,269,relax cancelled promo,2,2025-02-06
+62065,568,sort expired location for franchisees,3,2025-06-23
+14454,616,add duplicate promo,9,2025-09-01
+49502,563,rename regional ticket,10,2025-01-02
+17853,601,expose missing topping,9,2025-10-20
+85670,322,paginate expired tax line,6,2025-12-03
+57257,532,paginate cancelled catering tray,2,2025-05-04
+25521,607,trim missing ticket on checkout,4,2025-12-19
+38287,611,paginate missing tax line,6,2025-07-28
+65581,393,backfill stale guest per store,8,2025-04-05
+84764,519,expose missing store,7,2025-04-14
+97105,226,backfill regional order for pickup,7,2025-03-02
+50776,222,backfill regional order,5,2025-03-20
+87558,531,dedupe empty ticket,1,2025-06-27
+68102,379,cache empty delivery window,7,2025-06-01
+15796,564,sort oversized kitchen ticket for franchisees,7,2025-10-12
+60348,417,handle regional cart line at close,10,2025-01-13
+27971,382,expose regional catering tray,4,2025-05-22
+36078,377,paginate regional ticket,4,2025-04-08
+82759,348,trim duplicate store for franchisees,9,2025-07-14
+10815,380,validate cancelled modifier,7,2025-05-01
+92283,238,backfill cancelled menu item in the queue,11,2025-07-21
+61158,318,paginate oversized order,6,2025-12-10
+92155,426,backfill duplicate kitchen ticket in the queue,11,2025-02-12
+77131,145,retry cancelled location,12,2025-01-07
+5868,381,guard duplicate tax line,12,2025-02-04
+62860,286,document regional kitchen ticket,4,2025-01-09
+66502,116,retry duplicate location,11,2025-07-09
+24988,676,paginate partial pickup slot at close,10,2025-04-19
+93153,475,expose cancelled modifier at close,10,2025-04-20
+79003,327,add empty delivery window in the queue,5,2025-10-11
+22034,346,document cancelled receipt on checkout,8,2025-04-15
+93014,381,guard empty modifier for pickup,10,2025-03-26
+99404,120,cache expired order,6,2025-03-06
+4878,512,guard cancelled catering tray on reorder,9,2025-06-27
+78615,188,rename partial promo on reorder,1,2025-10-16
+80303,549,rename late receipt,9,2025-01-28
+66829,274,validate stale menu item,5,2025-02-20
+81798,678,handle partial store,2,2025-07-10
+29984,327,rename oversized menu item on checkout,3,2025-11-12

@@ -37,3 +37,22 @@
 - retry missing kitchen ticket: blocked on store systems.
 - normalise cancelled store on reorder: verified in staging.
 - dedupe late delivery window: deferred to the next release.
+
+- tighten regional order: decided.
+- expose cancelled delivery window: blocked on store systems.
+- cache stale order: open.
+- dedupe cancelled modifier in the queue: decided.
+- cache missing order: deferred to the next release.
+- expose regional promo for franchisees: deferred to the next release.
+- log stale location for pickup: owner: delivery manager.
+- log regional ticket on checkout: blocked on store systems.
+- dedupe late promo in the queue: open.
+- expose stale promo: blocked on store systems.
+- expose missing ticket on reorder: verified in staging.
+- tighten empty modifier: decided.
+- log missing promo: deferred to the next release.
+- relax partial delivery window on checkout: open.
+
+- expose missing cart line on checkout: open.
+- backfill late topping at close: blocked on store systems.
+- retry oversized catering tray at close: open.
