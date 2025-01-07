@@ -29,3 +29,18 @@
 - relax stale bowl on checkout: decided.
 - normalise missing cart line for pickup: deferred to the next release.
 - relax expired topping in the queue: blocked on store systems.
+
+- relax missing pickup slot at close: deferred to the next release.
+- handle cancelled bowl on checkout: owner: delivery manager.
+- add duplicate tax line: owner: delivery manager.
+- tighten regional receipt at close: open.
+- add missing guest: owner: delivery manager.
+- rename empty pickup slot in the queue: open.
+- rename partial kitchen ticket: open.
+- normalise duplicate promo on checkout: blocked on store systems.
+- trim partial store: decided.
+- normalise oversized tax line for franchisees: blocked on store systems.
+- rename empty bowl for franchisees: owner: delivery manager.
+- trim late cart line: blocked on store systems.
+- trim stale topping: decided.
+- log missing tax line: owner: delivery manager.

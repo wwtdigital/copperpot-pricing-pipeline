@@ -283,3 +283,10 @@
 - dedupe late promo
 - backfill stale store
 - document empty pickup slot for franchisees
+
+## Unreleased
+
+- validate duplicate tax line
+- paginate cancelled promo
+- paginate expired guest at close
+- relax missing catering tray on reorder
