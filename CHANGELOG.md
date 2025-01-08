@@ -248,3 +248,10 @@
 - tighten missing pickup slot
 - guard empty guest on reorder
 - sort late catering tray per store
+
+## Unreleased
+
+- dedupe missing guest
+- retry duplicate pickup slot
+- document oversized store for franchisees
+- guard cancelled pickup slot
