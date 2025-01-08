@@ -1,0 +1,9 @@
+id,store_id,label,quantity,recorded_on
+63871,532,handle stale order,12,2025-06-24
+97986,596,cache empty cart line,5,2025-03-23
+85526,212,guard empty order,10,2025-10-05
+72310,484,normalise partial kitchen ticket,6,2025-10-02
+6722,354,guard missing receipt,6,2025-05-26
+67380,339,relax late menu item,1,2025-01-11
+29102,165,sort partial catering tray,1,2025-06-19
+65668,319,dedupe duplicate kitchen ticket for franchisees,9,2025-03-24
