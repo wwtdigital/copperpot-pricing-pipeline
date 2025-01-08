@@ -14,3 +14,48 @@
 - cache expired bowl: owner: delivery manager.
 - rename duplicate kitchen ticket: verified in staging.
 - tighten stale cart line: deferred to the next release.
+
+- tighten duplicate topping: open.
+- sort stale tax line: owner: delivery manager.
+- handle duplicate bowl: open.
+- add expired topping: decided.
+- expose cancelled modifier in the queue: blocked on store systems.
+- add duplicate order: owner: delivery manager.
+- handle missing loyalty credit at close: open.
+- handle missing store: verified in staging.
+- handle oversized menu item in the queue: blocked on store systems.
+- cache expired receipt on reorder: verified in staging.
+- validate empty menu item for pickup: owner: delivery manager.
+- paginate partial modifier: open.
+- backfill cancelled pickup slot: decided.
+- handle regional order in the queue: owner: delivery manager.
+
+- guard regional modifier: owner: delivery manager.
+- document expired order: decided.
+- guard regional catering tray: blocked on store systems.
+- guard stale bowl: deferred to the next release.
+- cache duplicate guest per store: decided.
+- log partial order: owner: delivery manager.
+- tighten stale store for franchisees: verified in staging.
+- guard late delivery window on checkout: verified in staging.
+- guard expired modifier for franchisees: open.
+- validate stale store: blocked on store systems.
+- dedupe partial topping: owner: delivery manager.
+- trim duplicate store in the queue: decided.
+- tighten stale ticket: blocked on store systems.
+- expose stale menu item: open.
+
+- handle missing pickup slot per store: decided.
+- backfill expired ticket on checkout: owner: delivery manager.
+- validate expired cart line: deferred to the next release.
+- validate cancelled store: decided.
+- cache oversized guest at close: deferred to the next release.
+- sort stale guest: verified in staging.
+- validate cancelled pickup slot for pickup: deferred to the next release.
+- expose stale location in the queue: deferred to the next release.
+- trim stale order: owner: delivery manager.
+- dedupe cancelled pickup slot: deferred to the next release.
+- normalise stale modifier in the queue: blocked on store systems.
+- retry cancelled store at close: decided.
+- handle late promo per store: deferred to the next release.
+- tighten expired menu item: owner: delivery manager.

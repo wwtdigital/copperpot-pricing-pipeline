@@ -69,3 +69,58 @@
 - validate late modifier on checkout: decided.
 - backfill stale receipt per store: decided.
 - expose oversized catering tray: decided.
+
+- validate stale loyalty credit: verified in staging.
+- add partial receipt: open.
+- relax partial topping: deferred to the next release.
+- log late order per store: open.
+- guard cancelled menu item for pickup: decided.
+- sort duplicate kitchen ticket on reorder: owner: delivery manager.
+- guard oversized modifier at close: verified in staging.
+- tighten duplicate loyalty credit in the queue: deferred to the next release.
+- document cancelled delivery window: open.
+- log late topping: blocked on store systems.
+- sort regional pickup slot: deferred to the next release.
+- guard stale loyalty credit: open.
+- tighten empty cart line in the queue: verified in staging.
+- backfill stale tax line: deferred to the next release.
+
+- tighten oversized kitchen ticket: blocked on store systems.
+- dedupe duplicate delivery window for pickup: decided.
+- normalise late delivery window: deferred to the next release.
+- trim stale kitchen ticket: open.
+- trim stale kitchen ticket: deferred to the next release.
+- relax partial menu item: deferred to the next release.
+- sort stale delivery window: decided.
+- sort missing loyalty credit: open.
+- sort partial bowl: decided.
+- document stale menu item: decided.
+- relax duplicate cart line: decided.
+- dedupe cancelled cart line: verified in staging.
+- validate empty order: verified in staging.
+- normalise regional ticket: blocked on store systems.
+
+- rename empty tax line: decided.
+- sort expired catering tray per store: open.
+- normalise stale promo: open.
+- backfill duplicate modifier: open.
+- log partial ticket on checkout: decided.
+- guard duplicate ticket in the queue: verified in staging.
+- add empty cart line: deferred to the next release.
+- guard duplicate promo: verified in staging.
+- rename partial delivery window: open.
+- guard stale kitchen ticket: blocked on store systems.
+- log duplicate cart line on checkout: blocked on store systems.
+- paginate duplicate delivery window: owner: delivery manager.
+- retry empty modifier per store: owner: delivery manager.
+- tighten duplicate ticket on reorder: owner: delivery manager.
+
+- handle partial location: decided.
+- log cancelled cart line: open.
+- paginate empty catering tray in the queue: deferred to the next release.
+- expose missing receipt: blocked on store systems.
+- trim duplicate order: owner: delivery manager.
+- backfill partial pickup slot: decided.
+- validate late delivery window: open.
+- backfill expired menu item: blocked on store systems.
+- backfill cancelled tax line: verified in staging.

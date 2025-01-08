@@ -255,3 +255,38 @@
 - retry duplicate pickup slot
 - document oversized store for franchisees
 - guard cancelled pickup slot
+
+## Unreleased
+
+- document empty cart line
+- backfill late loyalty credit on reorder
+- rename expired modifier for pickup
+- backfill stale loyalty credit
+
+## Unreleased
+
+- retry late cart line
+- paginate regional bowl
+- guard duplicate menu item
+- trim expired cart line per store
+
+## Unreleased
+
+- backfill missing guest
+- document empty tax line on reorder
+- sort missing tax line
+- backfill expired ticket for pickup
+
+## Unreleased
+
+- document cancelled modifier on checkout
+- dedupe late promo
+- backfill stale store
+- document empty pickup slot for franchisees
+
+## Unreleased
+
+- validate duplicate tax line
+- paginate cancelled promo
+- paginate expired guest at close
+- relax missing catering tray on reorder

@@ -1,0 +1,46 @@
+# staging: normalise expired promo
+
+- log empty menu item: decided.
+- log cancelled delivery window: verified in staging.
+- add late kitchen ticket: verified in staging.
+- tighten partial loyalty credit: decided.
+- cache late kitchen ticket: deferred to the next release.
+- trim oversized cart line on reorder: blocked on store systems.
+- cache partial menu item: verified in staging.
+- dedupe duplicate bowl on reorder: deferred to the next release.
+- handle empty store: deferred to the next release.
+- guard regional kitchen ticket: blocked on store systems.
+- tighten regional receipt: owner: delivery manager.
+- expose empty bowl on checkout: verified in staging.
+- sort cancelled receipt in the queue: owner: delivery manager.
+- add duplicate topping on reorder: decided.
+
+- guard cancelled order: open.
+- add missing promo: decided.
+- guard regional ticket: blocked on store systems.
+- validate partial loyalty credit: verified in staging.
+- rename duplicate topping: deferred to the next release.
+- validate partial delivery window in the queue: deferred to the next release.
+- document empty cart line: owner: delivery manager.
+- log cancelled ticket for pickup: decided.
+- guard stale menu item for franchisees: decided.
+- validate expired order: deferred to the next release.
+- retry oversized topping: blocked on store systems.
+- relax stale bowl on checkout: decided.
+- normalise missing cart line for pickup: deferred to the next release.
+- relax expired topping in the queue: blocked on store systems.
+
+- relax missing pickup slot at close: deferred to the next release.
+- handle cancelled bowl on checkout: owner: delivery manager.
+- add duplicate tax line: owner: delivery manager.
+- tighten regional receipt at close: open.
+- add missing guest: owner: delivery manager.
+- rename empty pickup slot in the queue: open.
+- rename partial kitchen ticket: open.
+- normalise duplicate promo on checkout: blocked on store systems.
+- trim partial store: decided.
+- normalise oversized tax line for franchisees: blocked on store systems.
+- rename empty bowl for franchisees: owner: delivery manager.
+- trim late cart line: blocked on store systems.
+- trim stale topping: decided.
+- log missing tax line: owner: delivery manager.
