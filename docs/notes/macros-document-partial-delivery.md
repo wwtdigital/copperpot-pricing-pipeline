@@ -273,3 +273,18 @@
 - document duplicate topping on checkout: verified in staging.
 - retry late modifier in the queue: open.
 - retry expired promo on checkout: open.
+
+- document duplicate cart line: decided.
+- expose expired loyalty credit: owner: delivery manager.
+- log late catering tray on checkout: deferred to the next release.
+- trim late location at close: blocked on store systems.
+- rename partial cart line on reorder: blocked on store systems.
+- rename oversized ticket: deferred to the next release.
+- relax missing tax line per store: deferred to the next release.
+- backfill expired kitchen ticket: blocked on store systems.
+- cache cancelled guest on reorder: deferred to the next release.
+- relax oversized guest on checkout: decided.
+- relax stale topping at close: owner: delivery manager.
+- tighten stale menu item: open.
+- guard missing promo on reorder: blocked on store systems.
+- log cancelled pickup slot on reorder: open.
