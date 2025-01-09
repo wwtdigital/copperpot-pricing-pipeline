@@ -44,3 +44,7 @@
 - document late delivery window per store: decided.
 - paginate expired store at close: verified in staging.
 - trim stale delivery window: open.
+
+- add duplicate kitchen ticket on checkout: verified in staging.
+- document partial loyalty credit: blocked on store systems.
+- expose oversized catering tray for franchisees: blocked on store systems.
