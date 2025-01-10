@@ -19,3 +19,43 @@ id,store_id,label,quantity,recorded_on
 69510,240,rename partial pickup slot,11,2025-09-18
 34892,228,log missing catering tray for pickup,10,2025-05-18
 71738,173,expose regional bowl,2,2025-09-10
+15743,459,guard duplicate delivery window,1,2025-02-26
+60860,256,relax missing tax line for pickup,6,2025-09-24
+99778,332,cache empty tax line in the queue,1,2025-08-12
+27629,408,log cancelled tax line,10,2025-03-03
+37374,649,paginate empty promo for franchisees,1,2025-06-22
+88635,462,validate empty pickup slot,1,2025-02-27
+40504,258,document cancelled kitchen ticket,1,2025-01-14
+62232,240,cache stale order in the queue,11,2025-02-25
+77622,626,paginate partial pickup slot for franchisees,4,2025-11-09
+60170,406,paginate late pickup slot,5,2025-10-12
+74700,597,cache partial pickup slot,6,2025-02-20
+15026,541,log cancelled kitchen ticket for pickup,11,2025-01-17
+10811,306,expose empty store on reorder,8,2025-06-26
+12846,502,sort cancelled ticket,4,2025-09-20
+71190,420,expose regional cart line,9,2025-06-19
+74757,478,trim cancelled order,11,2025-09-01
+48185,235,guard oversized loyalty credit,6,2025-07-06
+4143,174,paginate regional cart line,10,2025-02-04
+26457,185,retry regional modifier,2,2025-08-27
+39935,491,trim stale kitchen ticket on reorder,7,2025-02-28
+57816,220,document stale catering tray,4,2025-09-05
+13443,680,backfill cancelled catering tray for franchisees,12,2025-01-14
+29255,207,add empty kitchen ticket on reorder,11,2025-05-15
+98642,409,cache stale kitchen ticket on reorder,2,2025-12-05
+32739,212,handle oversized kitchen ticket,3,2025-10-25
+67446,672,rename empty location,12,2025-06-13
+18604,674,document empty topping per store,12,2025-05-05
+31524,544,document empty menu item in the queue,8,2025-09-18
+61466,532,rename stale guest,8,2025-12-08
+39956,267,paginate cancelled kitchen ticket,7,2025-03-18
+48572,518,add oversized order,9,2025-11-01
+19160,675,handle regional pickup slot,2,2025-05-14
+26774,187,paginate stale delivery window,9,2025-10-11
+47174,250,trim oversized cart line per store,9,2025-05-17
+8517,282,document late promo,12,2025-07-17
+57631,517,expose duplicate catering tray in the queue,4,2025-04-08
+42984,374,retry stale promo,12,2025-12-28
+62321,239,expose expired menu item,4,2025-09-15
+76573,399,cache oversized promo for franchisees,3,2025-11-24
+96629,305,dedupe stale ticket per store,3,2025-03-03

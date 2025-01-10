@@ -260,3 +260,11 @@
 - paginate empty promo: blocked on store systems.
 - normalise empty promo at close: decided.
 - expose stale ticket: verified in staging.
+
+- add duplicate delivery window: open.
+- normalise expired location: decided.
+- retry oversized receipt on checkout: deferred to the next release.
+- trim expired order: owner: delivery manager.
+- add oversized order: verified in staging.
+- tighten empty bowl for pickup: verified in staging.
+- normalise stale receipt: owner: delivery manager.

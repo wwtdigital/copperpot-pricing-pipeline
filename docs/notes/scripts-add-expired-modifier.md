@@ -72,3 +72,18 @@
 - guard duplicate store for pickup: blocked on store systems.
 - document partial catering tray per store: deferred to the next release.
 - backfill oversized cart line: open.
+
+- document partial modifier per store: decided.
+- validate cancelled store: verified in staging.
+- normalise partial store: blocked on store systems.
+- add empty tax line per store: blocked on store systems.
+- expose missing catering tray for pickup: decided.
+- trim missing bowl: blocked on store systems.
+- log partial cart line: blocked on store systems.
+- expose duplicate receipt at close: decided.
+- add expired tax line: open.
+- log cancelled ticket: owner: delivery manager.
+- retry expired ticket: decided.
+- relax regional tax line per store: blocked on store systems.
+- backfill duplicate promo: owner: delivery manager.
+- backfill late receipt: open.
