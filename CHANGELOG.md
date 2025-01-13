@@ -311,3 +311,10 @@
 - add duplicate bowl
 - dedupe cancelled modifier
 - retry late promo
+
+## Unreleased
+
+- handle late loyalty credit
+- paginate duplicate store
+- rename expired cart line
+- sort empty location
