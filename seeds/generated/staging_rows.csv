@@ -1,0 +1,38 @@
+id,store_id,label,quantity,recorded_on
+9614,113,backfill stale delivery window for franchisees,9,2025-07-18
+17413,453,rename regional guest on checkout,10,2025-02-20
+74764,587,rename oversized ticket on reorder,9,2025-04-20
+22160,552,normalise partial catering tray,2,2025-12-20
+84775,358,cache partial topping,3,2025-01-08
+60069,162,backfill stale modifier,2,2025-01-11
+6705,268,cache regional store,11,2025-04-26
+84993,496,relax duplicate promo,6,2025-11-21
+43225,184,document late receipt,7,2025-02-20
+51390,475,retry missing order,10,2025-04-21
+28680,443,tighten cancelled delivery window,1,2025-12-09
+46287,573,document empty store on reorder,6,2025-04-14
+39542,298,document duplicate bowl on checkout,3,2025-08-24
+59741,358,trim empty cart line,9,2025-06-27
+11059,344,handle missing location,10,2025-05-01
+98106,569,dedupe regional guest per store,1,2025-01-19
+40921,424,document oversized location per store,4,2025-09-19
+29501,542,dedupe late receipt per store,8,2025-05-13
+99254,641,expose duplicate topping,12,2025-11-08
+9531,222,log missing tax line,1,2025-09-05
+76965,329,document stale topping,4,2025-06-13
+54746,511,paginate partial delivery window,10,2025-07-06
+13136,424,paginate stale delivery window,5,2025-07-04
+36561,422,add duplicate location,6,2025-09-22
+69377,371,guard late bowl in the queue,3,2025-04-12
+56678,455,relax late delivery window,1,2025-04-28
+55781,568,guard missing cart line on checkout,12,2025-04-08
+75895,643,backfill oversized topping,12,2025-12-13
+38886,619,retry oversized promo,3,2025-12-28
+28758,395,retry duplicate modifier,12,2025-08-13
+4462,297,normalise oversized topping,6,2025-06-06
+64562,656,log late pickup slot in the queue,4,2025-03-03
+90853,216,cache partial tax line on checkout,10,2025-08-02
+38893,535,paginate regional order in the queue,2,2025-11-22
+68387,501,normalise late pickup slot,12,2025-11-05
+10820,412,backfill cancelled loyalty credit,11,2025-07-26
+98331,445,validate empty tax line,8,2025-06-01

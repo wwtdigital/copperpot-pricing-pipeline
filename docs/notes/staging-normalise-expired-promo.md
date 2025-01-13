@@ -44,3 +44,18 @@
 - trim late cart line: blocked on store systems.
 - trim stale topping: decided.
 - log missing tax line: owner: delivery manager.
+
+- trim cancelled pickup slot for pickup: open.
+- document regional loyalty credit for pickup: deferred to the next release.
+- log cancelled cart line: open.
+- rename cancelled catering tray: owner: delivery manager.
+- dedupe cancelled location: open.
+- rename duplicate topping: deferred to the next release.
+- log cancelled order for pickup: decided.
+- log late location: decided.
+- cache stale loyalty credit: decided.
+- retry empty loyalty credit: verified in staging.
+- tighten cancelled order: decided.
+- add partial store on reorder: verified in staging.
+- guard regional menu item in the queue: decided.
+- log late cart line in the queue: deferred to the next release.

@@ -68,3 +68,18 @@
 - document regional loyalty credit: decided.
 - cache duplicate store per store: deferred to the next release.
 - retry expired ticket: verified in staging.
+
+- add stale tax line: owner: delivery manager.
+- paginate empty loyalty credit: decided.
+- log missing tax line in the queue: deferred to the next release.
+- trim duplicate loyalty credit in the queue: open.
+- paginate late menu item: verified in staging.
+- cache missing delivery window: decided.
+- trim duplicate pickup slot: deferred to the next release.
+- add late cart line: deferred to the next release.
+- tighten cancelled promo for franchisees: open.
+- tighten empty tax line: deferred to the next release.
+- guard empty order: owner: delivery manager.
+- cache stale pickup slot: deferred to the next release.
+- guard late kitchen ticket: decided.
+- paginate expired catering tray per store: blocked on store systems.
