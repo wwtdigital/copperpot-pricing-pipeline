@@ -42,3 +42,18 @@
 - add empty tax line: blocked on store systems.
 - dedupe expired store for franchisees: decided.
 - validate empty pickup slot: open.
+
+- paginate partial bowl: decided.
+- trim regional receipt: owner: delivery manager.
+- expose oversized delivery window: deferred to the next release.
+- expose cancelled store: open.
+- dedupe expired location at close: owner: delivery manager.
+- log regional topping on checkout: deferred to the next release.
+- backfill missing modifier for pickup: decided.
+- expose duplicate cart line: open.
+- sort missing store: decided.
+- cache regional bowl for franchisees: deferred to the next release.
+- document late pickup slot at close: blocked on store systems.
+- rename late tax line: blocked on store systems.
+- log regional bowl: verified in staging.
+- handle missing menu item on reorder: blocked on store systems.

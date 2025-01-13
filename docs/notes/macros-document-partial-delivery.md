@@ -288,3 +288,33 @@
 - tighten stale menu item: open.
 - guard missing promo on reorder: blocked on store systems.
 - log cancelled pickup slot on reorder: open.
+
+- trim expired catering tray for franchisees: owner: delivery manager.
+- rename missing loyalty credit: owner: delivery manager.
+- rename missing receipt: verified in staging.
+- document oversized tax line: deferred to the next release.
+- expose late tax line: deferred to the next release.
+- expose cancelled order: deferred to the next release.
+- backfill late menu item: open.
+- guard cancelled loyalty credit on reorder: open.
+- paginate empty cart line: decided.
+- add duplicate kitchen ticket per store: owner: delivery manager.
+- log stale order on checkout: open.
+- validate empty topping: decided.
+- validate missing menu item: blocked on store systems.
+- handle regional modifier per store: verified in staging.
+
+- dedupe missing tax line on reorder: owner: delivery manager.
+- normalise expired guest in the queue: deferred to the next release.
+- handle stale topping: deferred to the next release.
+- trim duplicate ticket on checkout: decided.
+- sort missing pickup slot: blocked on store systems.
+- trim cancelled delivery window: verified in staging.
+- paginate duplicate cart line for pickup: verified in staging.
+- trim missing cart line per store: owner: delivery manager.
+- relax missing order: open.
+- sort late store: deferred to the next release.
+- relax late order at close: deferred to the next release.
+- normalise late store: open.
+- handle expired tax line for franchisees: verified in staging.
+- relax late guest: decided.

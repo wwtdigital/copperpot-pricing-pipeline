@@ -290,3 +290,17 @@
 - paginate cancelled promo
 - paginate expired guest at close
 - relax missing catering tray on reorder
+
+## Unreleased
+
+- tighten partial promo
+- sort late pickup slot
+- dedupe empty location on checkout
+- guard cancelled modifier at close
+
+## Unreleased
+
+- expose expired loyalty credit
+- normalise oversized guest
+- log late store
+- expose late menu item

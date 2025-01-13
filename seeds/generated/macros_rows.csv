@@ -505,3 +505,40 @@ id,store_id,label,quantity,recorded_on
 46571,688,trim regional ticket,11,2025-07-21
 43197,122,relax duplicate receipt,10,2025-12-24
 77406,269,tighten stale pickup slot for pickup,8,2025-03-06
+47175,284,add partial bowl for franchisees,7,2025-01-20
+10795,400,paginate regional cart line per store,7,2025-01-17
+85860,645,document expired cart line on checkout,5,2025-04-15
+16119,610,document duplicate bowl at close,8,2025-11-07
+34968,157,expose partial order,10,2025-09-17
+49243,618,backfill regional location on checkout,12,2025-01-06
+61601,298,normalise oversized loyalty credit on reorder,12,2025-04-08
+84873,155,backfill oversized cart line,4,2025-06-05
+5667,436,sort late tax line,2,2025-04-09
+7416,110,validate missing loyalty credit,12,2025-10-18
+90920,205,dedupe expired modifier in the queue,9,2025-06-11
+38687,209,validate regional kitchen ticket per store,11,2025-07-05
+64767,239,validate expired location,4,2025-02-01
+77885,147,log stale pickup slot,11,2025-07-03
+39543,386,expose missing receipt,1,2025-02-06
+96786,629,trim partial topping on reorder,12,2025-07-15
+4415,210,dedupe stale topping on reorder,10,2025-04-15
+92002,119,backfill partial ticket for pickup,2,2025-03-08
+56445,288,tighten oversized delivery window on reorder,5,2025-11-12
+85509,518,validate cancelled catering tray,9,2025-12-15
+2889,631,paginate partial tax line,10,2025-06-14
+21114,249,normalise expired ticket in the queue,4,2025-08-06
+1243,598,handle expired catering tray,3,2025-10-02
+84434,464,retry empty topping in the queue,8,2025-03-18
+26073,141,sort expired menu item,7,2025-02-19
+8494,674,validate regional catering tray for franchisees,10,2025-06-02
+61710,507,expose missing store at close,1,2025-05-21
+11068,346,trim partial kitchen ticket,3,2025-02-02
+29451,203,retry empty kitchen ticket,11,2025-08-01
+97121,353,trim partial ticket,7,2025-10-05
+80713,676,backfill partial pickup slot,12,2025-06-21
+39515,305,add late delivery window for pickup,8,2025-07-04
+66551,579,backfill empty catering tray,5,2025-08-15
+26987,500,expose empty promo,12,2025-07-08
+24151,332,trim expired tax line on reorder,6,2025-07-02
+20335,280,paginate oversized modifier,3,2025-07-28
+41881,570,relax cancelled promo,9,2025-11-18
