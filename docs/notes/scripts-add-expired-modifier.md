@@ -87,3 +87,48 @@
 - relax regional tax line per store: blocked on store systems.
 - backfill duplicate promo: owner: delivery manager.
 - backfill late receipt: open.
+
+- backfill partial order per store: owner: delivery manager.
+- document oversized loyalty credit: deferred to the next release.
+- retry duplicate modifier: owner: delivery manager.
+- handle missing location in the queue: deferred to the next release.
+- log stale pickup slot: decided.
+- expose oversized receipt on checkout: open.
+- backfill duplicate store: owner: delivery manager.
+- trim empty location: blocked on store systems.
+- trim stale receipt on checkout: blocked on store systems.
+- cache duplicate loyalty credit: owner: delivery manager.
+- tighten stale loyalty credit for franchisees: deferred to the next release.
+- add empty bowl for franchisees: open.
+- document duplicate ticket on checkout: verified in staging.
+- normalise late pickup slot: owner: delivery manager.
+
+- handle empty modifier: blocked on store systems.
+- retry regional tax line: open.
+- guard missing ticket: decided.
+- backfill missing topping: decided.
+- trim partial topping: open.
+- document empty pickup slot for pickup: verified in staging.
+- log cancelled delivery window: blocked on store systems.
+- paginate duplicate loyalty credit on checkout: verified in staging.
+- paginate cancelled cart line: owner: delivery manager.
+- expose partial topping on checkout: verified in staging.
+- trim stale modifier: deferred to the next release.
+- add missing catering tray in the queue: open.
+- expose expired tax line: open.
+- document missing order for franchisees: verified in staging.
+
+- cache empty receipt: decided.
+- trim oversized menu item on reorder: verified in staging.
+- document cancelled delivery window: verified in staging.
+- expose missing location: deferred to the next release.
+- dedupe stale order: decided.
+- trim regional guest for franchisees: verified in staging.
+- document regional promo for pickup: blocked on store systems.
+- relax missing topping at close: blocked on store systems.
+- sort empty order in the queue: owner: delivery manager.
+- validate duplicate cart line for pickup: verified in staging.
+- normalise missing bowl on checkout: verified in staging.
+- validate expired topping for pickup: open.
+- handle partial location: verified in staging.
+- normalise late delivery window: open.

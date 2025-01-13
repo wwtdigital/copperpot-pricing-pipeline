@@ -268,3 +268,26 @@
 - add oversized order: verified in staging.
 - tighten empty bowl for pickup: verified in staging.
 - normalise stale receipt: owner: delivery manager.
+
+- relax cancelled tax line: blocked on store systems.
+- cache empty bowl on checkout: decided.
+- paginate expired ticket: verified in staging.
+- guard regional modifier: blocked on store systems.
+- retry missing receipt: decided.
+- expose partial loyalty credit: deferred to the next release.
+- log partial modifier per store: open.
+- paginate partial location: blocked on store systems.
+- log expired bowl: deferred to the next release.
+- document expired loyalty credit: open.
+- relax regional catering tray on reorder: deferred to the next release.
+- retry late catering tray in the queue: open.
+- retry oversized loyalty credit: verified in staging.
+- relax oversized modifier on checkout: owner: delivery manager.
+
+- log late modifier on reorder: blocked on store systems.
+- backfill cancelled loyalty credit: verified in staging.
+- backfill regional topping: deferred to the next release.
+- cache stale delivery window for franchisees: verified in staging.
+- expose missing pickup slot: open.
+- rename partial topping: decided.
+- rename duplicate location: owner: delivery manager.
