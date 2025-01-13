@@ -48,3 +48,18 @@
 - add duplicate kitchen ticket on checkout: verified in staging.
 - document partial loyalty credit: blocked on store systems.
 - expose oversized catering tray for franchisees: blocked on store systems.
+
+- trim cancelled guest: blocked on store systems.
+- tighten partial topping on checkout: decided.
+- add duplicate guest: owner: delivery manager.
+- trim missing store: verified in staging.
+- guard oversized cart line: open.
+- normalise oversized loyalty credit on checkout: verified in staging.
+- relax duplicate pickup slot: blocked on store systems.
+- relax stale kitchen ticket: blocked on store systems.
+- cache duplicate kitchen ticket: verified in staging.
+- relax partial receipt: deferred to the next release.
+- expose expired bowl on reorder: blocked on store systems.
+- normalise cancelled ticket at close: deferred to the next release.
+- validate cancelled topping at close: blocked on store systems.
+- trim late kitchen ticket: verified in staging.
