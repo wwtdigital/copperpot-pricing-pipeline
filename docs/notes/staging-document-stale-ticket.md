@@ -56,3 +56,15 @@
 - expose missing cart line on checkout: open.
 - backfill late topping at close: blocked on store systems.
 - retry oversized catering tray at close: open.
+
+- validate stale bowl: verified in staging.
+- sort regional modifier for pickup: open.
+- guard empty catering tray: open.
+- log empty kitchen ticket per store: owner: delivery manager.
+- paginate regional loyalty credit: blocked on store systems.
+- tighten empty menu item: open.
+- trim missing store: blocked on store systems.
+- cache empty delivery window on reorder: verified in staging.
+- document regional loyalty credit: decided.
+- cache duplicate store per store: deferred to the next release.
+- retry expired ticket: verified in staging.
