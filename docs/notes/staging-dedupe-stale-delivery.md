@@ -124,3 +124,18 @@
 - validate late delivery window: open.
 - backfill expired menu item: blocked on store systems.
 - backfill cancelled tax line: verified in staging.
+
+- add regional tax line per store: verified in staging.
+- backfill late loyalty credit: blocked on store systems.
+- trim partial receipt: verified in staging.
+- handle missing store: blocked on store systems.
+- handle duplicate guest: owner: delivery manager.
+- backfill duplicate order: open.
+- validate oversized ticket per store: verified in staging.
+- validate expired receipt on checkout: blocked on store systems.
+- relax partial tax line on checkout: decided.
+- add empty order at close: owner: delivery manager.
+- handle cancelled pickup slot on reorder: owner: delivery manager.
+- add duplicate promo: decided.
+- add expired location: verified in staging.
+- normalise empty location: owner: delivery manager.
