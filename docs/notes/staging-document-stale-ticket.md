@@ -83,3 +83,18 @@
 - cache stale pickup slot: deferred to the next release.
 - guard late kitchen ticket: decided.
 - paginate expired catering tray per store: blocked on store systems.
+
+- tighten stale guest: open.
+- rename oversized modifier: owner: delivery manager.
+- tighten partial menu item: blocked on store systems.
+- relax expired tax line at close: owner: delivery manager.
+- tighten duplicate tax line for pickup: deferred to the next release.
+- validate empty cart line: verified in staging.
+- trim missing delivery window: verified in staging.
+- dedupe partial catering tray on checkout: open.
+- paginate empty bowl at close: blocked on store systems.
+- guard oversized modifier: deferred to the next release.
+- handle late bowl: open.
+- guard expired loyalty credit for franchisees: blocked on store systems.
+- backfill expired topping: decided.
+- rename regional catering tray: decided.
