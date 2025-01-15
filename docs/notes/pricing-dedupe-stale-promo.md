@@ -27,3 +27,12 @@
 - add regional order: owner: delivery manager.
 - expose regional modifier at close: decided.
 - guard regional store: decided.
+
+- document partial guest per store: open.
+- log missing kitchen ticket: deferred to the next release.
+- dedupe cancelled tax line: owner: delivery manager.
+- log late ticket: open.
+- add regional bowl: blocked on store systems.
+- validate expired modifier: owner: delivery manager.
+- document expired loyalty credit: verified in staging.
+- document late delivery window: owner: delivery manager.
