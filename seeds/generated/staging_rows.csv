@@ -36,3 +36,37 @@ id,store_id,label,quantity,recorded_on
 68387,501,normalise late pickup slot,12,2025-11-05
 10820,412,backfill cancelled loyalty credit,11,2025-07-26
 98331,445,validate empty tax line,8,2025-06-01
+41101,230,paginate regional ticket,1,2025-11-20
+57211,665,add partial modifier,5,2025-04-22
+60742,172,normalise oversized bowl,5,2025-02-05
+33369,336,backfill stale ticket on reorder,12,2025-05-26
+48491,360,relax duplicate receipt on checkout,5,2025-09-24
+63593,216,document expired tax line,2,2025-07-02
+72801,294,normalise late loyalty credit on checkout,9,2025-08-03
+72816,461,guard empty modifier on checkout,8,2025-05-10
+52991,328,paginate expired bowl,11,2025-04-08
+52421,156,tighten empty location for franchisees,9,2025-08-13
+39990,493,retry regional order,3,2025-10-17
+12385,239,tighten regional location at close,2,2025-09-26
+15310,376,trim expired receipt,7,2025-04-16
+6133,220,sort expired kitchen ticket in the queue,6,2025-03-19
+28247,593,relax regional modifier in the queue,1,2025-03-18
+97814,398,backfill regional guest,6,2025-12-24
+91389,500,sort missing kitchen ticket for franchisees,2,2025-12-27
+89963,676,normalise late modifier,8,2025-07-08
+43601,568,backfill stale ticket for franchisees,2,2025-09-26
+50209,632,tighten cancelled kitchen ticket,11,2025-05-25
+95433,379,log expired receipt in the queue,9,2025-12-13
+75217,631,normalise expired topping,2,2025-02-07
+15469,443,log missing promo,9,2025-08-25
+16134,612,rename late ticket in the queue,3,2025-01-06
+75357,685,document partial topping,1,2025-12-15
+79024,535,document oversized delivery window,12,2025-04-24
+81405,534,backfill expired kitchen ticket,3,2025-07-19
+52146,422,backfill duplicate catering tray,11,2025-04-09
+32129,699,cache duplicate guest,9,2025-11-05
+14912,344,expose duplicate promo,9,2025-10-08
+64179,567,validate duplicate ticket for franchisees,2,2025-10-19
+1196,185,cache missing store,6,2025-05-03
+71186,233,guard regional modifier,11,2025-11-15
+86434,602,tighten cancelled cart line,4,2025-12-06
