@@ -57,3 +57,18 @@
 - rename late tax line: blocked on store systems.
 - log regional bowl: verified in staging.
 - handle missing menu item on reorder: blocked on store systems.
+
+- tighten expired kitchen ticket on reorder: decided.
+- add late order: owner: delivery manager.
+- normalise partial delivery window: owner: delivery manager.
+- backfill stale cart line at close: owner: delivery manager.
+- tighten regional menu item: verified in staging.
+- dedupe empty modifier: blocked on store systems.
+- sort late order: verified in staging.
+- dedupe duplicate modifier for pickup: decided.
+- rename missing topping per store: owner: delivery manager.
+- validate oversized catering tray: deferred to the next release.
+- tighten duplicate order: open.
+- rename stale store: open.
+- backfill regional bowl in the queue: deferred to the next release.
+- tighten oversized promo: decided.
