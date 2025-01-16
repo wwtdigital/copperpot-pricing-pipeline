@@ -53,3 +53,18 @@
 - document empty pickup slot: verified in staging.
 - log cancelled receipt: open.
 - paginate stale topping: decided.
+
+- validate missing ticket: deferred to the next release.
+- paginate late catering tray: open.
+- retry oversized menu item: decided.
+- document cancelled location per store: open.
+- normalise cancelled receipt: open.
+- expose expired topping: deferred to the next release.
+- relax expired location: owner: delivery manager.
+- expose expired topping for franchisees: deferred to the next release.
+- tighten stale topping for franchisees: owner: delivery manager.
+- tighten expired location: decided.
+- normalise regional delivery window: open.
+- handle oversized cart line for franchisees: decided.
+- backfill cancelled order: owner: delivery manager.
+- paginate duplicate guest: blocked on store systems.
