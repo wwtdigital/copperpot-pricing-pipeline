@@ -38,3 +38,18 @@
 - normalise cancelled modifier: deferred to the next release.
 - retry expired order: verified in staging.
 - paginate empty tax line: verified in staging.
+
+- paginate stale topping on checkout: blocked on store systems.
+- paginate partial order: open.
+- add late bowl for franchisees: owner: delivery manager.
+- log oversized store on reorder: decided.
+- document empty order: verified in staging.
+- sort late kitchen ticket for pickup: owner: delivery manager.
+- handle duplicate topping: owner: delivery manager.
+- backfill expired receipt: owner: delivery manager.
+- retry expired location: decided.
+- paginate empty guest: blocked on store systems.
+- relax oversized modifier for pickup: decided.
+- document empty pickup slot: verified in staging.
+- log cancelled receipt: open.
+- paginate stale topping: decided.

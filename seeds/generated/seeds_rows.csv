@@ -79,3 +79,43 @@ id,store_id,label,quantity,recorded_on
 13427,630,document oversized pickup slot,3,2025-11-22
 46329,643,validate expired pickup slot,11,2025-02-17
 52308,330,retry partial kitchen ticket for franchisees,8,2025-05-10
+90687,121,backfill missing topping,11,2025-06-16
+3488,692,validate empty ticket,7,2025-09-27
+69972,119,trim regional promo per store,1,2025-09-09
+25507,293,cache partial promo,1,2025-03-17
+54738,211,log regional catering tray in the queue,4,2025-05-09
+71487,380,relax cancelled cart line on reorder,9,2025-12-18
+51322,254,sort regional receipt for franchisees,10,2025-10-04
+4946,155,relax cancelled guest,3,2025-09-16
+42626,538,dedupe cancelled topping,3,2025-05-13
+77042,683,validate oversized ticket for pickup,6,2025-12-05
+11278,246,log partial modifier for pickup,5,2025-02-25
+70192,413,dedupe empty catering tray,6,2025-08-28
+14670,567,validate partial bowl on checkout,8,2025-10-10
+51526,681,tighten late delivery window,9,2025-07-09
+13428,615,expose duplicate menu item,8,2025-01-19
+31301,246,relax cancelled tax line,12,2025-08-17
+49160,243,paginate oversized receipt,8,2025-03-15
+80065,654,backfill empty tax line,6,2025-01-13
+7998,215,dedupe regional topping,1,2025-02-17
+45940,255,relax oversized kitchen ticket,10,2025-06-03
+83346,471,validate late bowl,2,2025-07-05
+29272,413,trim duplicate store per store,4,2025-06-11
+97046,167,trim missing delivery window for pickup,8,2025-12-19
+11890,276,document late topping,6,2025-09-15
+28036,529,retry empty ticket at close,8,2025-03-07
+11819,215,document regional topping,11,2025-08-04
+69463,103,document expired loyalty credit,6,2025-08-24
+68051,179,document cancelled modifier,5,2025-04-24
+44496,392,cache regional tax line,7,2025-11-22
+38784,125,cache expired modifier,3,2025-07-16
+5101,182,log regional order,7,2025-11-15
+76876,674,log regional catering tray,2,2025-04-12
+71041,412,rename late pickup slot,7,2025-09-19
+17743,479,handle empty modifier on reorder,12,2025-12-17
+32576,687,tighten expired receipt,6,2025-07-17
+86262,400,backfill partial catering tray,4,2025-02-06
+56241,683,backfill expired delivery window,5,2025-10-25
+17442,612,backfill regional receipt,4,2025-09-09
+27974,239,validate stale pickup slot for pickup,11,2025-07-04
+37930,452,cache expired guest,9,2025-11-13
