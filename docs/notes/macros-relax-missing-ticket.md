@@ -78,3 +78,18 @@
 - normalise regional menu item: decided.
 - tighten stale loyalty credit: owner: delivery manager.
 - normalise late pickup slot: decided.
+
+- cache late loyalty credit for pickup: blocked on store systems.
+- relax duplicate location at close: deferred to the next release.
+- validate late cart line for pickup: blocked on store systems.
+- backfill stale catering tray: decided.
+- handle missing cart line for franchisees: deferred to the next release.
+- log missing pickup slot: verified in staging.
+- retry partial guest: deferred to the next release.
+- cache expired delivery window for franchisees: open.
+- rename stale order: deferred to the next release.
+- retry regional loyalty credit: decided.
+- rename expired delivery window: decided.
+- guard late topping: owner: delivery manager.
+- backfill empty tax line at close: blocked on store systems.
+- backfill expired cart line: decided.

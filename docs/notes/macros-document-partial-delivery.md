@@ -318,3 +318,7 @@
 - normalise late store: open.
 - handle expired tax line for franchisees: verified in staging.
 - relax late guest: decided.
+
+- handle cancelled kitchen ticket: owner: delivery manager.
+- trim regional tax line: decided.
+- expose cancelled promo: blocked on store systems.
