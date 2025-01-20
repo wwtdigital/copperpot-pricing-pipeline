@@ -22,3 +22,33 @@
 - document oversized location: verified in staging.
 - log late topping: blocked on store systems.
 - add stale kitchen ticket for pickup: verified in staging.
+
+- normalise stale ticket: open.
+- validate missing store at close: owner: delivery manager.
+- log late loyalty credit at close: deferred to the next release.
+- dedupe missing tax line: owner: delivery manager.
+- add empty location in the queue: owner: delivery manager.
+- trim oversized order: decided.
+- expose regional delivery window for franchisees: decided.
+- handle stale modifier: decided.
+- document missing order: verified in staging.
+- rename expired topping: owner: delivery manager.
+- validate stale catering tray: deferred to the next release.
+- dedupe stale promo for pickup: decided.
+- handle late receipt: deferred to the next release.
+- rename oversized kitchen ticket: verified in staging.
+
+- log late guest for pickup: blocked on store systems.
+- retry stale store at close: blocked on store systems.
+- add duplicate topping: deferred to the next release.
+- cache duplicate catering tray: verified in staging.
+- expose oversized receipt for franchisees: verified in staging.
+- sort missing pickup slot at close: blocked on store systems.
+- sort missing bowl: verified in staging.
+- cache partial cart line for franchisees: decided.
+- cache cancelled menu item: open.
+- trim expired catering tray at close: owner: delivery manager.
+- normalise stale receipt: owner: delivery manager.
+- handle missing delivery window on reorder: open.
+- dedupe duplicate delivery window in the queue: decided.
+- log partial store for franchisees: verified in staging.

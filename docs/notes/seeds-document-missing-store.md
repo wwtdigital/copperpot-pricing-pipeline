@@ -39,3 +39,33 @@
 - cache regional promo at close: owner: delivery manager.
 - backfill regional cart line at close: owner: delivery manager.
 - log partial order: verified in staging.
+
+- validate late loyalty credit: blocked on store systems.
+- validate partial promo in the queue: blocked on store systems.
+- add late receipt: decided.
+- expose missing ticket on checkout: decided.
+- validate oversized kitchen ticket in the queue: deferred to the next release.
+- retry stale promo on reorder: decided.
+- trim missing order at close: decided.
+- log stale bowl: decided.
+- guard missing pickup slot for franchisees: blocked on store systems.
+- add expired cart line: blocked on store systems.
+- backfill cancelled promo on checkout: decided.
+- backfill missing bowl per store: decided.
+- relax empty menu item: owner: delivery manager.
+- relax stale topping: decided.
+
+- tighten missing pickup slot at close: blocked on store systems.
+- retry duplicate guest: open.
+- expose stale location per store: open.
+- add expired guest: deferred to the next release.
+- tighten cancelled ticket: blocked on store systems.
+- backfill stale pickup slot: verified in staging.
+- guard regional location per store: open.
+- log late kitchen ticket: blocked on store systems.
+- sort stale pickup slot per store: open.
+- trim oversized catering tray: decided.
+- backfill duplicate menu item: decided.
+- paginate expired loyalty credit: decided.
+- paginate empty topping on reorder: blocked on store systems.
+- log empty loyalty credit: open.
