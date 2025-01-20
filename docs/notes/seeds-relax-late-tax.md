@@ -68,3 +68,18 @@
 - handle oversized cart line for franchisees: decided.
 - backfill cancelled order: owner: delivery manager.
 - paginate duplicate guest: blocked on store systems.
+
+- relax missing location: verified in staging.
+- guard partial promo per store: open.
+- cache late pickup slot: owner: delivery manager.
+- paginate expired bowl: blocked on store systems.
+- expose regional kitchen ticket at close: verified in staging.
+- guard expired ticket in the queue: verified in staging.
+- expose duplicate cart line in the queue: decided.
+- validate partial delivery window: owner: delivery manager.
+- retry empty modifier: blocked on store systems.
+- add regional pickup slot: deferred to the next release.
+- validate missing ticket on checkout: open.
+- add cancelled order per store: blocked on store systems.
+- expose duplicate receipt: deferred to the next release.
+- backfill duplicate store for pickup: verified in staging.

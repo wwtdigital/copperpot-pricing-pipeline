@@ -232,3 +232,43 @@ id,store_id,label,quantity,recorded_on
 73751,548,log stale topping,8,2025-10-23
 51685,407,expose oversized modifier,3,2025-01-08
 60106,168,retry missing topping,8,2025-04-19
+99971,214,paginate regional topping,12,2025-05-25
+37779,341,sort empty topping,6,2025-09-23
+52393,227,relax missing cart line,3,2025-07-13
+38057,460,paginate partial catering tray on reorder,9,2025-04-03
+94521,441,paginate stale menu item,2,2025-04-08
+15546,664,sort stale promo on reorder,5,2025-02-14
+91681,369,handle late order,11,2025-07-16
+85350,115,backfill cancelled promo at close,4,2025-07-24
+3803,207,dedupe empty store,4,2025-09-02
+46431,460,normalise missing menu item,8,2025-10-11
+36481,280,sort empty catering tray,9,2025-03-01
+74912,377,guard empty menu item,11,2025-10-21
+92869,592,cache late tax line on reorder,4,2025-04-11
+11638,234,log regional receipt,8,2025-12-11
+92481,370,normalise expired menu item,4,2025-06-14
+44926,155,log duplicate receipt,11,2025-08-22
+18323,143,expose missing catering tray on reorder,11,2025-04-03
+54031,256,normalise missing guest,7,2025-03-20
+84625,660,document cancelled menu item,8,2025-09-27
+21314,167,handle regional topping,7,2025-08-06
+39585,147,rename duplicate topping on reorder,3,2025-12-06
+8382,409,sort stale kitchen ticket on checkout,9,2025-10-17
+93566,659,backfill late kitchen ticket,4,2025-09-14
+87221,181,guard partial topping,1,2025-09-25
+7692,210,handle empty ticket for pickup,11,2025-07-05
+62299,290,trim duplicate cart line on checkout,1,2025-07-18
+11092,170,cache late receipt,6,2025-02-24
+14600,577,log cancelled order on reorder,3,2025-03-23
+92733,385,rename missing promo on reorder,3,2025-04-18
+33907,437,guard empty guest for pickup,9,2025-09-24
+17995,342,expose missing promo,2,2025-08-27
+91805,520,dedupe partial guest,8,2025-12-23
+7394,206,paginate expired modifier per store,5,2025-07-20
+42985,453,retry expired modifier per store,11,2025-11-26
+70167,125,handle missing topping,3,2025-07-07
+71049,386,document expired kitchen ticket,2,2025-10-26
+19642,485,retry stale delivery window for pickup,11,2025-03-01
+22099,368,document duplicate tax line,4,2025-10-22
+32229,217,trim missing menu item,9,2025-04-27
+61061,333,tighten duplicate pickup slot for pickup,9,2025-06-26
