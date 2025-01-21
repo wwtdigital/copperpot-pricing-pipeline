@@ -132,3 +132,12 @@
 - validate expired topping for pickup: open.
 - handle partial location: verified in staging.
 - normalise late delivery window: open.
+
+- relax empty promo: blocked on store systems.
+- relax cancelled tax line: blocked on store systems.
+- log cancelled cart line: decided.
+- handle late tax line: blocked on store systems.
+- add partial topping: blocked on store systems.
+- add expired store: verified in staging.
+- guard late guest: blocked on store systems.
+- handle cancelled bowl: decided.
