@@ -264,3 +264,18 @@
 - retry duplicate guest: blocked on store systems.
 - document partial delivery window: verified in staging.
 - document missing topping on checkout: owner: delivery manager.
+
+- cache expired delivery window: blocked on store systems.
+- cache stale location: owner: delivery manager.
+- backfill late topping: decided.
+- rename oversized ticket: owner: delivery manager.
+- tighten oversized store: blocked on store systems.
+- relax partial promo on reorder: owner: delivery manager.
+- validate oversized tax line: open.
+- add oversized guest: decided.
+- document cancelled kitchen ticket: open.
+- document empty catering tray at close: owner: delivery manager.
+- sort late catering tray on reorder: blocked on store systems.
+- log partial location: owner: delivery manager.
+- validate late guest: decided.
+- trim late cart line on checkout: decided.
