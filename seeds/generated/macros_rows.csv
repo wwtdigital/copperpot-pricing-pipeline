@@ -1,0 +1,13 @@
+id,store_id,label,quantity,recorded_on
+19281,330,handle empty order for franchisees,4,2025-05-06
+47723,586,cache stale cart line,11,2025-05-15
+78804,416,rename oversized topping,9,2025-12-21
+35335,482,add regional promo,7,2025-04-02
+37137,206,dedupe partial tax line per store,4,2025-05-05
+39193,254,normalise stale location,5,2025-06-27
+95097,367,document stale store,5,2025-08-18
+97444,301,add expired menu item per store,1,2025-05-23
+6055,619,sort stale receipt for franchisees,10,2025-06-11
+16985,161,guard expired bowl on reorder,5,2025-07-26
+79038,549,add oversized ticket in the queue,11,2025-12-23
+17040,668,backfill expired pickup slot at close,12,2025-12-21
