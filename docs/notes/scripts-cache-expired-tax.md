@@ -249,3 +249,33 @@
 - backfill duplicate modifier: open.
 - sort missing cart line for franchisees: verified in staging.
 - tighten stale kitchen ticket: open.
+
+- rename missing cart line for pickup: decided.
+- handle regional order on reorder: deferred to the next release.
+- normalise empty ticket: verified in staging.
+- tighten cancelled loyalty credit: blocked on store systems.
+- cache partial tax line per store: owner: delivery manager.
+- tighten stale bowl: open.
+- rename cancelled store: deferred to the next release.
+- backfill missing guest: blocked on store systems.
+- dedupe expired topping at close: owner: delivery manager.
+- relax stale delivery window: decided.
+- normalise oversized bowl: deferred to the next release.
+- retry duplicate guest: blocked on store systems.
+- document partial delivery window: verified in staging.
+- document missing topping on checkout: owner: delivery manager.
+
+- cache expired delivery window: blocked on store systems.
+- cache stale location: owner: delivery manager.
+- backfill late topping: decided.
+- rename oversized ticket: owner: delivery manager.
+- tighten oversized store: blocked on store systems.
+- relax partial promo on reorder: owner: delivery manager.
+- validate oversized tax line: open.
+- add oversized guest: decided.
+- document cancelled kitchen ticket: open.
+- document empty catering tray at close: owner: delivery manager.
+- sort late catering tray on reorder: blocked on store systems.
+- log partial location: owner: delivery manager.
+- validate late guest: decided.
+- trim late cart line on checkout: decided.

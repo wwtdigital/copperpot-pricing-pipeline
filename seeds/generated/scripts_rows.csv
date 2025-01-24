@@ -1,0 +1,10 @@
+id,store_id,label,quantity,recorded_on
+24417,200,retry missing catering tray,9,2025-11-11
+10525,147,handle empty tax line,2,2025-04-07
+49043,568,tighten partial modifier in the queue,7,2025-04-02
+51976,142,guard oversized store per store,9,2025-02-03
+19701,643,add oversized kitchen ticket per store,12,2025-09-04
+16574,597,guard missing cart line on reorder,11,2025-12-01
+41011,328,cache expired location,5,2025-03-18
+86220,410,log missing kitchen ticket for pickup,3,2025-08-06
+9294,260,add regional guest on reorder,5,2025-09-13
