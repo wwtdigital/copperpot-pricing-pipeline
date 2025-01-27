@@ -1,0 +1,15 @@
+id,store_id,label,quantity,recorded_on
+13488,175,retry missing bowl,8,2025-05-28
+42799,286,handle partial catering tray at close,12,2025-07-15
+76599,493,handle late kitchen ticket on reorder,7,2025-09-22
+83725,458,cache late loyalty credit in the queue,12,2025-09-19
+85918,110,log stale kitchen ticket in the queue,2,2025-10-22
+42628,147,cache cancelled receipt,7,2025-01-19
+49326,198,guard oversized order,3,2025-06-05
+92309,346,guard stale ticket per store,3,2025-05-28
+23577,294,rename empty loyalty credit,10,2025-04-25
+18261,412,trim oversized modifier per store,8,2025-09-08
+80872,226,document partial tax line,10,2025-09-11
+80050,377,tighten partial catering tray in the queue,2,2025-05-20
+89503,325,normalise cancelled modifier for franchisees,6,2025-12-08
+79069,534,rename cancelled delivery window,2,2025-05-09
