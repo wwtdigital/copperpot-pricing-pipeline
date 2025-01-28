@@ -93,3 +93,24 @@
 - guard late topping: owner: delivery manager.
 - backfill empty tax line at close: blocked on store systems.
 - backfill expired cart line: decided.
+
+- log partial ticket: verified in staging.
+- dedupe stale topping per store: open.
+- validate cancelled delivery window: verified in staging.
+- sort cancelled menu item: verified in staging.
+- tighten stale promo: decided.
+- expose oversized delivery window: verified in staging.
+- document duplicate promo on reorder: verified in staging.
+- retry expired guest: deferred to the next release.
+- sort missing menu item: decided.
+- guard regional delivery window: open.
+- expose missing pickup slot: open.
+- backfill missing modifier for franchisees: owner: delivery manager.
+- cache expired menu item per store: verified in staging.
+- tighten expired loyalty credit: blocked on store systems.
+
+- backfill cancelled loyalty credit: owner: delivery manager.
+- trim stale store in the queue: verified in staging.
+- cache oversized order on reorder: blocked on store systems.
+- paginate regional catering tray for pickup: owner: delivery manager.
+- normalise expired topping: blocked on store systems.
