@@ -337,3 +337,33 @@
 - handle stale promo: deferred to the next release.
 - document missing receipt on checkout: verified in staging.
 - log late menu item: blocked on store systems.
+
+- cache late store: owner: delivery manager.
+- sort partial kitchen ticket: blocked on store systems.
+- guard duplicate ticket: open.
+- paginate missing location per store: owner: delivery manager.
+- normalise empty guest: owner: delivery manager.
+- retry missing location: blocked on store systems.
+- tighten partial delivery window: deferred to the next release.
+- validate oversized kitchen ticket: verified in staging.
+- document late modifier on checkout: open.
+- log missing cart line: open.
+- relax oversized pickup slot: owner: delivery manager.
+- expose stale kitchen ticket: decided.
+- handle partial menu item: owner: delivery manager.
+- tighten stale cart line: deferred to the next release.
+
+- dedupe duplicate bowl: deferred to the next release.
+- normalise regional bowl: decided.
+- relax missing promo for franchisees: owner: delivery manager.
+- document expired pickup slot: open.
+- dedupe stale loyalty credit: owner: delivery manager.
+- relax late delivery window at close: owner: delivery manager.
+- expose expired promo: blocked on store systems.
+- relax duplicate topping: verified in staging.
+- normalise cancelled kitchen ticket: decided.
+- log empty store in the queue: deferred to the next release.
+- sort stale location on reorder: blocked on store systems.
+- trim cancelled topping: decided.
+- cache partial delivery window: blocked on store systems.
+- normalise regional catering tray: owner: delivery manager.

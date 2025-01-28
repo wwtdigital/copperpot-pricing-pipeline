@@ -72,3 +72,18 @@
 - rename stale store: open.
 - backfill regional bowl in the queue: deferred to the next release.
 - tighten oversized promo: decided.
+
+- document stale cart line: open.
+- handle expired topping: blocked on store systems.
+- handle expired topping: blocked on store systems.
+- log empty modifier on reorder: owner: delivery manager.
+- expose regional catering tray: open.
+- add regional topping for pickup: open.
+- guard late order: decided.
+- validate duplicate kitchen ticket for pickup: decided.
+- tighten partial guest on checkout: decided.
+- document duplicate catering tray: decided.
+- tighten empty pickup slot: open.
+- add partial promo: open.
+- relax regional ticket: deferred to the next release.
+- validate stale modifier at close: open.
