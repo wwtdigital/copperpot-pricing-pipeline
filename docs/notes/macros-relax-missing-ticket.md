@@ -114,3 +114,18 @@
 - cache oversized order on reorder: blocked on store systems.
 - paginate regional catering tray for pickup: owner: delivery manager.
 - normalise expired topping: blocked on store systems.
+
+- add regional guest: owner: delivery manager.
+- tighten duplicate guest: open.
+- log late receipt for pickup: verified in staging.
+- rename partial order on checkout: open.
+- add oversized guest per store: owner: delivery manager.
+- log oversized menu item: decided.
+- handle cancelled pickup slot: verified in staging.
+- retry cancelled store: verified in staging.
+- handle stale location: owner: delivery manager.
+- document late menu item: blocked on store systems.
+- expose expired loyalty credit: open.
+- paginate empty delivery window: decided.
+- expose late topping: verified in staging.
+- backfill expired promo: blocked on store systems.
