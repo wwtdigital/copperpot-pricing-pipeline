@@ -322,3 +322,18 @@
 - handle cancelled kitchen ticket: owner: delivery manager.
 - trim regional tax line: decided.
 - expose cancelled promo: blocked on store systems.
+
+- sort duplicate ticket: deferred to the next release.
+- backfill empty loyalty credit: decided.
+- log expired tax line: verified in staging.
+- validate expired promo for pickup: deferred to the next release.
+- retry missing bowl: verified in staging.
+- trim missing kitchen ticket on checkout: owner: delivery manager.
+- document cancelled cart line: blocked on store systems.
+- dedupe missing bowl: decided.
+- retry expired order: blocked on store systems.
+- tighten late order: owner: delivery manager.
+- document late catering tray on checkout: open.
+- handle stale promo: deferred to the next release.
+- document missing receipt on checkout: verified in staging.
+- log late menu item: blocked on store systems.
