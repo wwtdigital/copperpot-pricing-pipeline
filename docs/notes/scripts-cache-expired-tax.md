@@ -279,3 +279,16 @@
 - log partial location: owner: delivery manager.
 - validate late guest: decided.
 - trim late cart line on checkout: decided.
+
+- cache cancelled tax line at close: open.
+- sort late kitchen ticket: blocked on store systems.
+- tighten empty topping: verified in staging.
+- paginate regional tax line: blocked on store systems.
+- handle oversized order: decided.
+- trim oversized pickup slot: verified in staging.
+- trim stale location: verified in staging.
+- log empty bowl: verified in staging.
+- tighten partial order for pickup: blocked on store systems.
+- rename partial bowl on checkout: deferred to the next release.
+- rename stale menu item at close: owner: delivery manager.
+- document stale promo: verified in staging.
