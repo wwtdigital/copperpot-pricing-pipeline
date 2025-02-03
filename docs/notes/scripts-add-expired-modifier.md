@@ -171,3 +171,48 @@
 - document oversized catering tray: owner: delivery manager.
 - rename regional tax line for pickup: deferred to the next release.
 - add empty tax line: open.
+
+- sort late catering tray in the queue: decided.
+- guard expired bowl per store: open.
+- relax cancelled catering tray: verified in staging.
+- relax late modifier: decided.
+- paginate oversized location in the queue: open.
+- document missing location: open.
+- cache cancelled topping at close: open.
+- validate missing cart line: deferred to the next release.
+- normalise duplicate kitchen ticket: decided.
+- paginate regional store: decided.
+- validate missing menu item per store: verified in staging.
+- cache oversized promo: verified in staging.
+- normalise cancelled catering tray: owner: delivery manager.
+- paginate regional catering tray: deferred to the next release.
+
+- handle expired tax line: owner: delivery manager.
+- normalise empty kitchen ticket on reorder: verified in staging.
+- add cancelled modifier: verified in staging.
+- paginate duplicate loyalty credit: blocked on store systems.
+- validate late bowl: decided.
+- document regional order for franchisees: owner: delivery manager.
+- paginate expired modifier: deferred to the next release.
+- normalise empty bowl on reorder: decided.
+- validate empty ticket: owner: delivery manager.
+- paginate partial menu item for franchisees: decided.
+- guard expired tax line on checkout: blocked on store systems.
+- document partial promo: open.
+- dedupe missing catering tray: deferred to the next release.
+- retry stale catering tray: verified in staging.
+
+- tighten oversized location for pickup: deferred to the next release.
+- tighten cancelled tax line: decided.
+- backfill regional ticket at close: verified in staging.
+- dedupe expired receipt for pickup: open.
+- document expired cart line in the queue: decided.
+- cache late catering tray: open.
+- paginate stale kitchen ticket: decided.
+- tighten expired ticket: owner: delivery manager.
+- expose late location: deferred to the next release.
+- validate expired cart line: open.
+- backfill missing catering tray: open.
+- trim expired catering tray: blocked on store systems.
+- tighten oversized bowl on reorder: verified in staging.
+- add empty modifier: verified in staging.
