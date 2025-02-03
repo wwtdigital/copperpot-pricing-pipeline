@@ -292,3 +292,18 @@
 - rename partial bowl on checkout: deferred to the next release.
 - rename stale menu item at close: owner: delivery manager.
 - document stale promo: verified in staging.
+
+- handle late guest: owner: delivery manager.
+- relax empty modifier: deferred to the next release.
+- paginate empty store at close: open.
+- document missing cart line: decided.
+- log late pickup slot at close: decided.
+- sort cancelled topping in the queue: deferred to the next release.
+- retry cancelled receipt: owner: delivery manager.
+- document regional cart line on checkout: open.
+- document regional promo: verified in staging.
+- sort expired loyalty credit in the queue: verified in staging.
+- validate missing delivery window: owner: delivery manager.
+- retry expired kitchen ticket at close: blocked on store systems.
+- validate empty bowl: decided.
+- validate duplicate pickup slot: owner: delivery manager.

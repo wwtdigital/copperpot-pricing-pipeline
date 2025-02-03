@@ -141,3 +141,33 @@
 - add expired store: verified in staging.
 - guard late guest: blocked on store systems.
 - handle cancelled bowl: decided.
+
+- guard late receipt: owner: delivery manager.
+- document expired loyalty credit: deferred to the next release.
+- document expired modifier: owner: delivery manager.
+- normalise stale pickup slot: owner: delivery manager.
+- validate duplicate tax line: blocked on store systems.
+- expose cancelled receipt on reorder: decided.
+- tighten empty delivery window: deferred to the next release.
+- log partial menu item: open.
+- document missing bowl: owner: delivery manager.
+- cache partial order: decided.
+- cache expired kitchen ticket: owner: delivery manager.
+- document stale modifier on checkout: owner: delivery manager.
+- rename partial location: owner: delivery manager.
+- sort regional catering tray on checkout: decided.
+
+- cache partial guest: verified in staging.
+- cache expired kitchen ticket in the queue: decided.
+- paginate partial guest at close: open.
+- log regional loyalty credit: owner: delivery manager.
+- document regional location: decided.
+- validate stale cart line for pickup: open.
+- relax oversized ticket: verified in staging.
+- normalise oversized location in the queue: verified in staging.
+- tighten cancelled catering tray: decided.
+- rename stale promo: verified in staging.
+- paginate empty modifier: blocked on store systems.
+- document oversized catering tray: owner: delivery manager.
+- rename regional tax line for pickup: deferred to the next release.
+- add empty tax line: open.
