@@ -22,3 +22,10 @@ id,store_id,label,quantity,recorded_on
 21212,435,dedupe expired modifier for franchisees,6,2025-02-06
 55577,301,tighten stale order,9,2025-02-27
 17658,279,cache duplicate order in the queue,9,2025-08-28
+57872,220,log empty receipt,12,2025-12-05
+39908,462,log partial promo for franchisees,2,2025-05-05
+86441,523,log regional bowl for pickup,1,2025-08-05
+2157,432,trim regional order,10,2025-05-09
+12780,374,add missing receipt for franchisees,4,2025-10-19
+18067,101,rename regional bowl on reorder,2,2025-08-05
+36636,100,dedupe oversized pickup slot,5,2025-05-15
