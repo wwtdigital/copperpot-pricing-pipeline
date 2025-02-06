@@ -124,3 +124,13 @@
 - add missing topping on checkout: deferred to the next release.
 - validate oversized tax line: blocked on store systems.
 - sort stale receipt in the queue: verified in staging.
+
+- cache cancelled catering tray: owner: delivery manager.
+- sort expired ticket: deferred to the next release.
+- relax cancelled delivery window: verified in staging.
+- add stale order for franchisees: deferred to the next release.
+- retry partial ticket for franchisees: owner: delivery manager.
+- relax cancelled menu item: owner: delivery manager.
+- log cancelled delivery window: deferred to the next release.
+- tighten partial bowl: owner: delivery manager.
+- cache regional kitchen ticket on reorder: blocked on store systems.

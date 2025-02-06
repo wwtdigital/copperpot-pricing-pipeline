@@ -8,3 +8,24 @@ id,store_id,label,quantity,recorded_on
 41011,328,cache expired location,5,2025-03-18
 86220,410,log missing kitchen ticket for pickup,3,2025-08-06
 9294,260,add regional guest on reorder,5,2025-09-13
+28266,172,document oversized modifier for pickup,8,2025-05-11
+11762,467,handle partial catering tray,9,2025-06-05
+94634,138,cache expired location,12,2025-03-08
+60208,449,relax duplicate pickup slot for franchisees,8,2025-08-10
+17021,412,retry cancelled menu item per store,11,2025-12-02
+3839,579,normalise regional modifier for pickup,7,2025-07-02
+21175,293,document late pickup slot,3,2025-07-21
+13165,462,sort duplicate delivery window,11,2025-01-06
+13561,589,trim cancelled guest,12,2025-03-21
+9841,169,sort regional location per store,1,2025-07-10
+40907,505,log stale tax line,12,2025-10-07
+21212,435,dedupe expired modifier for franchisees,6,2025-02-06
+55577,301,tighten stale order,9,2025-02-27
+17658,279,cache duplicate order in the queue,9,2025-08-28
+57872,220,log empty receipt,12,2025-12-05
+39908,462,log partial promo for franchisees,2,2025-05-05
+86441,523,log regional bowl for pickup,1,2025-08-05
+2157,432,trim regional order,10,2025-05-09
+12780,374,add missing receipt for franchisees,4,2025-10-19
+18067,101,rename regional bowl on reorder,2,2025-08-05
+36636,100,dedupe oversized pickup slot,5,2025-05-15
