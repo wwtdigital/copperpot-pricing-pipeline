@@ -292,3 +292,48 @@
 - rename partial bowl on checkout: deferred to the next release.
 - rename stale menu item at close: owner: delivery manager.
 - document stale promo: verified in staging.
+
+- handle late guest: owner: delivery manager.
+- relax empty modifier: deferred to the next release.
+- paginate empty store at close: open.
+- document missing cart line: decided.
+- log late pickup slot at close: decided.
+- sort cancelled topping in the queue: deferred to the next release.
+- retry cancelled receipt: owner: delivery manager.
+- document regional cart line on checkout: open.
+- document regional promo: verified in staging.
+- sort expired loyalty credit in the queue: verified in staging.
+- validate missing delivery window: owner: delivery manager.
+- retry expired kitchen ticket at close: blocked on store systems.
+- validate empty bowl: decided.
+- validate duplicate pickup slot: owner: delivery manager.
+
+- backfill duplicate modifier at close: open.
+- expose cancelled delivery window: owner: delivery manager.
+- rename oversized receipt on reorder: decided.
+- dedupe regional kitchen ticket: deferred to the next release.
+- add regional modifier: blocked on store systems.
+- rename stale store: verified in staging.
+- expose late cart line: verified in staging.
+- validate expired ticket in the queue: decided.
+- expose duplicate ticket in the queue: owner: delivery manager.
+- tighten late loyalty credit: blocked on store systems.
+- retry stale modifier on reorder: verified in staging.
+- rename late loyalty credit: deferred to the next release.
+- validate stale delivery window on reorder: open.
+- backfill cancelled menu item per store: deferred to the next release.
+
+- tighten regional pickup slot: verified in staging.
+- document partial tax line: deferred to the next release.
+- dedupe missing guest: owner: delivery manager.
+- document partial receipt: decided.
+- sort stale order: verified in staging.
+- sort expired order for franchisees: owner: delivery manager.
+- validate regional location per store: verified in staging.
+- add missing tax line: deferred to the next release.
+- document regional catering tray: blocked on store systems.
+- sort oversized cart line on checkout: decided.
+- sort regional guest for franchisees: blocked on store systems.
+- guard partial guest for franchisees: owner: delivery manager.
+- paginate missing modifier per store: decided.
+- handle late bowl per store: deferred to the next release.
