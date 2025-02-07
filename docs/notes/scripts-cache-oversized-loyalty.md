@@ -134,3 +134,50 @@
 - log cancelled delivery window: deferred to the next release.
 - tighten partial bowl: owner: delivery manager.
 - cache regional kitchen ticket on reorder: blocked on store systems.
+
+- cache stale topping: blocked on store systems.
+- handle cancelled guest: verified in staging.
+- normalise expired order for franchisees: open.
+- retry regional ticket in the queue: blocked on store systems.
+- expose regional guest in the queue: blocked on store systems.
+- dedupe missing topping: open.
+- trim regional delivery window: open.
+- backfill regional menu item on checkout: verified in staging.
+- dedupe empty ticket: deferred to the next release.
+- relax empty topping on reorder: blocked on store systems.
+- relax empty guest in the queue: decided.
+- backfill late tax line: decided.
+- add partial pickup slot: verified in staging.
+- trim expired receipt: blocked on store systems.
+
+- trim duplicate menu item: verified in staging.
+- rename regional order: blocked on store systems.
+- tighten expired receipt: decided.
+- log missing tax line: verified in staging.
+- guard duplicate receipt: decided.
+- paginate partial ticket on reorder: verified in staging.
+- dedupe empty ticket: blocked on store systems.
+- normalise partial guest: deferred to the next release.
+- dedupe duplicate menu item on reorder: deferred to the next release.
+- cache regional tax line: verified in staging.
+- handle partial tax line: deferred to the next release.
+- validate empty order: deferred to the next release.
+- rename expired catering tray: deferred to the next release.
+- relax cancelled cart line: deferred to the next release.
+
+- add regional tax line: deferred to the next release.
+- log duplicate ticket: open.
+- handle oversized modifier: owner: delivery manager.
+- validate oversized location: blocked on store systems.
+- paginate partial pickup slot: verified in staging.
+- document duplicate delivery window: open.
+- log missing loyalty credit at close: open.
+- paginate partial tax line on reorder: deferred to the next release.
+- validate duplicate order: decided.
+- validate late modifier for franchisees: open.
+- backfill stale ticket for pickup: decided.
+- backfill duplicate modifier: verified in staging.
+- add regional kitchen ticket for franchisees: verified in staging.
+- tighten missing modifier: verified in staging.
+
+- normalise duplicate receipt: open.

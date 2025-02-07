@@ -216,3 +216,18 @@
 - trim expired catering tray: blocked on store systems.
 - tighten oversized bowl on reorder: verified in staging.
 - add empty modifier: verified in staging.
+
+- cache partial modifier: owner: delivery manager.
+- log partial ticket per store: owner: delivery manager.
+- handle late location: owner: delivery manager.
+- paginate empty tax line: owner: delivery manager.
+- normalise cancelled modifier: verified in staging.
+- cache empty promo for pickup: decided.
+- relax missing topping: blocked on store systems.
+- trim missing topping for pickup: owner: delivery manager.
+- document missing tax line: blocked on store systems.
+- handle stale promo: verified in staging.
+- relax missing kitchen ticket: open.
+- trim stale pickup slot: decided.
+- rename expired modifier: owner: delivery manager.
+- validate expired bowl for pickup: owner: delivery manager.

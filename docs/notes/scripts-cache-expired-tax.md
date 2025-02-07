@@ -322,3 +322,18 @@
 - rename late loyalty credit: deferred to the next release.
 - validate stale delivery window on reorder: open.
 - backfill cancelled menu item per store: deferred to the next release.
+
+- tighten regional pickup slot: verified in staging.
+- document partial tax line: deferred to the next release.
+- dedupe missing guest: owner: delivery manager.
+- document partial receipt: decided.
+- sort stale order: verified in staging.
+- sort expired order for franchisees: owner: delivery manager.
+- validate regional location per store: verified in staging.
+- add missing tax line: deferred to the next release.
+- document regional catering tray: blocked on store systems.
+- sort oversized cart line on checkout: decided.
+- sort regional guest for franchisees: blocked on store systems.
+- guard partial guest for franchisees: owner: delivery manager.
+- paginate missing modifier per store: decided.
+- handle late bowl per store: deferred to the next release.
