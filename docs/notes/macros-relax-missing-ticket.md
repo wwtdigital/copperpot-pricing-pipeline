@@ -129,3 +129,15 @@
 - paginate empty delivery window: decided.
 - expose late topping: verified in staging.
 - backfill expired promo: blocked on store systems.
+
+- dedupe regional loyalty credit for franchisees: decided.
+- document regional guest at close: open.
+- normalise duplicate location for franchisees: blocked on store systems.
+- cache expired kitchen ticket: deferred to the next release.
+- relax empty topping: open.
+- dedupe missing topping: blocked on store systems.
+- relax partial pickup slot: decided.
+- validate expired pickup slot: owner: delivery manager.
+- dedupe oversized delivery window: deferred to the next release.
+- normalise late promo: owner: delivery manager.
+- relax duplicate delivery window in the queue: decided.

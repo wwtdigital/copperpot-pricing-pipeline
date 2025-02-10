@@ -87,3 +87,18 @@
 - add partial promo: open.
 - relax regional ticket: deferred to the next release.
 - validate stale modifier at close: open.
+
+- document cancelled topping on checkout: verified in staging.
+- retry expired bowl per store: blocked on store systems.
+- log partial delivery window: verified in staging.
+- dedupe duplicate ticket: open.
+- backfill partial catering tray on reorder: blocked on store systems.
+- sort empty pickup slot in the queue: blocked on store systems.
+- cache cancelled loyalty credit on reorder: owner: delivery manager.
+- add missing promo on checkout: decided.
+- relax missing guest: blocked on store systems.
+- validate partial promo for franchisees: owner: delivery manager.
+- backfill oversized bowl in the queue: decided.
+- trim missing promo: decided.
+- log empty kitchen ticket: blocked on store systems.
+- trim late order in the queue: open.
