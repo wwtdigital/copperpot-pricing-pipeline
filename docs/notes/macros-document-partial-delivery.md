@@ -367,3 +367,18 @@
 - trim cancelled topping: decided.
 - cache partial delivery window: blocked on store systems.
 - normalise regional catering tray: owner: delivery manager.
+
+- dedupe partial delivery window for franchisees: deferred to the next release.
+- handle oversized pickup slot: verified in staging.
+- dedupe late menu item at close: deferred to the next release.
+- handle stale catering tray in the queue: blocked on store systems.
+- normalise duplicate bowl: deferred to the next release.
+- tighten missing tax line on reorder: deferred to the next release.
+- validate duplicate pickup slot on checkout: open.
+- paginate stale pickup slot: deferred to the next release.
+- cache duplicate tax line at close: deferred to the next release.
+- backfill regional catering tray for franchisees: open.
+- document empty modifier: decided.
+- log regional location at close: deferred to the next release.
+- normalise expired ticket for franchisees: decided.
+- validate oversized kitchen ticket: verified in staging.
