@@ -181,3 +181,18 @@
 - tighten missing modifier: verified in staging.
 
 - normalise duplicate receipt: open.
+
+- relax missing cart line: decided.
+- retry oversized promo for franchisees: open.
+- relax empty store per store: owner: delivery manager.
+- dedupe oversized pickup slot: verified in staging.
+- guard stale delivery window: verified in staging.
+- relax stale loyalty credit at close: blocked on store systems.
+- validate oversized bowl: decided.
+- trim empty order: deferred to the next release.
+- relax empty modifier: open.
+- handle late topping: decided.
+- tighten missing order: blocked on store systems.
+- trim duplicate delivery window at close: blocked on store systems.
+- guard missing cart line: open.
+- expose expired modifier: owner: delivery manager.
