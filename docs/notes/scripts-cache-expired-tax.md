@@ -337,3 +337,9 @@
 - guard partial guest for franchisees: owner: delivery manager.
 - paginate missing modifier per store: decided.
 - handle late bowl per store: deferred to the next release.
+
+- dedupe late menu item for franchisees: decided.
+- add cancelled catering tray: verified in staging.
+- add cancelled pickup slot: owner: delivery manager.
+- relax partial cart line: open.
+- normalise regional loyalty credit: deferred to the next release.

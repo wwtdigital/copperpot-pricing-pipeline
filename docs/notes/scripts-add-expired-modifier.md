@@ -231,3 +231,18 @@
 - trim stale pickup slot: decided.
 - rename expired modifier: owner: delivery manager.
 - validate expired bowl for pickup: owner: delivery manager.
+
+- guard empty loyalty credit: deferred to the next release.
+- rename empty ticket at close: decided.
+- tighten regional cart line for pickup: open.
+- log missing store: blocked on store systems.
+- document oversized menu item: deferred to the next release.
+- expose missing promo on reorder: blocked on store systems.
+- relax expired modifier on reorder: deferred to the next release.
+- backfill empty order: open.
+- handle empty topping: verified in staging.
+- log cancelled guest for franchisees: blocked on store systems.
+- expose duplicate menu item for franchisees: blocked on store systems.
+- validate regional tax line for pickup: owner: delivery manager.
+- rename stale loyalty credit: open.
+- validate late receipt: verified in staging.
