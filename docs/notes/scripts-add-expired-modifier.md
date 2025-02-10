@@ -246,3 +246,18 @@
 - validate regional tax line for pickup: owner: delivery manager.
 - rename stale loyalty credit: open.
 - validate late receipt: verified in staging.
+
+- cache empty promo on checkout: blocked on store systems.
+- cache stale modifier: owner: delivery manager.
+- retry missing cart line: owner: delivery manager.
+- normalise partial cart line per store: verified in staging.
+- backfill missing pickup slot for pickup: verified in staging.
+- backfill stale receipt: decided.
+- validate missing promo: deferred to the next release.
+- expose stale menu item: verified in staging.
+- tighten partial loyalty credit: verified in staging.
+- trim partial pickup slot on checkout: decided.
+- trim missing loyalty credit in the queue: deferred to the next release.
+- tighten oversized ticket: owner: delivery manager.
+- cache partial modifier: blocked on store systems.
+- backfill cancelled menu item in the queue: deferred to the next release.
