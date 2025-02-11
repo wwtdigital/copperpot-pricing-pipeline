@@ -1,0 +1,15 @@
+id,store_id,label,quantity,recorded_on
+24357,424,backfill partial order on checkout,5,2025-03-21
+31378,181,trim stale topping per store,12,2025-07-05
+60296,500,log expired tax line per store,5,2025-04-21
+56994,519,log expired catering tray,2,2025-09-13
+43286,344,dedupe oversized order,9,2025-11-09
+40353,689,retry stale loyalty credit,4,2025-09-22
+34337,649,dedupe partial guest,12,2025-08-15
+82776,115,expose stale cart line on reorder,8,2025-08-15
+39780,626,paginate duplicate pickup slot on checkout,4,2025-03-03
+35742,549,validate oversized receipt,8,2025-04-28
+87913,292,expose regional cart line,5,2025-06-21
+19023,559,cache late delivery window,11,2025-03-21
+13281,397,sort late kitchen ticket for pickup,4,2025-03-10
+40910,191,log oversized cart line,12,2025-10-23
