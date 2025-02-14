@@ -59,3 +59,48 @@
 - add partial store on reorder: verified in staging.
 - guard regional menu item in the queue: decided.
 - log late cart line in the queue: deferred to the next release.
+
+- cache cancelled receipt: deferred to the next release.
+- backfill duplicate topping per store: blocked on store systems.
+- paginate stale modifier: deferred to the next release.
+- backfill duplicate catering tray at close: open.
+- expose cancelled store: open.
+- document empty store on checkout: deferred to the next release.
+- handle oversized receipt: owner: delivery manager.
+- dedupe expired pickup slot: verified in staging.
+- log missing bowl in the queue: decided.
+- normalise oversized receipt: blocked on store systems.
+- cache duplicate topping: deferred to the next release.
+- rename stale pickup slot: open.
+- relax partial cart line at close: blocked on store systems.
+- retry empty guest: owner: delivery manager.
+
+- trim missing loyalty credit: deferred to the next release.
+- document regional receipt: owner: delivery manager.
+- relax expired order: owner: delivery manager.
+- sort oversized store in the queue: blocked on store systems.
+- guard cancelled bowl on checkout: deferred to the next release.
+- log duplicate bowl at close: blocked on store systems.
+- add cancelled ticket: owner: delivery manager.
+- retry empty pickup slot: deferred to the next release.
+- log cancelled promo for pickup: open.
+- paginate duplicate receipt on checkout: decided.
+- add late topping: open.
+- trim expired tax line: deferred to the next release.
+- normalise empty loyalty credit: blocked on store systems.
+- rename partial menu item: open.
+
+- validate duplicate bowl: verified in staging.
+- handle late guest on reorder: decided.
+- trim late pickup slot: verified in staging.
+- document late promo: owner: delivery manager.
+- paginate empty menu item: deferred to the next release.
+- validate oversized bowl: verified in staging.
+- normalise partial loyalty credit: owner: delivery manager.
+- paginate expired pickup slot on reorder: owner: delivery manager.
+- backfill late tax line per store: owner: delivery manager.
+- cache cancelled menu item: owner: delivery manager.
+- sort partial delivery window: open.
+- rename regional bowl: decided.
+- retry cancelled ticket: owner: delivery manager.
+- handle missing promo: deferred to the next release.

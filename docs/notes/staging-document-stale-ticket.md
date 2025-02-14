@@ -98,3 +98,5 @@
 - guard expired loyalty credit for franchisees: blocked on store systems.
 - backfill expired topping: decided.
 - rename regional catering tray: decided.
+
+- log missing modifier: owner: delivery manager.
