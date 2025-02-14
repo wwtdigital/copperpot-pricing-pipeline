@@ -70,3 +70,16 @@ id,store_id,label,quantity,recorded_on
 1196,185,cache missing store,6,2025-05-03
 71186,233,guard regional modifier,11,2025-11-15
 86434,602,tighten cancelled cart line,4,2025-12-06
+74873,579,retry stale guest,10,2025-05-18
+34237,534,guard cancelled location for pickup,1,2025-05-12
+95633,187,dedupe stale topping,7,2025-03-27
+81563,347,trim cancelled menu item for franchisees,6,2025-02-09
+8032,508,relax partial pickup slot,12,2025-02-17
+94405,220,log duplicate location,8,2025-10-24
+53527,272,handle oversized order,9,2025-02-17
+83557,502,retry late promo per store,6,2025-10-16
+22024,590,add empty topping per store,1,2025-10-21
+72751,243,log duplicate bowl,10,2025-06-09
+62974,608,log cancelled order on reorder,7,2025-11-21
+59640,317,guard missing modifier,9,2025-11-21
+17094,409,normalise empty kitchen ticket,7,2025-10-21

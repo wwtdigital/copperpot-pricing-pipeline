@@ -59,3 +59,18 @@
 - add partial store on reorder: verified in staging.
 - guard regional menu item in the queue: decided.
 - log late cart line in the queue: deferred to the next release.
+
+- cache cancelled receipt: deferred to the next release.
+- backfill duplicate topping per store: blocked on store systems.
+- paginate stale modifier: deferred to the next release.
+- backfill duplicate catering tray at close: open.
+- expose cancelled store: open.
+- document empty store on checkout: deferred to the next release.
+- handle oversized receipt: owner: delivery manager.
+- dedupe expired pickup slot: verified in staging.
+- log missing bowl in the queue: decided.
+- normalise oversized receipt: blocked on store systems.
+- cache duplicate topping: deferred to the next release.
+- rename stale pickup slot: open.
+- relax partial cart line at close: blocked on store systems.
+- retry empty guest: owner: delivery manager.
