@@ -10,3 +10,12 @@ dependencies = [
     # Constrain chardet to avoid RequestsDependencyWarning from requests
     "chardet<6",
 ]
+
+[dependency-groups]
+dev = [
+    "pytest==8.4.2",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["scripts/tests"]
+pythonpath = ["scripts"]

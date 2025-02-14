@@ -18,3 +18,4 @@ jobs:
       - run: uv sync --locked
       - run: uv run dbt build
       - run: uv run sqlfluff lint models
+      - run: uv run pytest

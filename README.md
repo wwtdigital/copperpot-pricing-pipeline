@@ -54,3 +54,21 @@ uv run sqlfluff fix models
 ## Checks
 
 Every change runs `.github/workflows/ci.yml`: `uv sync --locked`, `dbt build` against a fresh DuckDB file, `sqlfluff lint models`. The same three commands are the local loop. Dependency updates for pip arrive weekly from dependabot.
+
+## Publishing the price book
+
+`scripts/publish_price_book.py` cuts one JSON document per price date from `price_book_daily`:
+
+```shell
+uv run python scripts/publish_price_book.py --date 2024-09-16 --out out
+```
+
+The store systems promotion tooling runs it from a release tag and uploads the file for the commerce API. See `docs/model-guide.md` for the models and what the tests cover.
+
+## Tests
+
+dbt tests run inside `dbt build`. The publisher's cases run with pytest:
+
+```shell
+uv run pytest
+```
