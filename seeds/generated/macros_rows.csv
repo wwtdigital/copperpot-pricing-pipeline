@@ -13,3 +13,43 @@ id,store_id,label,quantity,recorded_on
 19023,559,cache late delivery window,11,2025-03-21
 13281,397,sort late kitchen ticket for pickup,4,2025-03-10
 40910,191,log oversized cart line,12,2025-10-23
+7615,657,validate cancelled menu item,12,2025-11-13
+20483,420,cache regional cart line,5,2025-01-23
+36754,167,add duplicate store,4,2025-08-08
+60711,216,rename missing store in the queue,5,2025-09-23
+56155,505,validate duplicate ticket,8,2025-05-22
+68865,391,sort missing pickup slot,11,2025-01-26
+50998,244,paginate partial ticket at close,9,2025-04-12
+44303,630,log expired loyalty credit,4,2025-07-15
+58613,594,trim late tax line,3,2025-04-23
+23135,509,retry stale bowl,6,2025-06-17
+20168,647,guard regional bowl on reorder,12,2025-04-07
+20577,296,tighten late guest on checkout,11,2025-11-07
+56350,549,rename stale order on reorder,1,2025-05-08
+19381,316,retry late ticket,12,2025-11-15
+89941,521,trim cancelled ticket per store,4,2025-06-06
+19659,605,expose missing tax line,4,2025-11-16
+99246,630,backfill oversized modifier,10,2025-11-01
+80359,265,expose expired modifier,5,2025-07-17
+21743,656,validate late bowl,5,2025-02-17
+60223,351,normalise late kitchen ticket,6,2025-04-17
+1594,118,rename partial topping,12,2025-05-21
+74425,696,normalise cancelled cart line,11,2025-11-17
+88464,301,rename empty cart line,10,2025-01-20
+29352,369,tighten cancelled catering tray,1,2025-04-08
+19464,593,expose late receipt,7,2025-06-18
+77656,389,expose cancelled modifier,3,2025-04-06
+7072,387,guard missing order on checkout,12,2025-09-21
+90513,516,guard oversized pickup slot,3,2025-09-09
+79958,264,add partial ticket in the queue,9,2025-03-13
+61380,689,handle cancelled catering tray,7,2025-12-14
+44114,328,add missing catering tray,1,2025-01-04
+4005,233,dedupe duplicate menu item,7,2025-02-22
+47920,632,add regional delivery window,2,2025-12-19
+62915,262,rename empty kitchen ticket,12,2025-08-13
+2559,403,trim empty delivery window,7,2025-02-15
+33036,508,tighten duplicate menu item,7,2025-02-13
+56074,623,validate regional ticket,12,2025-03-20
+32121,190,sort partial topping in the queue,3,2025-12-26
+87014,606,trim expired promo,10,2025-08-05
+97429,319,expose partial menu item,5,2025-03-25

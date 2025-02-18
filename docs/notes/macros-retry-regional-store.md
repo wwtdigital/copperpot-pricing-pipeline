@@ -29,3 +29,33 @@
 - sort oversized cart line: decided.
 - add duplicate store: verified in staging.
 - log cancelled catering tray for franchisees: owner: delivery manager.
+
+- expose expired kitchen ticket for pickup: decided.
+- log late store on reorder: blocked on store systems.
+- rename oversized cart line on reorder: blocked on store systems.
+- document oversized tax line for pickup: deferred to the next release.
+- handle cancelled pickup slot on checkout: decided.
+- paginate stale pickup slot: blocked on store systems.
+- tighten oversized store: open.
+- log empty guest: deferred to the next release.
+- sort cancelled menu item on reorder: blocked on store systems.
+- document cancelled kitchen ticket: decided.
+- sort cancelled delivery window for pickup: deferred to the next release.
+- sort regional modifier: verified in staging.
+- validate late ticket: owner: delivery manager.
+- document late delivery window: owner: delivery manager.
+
+- cache expired promo: owner: delivery manager.
+- trim missing bowl: decided.
+- add duplicate tax line: verified in staging.
+- tighten late delivery window for pickup: open.
+- add partial order per store: decided.
+- add partial loyalty credit: blocked on store systems.
+- retry duplicate promo on reorder: open.
+- cache cancelled loyalty credit: owner: delivery manager.
+- document cancelled receipt: owner: delivery manager.
+- relax partial topping: verified in staging.
+- document late modifier: verified in staging.
+- handle cancelled loyalty credit on checkout: decided.
+- guard regional delivery window: decided.
+- tighten regional cart line: decided.
