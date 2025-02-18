@@ -1,0 +1,41 @@
+id,store_id,label,quantity,recorded_on
+25873,511,tighten cancelled loyalty credit,8,2025-06-28
+6927,420,sort stale catering tray on checkout,2,2025-02-20
+79466,604,relax empty catering tray,6,2025-10-27
+4966,130,handle duplicate kitchen ticket for pickup,12,2025-10-12
+31440,135,expose empty cart line,8,2025-02-18
+59681,444,normalise missing topping,3,2025-03-04
+72025,294,dedupe cancelled ticket,12,2025-09-17
+49825,241,validate duplicate tax line on checkout,5,2025-06-07
+84905,457,paginate regional pickup slot,2,2025-10-10
+5321,471,cache duplicate pickup slot,5,2025-06-07
+84036,505,retry oversized loyalty credit,2,2025-06-17
+6206,495,rename oversized store,3,2025-03-11
+21703,275,handle late kitchen ticket at close,6,2025-09-15
+1547,522,add late promo,4,2025-05-19
+89162,674,expose duplicate guest,6,2025-10-15
+5008,394,sort expired location on reorder,11,2025-01-03
+76787,398,sort regional delivery window on reorder,9,2025-07-28
+89266,699,guard oversized promo,2,2025-10-17
+54674,415,document missing modifier in the queue,11,2025-09-15
+43894,487,relax regional order,9,2025-04-13
+15131,591,paginate regional menu item at close,3,2025-03-21
+6892,257,tighten expired delivery window in the queue,10,2025-11-09
+21766,569,normalise regional catering tray,10,2025-10-04
+33970,340,retry regional location for pickup,5,2025-10-21
+45269,548,document partial store,2,2025-04-03
+1957,263,guard late order,2,2025-02-02
+83724,120,document partial order,9,2025-09-28
+55639,342,validate expired order for pickup,1,2025-04-08
+47553,669,dedupe late topping,10,2025-02-04
+22182,379,guard late kitchen ticket for pickup,3,2025-02-26
+7371,338,add regional menu item at close,11,2025-06-26
+57529,125,retry missing menu item,7,2025-05-05
+85265,339,validate late modifier,2,2025-04-01
+88778,404,cache oversized order at close,8,2025-01-24
+90927,357,dedupe duplicate ticket per store,9,2025-08-13
+77323,413,paginate partial loyalty credit,8,2025-06-05
+42445,637,add missing promo,9,2025-06-23
+77405,332,validate regional modifier,9,2025-06-15
+69188,524,tighten cancelled order,4,2025-05-05
+23708,297,expose partial pickup slot,6,2025-07-03

@@ -68,3 +68,7 @@
 - handle oversized cart line for franchisees: decided.
 - backfill cancelled order: owner: delivery manager.
 - paginate duplicate guest: blocked on store systems.
+
+- dedupe expired order: verified in staging.
+- rename missing topping: owner: delivery manager.
+- dedupe cancelled ticket on checkout: blocked on store systems.
