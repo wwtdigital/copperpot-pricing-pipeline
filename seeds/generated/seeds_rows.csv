@@ -65,3 +65,43 @@ id,store_id,label,quantity,recorded_on
 57689,543,expose cancelled modifier at close,7,2025-01-06
 74819,691,log empty guest,4,2025-04-12
 96856,475,rename missing receipt on reorder,6,2025-11-03
+90668,541,add cancelled pickup slot,12,2025-07-27
+10959,425,handle empty catering tray,1,2025-01-15
+74630,386,relax expired location,12,2025-10-08
+48628,670,relax duplicate delivery window on checkout,4,2025-12-07
+50173,273,relax stale loyalty credit for franchisees,8,2025-05-14
+92025,677,relax expired receipt,11,2025-10-28
+8573,407,document missing store,6,2025-01-10
+5956,320,retry regional pickup slot,10,2025-11-28
+81534,226,trim cancelled cart line,5,2025-04-03
+92908,358,document oversized bowl on reorder,11,2025-05-13
+78341,674,normalise duplicate ticket in the queue,6,2025-02-07
+70034,305,document cancelled order,2,2025-01-06
+92481,343,normalise missing kitchen ticket at close,4,2025-07-20
+1082,280,retry missing location,2,2025-11-04
+74735,521,rename regional catering tray for franchisees,7,2025-09-10
+23129,551,validate missing topping,5,2025-09-02
+33968,221,validate regional topping,8,2025-02-18
+66864,270,handle expired bowl for franchisees,9,2025-07-12
+14953,395,expose expired kitchen ticket on reorder,10,2025-08-19
+54477,378,guard partial location,9,2025-01-16
+52201,627,guard oversized tax line,11,2025-05-02
+99579,136,document late catering tray at close,7,2025-08-20
+95483,317,validate empty topping in the queue,7,2025-06-25
+86166,513,validate oversized store,2,2025-08-21
+89551,605,retry expired pickup slot,2,2025-06-27
+99074,349,retry oversized modifier for franchisees,8,2025-09-08
+57455,653,log expired modifier in the queue,1,2025-04-04
+77609,143,normalise expired tax line for pickup,6,2025-08-04
+94968,343,rename cancelled modifier,11,2025-02-07
+45373,158,relax cancelled delivery window,9,2025-05-28
+94559,153,trim duplicate receipt,8,2025-11-01
+28742,397,cache duplicate promo,4,2025-02-19
+52579,422,sort regional order for franchisees,2,2025-10-09
+60877,369,sort expired order on checkout,2,2025-04-13
+10408,689,cache late ticket,9,2025-01-05
+40361,479,add partial ticket,3,2025-01-17
+72352,307,tighten missing ticket,11,2025-11-11
+3995,576,paginate regional store,2,2025-08-19
+62000,307,normalise late loyalty credit per store,10,2025-10-01
+96744,486,normalise oversized topping per store,1,2025-11-14
