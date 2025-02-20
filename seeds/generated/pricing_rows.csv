@@ -13,3 +13,43 @@ id,store_id,label,quantity,recorded_on
 80050,377,tighten partial catering tray in the queue,2,2025-05-20
 89503,325,normalise cancelled modifier for franchisees,6,2025-12-08
 79069,534,rename cancelled delivery window,2,2025-05-09
+74982,317,backfill missing promo,4,2025-08-11
+64044,668,sort oversized guest,11,2025-06-09
+81713,331,tighten partial menu item,11,2025-08-28
+88196,559,handle oversized cart line,9,2025-04-23
+54490,288,tighten missing receipt,11,2025-06-01
+97882,518,sort partial pickup slot on checkout,10,2025-04-13
+57863,495,log empty kitchen ticket,11,2025-10-22
+24147,681,document regional location,9,2025-05-27
+41655,303,sort partial tax line on checkout,8,2025-01-15
+74975,232,log partial guest,7,2025-06-12
+79258,483,normalise missing cart line,8,2025-10-10
+27982,480,rename regional location per store,10,2025-05-25
+29835,508,log duplicate tax line,10,2025-09-14
+14967,310,cache regional tax line for franchisees,5,2025-05-07
+54678,281,backfill partial delivery window,6,2025-07-26
+36017,348,guard regional catering tray,3,2025-09-16
+65707,652,add expired catering tray,12,2025-06-03
+87725,278,backfill stale topping,11,2025-09-01
+31294,504,dedupe duplicate kitchen ticket,6,2025-04-21
+92197,469,expose missing order on checkout,2,2025-06-12
+76836,581,trim empty loyalty credit,7,2025-01-28
+84275,260,trim expired ticket,7,2025-09-03
+87298,101,sort empty cart line,10,2025-12-04
+85100,354,handle cancelled topping on reorder,6,2025-04-17
+44131,441,tighten duplicate bowl for franchisees,8,2025-05-12
+98820,169,log missing loyalty credit,11,2025-01-22
+16938,282,add duplicate catering tray,8,2025-07-13
+4471,468,tighten partial modifier,3,2025-08-17
+43041,290,relax partial topping,5,2025-09-21
+96936,265,add oversized cart line,7,2025-07-08
+26135,240,tighten missing tax line on reorder,7,2025-11-08
+6401,683,handle late cart line,6,2025-04-17
+62514,181,add missing cart line,3,2025-07-15
+13682,452,document duplicate modifier,1,2025-03-21
+68755,126,add partial delivery window on checkout,4,2025-09-15
+31075,469,dedupe cancelled topping,11,2025-02-03
+54939,358,sort cancelled guest in the queue,12,2025-10-28
+53172,284,expose missing promo on reorder,2,2025-05-19
+29874,388,rename partial promo at close,8,2025-10-16
+44137,166,handle oversized guest at close,6,2025-06-16

@@ -17,3 +17,12 @@
 - rename oversized cart line per store: blocked on store systems.
 - rename missing store: decided.
 - retry expired ticket: deferred to the next release.
+
+- retry stale delivery window on reorder: deferred to the next release.
+- rename empty topping: deferred to the next release.
+- paginate empty loyalty credit at close: blocked on store systems.
+- paginate partial catering tray in the queue: owner: delivery manager.
+- trim regional ticket in the queue: verified in staging.
+- retry stale delivery window: deferred to the next release.
+- expose oversized topping: verified in staging.
+- add oversized catering tray on checkout: open.
