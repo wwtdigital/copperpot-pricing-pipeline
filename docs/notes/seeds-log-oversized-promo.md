@@ -52,3 +52,18 @@
 - handle missing delivery window on reorder: open.
 - dedupe duplicate delivery window in the queue: decided.
 - log partial store for franchisees: verified in staging.
+
+- document oversized store: owner: delivery manager.
+- expose oversized topping: verified in staging.
+- retry late store: decided.
+- trim regional modifier in the queue: blocked on store systems.
+- log oversized promo: owner: delivery manager.
+- handle oversized loyalty credit in the queue: deferred to the next release.
+- validate expired cart line in the queue: deferred to the next release.
+- dedupe regional bowl: verified in staging.
+- add stale modifier: blocked on store systems.
+- handle expired delivery window: verified in staging.
+- sort cancelled receipt per store: open.
+- tighten cancelled bowl: deferred to the next release.
+- rename expired store for pickup: deferred to the next release.
+- cache stale menu item: open.
