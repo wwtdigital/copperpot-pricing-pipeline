@@ -39,3 +39,29 @@ id,store_id,label,quantity,recorded_on
 77405,332,validate regional modifier,9,2025-06-15
 69188,524,tighten cancelled order,4,2025-05-05
 23708,297,expose partial pickup slot,6,2025-07-03
+36222,249,relax stale tax line,12,2025-07-02
+65354,273,trim missing order per store,2,2025-05-27
+25169,550,rename late store,7,2025-12-16
+83513,524,retry cancelled menu item on checkout,8,2025-05-08
+28099,408,tighten cancelled cart line,12,2025-10-24
+67074,503,rename cancelled menu item,11,2025-12-24
+98540,139,normalise regional modifier per store,2,2025-08-08
+14964,317,rename partial store on checkout,3,2025-08-07
+66133,274,handle stale catering tray,11,2025-02-05
+36427,673,expose cancelled topping on reorder,8,2025-04-16
+6579,670,paginate duplicate kitchen ticket on reorder,9,2025-05-11
+99045,166,log cancelled bowl for franchisees,6,2025-12-15
+62458,696,sort late cart line per store,3,2025-06-19
+62857,592,trim expired bowl on checkout,2,2025-01-24
+39039,420,expose stale menu item,7,2025-11-17
+70910,157,dedupe partial ticket,11,2025-06-13
+37361,211,validate expired loyalty credit,3,2025-10-27
+4779,225,tighten empty receipt for pickup,9,2025-04-20
+57551,237,document expired tax line,9,2025-12-07
+17930,232,trim missing receipt,6,2025-07-12
+36524,584,trim cancelled catering tray on reorder,11,2025-06-09
+34453,158,dedupe late bowl,4,2025-09-14
+7122,463,dedupe oversized bowl,6,2025-09-04
+57689,543,expose cancelled modifier at close,7,2025-01-06
+74819,691,log empty guest,4,2025-04-12
+96856,475,rename missing receipt on reorder,6,2025-11-03
