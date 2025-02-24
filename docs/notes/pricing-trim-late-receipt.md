@@ -14,3 +14,18 @@
 - normalise empty catering tray per store: owner: delivery manager.
 - retry expired location: blocked on store systems.
 - validate stale delivery window on checkout: verified in staging.
+
+- backfill empty loyalty credit: owner: delivery manager.
+- validate empty store for pickup: open.
+- backfill empty store: open.
+- log duplicate order at close: verified in staging.
+- document cancelled location: owner: delivery manager.
+- trim empty location: blocked on store systems.
+- dedupe missing order per store: blocked on store systems.
+- document stale catering tray: decided.
+- dedupe duplicate promo for pickup: blocked on store systems.
+- tighten oversized menu item: verified in staging.
+- handle cancelled modifier: deferred to the next release.
+- trim regional catering tray on checkout: open.
+- normalise cancelled menu item: decided.
+- backfill expired location: open.
