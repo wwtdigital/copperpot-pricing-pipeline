@@ -104,3 +104,33 @@
 - rename regional bowl: decided.
 - retry cancelled ticket: owner: delivery manager.
 - handle missing promo: deferred to the next release.
+
+- dedupe empty modifier for pickup: deferred to the next release.
+- rename missing pickup slot for franchisees: verified in staging.
+- add oversized menu item: owner: delivery manager.
+- backfill regional store: deferred to the next release.
+- normalise duplicate pickup slot: owner: delivery manager.
+- paginate cancelled ticket at close: verified in staging.
+- trim late receipt: deferred to the next release.
+- paginate expired delivery window: deferred to the next release.
+- relax duplicate bowl: open.
+- expose empty promo for pickup: decided.
+- dedupe partial menu item at close: decided.
+- paginate oversized promo: verified in staging.
+- normalise empty ticket in the queue: deferred to the next release.
+- document empty promo: deferred to the next release.
+
+- normalise missing bowl: blocked on store systems.
+- validate late modifier: blocked on store systems.
+- handle missing kitchen ticket at close: blocked on store systems.
+- handle duplicate cart line on reorder: deferred to the next release.
+- rename duplicate kitchen ticket per store: owner: delivery manager.
+- document stale catering tray: open.
+- normalise duplicate ticket for franchisees: decided.
+- handle duplicate store: blocked on store systems.
+- log expired bowl: verified in staging.
+- normalise missing tax line: decided.
+- handle cancelled delivery window: open.
+- document stale order: decided.
+- rename duplicate store: blocked on store systems.
+- trim duplicate ticket: owner: delivery manager.
