@@ -100,3 +100,33 @@
 - rename regional catering tray: decided.
 
 - log missing modifier: owner: delivery manager.
+
+- handle stale bowl on reorder: open.
+- sort duplicate catering tray: owner: delivery manager.
+- retry empty kitchen ticket for franchisees: deferred to the next release.
+- guard stale delivery window: blocked on store systems.
+- backfill stale promo: decided.
+- handle partial loyalty credit for pickup: open.
+- log late receipt: blocked on store systems.
+- add partial guest per store: blocked on store systems.
+- log stale cart line: decided.
+- log cancelled menu item: verified in staging.
+- add missing bowl for pickup: deferred to the next release.
+- relax late location: verified in staging.
+- normalise missing kitchen ticket: deferred to the next release.
+- guard expired order for franchisees: verified in staging.
+
+- validate empty guest on checkout: deferred to the next release.
+- rename regional modifier: deferred to the next release.
+- document missing cart line on reorder: verified in staging.
+- handle partial loyalty credit on reorder: blocked on store systems.
+- guard stale bowl: deferred to the next release.
+- tighten oversized loyalty credit: decided.
+- sort regional topping: deferred to the next release.
+- guard cancelled cart line: owner: delivery manager.
+- handle empty promo on reorder: open.
+- relax duplicate guest: deferred to the next release.
+- trim oversized delivery window: verified in staging.
+- tighten regional receipt in the queue: deferred to the next release.
+- trim duplicate order in the queue: verified in staging.
+- document duplicate order: open.

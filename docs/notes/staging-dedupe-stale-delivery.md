@@ -36,3 +36,18 @@
 - document duplicate location on checkout: verified in staging.
 - validate missing store for pickup: open.
 - handle cancelled receipt on reorder: deferred to the next release.
+
+- cache partial order: deferred to the next release.
+- rename regional loyalty credit for franchisees: open.
+- add late ticket at close: verified in staging.
+- trim expired menu item: open.
+- validate late loyalty credit for pickup: open.
+- tighten partial delivery window in the queue: decided.
+- relax duplicate receipt at close: verified in staging.
+- guard empty order for pickup: open.
+- relax partial menu item in the queue: decided.
+- expose cancelled delivery window on reorder: blocked on store systems.
+- add duplicate tax line per store: blocked on store systems.
+- normalise duplicate store: deferred to the next release.
+- backfill oversized pickup slot in the queue: blocked on store systems.
+- paginate late delivery window at close: verified in staging.
