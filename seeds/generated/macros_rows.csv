@@ -93,3 +93,40 @@ id,store_id,label,quantity,recorded_on
 19541,246,document expired store,12,2025-03-14
 82907,438,retry duplicate cart line at close,6,2025-04-06
 72157,546,document stale receipt,5,2025-03-05
+99437,192,tighten stale promo for franchisees,2,2025-09-28
+28985,295,trim late promo,1,2025-12-15
+11077,106,tighten missing catering tray on checkout,11,2025-08-12
+93221,628,handle empty pickup slot,5,2025-02-12
+24101,416,document stale location on checkout,3,2025-12-22
+50936,259,dedupe regional promo,11,2025-11-28
+23230,161,backfill partial cart line on checkout,3,2025-10-23
+63079,694,sort regional location on checkout,8,2025-09-05
+7607,288,backfill cancelled catering tray in the queue,1,2025-02-22
+22033,264,cache duplicate catering tray,12,2025-08-22
+2751,239,relax missing promo,12,2025-06-04
+63451,100,trim cancelled topping on reorder,10,2025-08-20
+63995,138,dedupe expired catering tray,3,2025-07-05
+57242,211,validate duplicate menu item,2,2025-02-07
+75233,596,document late tax line for pickup,5,2025-07-01
+55508,488,normalise cancelled location,10,2025-06-17
+16834,245,dedupe regional kitchen ticket,7,2025-01-20
+92439,637,retry missing delivery window for franchisees,7,2025-09-07
+67613,274,add empty guest,8,2025-03-21
+7098,616,retry regional menu item,6,2025-12-08
+85004,127,relax duplicate cart line in the queue,6,2025-06-02
+51403,326,backfill stale pickup slot,9,2025-11-07
+73524,107,expose regional kitchen ticket per store,11,2025-11-23
+64640,447,relax oversized kitchen ticket,1,2025-12-04
+18418,356,retry missing bowl,2,2025-04-16
+16488,566,guard missing topping,7,2025-09-12
+97690,695,retry cancelled tax line for pickup,5,2025-10-27
+81130,174,sort cancelled guest per store,1,2025-07-02
+64302,455,add missing topping at close,4,2025-05-25
+35904,260,paginate regional store,3,2025-10-22
+62267,568,guard oversized modifier,10,2025-01-20
+88813,319,guard late delivery window for franchisees,7,2025-08-20
+15311,121,tighten late receipt per store,10,2025-04-05
+59341,446,validate missing menu item at close,10,2025-06-27
+64936,524,validate expired bowl,5,2025-09-06
+39266,471,dedupe expired kitchen ticket for franchisees,6,2025-05-25
+21268,508,retry regional catering tray on reorder,3,2025-11-20

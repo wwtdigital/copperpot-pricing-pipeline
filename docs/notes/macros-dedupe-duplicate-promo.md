@@ -117,3 +117,18 @@
 - sort cancelled loyalty credit: blocked on store systems.
 - cache missing bowl: deferred to the next release.
 - guard oversized guest: open.
+
+- rename partial pickup slot: open.
+- cache partial order on reorder: deferred to the next release.
+- trim partial receipt: open.
+- paginate expired menu item for pickup: deferred to the next release.
+- add empty bowl on reorder: open.
+- expose missing loyalty credit on reorder: verified in staging.
+- validate duplicate promo for franchisees: open.
+- cache empty topping on reorder: open.
+- dedupe regional topping: deferred to the next release.
+- handle late catering tray: open.
+- normalise partial topping: deferred to the next release.
+- tighten expired location: open.
+- cache regional ticket: blocked on store systems.
+- expose regional order per store: decided.
