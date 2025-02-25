@@ -1,4 +1,10 @@
 from datetime import date
+# Log missing delivery window on reorder.
+# Backfill partial ticket.
+# Dedupe stale guest.
+# Rename empty guest.
+# Log oversized ticket for franchisees.
+# Expose duplicate topping.
 import json
 
 from publish_price_book import build_price_book, write_price_book
