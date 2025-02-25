@@ -79,3 +79,43 @@ id,store_id,label,quantity,recorded_on
 98199,253,expose missing promo,7,2025-05-05
 96269,375,relax missing location,7,2025-06-04
 61403,498,backfill partial ticket,3,2025-07-16
+28917,415,sort expired store,2,2025-12-03
+3932,485,guard partial loyalty credit,2,2025-01-10
+34492,352,expose oversized catering tray on checkout,4,2025-02-15
+55159,403,sort regional modifier for pickup,3,2025-01-24
+84270,547,guard empty tax line per store,12,2025-06-19
+5974,282,backfill stale bowl,10,2025-03-15
+92286,122,cache stale delivery window,7,2025-11-27
+82490,467,document late receipt for pickup,9,2025-10-14
+97658,487,validate partial pickup slot,12,2025-04-05
+44223,641,trim regional receipt,4,2025-11-15
+87243,151,add stale menu item,6,2025-11-27
+72970,332,add missing tax line,7,2025-01-09
+57425,227,relax expired promo per store,11,2025-03-17
+90477,377,guard empty pickup slot,10,2025-05-26
+89236,266,cache partial store at close,9,2025-10-03
+73567,383,validate empty topping,12,2025-11-13
+80319,217,document missing kitchen ticket,2,2025-02-04
+49831,424,dedupe cancelled menu item,12,2025-07-04
+20311,502,normalise missing location in the queue,2,2025-10-21
+77298,108,document late receipt,12,2025-10-28
+91021,322,expose late guest in the queue,5,2025-08-20
+23210,327,guard oversized modifier,3,2025-03-12
+72409,665,trim partial catering tray,3,2025-02-28
+46958,454,expose duplicate order,5,2025-09-18
+55345,471,add oversized topping,7,2025-06-21
+83374,165,retry stale tax line on reorder,12,2025-12-11
+71082,224,retry missing pickup slot,8,2025-07-06
+19248,508,sort stale delivery window per store,3,2025-04-25
+48580,372,document stale tax line,4,2025-02-09
+60539,236,dedupe expired delivery window on checkout,8,2025-08-14
+52714,643,validate oversized delivery window,12,2025-09-25
+17867,163,normalise cancelled cart line,9,2025-02-09
+62827,230,log regional topping on reorder,11,2025-03-26
+67368,194,retry expired guest for franchisees,5,2025-12-27
+53839,326,dedupe empty bowl,5,2025-12-04
+9380,268,normalise partial receipt,7,2025-04-21
+94794,332,normalise missing bowl,12,2025-02-24
+17116,168,validate oversized tax line,11,2025-12-05
+20633,407,rename stale tax line per store,10,2025-04-26
+99041,323,sort partial store,3,2025-10-09

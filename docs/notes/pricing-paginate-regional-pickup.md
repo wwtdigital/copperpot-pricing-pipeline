@@ -94,3 +94,48 @@
 - add empty store: verified in staging.
 - guard missing tax line: verified in staging.
 - retry regional delivery window for pickup: owner: delivery manager.
+
+- sort missing loyalty credit: decided.
+- tighten late tax line: verified in staging.
+- paginate late guest: open.
+- rename oversized promo in the queue: open.
+- handle late location at close: owner: delivery manager.
+- trim late topping: deferred to the next release.
+- validate empty loyalty credit in the queue: deferred to the next release.
+- trim expired modifier on checkout: verified in staging.
+- normalise empty modifier: deferred to the next release.
+- tighten late receipt on checkout: open.
+- normalise expired location: open.
+- sort duplicate guest on checkout: open.
+- tighten regional promo: blocked on store systems.
+- validate partial promo on reorder: blocked on store systems.
+
+- backfill duplicate location: blocked on store systems.
+- cache partial catering tray: owner: delivery manager.
+- normalise partial promo: owner: delivery manager.
+- handle cancelled pickup slot: verified in staging.
+- relax regional catering tray for franchisees: open.
+- paginate empty topping: open.
+- validate expired pickup slot per store: deferred to the next release.
+- dedupe late loyalty credit for franchisees: open.
+- guard cancelled store at close: blocked on store systems.
+- relax regional receipt: deferred to the next release.
+- document cancelled cart line per store: blocked on store systems.
+- expose missing store: open.
+- sort duplicate ticket at close: verified in staging.
+- validate oversized order for franchisees: deferred to the next release.
+
+- log duplicate modifier: verified in staging.
+- relax oversized bowl: verified in staging.
+- rename partial store on checkout: blocked on store systems.
+- rename regional location: verified in staging.
+- retry cancelled topping: open.
+- dedupe regional guest: deferred to the next release.
+- handle duplicate ticket for pickup: blocked on store systems.
+- cache empty menu item at close: blocked on store systems.
+- tighten regional cart line: owner: delivery manager.
+- retry stale bowl: open.
+- guard stale delivery window: open.
+- paginate regional receipt: open.
+- document cancelled guest: verified in staging.
+- dedupe regional promo for franchisees: decided.
