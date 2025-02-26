@@ -1,0 +1,31 @@
+# macros: retry regional store in the queue
+
+- rename empty catering tray on reorder: owner: delivery manager.
+- rename empty tax line on reorder: decided.
+- log stale menu item: blocked on store systems.
+- guard empty store on reorder: open.
+- tighten cancelled modifier: verified in staging.
+- tighten duplicate pickup slot: owner: delivery manager.
+- tighten missing catering tray: verified in staging.
+- relax regional location on reorder: owner: delivery manager.
+- paginate oversized store: blocked on store systems.
+- relax regional ticket: owner: delivery manager.
+- validate oversized cart line at close: deferred to the next release.
+- validate late menu item on reorder: blocked on store systems.
+- add duplicate order on reorder: owner: delivery manager.
+- paginate empty catering tray in the queue: open.
+
+- paginate empty bowl: owner: delivery manager.
+- relax regional ticket: verified in staging.
+- sort empty modifier: deferred to the next release.
+- expose cancelled modifier: verified in staging.
+- dedupe empty guest on reorder: open.
+- dedupe oversized location: deferred to the next release.
+- handle partial receipt: decided.
+- log empty order: deferred to the next release.
+- guard duplicate catering tray: verified in staging.
+- sort late catering tray on reorder: owner: delivery manager.
+- retry late loyalty credit in the queue: blocked on store systems.
+- sort oversized cart line: decided.
+- add duplicate store: verified in staging.
+- log cancelled catering tray for franchisees: owner: delivery manager.
