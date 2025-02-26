@@ -141,3 +141,18 @@
 - dedupe oversized delivery window: deferred to the next release.
 - normalise late promo: owner: delivery manager.
 - relax duplicate delivery window in the queue: decided.
+
+- validate duplicate kitchen ticket: owner: delivery manager.
+- validate duplicate cart line: open.
+- guard partial ticket: open.
+- guard empty catering tray in the queue: blocked on store systems.
+- handle duplicate menu item: open.
+- document stale receipt: decided.
+- tighten expired ticket: blocked on store systems.
+- expose regional tax line: verified in staging.
+- relax regional cart line per store: decided.
+- handle duplicate kitchen ticket: owner: delivery manager.
+- add expired loyalty credit: owner: delivery manager.
+- rename missing modifier on reorder: owner: delivery manager.
+- cache empty location for franchisees: verified in staging.
+- document partial modifier per store: decided.
