@@ -119,3 +119,43 @@ id,store_id,label,quantity,recorded_on
 17116,168,validate oversized tax line,11,2025-12-05
 20633,407,rename stale tax line per store,10,2025-04-26
 99041,323,sort partial store,3,2025-10-09
+45915,342,paginate oversized pickup slot,4,2025-03-12
+59841,178,retry late menu item,4,2025-09-14
+42692,261,rename late store in the queue,5,2025-11-23
+74901,219,validate regional delivery window per store,5,2025-05-23
+15885,182,dedupe oversized store,9,2025-08-04
+59435,579,validate duplicate guest,8,2025-12-23
+4986,232,rename missing promo for franchisees,10,2025-04-14
+83403,606,document empty catering tray,3,2025-03-11
+55918,259,expose regional guest,2,2025-09-24
+41310,218,handle cancelled catering tray,2,2025-03-01
+9453,551,retry duplicate modifier,5,2025-05-01
+4763,158,handle missing cart line,4,2025-02-11
+29282,260,rename oversized kitchen ticket,7,2025-06-27
+17438,570,tighten regional tax line,4,2025-08-07
+46483,149,document expired topping in the queue,1,2025-12-08
+6926,180,log empty promo per store,2,2025-11-10
+56662,641,guard late modifier in the queue,6,2025-08-24
+85284,226,retry partial catering tray at close,10,2025-01-14
+20361,321,expose stale kitchen ticket,8,2025-05-25
+24446,154,paginate empty store on checkout,3,2025-03-12
+92246,551,relax stale menu item for franchisees,6,2025-07-11
+73440,149,sort empty ticket,10,2025-03-17
+64956,162,add expired cart line,7,2025-03-12
+52807,117,handle partial pickup slot on checkout,9,2025-05-04
+92844,408,log regional tax line on checkout,11,2025-06-12
+29641,278,normalise missing pickup slot,1,2025-04-03
+55298,295,guard empty store in the queue,12,2025-09-07
+41382,303,normalise late order,4,2025-12-27
+44968,108,document stale menu item,8,2025-12-25
+36448,406,paginate empty promo,8,2025-03-26
+54628,612,handle regional promo per store,5,2025-11-04
+20159,390,sort stale order,9,2025-01-19
+5263,233,log empty pickup slot,2,2025-06-16
+80745,439,validate oversized promo for franchisees,1,2025-05-04
+1366,289,relax late bowl at close,9,2025-09-22
+80056,156,paginate duplicate tax line on checkout,1,2025-10-27
+21129,290,cache empty topping on reorder,1,2025-12-18
+98189,208,relax empty loyalty credit,2,2025-05-17
+31994,431,document stale receipt,8,2025-04-14
+37529,401,document cancelled promo,5,2025-01-23
