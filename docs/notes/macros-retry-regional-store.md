@@ -59,3 +59,14 @@
 - handle cancelled loyalty credit on checkout: decided.
 - guard regional delivery window: decided.
 - tighten regional cart line: decided.
+
+- log stale ticket: verified in staging.
+- validate cancelled tax line: decided.
+- log oversized pickup slot on reorder: open.
+- guard regional delivery window on checkout: open.
+- paginate late bowl: deferred to the next release.
+- document late bowl on checkout: owner: delivery manager.
+- tighten missing delivery window on reorder: blocked on store systems.
+- retry expired receipt for franchisees: deferred to the next release.
+- paginate missing receipt: blocked on store systems.
+- add regional catering tray: decided.

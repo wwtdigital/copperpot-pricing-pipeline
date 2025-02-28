@@ -53,3 +53,43 @@ id,store_id,label,quantity,recorded_on
 32121,190,sort partial topping in the queue,3,2025-12-26
 87014,606,trim expired promo,10,2025-08-05
 97429,319,expose partial menu item,5,2025-03-25
+78213,208,dedupe partial modifier in the queue,12,2025-06-02
+2996,570,document regional ticket,4,2025-06-02
+87733,108,validate late menu item,2,2025-02-02
+10420,493,add partial location,9,2025-11-04
+71123,357,validate duplicate ticket,8,2025-03-21
+75830,345,retry cancelled order per store,12,2025-11-14
+15344,253,handle empty guest,10,2025-11-17
+89541,183,normalise duplicate store,2,2025-08-08
+50121,662,paginate missing delivery window on reorder,10,2025-04-01
+37833,390,validate late guest,11,2025-04-12
+85690,475,paginate empty kitchen ticket,11,2025-01-27
+89948,572,guard missing cart line,7,2025-07-04
+74835,241,normalise expired loyalty credit,11,2025-03-14
+97986,639,sort cancelled promo,4,2025-12-22
+22779,124,cache empty bowl for franchisees,1,2025-05-27
+59893,544,tighten duplicate order,3,2025-12-08
+53391,533,sort expired menu item,10,2025-07-26
+88772,399,tighten regional menu item for pickup,2,2025-11-10
+15989,699,add empty menu item,1,2025-09-11
+50894,280,trim duplicate bowl,4,2025-02-18
+34193,548,expose missing delivery window on reorder,2,2025-01-12
+95212,633,sort cancelled delivery window,12,2025-12-27
+66013,120,validate oversized ticket for pickup,11,2025-04-01
+39400,183,dedupe regional store for pickup,1,2025-08-13
+19753,666,rename late guest,9,2025-05-06
+6129,664,rename stale bowl,2,2025-04-21
+90871,641,handle late location for pickup,8,2025-07-24
+5445,274,rename late kitchen ticket per store,2,2025-12-20
+65573,120,cache cancelled delivery window,3,2025-04-01
+24049,464,handle regional tax line for pickup,6,2025-08-19
+34376,568,handle empty order,9,2025-01-13
+6768,223,add expired order,4,2025-04-21
+11519,202,expose cancelled order,10,2025-06-17
+46068,480,paginate missing kitchen ticket,7,2025-03-22
+5967,338,add stale store,9,2025-03-26
+72411,114,expose partial guest for pickup,7,2025-12-12
+28278,621,normalise cancelled guest,12,2025-12-03
+19541,246,document expired store,12,2025-03-14
+82907,438,retry duplicate cart line at close,6,2025-04-06
+72157,546,document stale receipt,5,2025-03-05

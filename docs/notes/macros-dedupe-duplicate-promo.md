@@ -102,3 +102,18 @@
 - trim missing promo: decided.
 - log empty kitchen ticket: blocked on store systems.
 - trim late order in the queue: open.
+
+- document expired cart line: open.
+- retry late kitchen ticket: deferred to the next release.
+- tighten oversized delivery window for franchisees: deferred to the next release.
+- rename cancelled location: deferred to the next release.
+- guard empty cart line: blocked on store systems.
+- log late menu item at close: blocked on store systems.
+- rename stale menu item: verified in staging.
+- guard expired order: deferred to the next release.
+- handle partial store: blocked on store systems.
+- paginate stale guest: open.
+- log cancelled store: open.
+- sort cancelled loyalty credit: blocked on store systems.
+- cache missing bowl: deferred to the next release.
+- guard oversized guest: open.
