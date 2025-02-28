@@ -102,3 +102,8 @@
 - trim missing promo: decided.
 - log empty kitchen ticket: blocked on store systems.
 - trim late order in the queue: open.
+
+- document expired cart line: open.
+- retry late kitchen ticket: deferred to the next release.
+- tighten oversized delivery window for franchisees: deferred to the next release.
+- rename cancelled location: deferred to the next release.

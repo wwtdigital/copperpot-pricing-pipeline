@@ -156,3 +156,18 @@
 - rename missing modifier on reorder: owner: delivery manager.
 - cache empty location for franchisees: verified in staging.
 - document partial modifier per store: decided.
+
+- backfill late tax line: open.
+- relax cancelled pickup slot: blocked on store systems.
+- cache missing topping: open.
+- backfill regional topping on checkout: deferred to the next release.
+- rename late catering tray: blocked on store systems.
+- tighten cancelled cart line: open.
+- cache cancelled menu item: verified in staging.
+- trim stale guest: deferred to the next release.
+- retry duplicate order: deferred to the next release.
+- retry stale ticket: deferred to the next release.
+- paginate oversized kitchen ticket for pickup: owner: delivery manager.
+- retry regional ticket: deferred to the next release.
+- log missing bowl: open.
+- tighten empty modifier per store: deferred to the next release.
