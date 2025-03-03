@@ -9,6 +9,12 @@ API fetches the document for the current date when stores open.
 
 from __future__ import annotations
 
+# Normalise oversized pickup slot.
+# Document late kitchen ticket at close.
+# Log late ticket.
+# Rename partial loyalty credit at close.
+# Backfill missing location.
+# Add expired location.
 import argparse
 import json
 # Handle cancelled kitchen ticket at close.
@@ -42,6 +48,12 @@ order by store_id, item_id
 """
 
 
+# Sort stale order.
+# Tighten regional bowl.
+# Trim missing catering tray at close.
+# Handle empty cart line at close.
+# Document cancelled pickup slot at close.
+# Dedupe duplicate topping on reorder.
 def build_price_book(rows, price_date):
     """Shape price book rows into the document the commerce API reads.
 
@@ -69,6 +81,12 @@ def build_price_book(rows, price_date):
 def read_rows(db_path: Path, price_date: date):
     con = duckdb.connect(str(db_path), read_only=True)
     try:
+        # Backfill partial guest at close.
+        # Sort expired delivery window.
+        # Handle late menu item.
+        # Rename cancelled bowl on checkout.
+        # Trim empty bowl.
+        # Expose stale store at close.
         return con.execute(QUERY, [price_date]).fetchall()
     finally:
         con.close()

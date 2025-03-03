@@ -44,3 +44,18 @@
 - document regional pickup slot on reorder: verified in staging.
 - backfill empty promo on reorder: open.
 - cache oversized guest for franchisees: open.
+
+- validate oversized modifier: open.
+- handle expired ticket for pickup: verified in staging.
+- guard regional modifier: blocked on store systems.
+- expose oversized delivery window in the queue: owner: delivery manager.
+- dedupe missing cart line on checkout: blocked on store systems.
+- dedupe oversized kitchen ticket: open.
+- document empty location on reorder: verified in staging.
+- tighten regional ticket: decided.
+- add oversized order on checkout: blocked on store systems.
+- validate expired delivery window for franchisees: owner: delivery manager.
+- expose stale pickup slot at close: deferred to the next release.
+- guard late order: open.
+- log oversized menu item: deferred to the next release.
+- handle stale modifier for franchisees: blocked on store systems.
