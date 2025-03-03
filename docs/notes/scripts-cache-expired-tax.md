@@ -343,3 +343,18 @@
 - add cancelled pickup slot: owner: delivery manager.
 - relax partial cart line: open.
 - normalise regional loyalty credit: deferred to the next release.
+
+- rename late order: blocked on store systems.
+- document late catering tray: open.
+- sort stale cart line: blocked on store systems.
+- relax duplicate guest: decided.
+- tighten oversized location: blocked on store systems.
+- validate expired order in the queue: blocked on store systems.
+- sort late bowl: deferred to the next release.
+- backfill expired guest: verified in staging.
+- handle empty tax line: owner: delivery manager.
+- expose duplicate guest at close: blocked on store systems.
+- normalise stale tax line: open.
+- trim cancelled loyalty credit: decided.
+- dedupe regional store per store: deferred to the next release.
+- sort partial store on checkout: open.

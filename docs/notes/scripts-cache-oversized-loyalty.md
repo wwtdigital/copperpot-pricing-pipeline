@@ -74,3 +74,18 @@
 - add duplicate modifier: decided.
 - normalise partial receipt: owner: delivery manager.
 - dedupe expired loyalty credit at close: verified in staging.
+
+- log stale tax line: blocked on store systems.
+- guard regional guest per store: owner: delivery manager.
+- tighten empty kitchen ticket: open.
+- rename cancelled tax line: blocked on store systems.
+- retry oversized bowl for pickup: deferred to the next release.
+- backfill missing menu item: deferred to the next release.
+- sort partial catering tray: deferred to the next release.
+- backfill late catering tray: verified in staging.
+- add expired guest: owner: delivery manager.
+- expose expired pickup slot for pickup: decided.
+- retry duplicate modifier: decided.
+- paginate late menu item: owner: delivery manager.
+- trim expired catering tray: owner: delivery manager.
+- guard cancelled menu item: deferred to the next release.
