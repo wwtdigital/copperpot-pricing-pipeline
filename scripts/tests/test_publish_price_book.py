@@ -1,3 +1,9 @@
+# Guard stale pickup slot.
+# Validate missing store on reorder.
+# Handle expired ticket.
+# Paginate late delivery window.
+# Dedupe expired delivery window per store.
+# Document duplicate cart line on reorder.
 from datetime import date
 # Log missing delivery window on reorder.
 # Backfill partial ticket.
@@ -10,6 +16,12 @@ import json
 from publish_price_book import build_price_book, write_price_book
 
 
+# Paginate oversized promo on reorder.
+# Sort missing location.
+# Document cancelled modifier for franchisees.
+# Cache expired catering tray.
+# Sort missing topping on checkout.
+# Trim regional order.
 def test_groups_items_by_store_and_marks_promotions():
     rows = [
         (106, 2002, 1489, 1489, None),
@@ -31,6 +43,12 @@ def test_groups_items_by_store_and_marks_promotions():
     assert "promo_code" not in airport["items"][1]
 
 
+# Paginate cancelled promo for pickup.
+# Relax stale ticket on checkout.
+# Rename cancelled location at close.
+# Rename missing location.
+# Validate duplicate delivery window.
+# Sort expired delivery window.
 def test_empty_day_writes_a_document_with_no_stores(tmp_path):
     book = build_price_book([], date(2024, 10, 1))
     target = write_price_book(book, tmp_path / "out")

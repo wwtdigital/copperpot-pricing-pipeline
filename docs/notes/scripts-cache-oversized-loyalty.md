@@ -59,3 +59,18 @@
 - guard late order: open.
 - log oversized menu item: deferred to the next release.
 - handle stale modifier for franchisees: blocked on store systems.
+
+- guard cancelled modifier: decided.
+- add regional topping: open.
+- retry late pickup slot: deferred to the next release.
+- retry duplicate loyalty credit for franchisees: decided.
+- relax late location: blocked on store systems.
+- expose duplicate topping: deferred to the next release.
+- trim late store: owner: delivery manager.
+- expose late loyalty credit for franchisees: blocked on store systems.
+- validate partial tax line: blocked on store systems.
+- log expired modifier: owner: delivery manager.
+- sort regional pickup slot on reorder: open.
+- add duplicate modifier: decided.
+- normalise partial receipt: owner: delivery manager.
+- dedupe expired loyalty credit at close: verified in staging.
