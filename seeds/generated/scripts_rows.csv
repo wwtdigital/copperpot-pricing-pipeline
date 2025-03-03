@@ -95,3 +95,43 @@ id,store_id,label,quantity,recorded_on
 86446,164,handle stale order,6,2025-12-05
 46358,427,trim regional store,7,2025-06-10
 24195,374,add empty guest,10,2025-01-07
+38895,216,document expired topping,4,2025-03-24
+96749,212,trim cancelled topping for pickup,10,2025-01-10
+43155,169,paginate cancelled delivery window at close,12,2025-10-28
+55816,507,log stale bowl at close,7,2025-04-13
+22170,634,rename duplicate promo for franchisees,7,2025-03-04
+2798,684,sort late order,1,2025-09-19
+3181,446,handle empty promo,1,2025-12-28
+73278,184,paginate duplicate cart line,2,2025-09-06
+77434,629,cache empty receipt on checkout,9,2025-04-01
+13646,147,rename missing location,11,2025-07-02
+62343,537,log late menu item per store,1,2025-08-26
+29403,312,expose expired loyalty credit,10,2025-04-13
+92107,118,tighten expired menu item,10,2025-08-13
+93572,101,relax stale loyalty credit,12,2025-11-01
+1137,167,add oversized store for pickup,8,2025-02-13
+82093,676,handle empty kitchen ticket,1,2025-01-28
+50359,572,paginate oversized promo,6,2025-05-03
+18516,646,relax partial modifier per store,6,2025-09-22
+84192,436,trim missing ticket,6,2025-07-12
+86614,383,backfill empty receipt per store,10,2025-02-05
+18574,559,paginate duplicate ticket,7,2025-01-21
+28016,226,rename cancelled promo on checkout,4,2025-04-15
+93195,519,expose empty bowl,4,2025-07-24
+78311,544,retry late pickup slot,1,2025-02-10
+37104,223,guard regional catering tray,1,2025-05-02
+75056,327,expose regional catering tray for pickup,12,2025-12-16
+42015,673,relax missing tax line on checkout,12,2025-07-19
+58124,262,add empty tax line,1,2025-10-16
+54569,595,normalise partial bowl,7,2025-09-07
+37551,529,normalise duplicate loyalty credit,4,2025-03-21
+43333,534,log regional promo,4,2025-02-21
+54733,565,normalise empty promo,1,2025-02-20
+96949,379,paginate duplicate cart line at close,1,2025-03-08
+94254,586,guard partial kitchen ticket on reorder,11,2025-05-19
+92853,541,relax regional loyalty credit,8,2025-08-10
+95199,284,trim oversized tax line for pickup,10,2025-07-21
+23801,102,backfill oversized guest on checkout,1,2025-02-04
+30842,274,handle duplicate topping per store,11,2025-05-07
+32586,471,paginate oversized receipt,1,2025-02-26
+67162,373,expose partial promo,1,2025-12-19

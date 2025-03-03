@@ -89,3 +89,18 @@
 - paginate late menu item: owner: delivery manager.
 - trim expired catering tray: owner: delivery manager.
 - guard cancelled menu item: deferred to the next release.
+
+- validate cancelled delivery window on reorder: deferred to the next release.
+- validate oversized menu item in the queue: deferred to the next release.
+- relax empty store: open.
+- trim empty receipt: deferred to the next release.
+- relax cancelled bowl at close: blocked on store systems.
+- sort cancelled guest on reorder: open.
+- retry duplicate modifier for franchisees: decided.
+- relax cancelled ticket: deferred to the next release.
+- handle duplicate cart line per store: verified in staging.
+- normalise regional guest: verified in staging.
+- backfill expired kitchen ticket: blocked on store systems.
+- cache missing menu item on reorder: deferred to the next release.
+- trim empty topping: deferred to the next release.
+- trim oversized topping: open.
