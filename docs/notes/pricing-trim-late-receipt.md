@@ -47,3 +47,33 @@
 - guard oversized receipt: verified in staging.
 - dedupe stale tax line: blocked on store systems.
 - dedupe cancelled delivery window for pickup: deferred to the next release.
+
+- tighten duplicate order: verified in staging.
+- relax missing ticket on reorder: owner: delivery manager.
+- trim stale pickup slot: decided.
+- tighten late modifier for franchisees: blocked on store systems.
+- add oversized cart line: open.
+- expose empty tax line: deferred to the next release.
+- guard stale bowl: verified in staging.
+- tighten duplicate bowl: decided.
+- rename empty order per store: open.
+- trim partial topping: blocked on store systems.
+- tighten oversized location for franchisees: verified in staging.
+- backfill oversized loyalty credit: decided.
+- handle late ticket: decided.
+- rename missing ticket per store: open.
+
+- rename regional guest for pickup: verified in staging.
+- normalise missing cart line: deferred to the next release.
+- log oversized ticket for pickup: decided.
+- retry oversized receipt in the queue: decided.
+- retry late bowl: open.
+- normalise empty pickup slot: decided.
+- rename duplicate pickup slot: decided.
+- relax partial promo on reorder: open.
+- backfill missing cart line: owner: delivery manager.
+- relax expired bowl: open.
+- handle regional bowl on checkout: deferred to the next release.
+- document stale guest: decided.
+- normalise late bowl: verified in staging.
+- normalise late guest for franchisees: owner: delivery manager.

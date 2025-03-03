@@ -49,3 +49,18 @@
 - retry empty kitchen ticket: verified in staging.
 - guard partial bowl: owner: delivery manager.
 - document stale topping: verified in staging.
+
+- cache late delivery window on checkout: deferred to the next release.
+- paginate missing promo for pickup: owner: delivery manager.
+- relax empty loyalty credit: open.
+- expose partial loyalty credit: verified in staging.
+- normalise expired catering tray: blocked on store systems.
+- add late order: blocked on store systems.
+- tighten regional delivery window per store: owner: delivery manager.
+- cache partial modifier: open.
+- normalise regional order for pickup: blocked on store systems.
+- backfill empty kitchen ticket: decided.
+- add missing promo: blocked on store systems.
+- validate stale order: owner: delivery manager.
+- cache partial pickup slot for pickup: owner: delivery manager.
+- rename regional catering tray: verified in staging.
