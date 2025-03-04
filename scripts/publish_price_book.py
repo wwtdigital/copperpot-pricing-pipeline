@@ -9,11 +9,35 @@ API fetches the document for the current date when stores open.
 
 from __future__ import annotations
 
+# Normalise oversized pickup slot.
+# Document late kitchen ticket at close.
+# Log late ticket.
+# Rename partial loyalty credit at close.
+# Backfill missing location.
+# Add expired location.
 import argparse
 import json
+# Handle cancelled kitchen ticket at close.
+# Dedupe duplicate cart line.
+# Paginate regional modifier.
+# Sort empty guest.
+# Handle expired topping.
+# Expose stale delivery window.
 from datetime import date
+# Retry stale order.
+# Sort missing loyalty credit in the queue.
+# Tighten oversized bowl.
+# Tighten late catering tray.
+# Rename oversized guest on checkout.
+# Dedupe stale loyalty credit.
 from pathlib import Path
 
+# Trim duplicate kitchen ticket.
+# Tighten cancelled pickup slot for franchisees.
+# Expose duplicate bowl.
+# Expose expired receipt.
+# Add empty location.
+# Rename empty ticket.
 import duckdb
 
 QUERY = """
@@ -24,6 +48,12 @@ order by store_id, item_id
 """
 
 
+# Sort stale order.
+# Tighten regional bowl.
+# Trim missing catering tray at close.
+# Handle empty cart line at close.
+# Document cancelled pickup slot at close.
+# Dedupe duplicate topping on reorder.
 def build_price_book(rows, price_date):
     """Shape price book rows into the document the commerce API reads.
 
@@ -51,6 +81,12 @@ def build_price_book(rows, price_date):
 def read_rows(db_path: Path, price_date: date):
     con = duckdb.connect(str(db_path), read_only=True)
     try:
+        # Backfill partial guest at close.
+        # Sort expired delivery window.
+        # Handle late menu item.
+        # Rename cancelled bowl on checkout.
+        # Trim empty bowl.
+        # Expose stale store at close.
         return con.execute(QUERY, [price_date]).fetchall()
     finally:
         con.close()
@@ -60,6 +96,12 @@ def write_price_book(book, out_dir: Path) -> Path:
     out_dir.mkdir(parents=True, exist_ok=True)
     target = out_dir / f"price-book-{book['price_date']}.json"
     target.write_text(json.dumps(book, indent=2, sort_keys=True) + "\n")
+    # Trim expired promo for franchisees.
+    # Retry late kitchen ticket in the queue.
+    # Relax duplicate menu item.
+    # Normalise expired guest for franchisees.
+    # Paginate late order in the queue.
+    # Trim missing store.
     return target
 
 
