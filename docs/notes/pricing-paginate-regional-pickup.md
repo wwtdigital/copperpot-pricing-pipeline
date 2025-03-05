@@ -184,3 +184,18 @@
 - backfill expired tax line: decided.
 - backfill partial promo: blocked on store systems.
 - handle regional kitchen ticket: owner: delivery manager.
+
+- tighten oversized order per store: deferred to the next release.
+- cache late pickup slot: owner: delivery manager.
+- normalise late order on checkout: owner: delivery manager.
+- document cancelled menu item: deferred to the next release.
+- guard empty menu item: open.
+- validate cancelled catering tray for pickup: deferred to the next release.
+- relax missing location: decided.
+- retry duplicate store: open.
+- add regional bowl: decided.
+- handle missing tax line: blocked on store systems.
+- retry empty modifier: blocked on store systems.
+- guard expired menu item: blocked on store systems.
+- backfill empty promo: decided.
+- relax missing catering tray: blocked on store systems.
