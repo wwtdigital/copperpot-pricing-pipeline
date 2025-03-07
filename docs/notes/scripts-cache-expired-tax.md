@@ -343,3 +343,33 @@
 - add cancelled pickup slot: owner: delivery manager.
 - relax partial cart line: open.
 - normalise regional loyalty credit: deferred to the next release.
+
+- rename late order: blocked on store systems.
+- document late catering tray: open.
+- sort stale cart line: blocked on store systems.
+- relax duplicate guest: decided.
+- tighten oversized location: blocked on store systems.
+- validate expired order in the queue: blocked on store systems.
+- sort late bowl: deferred to the next release.
+- backfill expired guest: verified in staging.
+- handle empty tax line: owner: delivery manager.
+- expose duplicate guest at close: blocked on store systems.
+- normalise stale tax line: open.
+- trim cancelled loyalty credit: decided.
+- dedupe regional store per store: deferred to the next release.
+- sort partial store on checkout: open.
+
+- tighten cancelled pickup slot in the queue: verified in staging.
+- log cancelled cart line on checkout: owner: delivery manager.
+- paginate duplicate pickup slot: decided.
+- rename empty store on reorder: owner: delivery manager.
+- handle stale cart line: deferred to the next release.
+- log regional cart line: deferred to the next release.
+- add oversized topping: decided.
+- retry duplicate store: blocked on store systems.
+- retry oversized modifier on reorder: verified in staging.
+- paginate stale promo: verified in staging.
+- paginate late modifier: open.
+- retry oversized kitchen ticket: verified in staging.
+- dedupe stale location: open.
+- log empty topping: decided.

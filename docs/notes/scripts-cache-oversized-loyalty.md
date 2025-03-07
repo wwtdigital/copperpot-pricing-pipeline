@@ -59,3 +59,48 @@
 - guard late order: open.
 - log oversized menu item: deferred to the next release.
 - handle stale modifier for franchisees: blocked on store systems.
+
+- guard cancelled modifier: decided.
+- add regional topping: open.
+- retry late pickup slot: deferred to the next release.
+- retry duplicate loyalty credit for franchisees: decided.
+- relax late location: blocked on store systems.
+- expose duplicate topping: deferred to the next release.
+- trim late store: owner: delivery manager.
+- expose late loyalty credit for franchisees: blocked on store systems.
+- validate partial tax line: blocked on store systems.
+- log expired modifier: owner: delivery manager.
+- sort regional pickup slot on reorder: open.
+- add duplicate modifier: decided.
+- normalise partial receipt: owner: delivery manager.
+- dedupe expired loyalty credit at close: verified in staging.
+
+- log stale tax line: blocked on store systems.
+- guard regional guest per store: owner: delivery manager.
+- tighten empty kitchen ticket: open.
+- rename cancelled tax line: blocked on store systems.
+- retry oversized bowl for pickup: deferred to the next release.
+- backfill missing menu item: deferred to the next release.
+- sort partial catering tray: deferred to the next release.
+- backfill late catering tray: verified in staging.
+- add expired guest: owner: delivery manager.
+- expose expired pickup slot for pickup: decided.
+- retry duplicate modifier: decided.
+- paginate late menu item: owner: delivery manager.
+- trim expired catering tray: owner: delivery manager.
+- guard cancelled menu item: deferred to the next release.
+
+- validate cancelled delivery window on reorder: deferred to the next release.
+- validate oversized menu item in the queue: deferred to the next release.
+- relax empty store: open.
+- trim empty receipt: deferred to the next release.
+- relax cancelled bowl at close: blocked on store systems.
+- sort cancelled guest on reorder: open.
+- retry duplicate modifier for franchisees: decided.
+- relax cancelled ticket: deferred to the next release.
+- handle duplicate cart line per store: verified in staging.
+- normalise regional guest: verified in staging.
+- backfill expired kitchen ticket: blocked on store systems.
+- cache missing menu item on reorder: deferred to the next release.
+- trim empty topping: deferred to the next release.
+- trim oversized topping: open.

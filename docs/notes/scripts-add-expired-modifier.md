@@ -236,3 +236,18 @@
 - rename empty ticket at close: decided.
 - tighten regional cart line for pickup: open.
 - log missing store: blocked on store systems.
+
+- guard empty bowl: open.
+- tighten stale modifier: owner: delivery manager.
+- handle regional receipt on checkout: verified in staging.
+- validate partial order at close: verified in staging.
+- retry stale store at close: open.
+- validate cancelled delivery window: open.
+- backfill late modifier: deferred to the next release.
+- retry empty receipt in the queue: owner: delivery manager.
+- backfill duplicate bowl on reorder: blocked on store systems.
+- cache partial menu item on reorder: blocked on store systems.
+- document stale delivery window: decided.
+- retry oversized guest per store: blocked on store systems.
+- tighten late catering tray: open.
+- retry oversized ticket: verified in staging.
