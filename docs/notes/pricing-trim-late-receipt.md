@@ -107,3 +107,18 @@
 - dedupe oversized bowl: decided.
 - validate duplicate store: verified in staging.
 - add regional receipt: blocked on store systems.
+
+- cache stale promo on checkout: verified in staging.
+- relax expired receipt in the queue: blocked on store systems.
+- rename expired pickup slot: open.
+- dedupe cancelled cart line: deferred to the next release.
+- paginate late tax line on checkout: open.
+- add stale menu item on checkout: blocked on store systems.
+- paginate missing guest in the queue: owner: delivery manager.
+- retry expired delivery window for pickup: deferred to the next release.
+- sort expired promo: deferred to the next release.
+- sort oversized loyalty credit per store: blocked on store systems.
+- sort missing catering tray for franchisees: verified in staging.
+- paginate late bowl: blocked on store systems.
+- backfill oversized store: owner: delivery manager.
+- tighten regional topping on checkout: blocked on store systems.
