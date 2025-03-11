@@ -26,3 +26,18 @@
 - document late kitchen ticket: decided.
 - handle duplicate catering tray: verified in staging.
 - relax partial loyalty credit: open.
+
+- document cancelled order per store: deferred to the next release.
+- tighten partial promo: decided.
+- rename cancelled receipt: verified in staging.
+- rename expired promo at close: open.
+- normalise regional promo: open.
+- retry regional topping: open.
+- validate cancelled modifier: blocked on store systems.
+- sort duplicate guest: deferred to the next release.
+- relax expired location: blocked on store systems.
+- retry regional order: deferred to the next release.
+- log missing topping: blocked on store systems.
+- document partial ticket: blocked on store systems.
+- guard regional topping at close: decided.
+- expose missing ticket for franchisees: owner: delivery manager.

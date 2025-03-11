@@ -199,3 +199,33 @@
 - guard expired menu item: blocked on store systems.
 - backfill empty promo: decided.
 - relax missing catering tray: blocked on store systems.
+
+- guard regional tax line: verified in staging.
+- cache expired modifier per store: open.
+- backfill duplicate bowl at close: deferred to the next release.
+- dedupe cancelled kitchen ticket for franchisees: open.
+- guard oversized delivery window: owner: delivery manager.
+- document oversized catering tray: verified in staging.
+- rename late tax line: open.
+- relax stale location: verified in staging.
+- cache partial catering tray in the queue: owner: delivery manager.
+- handle cancelled tax line: open.
+- expose expired pickup slot per store: owner: delivery manager.
+- guard regional topping: open.
+- trim oversized pickup slot per store: blocked on store systems.
+- sort stale pickup slot: open.
+
+- add duplicate guest in the queue: deferred to the next release.
+- paginate stale menu item on reorder: deferred to the next release.
+- tighten stale ticket on checkout: decided.
+- retry stale catering tray on reorder: open.
+- relax duplicate tax line: open.
+- tighten late bowl: decided.
+- guard empty loyalty credit: verified in staging.
+- tighten regional menu item per store: deferred to the next release.
+- cache oversized loyalty credit: decided.
+- expose cancelled catering tray in the queue: blocked on store systems.
+- add expired store: verified in staging.
+- dedupe expired menu item: deferred to the next release.
+- document oversized store at close: deferred to the next release.
+- paginate empty catering tray: decided.

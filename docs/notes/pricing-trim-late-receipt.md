@@ -77,3 +77,33 @@
 - document stale guest: decided.
 - normalise late bowl: verified in staging.
 - normalise late guest for franchisees: owner: delivery manager.
+
+- sort regional pickup slot: owner: delivery manager.
+- normalise cancelled pickup slot: open.
+- add late topping per store: decided.
+- handle missing menu item: open.
+- rename duplicate store on checkout: open.
+- paginate expired bowl on reorder: decided.
+- log expired guest per store: owner: delivery manager.
+- document missing tax line: verified in staging.
+- rename regional topping: open.
+- guard stale store: decided.
+- document late store: deferred to the next release.
+- handle missing order in the queue: blocked on store systems.
+- expose regional loyalty credit per store: open.
+- rename duplicate delivery window: owner: delivery manager.
+
+- relax expired cart line: verified in staging.
+- paginate stale promo: blocked on store systems.
+- expose cancelled ticket at close: decided.
+- expose partial loyalty credit: owner: delivery manager.
+- document regional location: owner: delivery manager.
+- dedupe expired receipt: verified in staging.
+- add expired cart line per store: deferred to the next release.
+- handle regional cart line: decided.
+- cache regional bowl: decided.
+- cache cancelled order: owner: delivery manager.
+- log empty promo: owner: delivery manager.
+- dedupe oversized bowl: decided.
+- validate duplicate store: verified in staging.
+- add regional receipt: blocked on store systems.
