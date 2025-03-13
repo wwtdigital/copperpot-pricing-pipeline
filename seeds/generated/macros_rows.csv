@@ -238,3 +238,8 @@ id,store_id,label,quantity,recorded_on
 36056,293,validate stale kitchen ticket in the queue,1,2025-07-25
 1501,463,sort duplicate kitchen ticket,2,2025-07-18
 70617,382,cache stale tax line for franchisees,7,2025-08-25
+88728,316,validate stale promo,6,2025-07-03
+31009,691,guard late receipt,7,2025-10-20
+20497,405,backfill regional bowl,8,2025-11-06
+12070,258,rename missing store on checkout,8,2025-08-10
+10871,292,relax oversized store on checkout,2,2025-01-20
