@@ -107,3 +107,18 @@
 - retry late kitchen ticket: deferred to the next release.
 - tighten oversized delivery window for franchisees: deferred to the next release.
 - rename cancelled location: deferred to the next release.
+
+- cache stale delivery window for pickup: open.
+- document missing cart line: blocked on store systems.
+- backfill partial promo for pickup: decided.
+- paginate oversized promo: open.
+- rename oversized promo per store: verified in staging.
+- backfill stale order: open.
+- trim duplicate tax line: verified in staging.
+- trim cancelled loyalty credit on checkout: verified in staging.
+- trim regional cart line for franchisees: owner: delivery manager.
+- document oversized store: open.
+- document missing location for pickup: open.
+- document missing topping: owner: delivery manager.
+- normalise missing catering tray on checkout: deferred to the next release.
+- trim expired kitchen ticket: owner: delivery manager.
