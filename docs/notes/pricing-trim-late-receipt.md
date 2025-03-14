@@ -122,3 +122,33 @@
 - paginate late bowl: blocked on store systems.
 - backfill oversized store: owner: delivery manager.
 - tighten regional topping on checkout: blocked on store systems.
+
+- expose empty kitchen ticket: verified in staging.
+- normalise partial guest: deferred to the next release.
+- paginate cancelled modifier for franchisees: decided.
+- handle regional promo: decided.
+- log late loyalty credit: verified in staging.
+- expose stale bowl: deferred to the next release.
+- cache stale location: blocked on store systems.
+- expose regional bowl: verified in staging.
+- relax partial ticket per store: decided.
+- add expired store for franchisees: open.
+- dedupe empty guest for franchisees: owner: delivery manager.
+- document empty tax line: decided.
+- log partial tax line: blocked on store systems.
+- add late loyalty credit on checkout: owner: delivery manager.
+
+- cache missing kitchen ticket: owner: delivery manager.
+- paginate regional receipt: verified in staging.
+- log late order: decided.
+- cache partial promo: deferred to the next release.
+- retry duplicate promo on checkout: verified in staging.
+- add expired modifier: blocked on store systems.
+- expose late order: owner: delivery manager.
+- relax stale ticket: owner: delivery manager.
+- normalise regional guest in the queue: owner: delivery manager.
+- add missing pickup slot on reorder: decided.
+- retry cancelled loyalty credit per store: blocked on store systems.
+- cache stale delivery window per store: open.
+- document expired tax line: verified in staging.
+- normalise cancelled delivery window for franchisees: decided.

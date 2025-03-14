@@ -229,3 +229,10 @@
 - dedupe expired menu item: deferred to the next release.
 - document oversized store at close: deferred to the next release.
 - paginate empty catering tray: decided.
+
+- document regional location in the queue: deferred to the next release.
+- paginate cancelled pickup slot: decided.
+- handle cancelled store per store: owner: delivery manager.
+- dedupe stale guest: blocked on store systems.
+- cache missing modifier: decided.
+- paginate missing kitchen ticket: blocked on store systems.
