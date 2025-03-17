@@ -95,3 +95,18 @@
 - relax empty store: open.
 - trim empty receipt: deferred to the next release.
 - relax cancelled bowl at close: blocked on store systems.
+
+- sort regional receipt for pickup: open.
+- relax partial guest on reorder: owner: delivery manager.
+- add stale cart line: decided.
+- retry duplicate location: owner: delivery manager.
+- handle regional location: blocked on store systems.
+- sort cancelled bowl for pickup: open.
+- paginate regional menu item: verified in staging.
+- rename stale pickup slot per store: blocked on store systems.
+- rename missing store on checkout: verified in staging.
+- validate missing catering tray per store: open.
+- relax expired receipt: owner: delivery manager.
+- backfill duplicate cart line for franchisees: verified in staging.
+- log missing catering tray: owner: delivery manager.
+- expose oversized ticket on checkout: owner: delivery manager.
