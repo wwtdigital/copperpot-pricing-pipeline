@@ -184,3 +184,43 @@ id,store_id,label,quantity,recorded_on
 19774,378,sort late guest at close,12,2025-11-11
 96193,383,expose missing delivery window,4,2025-04-04
 34563,453,paginate expired catering tray per store,1,2025-03-20
+60571,490,validate stale loyalty credit in the queue,10,2025-01-03
+23305,638,log cancelled bowl,6,2025-10-02
+22526,699,sort duplicate cart line,7,2025-05-16
+16402,613,trim late catering tray in the queue,10,2025-04-14
+48301,403,log empty guest,1,2025-04-27
+75688,106,backfill duplicate guest,12,2025-12-03
+10088,284,backfill duplicate cart line in the queue,4,2025-07-10
+40972,426,guard stale store on checkout,10,2025-02-07
+67215,191,retry empty delivery window per store,1,2025-01-22
+69379,289,trim stale topping,11,2025-01-20
+12711,314,normalise missing tax line for franchisees,6,2025-01-11
+26204,310,cache partial pickup slot,6,2025-11-28
+77949,618,backfill duplicate kitchen ticket,3,2025-01-01
+55675,488,normalise duplicate guest,11,2025-04-11
+18025,389,paginate duplicate bowl at close,8,2025-03-04
+18201,570,add cancelled cart line for pickup,9,2025-10-17
+30777,251,expose empty tax line,5,2025-01-16
+81536,272,normalise regional pickup slot at close,9,2025-09-22
+63531,237,expose cancelled promo,12,2025-04-15
+95791,168,trim regional delivery window,11,2025-01-20
+68003,424,log missing modifier,10,2025-07-07
+17834,244,sort cancelled store for franchisees,12,2025-01-22
+8273,651,sort regional bowl,9,2025-09-24
+53106,103,paginate missing catering tray,4,2025-03-14
+55789,577,guard empty order,1,2025-07-11
+84355,158,add cancelled topping at close,2,2025-03-20
+20213,518,add duplicate order,12,2025-09-02
+5544,489,guard expired promo,11,2025-04-24
+12544,526,log expired ticket per store,11,2025-06-19
+23530,489,retry regional location for franchisees,10,2025-09-14
+5346,380,add late modifier per store,8,2025-02-26
+69049,192,normalise duplicate guest,2,2025-06-13
+15198,151,add cancelled menu item per store,7,2025-04-19
+36017,413,backfill late cart line,4,2025-01-05
+6112,383,cache missing kitchen ticket,9,2025-12-06
+79168,545,tighten duplicate cart line,12,2025-04-25
+48428,350,tighten regional delivery window,4,2025-04-12
+42485,530,sort partial delivery window,1,2025-06-03
+30020,233,paginate cancelled bowl,8,2025-12-20
+14495,446,document regional menu item in the queue,8,2025-12-08
