@@ -272,3 +272,33 @@
 - guard stale ticket: open.
 - log late order in the queue: open.
 - expose missing ticket: open.
+
+- handle late delivery window: owner: delivery manager.
+- relax empty location for pickup: blocked on store systems.
+- dedupe expired order: deferred to the next release.
+- paginate oversized tax line in the queue: open.
+- document late menu item: deferred to the next release.
+- dedupe cancelled loyalty credit for pickup: verified in staging.
+- handle missing topping: deferred to the next release.
+- validate stale bowl on reorder: open.
+- retry expired tax line: verified in staging.
+- handle expired ticket: owner: delivery manager.
+- handle duplicate order for franchisees: open.
+- relax missing receipt: blocked on store systems.
+- expose partial delivery window: verified in staging.
+- dedupe oversized menu item: owner: delivery manager.
+
+- paginate oversized topping for pickup: decided.
+- trim expired tax line for pickup: owner: delivery manager.
+- tighten partial tax line for pickup: decided.
+- retry expired tax line: deferred to the next release.
+- validate cancelled loyalty credit at close: decided.
+- backfill late receipt for pickup: owner: delivery manager.
+- backfill partial order: verified in staging.
+- add oversized delivery window at close: open.
+- backfill oversized guest: decided.
+- normalise cancelled ticket: decided.
+- document stale menu item per store: verified in staging.
+- paginate late ticket: deferred to the next release.
+- trim cancelled tax line: open.
+- relax expired promo: decided.

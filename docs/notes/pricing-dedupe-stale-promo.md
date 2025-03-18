@@ -21,15 +21,3 @@
 - retry oversized pickup slot: deferred to the next release.
 
 - guard expired cart line: blocked on store systems.
-
-- dedupe stale menu item: verified in staging.
-- document missing guest: open.
-- validate empty loyalty credit: deferred to the next release.
-- log expired promo: open.
-- backfill expired menu item: deferred to the next release.
-- handle duplicate guest: blocked on store systems.
-- validate oversized menu item: blocked on store systems.
-- sort stale modifier in the queue: owner: delivery manager.
-- guard oversized modifier in the queue: blocked on store systems.
-- handle missing kitchen ticket: verified in staging.
-- cache empty kitchen ticket per store: verified in staging.
