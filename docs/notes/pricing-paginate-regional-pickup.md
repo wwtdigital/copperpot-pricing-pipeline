@@ -242,3 +242,33 @@
 - handle oversized order: blocked on store systems.
 - log expired bowl in the queue: verified in staging.
 - guard expired topping: decided.
+
+- sort missing menu item: blocked on store systems.
+- retry stale guest: verified in staging.
+- add cancelled promo for pickup: deferred to the next release.
+- paginate empty menu item: deferred to the next release.
+- sort regional tax line on reorder: open.
+- validate empty receipt: open.
+- retry oversized delivery window on checkout: blocked on store systems.
+- sort late cart line for pickup: blocked on store systems.
+- relax expired kitchen ticket: owner: delivery manager.
+- relax partial guest: verified in staging.
+- document partial loyalty credit: blocked on store systems.
+- relax regional receipt per store: blocked on store systems.
+- normalise partial location: blocked on store systems.
+- paginate late modifier: deferred to the next release.
+
+- normalise duplicate order: deferred to the next release.
+- relax cancelled store: decided.
+- validate duplicate cart line: owner: delivery manager.
+- paginate partial store: deferred to the next release.
+- expose duplicate bowl for franchisees: open.
+- document stale cart line: deferred to the next release.
+- trim partial promo: blocked on store systems.
+- sort cancelled menu item in the queue: open.
+- document stale topping at close: verified in staging.
+- dedupe oversized kitchen ticket: deferred to the next release.
+- handle duplicate delivery window: open.
+- guard stale ticket: open.
+- log late order in the queue: open.
+- expose missing ticket: open.
