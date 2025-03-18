@@ -152,3 +152,33 @@
 - cache stale delivery window per store: open.
 - document expired tax line: verified in staging.
 - normalise cancelled delivery window for franchisees: decided.
+
+- log partial store: blocked on store systems.
+- normalise oversized catering tray: owner: delivery manager.
+- expose late guest for pickup: decided.
+- sort expired promo: verified in staging.
+- rename empty cart line: verified in staging.
+- retry cancelled topping: decided.
+- handle regional order: deferred to the next release.
+- document late topping: owner: delivery manager.
+- normalise missing location: deferred to the next release.
+- normalise duplicate guest at close: open.
+- retry empty topping for franchisees: verified in staging.
+- cache missing location: verified in staging.
+- document oversized location: open.
+- cache regional cart line: blocked on store systems.
+
+- dedupe expired order: decided.
+- cache cancelled store for franchisees: owner: delivery manager.
+- paginate duplicate bowl: verified in staging.
+- document empty ticket per store: owner: delivery manager.
+- tighten duplicate topping: open.
+- trim empty receipt for franchisees: deferred to the next release.
+- expose cancelled order for franchisees: blocked on store systems.
+- cache cancelled tax line: open.
+- backfill duplicate location: blocked on store systems.
+- trim regional order: blocked on store systems.
+- add partial promo: decided.
+- validate cancelled guest at close: blocked on store systems.
+- sort empty order in the queue: open.
+- expose missing cart line for pickup: deferred to the next release.

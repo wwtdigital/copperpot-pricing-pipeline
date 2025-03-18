@@ -236,3 +236,9 @@
 - dedupe stale guest: blocked on store systems.
 - cache missing modifier: decided.
 - paginate missing kitchen ticket: blocked on store systems.
+
+- handle missing guest: decided.
+- trim cancelled topping: open.
+- handle oversized order: blocked on store systems.
+- log expired bowl in the queue: verified in staging.
+- guard expired topping: decided.
