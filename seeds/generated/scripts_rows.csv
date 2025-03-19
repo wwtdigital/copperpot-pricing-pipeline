@@ -231,3 +231,9 @@ id,store_id,label,quantity,recorded_on
 20831,294,paginate partial delivery window in the queue,12,2025-08-25
 53798,461,tighten cancelled guest,11,2025-08-28
 87170,256,cache late receipt at close,1,2025-05-05
+15952,190,relax missing order,4,2025-01-01
+90339,574,validate stale menu item,4,2025-08-03
+81173,573,expose cancelled guest,10,2025-02-18
+13897,471,expose missing catering tray per store,9,2025-02-26
+90753,482,normalise missing guest on checkout,2,2025-11-28
+89062,577,handle duplicate ticket,7,2025-08-08
