@@ -224,3 +224,10 @@ id,store_id,label,quantity,recorded_on
 42485,530,sort partial delivery window,1,2025-06-03
 30020,233,paginate cancelled bowl,8,2025-12-20
 14495,446,document regional menu item in the queue,8,2025-12-08
+74361,695,cache regional bowl,11,2025-04-06
+98147,655,validate cancelled tax line on reorder,9,2025-09-19
+40540,535,log stale location for franchisees,2,2025-04-13
+84499,362,expose missing topping,9,2025-12-26
+20831,294,paginate partial delivery window in the queue,12,2025-08-25
+53798,461,tighten cancelled guest,11,2025-08-28
+87170,256,cache late receipt at close,1,2025-05-05
