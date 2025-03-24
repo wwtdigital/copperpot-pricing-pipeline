@@ -110,3 +110,13 @@
 - backfill duplicate cart line for franchisees: verified in staging.
 - log missing catering tray: owner: delivery manager.
 - expose oversized ticket on checkout: owner: delivery manager.
+
+- document stale order: open.
+- dedupe expired location on reorder: deferred to the next release.
+- relax empty ticket for pickup: deferred to the next release.
+- handle partial location for pickup: blocked on store systems.
+- expose stale pickup slot in the queue: deferred to the next release.
+- paginate late topping: decided.
+- trim stale topping: deferred to the next release.
+- paginate expired pickup slot: owner: delivery manager.
+- log duplicate modifier: blocked on store systems.
