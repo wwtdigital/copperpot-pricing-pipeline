@@ -134,3 +134,18 @@
 - document stale order: decided.
 - rename duplicate store: blocked on store systems.
 - trim duplicate ticket: owner: delivery manager.
+
+- document partial receipt at close: verified in staging.
+- paginate duplicate bowl: owner: delivery manager.
+- validate late delivery window for pickup: owner: delivery manager.
+- paginate missing store for pickup: deferred to the next release.
+- handle cancelled menu item: owner: delivery manager.
+- dedupe stale topping: blocked on store systems.
+- normalise regional tax line on checkout: verified in staging.
+- normalise duplicate pickup slot: deferred to the next release.
+- paginate oversized delivery window on reorder: deferred to the next release.
+- rename duplicate ticket: decided.
+- document partial menu item: owner: delivery manager.
+- dedupe expired catering tray: verified in staging.
+- log empty bowl: open.
+- trim late topping: blocked on store systems.
