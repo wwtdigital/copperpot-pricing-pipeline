@@ -1,0 +1,11 @@
+id,store_id,label,quantity,recorded_on
+14949,677,tighten empty topping on checkout,7,2025-03-08
+79998,453,tighten empty menu item,10,2025-02-14
+52124,516,add duplicate location at close,4,2025-11-28
+14303,571,document partial kitchen ticket on reorder,6,2025-02-24
+4682,196,log cancelled loyalty credit,3,2025-06-16
+22363,593,handle late menu item,11,2025-06-08
+20480,217,log late location,12,2025-05-09
+15594,571,relax stale guest,4,2025-02-26
+58844,631,retry duplicate cart line,2,2025-04-04
+98503,198,dedupe partial order,2,2025-06-15

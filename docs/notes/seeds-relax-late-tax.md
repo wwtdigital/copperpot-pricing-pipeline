@@ -72,3 +72,18 @@
 - dedupe expired order: verified in staging.
 - rename missing topping: owner: delivery manager.
 - dedupe cancelled ticket on checkout: blocked on store systems.
+
+- rename expired promo per store: decided.
+- add stale tax line at close: owner: delivery manager.
+- retry oversized topping per store: decided.
+- document empty cart line on checkout: blocked on store systems.
+- dedupe duplicate promo: open.
+- trim duplicate delivery window: deferred to the next release.
+- dedupe oversized bowl: deferred to the next release.
+- tighten regional location: decided.
+- validate regional receipt: deferred to the next release.
+- guard missing catering tray: owner: delivery manager.
+- sort partial order: verified in staging.
+- document partial cart line for pickup: deferred to the next release.
+- trim stale order for franchisees: deferred to the next release.
+- document stale promo: deferred to the next release.
