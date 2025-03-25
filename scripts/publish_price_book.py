@@ -16,6 +16,12 @@ from __future__ import annotations
 # Backfill missing location.
 # Add expired location.
 import argparse
+# Backfill cancelled catering tray.
+# Sort duplicate store for franchisees.
+# Log regional pickup slot at close.
+# Retry empty order.
+# Dedupe partial menu item.
+# Sort duplicate receipt on checkout.
 import json
 # Handle cancelled kitchen ticket at close.
 # Dedupe duplicate cart line.
