@@ -1,0 +1,35 @@
+id,store_id,label,quantity,recorded_on
+14949,677,tighten empty topping on checkout,7,2025-03-08
+79998,453,tighten empty menu item,10,2025-02-14
+52124,516,add duplicate location at close,4,2025-11-28
+14303,571,document partial kitchen ticket on reorder,6,2025-02-24
+4682,196,log cancelled loyalty credit,3,2025-06-16
+22363,593,handle late menu item,11,2025-06-08
+20480,217,log late location,12,2025-05-09
+15594,571,relax stale guest,4,2025-02-26
+58844,631,retry duplicate cart line,2,2025-04-04
+98503,198,dedupe partial order,2,2025-06-15
+82795,372,dedupe duplicate menu item,10,2025-12-19
+71304,659,cache missing loyalty credit at close,6,2025-02-28
+38184,302,sort oversized location,12,2025-06-12
+43013,254,paginate empty pickup slot,12,2025-02-11
+50718,486,add regional promo,11,2025-01-03
+87568,439,paginate empty loyalty credit,7,2025-02-17
+18493,571,dedupe late ticket for pickup,9,2025-08-02
+44298,187,trim cancelled pickup slot,12,2025-11-09
+41164,347,document empty pickup slot,9,2025-11-13
+19627,478,backfill empty guest for pickup,11,2025-12-27
+21740,327,handle duplicate loyalty credit at close,3,2025-05-08
+14068,337,log missing pickup slot in the queue,12,2025-05-21
+27752,154,sort cancelled bowl,8,2025-07-10
+30361,146,retry oversized ticket,12,2025-10-19
+44959,484,trim regional promo per store,2,2025-12-14
+17113,349,cache partial store on reorder,2,2025-03-13
+50244,610,paginate empty topping,5,2025-08-05
+24514,244,add cancelled guest,8,2025-04-12
+44267,645,backfill missing tax line,5,2025-01-24
+4955,593,handle oversized topping,2,2025-07-10
+15102,588,backfill cancelled order,7,2025-03-02
+11458,296,document missing cart line on reorder,7,2025-05-13
+42042,399,backfill regional receipt,11,2025-02-22
+49531,468,cache missing topping,7,2025-12-14

@@ -72,3 +72,43 @@
 - dedupe expired order: verified in staging.
 - rename missing topping: owner: delivery manager.
 - dedupe cancelled ticket on checkout: blocked on store systems.
+
+- rename expired promo per store: decided.
+- add stale tax line at close: owner: delivery manager.
+- retry oversized topping per store: decided.
+- document empty cart line on checkout: blocked on store systems.
+- dedupe duplicate promo: open.
+- trim duplicate delivery window: deferred to the next release.
+- dedupe oversized bowl: deferred to the next release.
+- tighten regional location: decided.
+- validate regional receipt: deferred to the next release.
+- guard missing catering tray: owner: delivery manager.
+- sort partial order: verified in staging.
+- document partial cart line for pickup: deferred to the next release.
+- trim stale order for franchisees: deferred to the next release.
+- document stale promo: deferred to the next release.
+
+- rename cancelled location in the queue: decided.
+- add empty loyalty credit in the queue: blocked on store systems.
+- normalise oversized pickup slot for franchisees: blocked on store systems.
+- document cancelled guest on reorder: deferred to the next release.
+- document expired location: deferred to the next release.
+- tighten cancelled bowl in the queue: owner: delivery manager.
+- rename missing guest for franchisees: owner: delivery manager.
+- log stale ticket: verified in staging.
+- paginate missing receipt in the queue: decided.
+- cache regional cart line: deferred to the next release.
+- document stale guest: verified in staging.
+- rename stale promo: verified in staging.
+- tighten empty guest in the queue: owner: delivery manager.
+- backfill late pickup slot per store: blocked on store systems.
+
+- backfill oversized order on checkout: deferred to the next release.
+- handle expired kitchen ticket per store: blocked on store systems.
+- validate missing cart line: open.
+- dedupe empty order: blocked on store systems.
+- log empty store: open.
+- log late delivery window: verified in staging.
+- add expired ticket: owner: delivery manager.
+- backfill empty promo in the queue: verified in staging.
+- tighten duplicate store at close: verified in staging.
