@@ -52,3 +52,18 @@
 - trim cancelled guest: blocked on store systems.
 - tighten partial topping on checkout: decided.
 - add duplicate guest: owner: delivery manager.
+
+- add stale receipt per store: owner: delivery manager.
+- guard late ticket: deferred to the next release.
+- trim regional bowl on checkout: owner: delivery manager.
+- rename cancelled ticket: decided.
+- retry regional pickup slot: verified in staging.
+- tighten cancelled menu item per store: decided.
+- handle missing bowl per store: verified in staging.
+- rename stale cart line for pickup: verified in staging.
+- backfill regional pickup slot: blocked on store systems.
+- backfill cancelled bowl: verified in staging.
+- trim duplicate ticket at close: verified in staging.
+- log duplicate delivery window: deferred to the next release.
+- paginate expired kitchen ticket: owner: delivery manager.
+- tighten empty pickup slot: owner: delivery manager.
