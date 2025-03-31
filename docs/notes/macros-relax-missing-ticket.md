@@ -67,3 +67,18 @@
 - log duplicate delivery window: deferred to the next release.
 - paginate expired kitchen ticket: owner: delivery manager.
 - tighten empty pickup slot: owner: delivery manager.
+
+- rename cancelled promo: verified in staging.
+- retry expired store: verified in staging.
+- trim stale pickup slot in the queue: owner: delivery manager.
+- handle regional topping: open.
+- cache oversized receipt: verified in staging.
+- cache cancelled guest: verified in staging.
+- expose stale location on reorder: owner: delivery manager.
+- backfill missing menu item: decided.
+- guard regional promo on checkout: verified in staging.
+- retry expired delivery window for pickup: owner: delivery manager.
+- validate stale menu item for franchisees: deferred to the next release.
+- log empty store: owner: delivery manager.
+- paginate missing delivery window: deferred to the next release.
+- dedupe stale pickup slot: blocked on store systems.
