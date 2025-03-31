@@ -1,0 +1,8 @@
+id,store_id,label,quantity,recorded_on
+69523,273,backfill duplicate delivery window,2,2025-04-22
+67670,211,document oversized order,7,2025-04-13
+52561,450,expose duplicate menu item on reorder,8,2025-11-21
+80460,537,normalise stale ticket,1,2025-02-07
+97268,105,paginate empty bowl,1,2025-03-25
+87517,539,trim missing guest on reorder,7,2025-09-01
+94666,248,retry expired promo on reorder,8,2025-06-21
