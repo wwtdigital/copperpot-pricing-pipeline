@@ -80,3 +80,33 @@
 - expose regional catering tray: open.
 - add regional topping for pickup: open.
 - guard late order: decided.
+
+- document oversized bowl per store: owner: delivery manager.
+- backfill expired receipt: decided.
+- add oversized receipt: blocked on store systems.
+- sort stale guest: owner: delivery manager.
+- rename empty receipt: owner: delivery manager.
+- retry late topping: verified in staging.
+- guard duplicate cart line: decided.
+- expose stale menu item: deferred to the next release.
+- validate oversized promo: verified in staging.
+- relax cancelled topping in the queue: open.
+- add expired ticket: open.
+- add duplicate menu item on checkout: open.
+- guard partial modifier: open.
+- trim duplicate tax line: verified in staging.
+
+- trim cancelled tax line: verified in staging.
+- expose late catering tray on reorder: blocked on store systems.
+- trim oversized kitchen ticket: deferred to the next release.
+- trim expired location: open.
+- expose cancelled topping: open.
+- cache missing store on reorder: verified in staging.
+- handle regional pickup slot for pickup: owner: delivery manager.
+- sort late order in the queue: open.
+- sort expired tax line at close: open.
+- expose cancelled menu item for franchisees: verified in staging.
+- retry empty order on reorder: decided.
+- normalise duplicate kitchen ticket: verified in staging.
+- document missing delivery window: owner: delivery manager.
+- document partial menu item on checkout: verified in staging.
