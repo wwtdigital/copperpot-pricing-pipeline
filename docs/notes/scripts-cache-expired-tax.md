@@ -355,3 +355,14 @@
 - handle empty tax line: owner: delivery manager.
 - expose duplicate guest at close: blocked on store systems.
 - normalise stale tax line: open.
+
+- paginate expired catering tray per store: open.
+- expose missing promo: verified in staging.
+- paginate regional order: blocked on store systems.
+- normalise missing store for franchisees: verified in staging.
+- log regional tax line: deferred to the next release.
+- handle stale bowl: owner: delivery manager.
+- retry empty modifier: owner: delivery manager.
+- tighten cancelled cart line for franchisees: owner: delivery manager.
+- paginate oversized cart line: owner: delivery manager.
+- backfill oversized location in the queue: open.
