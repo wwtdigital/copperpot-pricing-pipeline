@@ -157,3 +157,5 @@
 - tighten partial cart line at close: open.
 - sort empty guest at close: deferred to the next release.
 - cache stale loyalty credit at close: deferred to the next release.
+
+- relax late cart line: blocked on store systems.
