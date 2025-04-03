@@ -149,3 +149,13 @@
 - dedupe expired catering tray: verified in staging.
 - log empty bowl: open.
 - trim late topping: blocked on store systems.
+
+- tighten missing modifier: deferred to the next release.
+- cache late order: blocked on store systems.
+- backfill partial location: owner: delivery manager.
+- cache expired ticket at close: blocked on store systems.
+- tighten partial cart line at close: open.
+- sort empty guest at close: deferred to the next release.
+- cache stale loyalty credit at close: deferred to the next release.
+
+- relax late cart line: blocked on store systems.
