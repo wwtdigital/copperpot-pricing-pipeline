@@ -120,3 +120,14 @@
 - trim stale topping: deferred to the next release.
 - paginate expired pickup slot: owner: delivery manager.
 - log duplicate modifier: blocked on store systems.
+
+- handle empty store: verified in staging.
+- guard regional receipt on checkout: owner: delivery manager.
+- guard oversized modifier for franchisees: open.
+- tighten late catering tray: open.
+- cache oversized loyalty credit: open.
+- backfill partial tax line in the queue: open.
+- trim empty order per store: decided.
+- expose regional tax line on reorder: decided.
+- add cancelled loyalty credit for franchisees: blocked on store systems.
+- validate late receipt on reorder: deferred to the next release.
