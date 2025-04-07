@@ -112,3 +112,17 @@
 - add expired ticket: owner: delivery manager.
 - backfill empty promo in the queue: verified in staging.
 - tighten duplicate store at close: verified in staging.
+
+- trim duplicate location on checkout: owner: delivery manager.
+- paginate empty menu item: open.
+- paginate oversized ticket: owner: delivery manager.
+- dedupe partial store: decided.
+- validate oversized promo: owner: delivery manager.
+- log oversized modifier at close: decided.
+- add regional store: open.
+- normalise oversized modifier: owner: delivery manager.
+- relax cancelled delivery window per store: deferred to the next release.
+- trim regional menu item for franchisees: verified in staging.
+- document late catering tray: owner: delivery manager.
+- backfill late guest: blocked on store systems.
+- cache partial guest: open.
