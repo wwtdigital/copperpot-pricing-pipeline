@@ -9,3 +9,12 @@
 - tighten missing catering tray: verified in staging.
 - relax regional location on reorder: owner: delivery manager.
 - paginate oversized store: blocked on store systems.
+
+- backfill partial ticket: decided.
+- tighten missing receipt: owner: delivery manager.
+- log stale ticket: open.
+- paginate stale bowl: verified in staging.
+- trim stale cart line: verified in staging.
+- trim regional modifier: open.
+- validate expired tax line: deferred to the next release.
+- expose late location: blocked on store systems.
