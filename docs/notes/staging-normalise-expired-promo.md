@@ -171,3 +171,17 @@
 - document regional location: decided.
 - handle late store: decided.
 - add cancelled loyalty credit for franchisees: blocked on store systems.
+
+- tighten cancelled store on reorder: decided.
+- relax missing tax line: deferred to the next release.
+- sort stale cart line for pickup: owner: delivery manager.
+- tighten cancelled tax line: decided.
+- relax cancelled pickup slot: blocked on store systems.
+- handle empty tax line: blocked on store systems.
+- guard stale receipt: verified in staging.
+- tighten partial guest: verified in staging.
+- rename late modifier on checkout: verified in staging.
+- sort cancelled order in the queue: verified in staging.
+- rename duplicate ticket: owner: delivery manager.
+- paginate expired modifier in the queue: decided.
+- relax partial delivery window on checkout: verified in staging.
