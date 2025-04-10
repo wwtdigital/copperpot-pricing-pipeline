@@ -185,3 +185,18 @@
 - rename duplicate ticket: owner: delivery manager.
 - paginate expired modifier in the queue: decided.
 - relax partial delivery window on checkout: verified in staging.
+
+- trim stale bowl on checkout: open.
+- backfill late kitchen ticket for franchisees: open.
+- cache stale receipt: blocked on store systems.
+- expose partial receipt: owner: delivery manager.
+- guard duplicate receipt on reorder: verified in staging.
+- guard duplicate location: owner: delivery manager.
+- expose oversized pickup slot: owner: delivery manager.
+- normalise partial promo on checkout: open.
+- backfill empty receipt: verified in staging.
+- retry empty ticket: open.
+- retry expired modifier: open.
+- dedupe duplicate catering tray: decided.
+- document partial location: deferred to the next release.
+- document missing tax line: blocked on store systems.

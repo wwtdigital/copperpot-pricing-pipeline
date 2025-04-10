@@ -14,3 +14,7 @@
 - handle partial pickup slot: open.
 - validate partial loyalty credit: open.
 - expose oversized tax line for pickup: verified in staging.
+
+- trim missing store in the queue: deferred to the next release.
+- sort oversized modifier: open.
+- cache cancelled ticket: deferred to the next release.
