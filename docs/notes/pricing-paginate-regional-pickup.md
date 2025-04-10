@@ -284,3 +284,18 @@
 - retry expired tax line: verified in staging.
 - handle expired ticket: owner: delivery manager.
 - handle duplicate order for franchisees: open.
+
+- backfill missing ticket: owner: delivery manager.
+- paginate missing order: owner: delivery manager.
+- trim partial kitchen ticket: verified in staging.
+- dedupe cancelled modifier: owner: delivery manager.
+- sort missing bowl: deferred to the next release.
+- validate oversized bowl: decided.
+- validate missing menu item on checkout: verified in staging.
+- validate empty location: verified in staging.
+- relax late modifier on checkout: decided.
+- tighten cancelled kitchen ticket at close: verified in staging.
+- tighten duplicate cart line: decided.
+- expose empty kitchen ticket for franchisees: open.
+- normalise cancelled menu item in the queue: decided.
+- normalise oversized receipt: open.
