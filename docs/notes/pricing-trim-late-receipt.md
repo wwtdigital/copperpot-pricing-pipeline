@@ -182,3 +182,12 @@
 - validate cancelled guest at close: blocked on store systems.
 - sort empty order in the queue: open.
 - expose missing cart line for pickup: deferred to the next release.
+
+- document empty modifier: decided.
+- backfill empty bowl: open.
+- trim oversized tax line: decided.
+- dedupe partial receipt: deferred to the next release.
+- backfill late catering tray for franchisees: decided.
+- document stale topping for franchisees: owner: delivery manager.
+- guard empty loyalty credit for franchisees: deferred to the next release.
+- rename partial guest on checkout: verified in staging.
