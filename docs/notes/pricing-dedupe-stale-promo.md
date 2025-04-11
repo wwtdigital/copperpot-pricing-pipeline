@@ -21,3 +21,18 @@
 - retry oversized pickup slot: deferred to the next release.
 
 - guard expired cart line: blocked on store systems.
+
+- trim expired store: decided.
+- validate regional order on checkout: deferred to the next release.
+- relax late tax line: verified in staging.
+- cache regional menu item: open.
+- add duplicate promo for pickup: decided.
+- add cancelled order per store: blocked on store systems.
+- expose oversized promo: deferred to the next release.
+- dedupe cancelled bowl on reorder: owner: delivery manager.
+- retry empty ticket: blocked on store systems.
+- trim late receipt at close: verified in staging.
+- sort oversized order: open.
+- log partial delivery window: verified in staging.
+- paginate duplicate order in the queue: verified in staging.
+- log missing bowl at close: verified in staging.

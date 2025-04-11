@@ -578,3 +578,21 @@ id,store_id,label,quantity,recorded_on
 80307,422,document expired cart line on checkout,9,2025-11-11
 61404,124,tighten late bowl,7,2025-01-05
 10847,588,add empty promo per store,8,2025-02-18
+29415,688,log cancelled guest,7,2025-01-14
+74847,664,retry late catering tray,4,2025-08-09
+26361,176,document missing pickup slot on checkout,3,2025-10-23
+36588,602,log cancelled modifier at close,4,2025-08-22
+27756,496,backfill expired tax line on checkout,7,2025-04-27
+51256,438,add expired receipt,11,2025-02-23
+83164,202,sort late loyalty credit,10,2025-01-13
+91965,590,guard cancelled modifier per store,10,2025-11-11
+81572,266,add duplicate delivery window,4,2025-02-21
+71367,308,retry missing store,3,2025-05-19
+93013,526,cache regional catering tray for franchisees,4,2025-06-04
+43338,245,document partial topping,6,2025-03-04
+46319,172,sort expired delivery window,10,2025-01-05
+30858,553,normalise regional menu item per store,3,2025-02-13
+61398,434,dedupe cancelled menu item for pickup,10,2025-11-13
+90532,492,dedupe late location at close,10,2025-12-24
+50626,597,handle late delivery window,7,2025-07-16
+23321,546,validate stale guest,11,2025-06-26
