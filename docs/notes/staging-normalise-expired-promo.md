@@ -159,3 +159,15 @@
 - cache stale loyalty credit at close: deferred to the next release.
 
 - relax late cart line: blocked on store systems.
+
+- retry oversized pickup slot: deferred to the next release.
+- retry duplicate order: deferred to the next release.
+- add late guest: deferred to the next release.
+- normalise duplicate delivery window for pickup: owner: delivery manager.
+- backfill oversized catering tray: deferred to the next release.
+- dedupe duplicate location: decided.
+- tighten oversized promo: blocked on store systems.
+- relax duplicate guest: verified in staging.
+- document regional location: decided.
+- handle late store: decided.
+- add cancelled loyalty credit for franchisees: blocked on store systems.
