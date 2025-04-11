@@ -159,3 +159,44 @@
 - cache stale loyalty credit at close: deferred to the next release.
 
 - relax late cart line: blocked on store systems.
+
+- retry oversized pickup slot: deferred to the next release.
+- retry duplicate order: deferred to the next release.
+- add late guest: deferred to the next release.
+- normalise duplicate delivery window for pickup: owner: delivery manager.
+- backfill oversized catering tray: deferred to the next release.
+- dedupe duplicate location: decided.
+- tighten oversized promo: blocked on store systems.
+- relax duplicate guest: verified in staging.
+- document regional location: decided.
+- handle late store: decided.
+- add cancelled loyalty credit for franchisees: blocked on store systems.
+
+- tighten cancelled store on reorder: decided.
+- relax missing tax line: deferred to the next release.
+- sort stale cart line for pickup: owner: delivery manager.
+- tighten cancelled tax line: decided.
+- relax cancelled pickup slot: blocked on store systems.
+- handle empty tax line: blocked on store systems.
+- guard stale receipt: verified in staging.
+- tighten partial guest: verified in staging.
+- rename late modifier on checkout: verified in staging.
+- sort cancelled order in the queue: verified in staging.
+- rename duplicate ticket: owner: delivery manager.
+- paginate expired modifier in the queue: decided.
+- relax partial delivery window on checkout: verified in staging.
+
+- trim stale bowl on checkout: open.
+- backfill late kitchen ticket for franchisees: open.
+- cache stale receipt: blocked on store systems.
+- expose partial receipt: owner: delivery manager.
+- guard duplicate receipt on reorder: verified in staging.
+- guard duplicate location: owner: delivery manager.
+- expose oversized pickup slot: owner: delivery manager.
+- normalise partial promo on checkout: open.
+- backfill empty receipt: verified in staging.
+- retry empty ticket: open.
+- retry expired modifier: open.
+- dedupe duplicate catering tray: decided.
+- document partial location: deferred to the next release.
+- document missing tax line: blocked on store systems.
