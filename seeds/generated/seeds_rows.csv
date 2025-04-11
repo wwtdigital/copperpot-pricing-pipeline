@@ -33,3 +33,24 @@ id,store_id,label,quantity,recorded_on
 11458,296,document missing cart line on reorder,7,2025-05-13
 42042,399,backfill regional receipt,11,2025-02-22
 49531,468,cache missing topping,7,2025-12-14
+18911,386,validate partial catering tray,5,2025-05-10
+15574,328,guard regional store,12,2025-08-28
+33333,545,paginate regional delivery window on checkout,9,2025-06-09
+37041,563,cache empty menu item,9,2025-01-09
+42422,511,log expired order,8,2025-08-12
+1371,490,document expired ticket,4,2025-10-24
+48490,388,rename partial loyalty credit for franchisees,3,2025-07-22
+46274,265,cache partial order,7,2025-01-07
+38677,521,document regional bowl,1,2025-03-14
+4072,524,add partial ticket on checkout,9,2025-04-11
+54973,298,normalise partial kitchen ticket on reorder,10,2025-02-06
+14054,501,relax partial menu item,8,2025-10-01
+25627,315,relax empty loyalty credit for pickup,11,2025-05-02
+92782,595,sort empty cart line for franchisees,12,2025-01-01
+37403,119,document empty kitchen ticket for pickup,6,2025-07-06
+94084,336,document partial store,9,2025-06-26
+87324,174,trim stale delivery window,9,2025-04-03
+32758,341,expose missing receipt,7,2025-02-03
+42350,183,cache empty promo,3,2025-06-08
+55760,277,tighten late store,9,2025-08-15
+15693,550,document empty delivery window on reorder,9,2025-12-24
