@@ -36,3 +36,33 @@
 - log partial delivery window: verified in staging.
 - paginate duplicate order in the queue: verified in staging.
 - log missing bowl at close: verified in staging.
+
+- expose partial promo: verified in staging.
+- document cancelled catering tray on reorder: owner: delivery manager.
+- log oversized delivery window at close: decided.
+- normalise late cart line: blocked on store systems.
+- trim missing cart line on checkout: decided.
+- validate duplicate location: verified in staging.
+- relax partial menu item at close: owner: delivery manager.
+- sort expired store: open.
+- retry duplicate loyalty credit for pickup: deferred to the next release.
+- trim missing kitchen ticket: deferred to the next release.
+- rename regional modifier on reorder: blocked on store systems.
+- trim expired cart line: blocked on store systems.
+- dedupe missing tax line for pickup: open.
+- expose duplicate topping: open.
+
+- tighten cancelled bowl: blocked on store systems.
+- log regional location for franchisees: verified in staging.
+- relax oversized loyalty credit: verified in staging.
+- sort missing tax line: blocked on store systems.
+- sort regional catering tray on checkout: open.
+- sort missing modifier: open.
+- trim late modifier: open.
+- cache cancelled cart line: verified in staging.
+- expose duplicate menu item: decided.
+- normalise duplicate catering tray on reorder: verified in staging.
+- validate oversized loyalty credit: open.
+- retry stale delivery window for franchisees: verified in staging.
+- handle stale promo per store: verified in staging.
+- sort duplicate topping: open.
