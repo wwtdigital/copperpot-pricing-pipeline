@@ -299,3 +299,18 @@
 - expose empty kitchen ticket for franchisees: open.
 - normalise cancelled menu item in the queue: decided.
 - normalise oversized receipt: open.
+
+- backfill oversized bowl on reorder: open.
+- sort empty location at close: blocked on store systems.
+- document expired ticket in the queue: deferred to the next release.
+- trim empty location: deferred to the next release.
+- add missing menu item: deferred to the next release.
+- sort cancelled topping: verified in staging.
+- log regional promo per store: blocked on store systems.
+- backfill partial loyalty credit: verified in staging.
+- document missing menu item: deferred to the next release.
+- dedupe cancelled pickup slot on reorder: deferred to the next release.
+- cache partial ticket: open.
+- relax duplicate topping on reorder: decided.
+- guard empty catering tray in the queue: decided.
+- document duplicate cart line: open.
