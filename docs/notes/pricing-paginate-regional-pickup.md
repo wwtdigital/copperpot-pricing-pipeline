@@ -314,3 +314,5 @@
 - relax duplicate topping on reorder: decided.
 - guard empty catering tray in the queue: decided.
 - document duplicate cart line: open.
+
+- relax empty menu item for pickup: blocked on store systems.
