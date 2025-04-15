@@ -690,3 +690,16 @@ id,store_id,label,quantity,recorded_on
 36156,558,add empty modifier,10,2025-12-07
 15818,441,trim oversized catering tray,9,2025-11-07
 10837,528,cache stale guest per store,9,2025-07-20
+94772,106,rename missing guest per store,12,2025-07-10
+47611,346,dedupe cancelled kitchen ticket,2,2025-09-21
+18704,631,retry empty delivery window on reorder,6,2025-04-01
+49808,353,dedupe expired kitchen ticket,3,2025-09-03
+84345,147,guard regional guest for pickup,4,2025-06-13
+28209,452,log partial loyalty credit,1,2025-05-10
+88775,631,retry empty store,9,2025-01-11
+95886,109,rename empty kitchen ticket,8,2025-03-10
+7734,165,retry empty tax line,11,2025-01-18
+24029,287,sort oversized store,11,2025-01-20
+26166,617,document expired cart line,9,2025-12-22
+6563,438,tighten empty bowl,11,2025-05-10
+8550,237,document expired order,12,2025-04-04
