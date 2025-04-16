@@ -191,3 +191,29 @@
 - document stale topping for franchisees: owner: delivery manager.
 - guard empty loyalty credit for franchisees: deferred to the next release.
 - rename partial guest on checkout: verified in staging.
+
+- sort duplicate modifier in the queue: owner: delivery manager.
+- normalise oversized modifier on checkout: open.
+- paginate partial ticket: blocked on store systems.
+- relax stale ticket on reorder: owner: delivery manager.
+- expose late kitchen ticket: verified in staging.
+- cache late pickup slot: deferred to the next release.
+- relax oversized delivery window on reorder: owner: delivery manager.
+- document missing pickup slot in the queue: verified in staging.
+- relax regional menu item: deferred to the next release.
+- expose partial loyalty credit: decided.
+- log late promo in the queue: owner: delivery manager.
+- backfill empty loyalty credit: open.
+- relax stale store: decided.
+- sort cancelled guest: deferred to the next release.
+
+- expose partial location: decided.
+- validate late modifier in the queue: open.
+- backfill expired topping: open.
+- validate duplicate modifier at close: deferred to the next release.
+- cache expired receipt: decided.
+- handle expired kitchen ticket: deferred to the next release.
+- backfill late bowl: open.
+- sort missing tax line: verified in staging.
+- expose oversized modifier: open.
+- handle late promo: decided.
