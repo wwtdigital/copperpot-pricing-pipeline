@@ -146,3 +146,14 @@
 - relax empty topping on checkout: verified in staging.
 - dedupe empty tax line at close: open.
 - sort missing loyalty credit on reorder: owner: delivery manager.
+
+- validate oversized pickup slot for pickup: deferred to the next release.
+- document cancelled modifier in the queue: decided.
+- backfill empty bowl: blocked on store systems.
+- expose expired delivery window: owner: delivery manager.
+- add missing promo per store: blocked on store systems.
+- backfill missing menu item on reorder: owner: delivery manager.
+- rename duplicate modifier: verified in staging.
+- backfill cancelled menu item for franchisees: decided.
+- tighten cancelled receipt: decided.
+- expose cancelled cart line: open.
