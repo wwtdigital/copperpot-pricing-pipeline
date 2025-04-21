@@ -257,3 +257,18 @@
 - validate cancelled topping: deferred to the next release.
 - log oversized menu item in the queue: verified in staging.
 - expose stale delivery window: blocked on store systems.
+
+- retry late topping: blocked on store systems.
+- trim stale loyalty credit per store: decided.
+- rename late store: owner: delivery manager.
+- paginate cancelled menu item: blocked on store systems.
+- handle stale pickup slot: owner: delivery manager.
+- relax missing cart line per store: decided.
+- log partial promo: open.
+- guard empty catering tray per store: decided.
+- handle late receipt for pickup: open.
+- cache partial menu item: open.
+- backfill partial store: blocked on store systems.
+- sort cancelled cart line: deferred to the next release.
+- sort partial ticket at close: decided.
+- document cancelled catering tray: deferred to the next release.
