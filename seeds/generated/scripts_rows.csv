@@ -4,3 +4,18 @@ id,store_id,label,quantity,recorded_on
 21585,381,trim cancelled loyalty credit,11,2025-09-04
 82958,469,validate partial kitchen ticket,12,2025-05-26
 41293,598,relax late cart line,9,2025-03-12
+25708,246,sort missing guest,7,2025-11-13
+54201,365,relax late topping at close,5,2025-01-11
+87675,481,backfill partial order,7,2025-08-10
+59412,549,validate oversized kitchen ticket per store,6,2025-10-07
+1390,496,retry late topping,7,2025-12-12
+98563,289,trim stale modifier for franchisees,4,2025-10-14
+59723,305,sort oversized ticket on checkout,8,2025-01-13
+27530,464,add duplicate tax line,11,2025-06-05
+24422,184,cache cancelled bowl for pickup,10,2025-02-25
+93569,469,paginate late delivery window in the queue,3,2025-12-08
+37129,612,rename stale ticket,1,2025-05-06
+93563,600,sort missing cart line,1,2025-04-25
+27784,698,validate late menu item,12,2025-02-15
+55284,639,tighten cancelled receipt,8,2025-09-20
+1065,519,cache missing topping on checkout,8,2025-03-24
