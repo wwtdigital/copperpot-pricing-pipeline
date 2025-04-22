@@ -157,3 +157,11 @@
 - backfill cancelled menu item for franchisees: decided.
 - tighten cancelled receipt: decided.
 - expose cancelled cart line: open.
+
+- log partial location: verified in staging.
+- cache expired order: open.
+- retry empty store for pickup: open.
+- normalise regional catering tray: decided.
+- retry duplicate menu item: decided.
+- validate stale guest: verified in staging.
+- handle expired store: blocked on store systems.
