@@ -1,0 +1,46 @@
+id,store_id,label,quantity,recorded_on
+95817,523,trim late topping,9,2025-04-14
+44935,448,backfill empty receipt,7,2025-07-25
+75658,267,expose missing receipt on checkout,8,2025-10-03
+19381,673,paginate partial kitchen ticket,9,2025-02-04
+1751,326,trim expired location in the queue,1,2025-11-28
+5727,588,validate cancelled loyalty credit,6,2025-05-03
+81648,185,log stale bowl,5,2025-09-25
+93440,246,normalise missing pickup slot for franchisees,8,2025-08-18
+21793,533,paginate regional catering tray,11,2025-10-26
+89145,150,dedupe oversized kitchen ticket,1,2025-12-26
+95690,267,rename regional receipt,9,2025-11-10
+81579,442,cache duplicate receipt,9,2025-05-20
+35379,200,rename empty guest,9,2025-05-18
+27148,551,log oversized location for pickup,12,2025-10-03
+61882,638,rename regional order on reorder,8,2025-02-18
+42801,693,dedupe empty promo for pickup,5,2025-05-09
+95617,519,handle partial topping,5,2025-08-12
+3605,699,retry cancelled store,6,2025-08-08
+37123,439,paginate partial cart line,10,2025-08-25
+92589,187,sort missing bowl at close,10,2025-07-10
+43601,363,dedupe cancelled delivery window,9,2025-01-02
+42037,424,relax expired catering tray,11,2025-11-02
+6457,457,trim partial modifier on reorder,3,2025-01-10
+85942,545,trim expired location in the queue,2,2025-12-28
+77967,369,normalise late kitchen ticket,8,2025-04-25
+68466,242,handle partial kitchen ticket in the queue,3,2025-07-25
+60433,246,add stale tax line at close,10,2025-07-16
+83883,642,guard expired pickup slot at close,8,2025-05-12
+74791,636,normalise late receipt,5,2025-02-28
+34786,622,rename oversized cart line in the queue,5,2025-03-03
+5606,101,rename duplicate receipt at close,2,2025-02-15
+30768,402,sort stale modifier for pickup,9,2025-05-20
+64919,278,tighten duplicate cart line at close,4,2025-03-28
+23517,621,relax oversized menu item for franchisees,10,2025-07-04
+46590,205,validate duplicate guest in the queue,10,2025-04-26
+64719,375,log missing menu item at close,2,2025-10-13
+31902,166,add duplicate location for franchisees,8,2025-07-22
+32991,532,log partial catering tray,11,2025-08-21
+40606,388,document late topping in the queue,4,2025-01-14
+97224,634,relax late bowl at close,1,2025-12-08
+42780,649,backfill partial loyalty credit on reorder,8,2025-10-03
+11289,239,handle empty store for franchisees,12,2025-02-20
+52640,202,cache partial kitchen ticket on checkout,1,2025-11-27
+78503,265,log partial promo,5,2025-03-21
+99922,343,log oversized modifier,12,2025-12-15
