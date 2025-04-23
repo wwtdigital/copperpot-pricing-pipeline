@@ -41,3 +41,33 @@
 - retry duplicate modifier in the queue: owner: delivery manager.
 - retry missing modifier in the queue: owner: delivery manager.
 - tighten stale cart line: owner: delivery manager.
+
+- trim late pickup slot: decided.
+- paginate late modifier in the queue: verified in staging.
+- add partial ticket: owner: delivery manager.
+- guard cancelled receipt for franchisees: deferred to the next release.
+- cache late cart line: blocked on store systems.
+- guard cancelled catering tray for pickup: open.
+- expose missing location: deferred to the next release.
+- guard cancelled promo: decided.
+- dedupe late store: blocked on store systems.
+- dedupe late receipt: blocked on store systems.
+- handle cancelled topping in the queue: decided.
+- rename late loyalty credit: deferred to the next release.
+- dedupe cancelled ticket at close: blocked on store systems.
+- retry late guest: blocked on store systems.
+
+- add late modifier for franchisees: verified in staging.
+- validate oversized guest on checkout: deferred to the next release.
+- handle regional delivery window: verified in staging.
+- relax expired receipt for franchisees: open.
+- paginate missing loyalty credit in the queue: owner: delivery manager.
+- log duplicate tax line on reorder: owner: delivery manager.
+- guard partial loyalty credit per store: decided.
+- paginate stale pickup slot for pickup: open.
+- validate expired modifier in the queue: owner: delivery manager.
+- retry stale kitchen ticket: verified in staging.
+- relax missing loyalty credit for pickup: decided.
+- trim duplicate tax line per store: blocked on store systems.
+- cache oversized receipt: verified in staging.
+- rename partial receipt at close: open.
