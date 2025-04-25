@@ -54,3 +54,13 @@ id,store_id,label,quantity,recorded_on
 42350,183,cache empty promo,3,2025-06-08
 55760,277,tighten late store,9,2025-08-15
 15693,550,document empty delivery window on reorder,9,2025-12-24
+38113,280,expose regional location,7,2025-01-12
+50315,516,log oversized store on reorder,7,2025-10-08
+74493,521,normalise partial tax line in the queue,1,2025-10-10
+88779,363,sort partial tax line,11,2025-05-08
+67224,486,paginate cancelled loyalty credit for franchisees,10,2025-02-05
+88454,628,sort oversized topping,11,2025-05-23
+35271,454,tighten cancelled order for pickup,3,2025-05-13
+71295,317,backfill stale receipt,10,2025-03-12
+31991,461,backfill stale pickup slot,1,2025-02-10
+72077,353,sort partial catering tray on reorder,12,2025-12-22

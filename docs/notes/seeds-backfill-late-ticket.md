@@ -14,3 +14,60 @@
 - document cancelled store: blocked on store systems.
 - trim cancelled ticket per store: open.
 - document oversized location: deferred to the next release.
+
+- trim missing receipt in the queue: blocked on store systems.
+- backfill expired menu item at close: deferred to the next release.
+- validate partial loyalty credit: open.
+- add duplicate order: decided.
+- normalise missing modifier: owner: delivery manager.
+- validate partial catering tray: deferred to the next release.
+- log stale loyalty credit: deferred to the next release.
+- add missing menu item: verified in staging.
+- trim late delivery window: owner: delivery manager.
+- log missing kitchen ticket: owner: delivery manager.
+- add late loyalty credit in the queue: open.
+- cache partial tax line: decided.
+- guard late pickup slot on reorder: open.
+- add cancelled tax line: owner: delivery manager.
+
+- normalise cancelled promo: blocked on store systems.
+- document missing catering tray on checkout: blocked on store systems.
+- document missing guest: decided.
+- trim cancelled order: blocked on store systems.
+- document partial delivery window: blocked on store systems.
+- trim missing ticket on checkout: owner: delivery manager.
+- sort duplicate ticket on reorder: blocked on store systems.
+- relax duplicate catering tray per store: owner: delivery manager.
+- retry duplicate modifier in the queue: owner: delivery manager.
+- retry missing modifier in the queue: owner: delivery manager.
+- tighten stale cart line: owner: delivery manager.
+
+- trim late pickup slot: decided.
+- paginate late modifier in the queue: verified in staging.
+- add partial ticket: owner: delivery manager.
+- guard cancelled receipt for franchisees: deferred to the next release.
+- cache late cart line: blocked on store systems.
+- guard cancelled catering tray for pickup: open.
+- expose missing location: deferred to the next release.
+- guard cancelled promo: decided.
+- dedupe late store: blocked on store systems.
+- dedupe late receipt: blocked on store systems.
+- handle cancelled topping in the queue: decided.
+- rename late loyalty credit: deferred to the next release.
+- dedupe cancelled ticket at close: blocked on store systems.
+- retry late guest: blocked on store systems.
+
+- add late modifier for franchisees: verified in staging.
+- validate oversized guest on checkout: deferred to the next release.
+- handle regional delivery window: verified in staging.
+- relax expired receipt for franchisees: open.
+- paginate missing loyalty credit in the queue: owner: delivery manager.
+- log duplicate tax line on reorder: owner: delivery manager.
+- guard partial loyalty credit per store: decided.
+- paginate stale pickup slot for pickup: open.
+- validate expired modifier in the queue: owner: delivery manager.
+- retry stale kitchen ticket: verified in staging.
+- relax missing loyalty credit for pickup: decided.
+- trim duplicate tax line per store: blocked on store systems.
+- cache oversized receipt: verified in staging.
+- rename partial receipt at close: open.
