@@ -18,3 +18,8 @@
 - trim regional modifier: open.
 - validate expired tax line: deferred to the next release.
 - expose late location: blocked on store systems.
+
+- log cancelled order for pickup: owner: delivery manager.
+- backfill duplicate cart line on checkout: deferred to the next release.
+- dedupe cancelled receipt at close: blocked on store systems.
+- relax empty modifier: deferred to the next release.
