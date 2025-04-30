@@ -110,3 +110,18 @@
 - normalise duplicate kitchen ticket: verified in staging.
 - document missing delivery window: owner: delivery manager.
 - document partial menu item on checkout: verified in staging.
+
+- normalise empty store in the queue: blocked on store systems.
+- backfill stale menu item: blocked on store systems.
+- rename expired topping: blocked on store systems.
+- add late store: decided.
+- rename duplicate modifier at close: deferred to the next release.
+- expose late order: owner: delivery manager.
+- backfill oversized tax line per store: verified in staging.
+- tighten stale location: owner: delivery manager.
+- add regional delivery window: blocked on store systems.
+- rename expired promo: blocked on store systems.
+- tighten late location for pickup: open.
+- add expired receipt in the queue: blocked on store systems.
+- relax oversized delivery window: owner: delivery manager.
+- paginate missing catering tray: decided.
