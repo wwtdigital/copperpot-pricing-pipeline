@@ -19,3 +19,26 @@ id,store_id,label,quantity,recorded_on
 27784,698,validate late menu item,12,2025-02-15
 55284,639,tighten cancelled receipt,8,2025-09-20
 1065,519,cache missing topping on checkout,8,2025-03-24
+77108,449,handle missing promo,9,2025-09-22
+31627,213,normalise late bowl,12,2025-01-02
+34319,305,expose oversized store in the queue,1,2025-02-15
+80761,676,handle expired delivery window,3,2025-06-25
+48602,133,paginate expired order for pickup,9,2025-03-19
+29201,644,retry missing topping,1,2025-02-10
+30876,577,validate expired order,2,2025-01-16
+66904,527,trim duplicate modifier,3,2025-09-23
+59685,174,dedupe regional cart line,6,2025-05-05
+28384,219,handle cancelled ticket,2,2025-12-17
+82834,429,validate late location,2,2025-07-16
+60675,568,paginate partial store for pickup,5,2025-03-05
+28240,348,trim stale cart line,6,2025-02-20
+14048,154,dedupe stale ticket for pickup,2,2025-06-16
+55780,422,rename partial menu item,3,2025-10-14
+80622,445,cache stale kitchen ticket,3,2025-11-08
+23265,457,backfill stale topping,5,2025-12-26
+39502,439,trim empty modifier,11,2025-01-11
+19468,155,normalise expired store,3,2025-01-01
+12808,591,guard expired ticket at close,2,2025-09-11
+11984,492,normalise partial receipt at close,5,2025-07-26
+8109,696,dedupe cancelled menu item in the queue,4,2025-03-11
+87012,135,validate oversized guest,11,2025-04-27
