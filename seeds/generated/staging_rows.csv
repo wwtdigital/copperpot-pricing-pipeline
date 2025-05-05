@@ -44,3 +44,23 @@ id,store_id,label,quantity,recorded_on
 52640,202,cache partial kitchen ticket on checkout,1,2025-11-27
 78503,265,log partial promo,5,2025-03-21
 99922,343,log oversized modifier,12,2025-12-15
+20953,603,dedupe partial store for pickup,5,2025-02-02
+21632,607,dedupe oversized receipt for pickup,7,2025-05-13
+41270,591,validate late bowl,9,2025-07-05
+56385,113,retry expired loyalty credit,3,2025-06-20
+49102,302,sort partial pickup slot,5,2025-04-04
+27966,249,paginate late bowl on reorder,4,2025-03-27
+66299,149,document late pickup slot per store,8,2025-09-23
+67503,474,add duplicate tax line,6,2025-05-22
+83914,274,add oversized order,4,2025-04-12
+49201,491,expose stale pickup slot at close,6,2025-02-11
+21049,418,cache empty tax line,11,2025-08-02
+49155,684,handle missing order,8,2025-01-14
+66961,577,normalise expired pickup slot at close,12,2025-08-05
+18808,154,paginate expired cart line,1,2025-03-04
+98223,400,log missing modifier,2,2025-10-15
+54416,310,dedupe expired catering tray on checkout,9,2025-11-10
+84561,168,log empty cart line at close,8,2025-02-02
+47168,108,document oversized promo,4,2025-11-17
+7975,573,handle missing modifier,4,2025-09-24
+8176,434,handle expired modifier for pickup,2,2025-06-10
