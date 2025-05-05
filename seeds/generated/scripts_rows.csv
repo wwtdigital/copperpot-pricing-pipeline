@@ -42,3 +42,16 @@ id,store_id,label,quantity,recorded_on
 11984,492,normalise partial receipt at close,5,2025-07-26
 8109,696,dedupe cancelled menu item in the queue,4,2025-03-11
 87012,135,validate oversized guest,11,2025-04-27
+99346,138,expose duplicate promo,7,2025-05-11
+74741,234,backfill stale cart line,1,2025-01-25
+70821,668,validate empty topping in the queue,2,2025-03-27
+43221,189,cache duplicate delivery window,11,2025-09-14
+19233,643,validate cancelled delivery window,1,2025-12-22
+13706,287,rename stale topping for franchisees,2,2025-07-06
+98920,391,normalise stale receipt per store,4,2025-02-08
+29846,159,rename partial cart line for pickup,10,2025-05-21
+83276,378,handle cancelled topping on reorder,8,2025-10-26
+23880,159,log expired loyalty credit,3,2025-04-04
+71139,314,trim late delivery window,9,2025-08-16
+23964,470,sort expired location for franchisees,2,2025-01-15
+87241,364,trim regional ticket at close,10,2025-01-26
