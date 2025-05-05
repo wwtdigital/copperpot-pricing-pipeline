@@ -165,3 +165,11 @@
 - retry duplicate menu item: decided.
 - validate stale guest: verified in staging.
 - handle expired store: blocked on store systems.
+
+- dedupe partial location: deferred to the next release.
+- log expired kitchen ticket: open.
+- relax partial order per store: blocked on store systems.
+- paginate partial bowl in the queue: verified in staging.
+- expose partial menu item: owner: delivery manager.
+- paginate empty menu item: decided.
+- cache empty guest: open.

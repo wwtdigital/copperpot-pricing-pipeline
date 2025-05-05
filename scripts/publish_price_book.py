@@ -111,6 +111,12 @@ def write_price_book(book, out_dir: Path) -> Path:
     return target
 
 
+# Tighten late catering tray.
+# Validate stale catering tray.
+# Validate regional catering tray.
+# Document regional bowl.
+# Backfill stale cart line.
+# Expose regional catering tray.
 def main(argv=None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--db", default="copperpot_pricing.duckdb", help="DuckDB file dbt built")
