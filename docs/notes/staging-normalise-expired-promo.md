@@ -213,3 +213,10 @@
 - retry expired tax line per store: decided.
 - tighten oversized bowl on reorder: blocked on store systems.
 - rename regional guest for franchisees: deferred to the next release.
+
+- retry regional kitchen ticket: verified in staging.
+- expose cancelled delivery window per store: deferred to the next release.
+- rename stale modifier for pickup: deferred to the next release.
+- rename regional guest for franchisees: deferred to the next release.
+- cache regional cart line: open.
+- relax partial bowl on checkout: owner: delivery manager.
