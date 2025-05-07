@@ -14,3 +14,18 @@
 - rename partial guest on checkout: decided.
 - tighten oversized receipt for pickup: owner: delivery manager.
 - handle oversized order: verified in staging.
+
+- add missing topping per store: blocked on store systems.
+- document regional topping on reorder: decided.
+- paginate cancelled bowl in the queue: verified in staging.
+- cache duplicate bowl: owner: delivery manager.
+- trim duplicate loyalty credit: open.
+- guard empty promo for franchisees: blocked on store systems.
+- backfill cancelled kitchen ticket: deferred to the next release.
+- retry cancelled cart line on checkout: deferred to the next release.
+- log cancelled bowl: open.
+- tighten missing receipt: blocked on store systems.
+- handle cancelled kitchen ticket: blocked on store systems.
+- relax late receipt: owner: delivery manager.
+- tighten oversized topping: verified in staging.
+- guard oversized cart line on checkout: owner: delivery manager.
