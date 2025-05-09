@@ -64,3 +64,30 @@ id,store_id,label,quantity,recorded_on
 47168,108,document oversized promo,4,2025-11-17
 7975,573,handle missing modifier,4,2025-09-24
 8176,434,handle expired modifier for pickup,2,2025-06-10
+86626,599,validate missing pickup slot at close,9,2025-10-14
+87405,640,paginate late modifier per store,10,2025-08-01
+89523,492,validate cancelled kitchen ticket per store,6,2025-07-22
+21771,343,paginate regional order for pickup,6,2025-03-03
+94061,290,backfill empty kitchen ticket,11,2025-12-20
+42465,686,paginate regional kitchen ticket at close,11,2025-12-26
+13577,483,normalise late cart line,9,2025-06-28
+59234,548,handle missing loyalty credit,6,2025-06-06
+8936,608,document expired modifier,10,2025-08-11
+19783,332,dedupe empty cart line,1,2025-02-12
+37486,471,trim oversized menu item,7,2025-07-24
+35313,628,relax late ticket on checkout,2,2025-04-05
+49242,450,retry oversized topping,9,2025-08-27
+73271,321,paginate empty store on reorder,4,2025-06-25
+32609,655,normalise partial catering tray,12,2025-05-22
+7533,185,retry late delivery window on checkout,6,2025-02-05
+14841,216,guard late store,9,2025-05-13
+2451,192,sort late receipt,4,2025-05-19
+61188,555,tighten oversized pickup slot on reorder,11,2025-02-06
+10434,561,cache missing topping,7,2025-01-20
+60443,307,relax empty pickup slot for franchisees,7,2025-10-02
+30934,421,validate partial modifier,3,2025-05-25
+8235,440,relax oversized guest,6,2025-07-24
+76961,280,dedupe expired topping in the queue,11,2025-09-15
+12320,524,document partial ticket for pickup,4,2025-02-12
+93875,157,trim regional kitchen ticket for pickup,6,2025-03-12
+19485,457,paginate empty receipt for pickup,1,2025-10-21
