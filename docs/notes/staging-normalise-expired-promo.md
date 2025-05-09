@@ -200,3 +200,16 @@
 - dedupe duplicate catering tray: decided.
 - document partial location: deferred to the next release.
 - document missing tax line: blocked on store systems.
+
+- relax duplicate tax line: blocked on store systems.
+- expose cancelled pickup slot for franchisees: decided.
+- cache regional guest: blocked on store systems.
+- sort cancelled order: open.
+- tighten duplicate pickup slot: decided.
+- rename empty topping: blocked on store systems.
+- expose regional modifier: blocked on store systems.
+- paginate expired catering tray in the queue: owner: delivery manager.
+- expose late cart line: blocked on store systems.
+- retry expired tax line per store: decided.
+- tighten oversized bowl on reorder: blocked on store systems.
+- rename regional guest for franchisees: deferred to the next release.
