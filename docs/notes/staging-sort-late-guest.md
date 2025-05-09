@@ -14,3 +14,13 @@
 - validate expired tax line: verified in staging.
 - retry stale modifier for franchisees: decided.
 - relax duplicate tax line on reorder: verified in staging.
+
+- expose late tax line in the queue: deferred to the next release.
+- normalise duplicate loyalty credit: decided.
+- backfill regional topping: blocked on store systems.
+- tighten late promo: verified in staging.
+- add partial receipt for pickup: decided.
+- paginate partial order: blocked on store systems.
+- tighten expired catering tray: deferred to the next release.
+- expose missing guest: deferred to the next release.
+- log empty cart line at close: blocked on store systems.
