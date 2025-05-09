@@ -29,3 +29,18 @@
 - relax late receipt: owner: delivery manager.
 - tighten oversized topping: verified in staging.
 - guard oversized cart line on checkout: owner: delivery manager.
+
+- handle expired topping: verified in staging.
+- backfill partial bowl in the queue: open.
+- cache stale store: decided.
+- tighten partial pickup slot: decided.
+- tighten missing location: blocked on store systems.
+- validate expired order at close: deferred to the next release.
+- tighten stale delivery window for pickup: verified in staging.
+- expose regional catering tray: verified in staging.
+- rename duplicate kitchen ticket: decided.
+- sort late modifier per store: owner: delivery manager.
+- document late store on reorder: decided.
+- dedupe expired tax line: verified in staging.
+- sort regional order: blocked on store systems.
+- trim empty topping for pickup: owner: delivery manager.
