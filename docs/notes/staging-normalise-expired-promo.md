@@ -220,3 +220,18 @@
 - rename regional guest for franchisees: deferred to the next release.
 - cache regional cart line: open.
 - relax partial bowl on checkout: owner: delivery manager.
+
+- cache duplicate kitchen ticket: open.
+- tighten duplicate kitchen ticket: blocked on store systems.
+- sort partial store: open.
+- cache expired loyalty credit: verified in staging.
+- document expired topping: owner: delivery manager.
+- tighten empty store: deferred to the next release.
+- add expired location for franchisees: open.
+- dedupe stale bowl on reorder: open.
+- dedupe late topping: verified in staging.
+- validate cancelled pickup slot: decided.
+- dedupe stale guest on checkout: open.
+- add stale ticket: owner: delivery manager.
+- document oversized cart line for pickup: decided.
+- backfill partial cart line: blocked on store systems.

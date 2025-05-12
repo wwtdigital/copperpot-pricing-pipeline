@@ -24,3 +24,9 @@
 - tighten expired catering tray: deferred to the next release.
 - expose missing guest: deferred to the next release.
 - log empty cart line at close: blocked on store systems.
+
+- sort regional catering tray for pickup: decided.
+- dedupe missing tax line in the queue: open.
+- relax late location: verified in staging.
+- expose regional menu item: decided.
+- relax empty store: deferred to the next release.
