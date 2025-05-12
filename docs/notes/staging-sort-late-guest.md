@@ -30,3 +30,6 @@
 - relax late location: verified in staging.
 - expose regional menu item: decided.
 - relax empty store: deferred to the next release.
+
+- retry cancelled promo on checkout: verified in staging.
+- validate expired order: open.

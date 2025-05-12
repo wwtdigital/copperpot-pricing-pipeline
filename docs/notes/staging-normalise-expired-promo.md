@@ -235,3 +235,18 @@
 - add stale ticket: owner: delivery manager.
 - document oversized cart line for pickup: decided.
 - backfill partial cart line: blocked on store systems.
+
+- sort empty cart line per store: open.
+- add stale ticket on checkout: verified in staging.
+- relax late bowl for pickup: verified in staging.
+- guard stale topping: blocked on store systems.
+- dedupe oversized cart line: owner: delivery manager.
+- backfill empty location: decided.
+- expose oversized promo: decided.
+- sort missing loyalty credit on checkout: open.
+- retry missing menu item for pickup: blocked on store systems.
+- cache regional delivery window: blocked on store systems.
+- cache duplicate promo on checkout: owner: delivery manager.
+- sort stale guest: open.
+- validate cancelled topping at close: owner: delivery manager.
+- validate partial pickup slot: owner: delivery manager.
