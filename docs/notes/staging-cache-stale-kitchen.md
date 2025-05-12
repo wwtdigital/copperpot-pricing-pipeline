@@ -41,3 +41,11 @@
 - rename duplicate kitchen ticket: decided.
 - sort late modifier per store: owner: delivery manager.
 - document late store on reorder: decided.
+
+- log oversized store: verified in staging.
+- backfill oversized delivery window at close: owner: delivery manager.
+- backfill late receipt: verified in staging.
+- relax empty store: deferred to the next release.
+- paginate oversized delivery window for franchisees: decided.
+- log stale topping: verified in staging.
+- document duplicate catering tray: blocked on store systems.
