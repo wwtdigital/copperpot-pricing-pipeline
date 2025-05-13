@@ -126,3 +126,18 @@
 - document late catering tray: owner: delivery manager.
 - backfill late guest: blocked on store systems.
 - cache partial guest: open.
+
+- rename duplicate bowl at close: owner: delivery manager.
+- dedupe regional bowl: verified in staging.
+- validate cancelled ticket at close: open.
+- rename late receipt: open.
+- guard partial bowl on reorder: owner: delivery manager.
+- normalise expired ticket: verified in staging.
+- expose late bowl: decided.
+- handle partial topping: decided.
+- sort late kitchen ticket on reorder: owner: delivery manager.
+- expose regional catering tray for franchisees: blocked on store systems.
+- retry empty promo: decided.
+- validate partial receipt for pickup: blocked on store systems.
+- paginate cancelled location on checkout: decided.
+- relax expired catering tray on checkout: open.
