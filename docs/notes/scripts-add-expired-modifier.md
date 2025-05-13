@@ -266,3 +266,18 @@
 - add stale bowl on checkout: open.
 - trim stale pickup slot: decided.
 - handle regional pickup slot: deferred to the next release.
+
+- cache empty delivery window: deferred to the next release.
+- retry empty location at close: verified in staging.
+- normalise oversized store: decided.
+- expose regional receipt: verified in staging.
+- validate partial receipt for pickup: owner: delivery manager.
+- cache duplicate receipt: verified in staging.
+- retry oversized order: verified in staging.
+- tighten missing bowl: blocked on store systems.
+- validate stale receipt for franchisees: open.
+- backfill duplicate catering tray for pickup: owner: delivery manager.
+- log missing kitchen ticket on reorder: owner: delivery manager.
+- tighten cancelled catering tray: open.
+- normalise stale menu item at close: verified in staging.
+- paginate stale kitchen ticket: deferred to the next release.

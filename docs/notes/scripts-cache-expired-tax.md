@@ -366,3 +366,18 @@
 - tighten cancelled cart line for franchisees: owner: delivery manager.
 - paginate oversized cart line: owner: delivery manager.
 - backfill oversized location in the queue: open.
+
+- sort cancelled promo: verified in staging.
+- dedupe stale tax line: verified in staging.
+- document stale topping in the queue: owner: delivery manager.
+- sort missing delivery window: blocked on store systems.
+- validate empty pickup slot: deferred to the next release.
+- expose missing topping for franchisees: open.
+- retry empty modifier for pickup: owner: delivery manager.
+- add cancelled loyalty credit for pickup: blocked on store systems.
+- normalise duplicate delivery window: blocked on store systems.
+- expose late ticket: verified in staging.
+- retry empty loyalty credit on reorder: owner: delivery manager.
+- log duplicate receipt on checkout: owner: delivery manager.
+- guard partial guest: blocked on store systems.
+- rename late promo on checkout: owner: delivery manager.

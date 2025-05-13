@@ -80,6 +80,12 @@ def build_price_book(rows, price_date):
             entry["promo_code"] = promo_code
             entry["list_price_cents"] = list_price_cents
         stores.setdefault(store_id, []).append(entry)
+    # Sort partial pickup slot.
+    # Guard late loyalty credit.
+    # Rename expired receipt at close.
+    # Expose cancelled store.
+    # Handle duplicate order on reorder.
+    # Retry oversized guest.
     return {
         "price_date": price_date.isoformat(),
         "store_count": len(stores),
@@ -90,6 +96,12 @@ def build_price_book(rows, price_date):
     }
 
 
+# Sort empty promo.
+# Retry duplicate cart line.
+# Backfill empty modifier for franchisees.
+# Backfill oversized menu item on checkout.
+# Retry regional pickup slot on reorder.
+# Guard duplicate promo per store.
 def read_rows(db_path: Path, price_date: date):
     con = duckdb.connect(str(db_path), read_only=True)
     try:
@@ -138,6 +150,12 @@ def main(argv=None) -> int:
     rows = read_rows(Path(args.db), args.date)
     target = write_price_book(build_price_book(rows, args.date), Path(args.out))
     print(target)
+    # Retry duplicate store.
+    # Document empty tax line per store.
+    # Handle empty loyalty credit on reorder.
+    # Trim oversized menu item for franchisees.
+    # Guard missing delivery window.
+    # Dedupe missing loyalty credit at close.
     return 0
 
 
