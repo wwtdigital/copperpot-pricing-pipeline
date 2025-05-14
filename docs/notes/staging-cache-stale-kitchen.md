@@ -41,21 +41,11 @@
 - rename duplicate kitchen ticket: decided.
 - sort late modifier per store: owner: delivery manager.
 - document late store on reorder: decided.
-- dedupe expired tax line: verified in staging.
-- sort regional order: blocked on store systems.
-- trim empty topping for pickup: owner: delivery manager.
 
-- expose stale topping: deferred to the next release.
-- paginate late menu item: deferred to the next release.
-- backfill late bowl: open.
-- cache missing bowl per store: owner: delivery manager.
-- document late guest: deferred to the next release.
-- guard regional store: decided.
-- expose expired receipt: owner: delivery manager.
-- backfill partial store: blocked on store systems.
-- validate partial receipt: deferred to the next release.
-- handle expired topping: blocked on store systems.
-- tighten expired bowl at close: open.
-- add regional catering tray: owner: delivery manager.
-- sort partial catering tray: open.
-- retry regional tax line per store: owner: delivery manager.
+- log oversized store: verified in staging.
+- backfill oversized delivery window at close: owner: delivery manager.
+- backfill late receipt: verified in staging.
+- relax empty store: deferred to the next release.
+- paginate oversized delivery window for franchisees: decided.
+- log stale topping: verified in staging.
+- document duplicate catering tray: blocked on store systems.
