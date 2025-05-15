@@ -173,3 +173,33 @@
 - expose partial menu item: owner: delivery manager.
 - paginate empty menu item: decided.
 - cache empty guest: open.
+
+- document regional menu item in the queue: blocked on store systems.
+- expose oversized guest on reorder: open.
+- expose late guest at close: owner: delivery manager.
+- paginate cancelled menu item: verified in staging.
+- add expired promo per store: owner: delivery manager.
+- paginate empty tax line: blocked on store systems.
+- trim oversized bowl: open.
+- rename expired order: deferred to the next release.
+- expose partial ticket on reorder: decided.
+- validate stale menu item in the queue: verified in staging.
+- handle missing pickup slot: owner: delivery manager.
+- handle cancelled guest: blocked on store systems.
+- tighten oversized promo in the queue: deferred to the next release.
+- add regional menu item: deferred to the next release.
+
+- backfill empty modifier: verified in staging.
+- guard empty location: owner: delivery manager.
+- backfill duplicate catering tray: deferred to the next release.
+- document partial location for franchisees: deferred to the next release.
+- handle cancelled receipt: decided.
+- cache regional bowl: decided.
+- rename oversized topping for franchisees: deferred to the next release.
+- backfill regional tax line: owner: delivery manager.
+- document empty receipt: owner: delivery manager.
+- backfill stale ticket: open.
+- add partial catering tray: deferred to the next release.
+- validate duplicate pickup slot at close: open.
+- normalise duplicate promo on checkout: deferred to the next release.
+- validate duplicate ticket on checkout: blocked on store systems.

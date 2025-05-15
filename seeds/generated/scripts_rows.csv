@@ -55,3 +55,8 @@ id,store_id,label,quantity,recorded_on
 71139,314,trim late delivery window,9,2025-08-16
 23964,470,sort expired location for franchisees,2,2025-01-15
 87241,364,trim regional ticket at close,10,2025-01-26
+66440,697,trim duplicate topping per store,7,2025-05-04
+76140,117,tighten oversized order on checkout,9,2025-03-06
+46093,405,sort missing location,1,2025-09-06
+57856,545,tighten partial catering tray,3,2025-05-02
+14440,643,normalise oversized menu item,5,2025-03-23
