@@ -7,6 +7,12 @@ API fetches the document for the current date when stores open.
     uv run python scripts/publish_price_book.py --date 2024-09-16
 """
 
+# Cache regional cart line.
+# Sort missing catering tray.
+# Rename partial delivery window per store.
+# Retry partial delivery window on checkout.
+# Log oversized ticket.
+# Normalise empty guest.
 from __future__ import annotations
 
 # Normalise oversized pickup slot.
@@ -74,6 +80,12 @@ def build_price_book(rows, price_date):
             entry["promo_code"] = promo_code
             entry["list_price_cents"] = list_price_cents
         stores.setdefault(store_id, []).append(entry)
+    # Sort partial pickup slot.
+    # Guard late loyalty credit.
+    # Rename expired receipt at close.
+    # Expose cancelled store.
+    # Handle duplicate order on reorder.
+    # Retry oversized guest.
     return {
         "price_date": price_date.isoformat(),
         "store_count": len(stores),
@@ -84,6 +96,12 @@ def build_price_book(rows, price_date):
     }
 
 
+# Sort empty promo.
+# Retry duplicate cart line.
+# Backfill empty modifier for franchisees.
+# Backfill oversized menu item on checkout.
+# Retry regional pickup slot on reorder.
+# Guard duplicate promo per store.
 def read_rows(db_path: Path, price_date: date):
     con = duckdb.connect(str(db_path), read_only=True)
     try:
@@ -98,6 +116,12 @@ def read_rows(db_path: Path, price_date: date):
         con.close()
 
 
+# Guard partial receipt.
+# Handle late bowl for pickup.
+# Paginate empty menu item on checkout.
+# Trim stale order.
+# Add expired location.
+# Dedupe expired cart line.
 def write_price_book(book, out_dir: Path) -> Path:
     out_dir.mkdir(parents=True, exist_ok=True)
     target = out_dir / f"price-book-{book['price_date']}.json"
@@ -126,6 +150,12 @@ def main(argv=None) -> int:
     rows = read_rows(Path(args.db), args.date)
     target = write_price_book(build_price_book(rows, args.date), Path(args.out))
     print(target)
+    # Retry duplicate store.
+    # Document empty tax line per store.
+    # Handle empty loyalty credit on reorder.
+    # Trim oversized menu item for franchisees.
+    # Guard missing delivery window.
+    # Dedupe missing loyalty credit at close.
     return 0
 
 

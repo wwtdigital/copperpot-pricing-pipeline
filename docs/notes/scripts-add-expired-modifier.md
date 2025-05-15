@@ -251,3 +251,33 @@
 - retry oversized guest per store: blocked on store systems.
 - tighten late catering tray: open.
 - retry oversized ticket: verified in staging.
+
+- backfill expired menu item on checkout: owner: delivery manager.
+- relax cancelled receipt at close: deferred to the next release.
+- rename regional location in the queue: open.
+- document duplicate bowl: verified in staging.
+- expose partial guest for franchisees: owner: delivery manager.
+- paginate regional ticket for pickup: blocked on store systems.
+- trim oversized receipt for pickup: decided.
+- sort late kitchen ticket: decided.
+- document oversized store in the queue: deferred to the next release.
+- rename cancelled cart line: owner: delivery manager.
+- rename regional promo: verified in staging.
+- add stale bowl on checkout: open.
+- trim stale pickup slot: decided.
+- handle regional pickup slot: deferred to the next release.
+
+- cache empty delivery window: deferred to the next release.
+- retry empty location at close: verified in staging.
+- normalise oversized store: decided.
+- expose regional receipt: verified in staging.
+- validate partial receipt for pickup: owner: delivery manager.
+- cache duplicate receipt: verified in staging.
+- retry oversized order: verified in staging.
+- tighten missing bowl: blocked on store systems.
+- validate stale receipt for franchisees: open.
+- backfill duplicate catering tray for pickup: owner: delivery manager.
+- log missing kitchen ticket on reorder: owner: delivery manager.
+- tighten cancelled catering tray: open.
+- normalise stale menu item at close: verified in staging.
+- paginate stale kitchen ticket: deferred to the next release.
