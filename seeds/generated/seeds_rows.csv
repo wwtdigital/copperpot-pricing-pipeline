@@ -127,3 +127,19 @@ id,store_id,label,quantity,recorded_on
 15599,576,guard late receipt for franchisees,12,2025-06-01
 98335,199,document partial bowl,1,2025-07-19
 76177,120,expose cancelled guest,12,2025-07-05
+79360,495,relax expired bowl,5,2025-06-23
+83269,692,document stale ticket,7,2025-08-19
+94362,350,normalise missing loyalty credit,5,2025-01-06
+88753,355,cache regional location,9,2025-12-24
+64707,429,handle empty tax line,6,2025-09-28
+4939,625,normalise regional receipt on checkout,3,2025-08-19
+30957,229,validate expired pickup slot,3,2025-10-11
+67014,487,normalise stale tax line for pickup,10,2025-10-27
+24117,461,document expired order on checkout,4,2025-12-01
+35960,270,validate late delivery window,10,2025-12-10
+82943,358,trim oversized order for pickup,9,2025-09-17
+39660,448,dedupe partial loyalty credit,11,2025-11-10
+48696,497,expose stale store,3,2025-10-03
+63490,662,trim oversized kitchen ticket per store,3,2025-07-28
+78424,675,trim missing loyalty credit,3,2025-06-04
+92100,143,dedupe cancelled delivery window on checkout,6,2025-09-10
