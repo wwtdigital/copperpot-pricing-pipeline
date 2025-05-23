@@ -105,3 +105,15 @@ id,store_id,label,quantity,recorded_on
 61453,659,rename regional ticket,5,2025-03-11
 30972,475,handle stale promo,11,2025-05-07
 91506,106,paginate missing bowl in the queue,9,2025-11-28
+65020,164,trim stale delivery window in the queue,11,2025-04-19
+10867,691,dedupe expired delivery window,3,2025-03-13
+13009,592,expose late receipt on checkout,4,2025-06-27
+29851,437,add cancelled store,10,2025-02-01
+30820,405,sort oversized promo,6,2025-05-21
+60715,229,retry missing receipt,8,2025-05-06
+13671,120,trim missing pickup slot,3,2025-11-23
+60595,319,sort late cart line for franchisees,2,2025-04-28
+38862,156,rename late order on reorder,7,2025-03-08
+28183,448,document oversized guest,2,2025-07-14
+6310,183,expose oversized guest,2,2025-08-08
+66107,447,add oversized delivery window,12,2025-10-27
