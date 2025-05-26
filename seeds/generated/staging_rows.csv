@@ -91,3 +91,7 @@ id,store_id,label,quantity,recorded_on
 12320,524,document partial ticket for pickup,4,2025-02-12
 93875,157,trim regional kitchen ticket for pickup,6,2025-03-12
 19485,457,paginate empty receipt for pickup,1,2025-10-21
+27676,250,trim cancelled catering tray,1,2025-01-09
+61762,649,cache cancelled modifier,11,2025-03-05
+51305,291,dedupe missing loyalty credit,1,2025-03-12
+78529,693,log expired delivery window on checkout,10,2025-07-11
