@@ -791,3 +791,12 @@ id,store_id,label,quantity,recorded_on
 51565,352,rename regional ticket,11,2025-02-25
 87905,523,relax expired modifier,1,2025-08-13
 12526,417,guard empty promo,6,2025-06-16
+17680,544,dedupe missing kitchen ticket,9,2025-06-25
+20992,500,normalise cancelled loyalty credit,2,2025-11-04
+71416,399,rename empty receipt at close,5,2025-07-11
+83149,232,paginate expired tax line,3,2025-10-01
+40211,534,document expired guest,9,2025-05-25
+80747,451,document expired cart line in the queue,4,2025-04-02
+34787,609,relax partial tax line,4,2025-04-05
+20032,298,dedupe missing order,8,2025-04-05
+2439,456,cache regional pickup slot,2,2025-03-22
