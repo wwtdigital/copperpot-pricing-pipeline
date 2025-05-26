@@ -265,3 +265,18 @@
 - document missing order: open.
 - normalise missing pickup slot: blocked on store systems.
 - add expired receipt: blocked on store systems.
+
+- log regional location: open.
+- trim missing modifier: verified in staging.
+- paginate cancelled catering tray: blocked on store systems.
+- handle duplicate kitchen ticket: deferred to the next release.
+- rename empty ticket: verified in staging.
+- add missing promo on checkout: owner: delivery manager.
+- dedupe cancelled loyalty credit for franchisees: blocked on store systems.
+- document oversized menu item on checkout: decided.
+- backfill missing delivery window: deferred to the next release.
+- trim regional menu item: owner: delivery manager.
+- dedupe expired pickup slot: verified in staging.
+- normalise cancelled tax line: decided.
+- paginate partial modifier per store: decided.
+- tighten empty receipt: owner: delivery manager.
