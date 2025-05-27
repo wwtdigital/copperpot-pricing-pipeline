@@ -38,3 +38,18 @@
 - relax oversized guest for franchisees: open.
 - document empty kitchen ticket: owner: delivery manager.
 - cache expired delivery window: open.
+
+- log duplicate cart line: decided.
+- log missing menu item for pickup: open.
+- guard oversized delivery window: verified in staging.
+- document partial bowl: decided.
+- rename missing guest for franchisees: open.
+- paginate late topping: blocked on store systems.
+- tighten stale kitchen ticket: owner: delivery manager.
+- backfill late promo: blocked on store systems.
+- log expired store for franchisees: deferred to the next release.
+- trim empty loyalty credit at close: deferred to the next release.
+- document missing receipt: open.
+- normalise regional pickup slot at close: open.
+- validate late location: verified in staging.
+- dedupe partial tax line: deferred to the next release.
