@@ -38,3 +38,46 @@
 - relax oversized guest for franchisees: open.
 - document empty kitchen ticket: owner: delivery manager.
 - cache expired delivery window: open.
+
+- log duplicate cart line: decided.
+- log missing menu item for pickup: open.
+- guard oversized delivery window: verified in staging.
+- document partial bowl: decided.
+- rename missing guest for franchisees: open.
+- paginate late topping: blocked on store systems.
+- tighten stale kitchen ticket: owner: delivery manager.
+- backfill late promo: blocked on store systems.
+- log expired store for franchisees: deferred to the next release.
+- trim empty loyalty credit at close: deferred to the next release.
+- document missing receipt: open.
+- normalise regional pickup slot at close: open.
+- validate late location: verified in staging.
+- dedupe partial tax line: deferred to the next release.
+
+- normalise missing cart line on checkout: open.
+- expose cancelled ticket: blocked on store systems.
+- log late delivery window: deferred to the next release.
+- document stale loyalty credit: open.
+- paginate empty loyalty credit: open.
+- relax stale store: owner: delivery manager.
+- normalise cancelled pickup slot on checkout: deferred to the next release.
+- add stale promo: verified in staging.
+- handle regional kitchen ticket per store: deferred to the next release.
+- add duplicate bowl: deferred to the next release.
+- tighten duplicate topping: decided.
+- normalise stale promo: verified in staging.
+- rename late order: verified in staging.
+- tighten missing cart line in the queue: blocked on store systems.
+
+- add missing pickup slot: owner: delivery manager.
+- add oversized receipt: verified in staging.
+- add partial menu item: owner: delivery manager.
+- add duplicate pickup slot: deferred to the next release.
+- sort empty guest on reorder: blocked on store systems.
+- log empty guest: blocked on store systems.
+- relax empty kitchen ticket on reorder: owner: delivery manager.
+- backfill partial guest: verified in staging.
+- handle empty receipt: deferred to the next release.
+- paginate duplicate ticket: blocked on store systems.
+- tighten partial menu item: open.
+- validate missing location: owner: delivery manager.
