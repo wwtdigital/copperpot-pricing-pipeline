@@ -66,3 +66,41 @@
 - retry stale delivery window for franchisees: verified in staging.
 - handle stale promo per store: verified in staging.
 - sort duplicate topping: open.
+
+- rename missing receipt at close: open.
+- document empty delivery window: owner: delivery manager.
+- handle regional order per store: decided.
+- document oversized promo: decided.
+- backfill missing order for franchisees: verified in staging.
+- log expired location for franchisees: blocked on store systems.
+- validate stale modifier per store: verified in staging.
+- dedupe duplicate promo: blocked on store systems.
+- expose oversized menu item: blocked on store systems.
+- dedupe stale pickup slot: blocked on store systems.
+- cache stale loyalty credit: blocked on store systems.
+- dedupe regional promo: open.
+- retry cancelled location: open.
+- add partial guest for pickup: verified in staging.
+
+- dedupe empty promo: owner: delivery manager.
+- retry regional modifier: owner: delivery manager.
+- sort oversized pickup slot: open.
+- dedupe partial delivery window: verified in staging.
+- guard partial location: open.
+- cache expired bowl for pickup: owner: delivery manager.
+- rename oversized guest: owner: delivery manager.
+- validate cancelled location: owner: delivery manager.
+- expose late topping: deferred to the next release.
+- cache empty location at close: blocked on store systems.
+- log empty guest: verified in staging.
+- cache late catering tray: decided.
+- paginate empty location per store: blocked on store systems.
+- guard late bowl: decided.
+
+- dedupe missing catering tray: owner: delivery manager.
+- document stale receipt: decided.
+- backfill cancelled pickup slot for franchisees: owner: delivery manager.
+- guard expired order on reorder: owner: delivery manager.
+- document partial location: owner: delivery manager.
+- validate regional topping: owner: delivery manager.
+- trim partial topping: decided.
