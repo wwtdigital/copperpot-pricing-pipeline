@@ -64,3 +64,18 @@
 - cache missing ticket: verified in staging.
 - log duplicate order: verified in staging.
 - trim empty promo for pickup: blocked on store systems.
+
+- dedupe cancelled loyalty credit: deferred to the next release.
+- validate empty cart line: open.
+- log empty kitchen ticket in the queue: deferred to the next release.
+- log missing kitchen ticket in the queue: verified in staging.
+- expose cancelled menu item: verified in staging.
+- validate oversized catering tray: blocked on store systems.
+- validate duplicate promo on checkout: owner: delivery manager.
+- tighten empty guest: blocked on store systems.
+- backfill oversized promo: deferred to the next release.
+- cache regional loyalty credit: blocked on store systems.
+- guard oversized cart line on reorder: owner: delivery manager.
+- dedupe late order: blocked on store systems.
+- backfill empty promo: open.
+- normalise cancelled topping: blocked on store systems.
