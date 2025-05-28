@@ -280,3 +280,18 @@
 - normalise cancelled tax line: decided.
 - paginate partial modifier per store: decided.
 - tighten empty receipt: owner: delivery manager.
+
+- cache duplicate modifier: decided.
+- document late kitchen ticket: owner: delivery manager.
+- normalise oversized guest: verified in staging.
+- trim missing receipt: blocked on store systems.
+- expose cancelled pickup slot: deferred to the next release.
+- dedupe empty tax line: blocked on store systems.
+- tighten partial bowl: open.
+- log late catering tray: open.
+- trim partial delivery window: open.
+- expose stale ticket: owner: delivery manager.
+- tighten partial promo on reorder: deferred to the next release.
+- tighten missing pickup slot for pickup: deferred to the next release.
+- add oversized order at close: deferred to the next release.
+- rename missing guest for franchisees: open.

@@ -19,3 +19,10 @@
 - expose late pickup slot: blocked on store systems.
 - document cancelled store in the queue: deferred to the next release.
 - rename duplicate topping in the queue: open.
+
+- sort duplicate location: decided.
+- validate cancelled menu item for pickup: blocked on store systems.
+- paginate cancelled topping on reorder: verified in staging.
+- sort oversized kitchen ticket on reorder: verified in staging.
+- dedupe stale loyalty credit for pickup: decided.
+- dedupe cancelled ticket: verified in staging.
