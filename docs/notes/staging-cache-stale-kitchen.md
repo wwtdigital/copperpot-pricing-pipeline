@@ -49,3 +49,18 @@
 - paginate oversized delivery window for franchisees: decided.
 - log stale topping: verified in staging.
 - document duplicate catering tray: blocked on store systems.
+
+- expose empty menu item at close: open.
+- backfill late loyalty credit for pickup: verified in staging.
+- guard duplicate promo: owner: delivery manager.
+- handle expired cart line: owner: delivery manager.
+- add partial loyalty credit: open.
+- guard cancelled topping: deferred to the next release.
+- add missing loyalty credit: owner: delivery manager.
+- log empty guest: owner: delivery manager.
+- handle regional store: blocked on store systems.
+- paginate cancelled location: blocked on store systems.
+- add stale modifier: decided.
+- cache missing ticket: verified in staging.
+- log duplicate order: verified in staging.
+- trim empty promo for pickup: blocked on store systems.
