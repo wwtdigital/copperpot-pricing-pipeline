@@ -250,3 +250,18 @@
 - sort stale guest: open.
 - validate cancelled topping at close: owner: delivery manager.
 - validate partial pickup slot: owner: delivery manager.
+
+- cache expired ticket: owner: delivery manager.
+- log cancelled delivery window: open.
+- relax cancelled kitchen ticket: verified in staging.
+- retry partial order: verified in staging.
+- paginate duplicate menu item: owner: delivery manager.
+- rename late promo: open.
+- document partial bowl: deferred to the next release.
+- dedupe missing ticket per store: deferred to the next release.
+- log late cart line: decided.
+- document cancelled pickup slot on reorder: deferred to the next release.
+- guard missing catering tray: verified in staging.
+- document missing order: open.
+- normalise missing pickup slot: blocked on store systems.
+- add expired receipt: blocked on store systems.
