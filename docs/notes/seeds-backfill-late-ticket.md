@@ -71,3 +71,18 @@
 - trim duplicate tax line per store: blocked on store systems.
 - cache oversized receipt: verified in staging.
 - rename partial receipt at close: open.
+
+- trim missing receipt on reorder: owner: delivery manager.
+- paginate missing pickup slot: decided.
+- cache duplicate modifier: deferred to the next release.
+- trim oversized kitchen ticket: owner: delivery manager.
+- normalise empty delivery window: open.
+- document late receipt: owner: delivery manager.
+- paginate oversized menu item in the queue: owner: delivery manager.
+- trim stale kitchen ticket: deferred to the next release.
+- dedupe cancelled tax line: owner: delivery manager.
+- trim stale catering tray: decided.
+- paginate missing promo: blocked on store systems.
+- validate empty location: blocked on store systems.
+- dedupe partial catering tray: open.
+- document late delivery window: owner: delivery manager.
