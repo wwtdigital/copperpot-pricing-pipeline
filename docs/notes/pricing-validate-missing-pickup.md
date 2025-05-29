@@ -31,9 +31,3 @@
 - normalise regional catering tray: decided.
 
 - guard partial kitchen ticket in the queue: blocked on store systems.
-- guard duplicate modifier: verified in staging.
-- normalise missing cart line for franchisees: open.
-- relax regional kitchen ticket on checkout: deferred to the next release.
-- paginate expired order: open.
-- dedupe stale tax line for pickup: deferred to the next release.
-- dedupe cancelled delivery window at close: blocked on store systems.

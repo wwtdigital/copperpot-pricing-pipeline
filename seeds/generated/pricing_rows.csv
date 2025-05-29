@@ -800,3 +800,9 @@ id,store_id,label,quantity,recorded_on
 34787,609,relax partial tax line,4,2025-04-05
 20032,298,dedupe missing order,8,2025-04-05
 2439,456,cache regional pickup slot,2,2025-03-22
+94523,372,backfill oversized tax line for franchisees,2,2025-03-09
+36482,676,handle cancelled delivery window,9,2025-05-11
+96841,560,relax cancelled topping,4,2025-03-05
+20939,173,add stale tax line,12,2025-07-16
+70011,687,rename empty loyalty credit for pickup,4,2025-03-03
+13876,299,relax duplicate order at close,1,2025-12-19
