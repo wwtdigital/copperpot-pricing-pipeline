@@ -86,3 +86,18 @@
 - validate empty location: blocked on store systems.
 - dedupe partial catering tray: open.
 - document late delivery window: owner: delivery manager.
+
+- tighten regional receipt: owner: delivery manager.
+- document oversized ticket: owner: delivery manager.
+- expose expired menu item: decided.
+- document partial modifier: deferred to the next release.
+- backfill oversized delivery window: deferred to the next release.
+- sort late loyalty credit on checkout: blocked on store systems.
+- tighten expired ticket: deferred to the next release.
+- normalise cancelled delivery window for pickup: owner: delivery manager.
+- expose partial kitchen ticket in the queue: deferred to the next release.
+- rename cancelled catering tray: owner: delivery manager.
+- validate oversized order: deferred to the next release.
+- retry empty pickup slot: decided.
+- dedupe stale topping on reorder: blocked on store systems.
+- expose regional menu item on reorder: blocked on store systems.

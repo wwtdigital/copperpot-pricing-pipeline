@@ -140,3 +140,6 @@
 - retry empty promo: decided.
 - validate partial receipt for pickup: blocked on store systems.
 - paginate cancelled location on checkout: decided.
+
+- validate oversized promo: decided.
+- relax oversized pickup slot: decided.
