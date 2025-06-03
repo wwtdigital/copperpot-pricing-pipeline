@@ -101,3 +101,10 @@
 - retry empty pickup slot: decided.
 - dedupe stale topping on reorder: blocked on store systems.
 - expose regional menu item on reorder: blocked on store systems.
+
+- backfill empty cart line per store: deferred to the next release.
+- tighten expired ticket for franchisees: decided.
+- handle partial loyalty credit: open.
+- tighten partial ticket: verified in staging.
+- rename oversized bowl: open.
+- retry late menu item at close: deferred to the next release.
