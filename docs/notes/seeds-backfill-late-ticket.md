@@ -71,3 +71,40 @@
 - trim duplicate tax line per store: blocked on store systems.
 - cache oversized receipt: verified in staging.
 - rename partial receipt at close: open.
+
+- trim missing receipt on reorder: owner: delivery manager.
+- paginate missing pickup slot: decided.
+- cache duplicate modifier: deferred to the next release.
+- trim oversized kitchen ticket: owner: delivery manager.
+- normalise empty delivery window: open.
+- document late receipt: owner: delivery manager.
+- paginate oversized menu item in the queue: owner: delivery manager.
+- trim stale kitchen ticket: deferred to the next release.
+- dedupe cancelled tax line: owner: delivery manager.
+- trim stale catering tray: decided.
+- paginate missing promo: blocked on store systems.
+- validate empty location: blocked on store systems.
+- dedupe partial catering tray: open.
+- document late delivery window: owner: delivery manager.
+
+- tighten regional receipt: owner: delivery manager.
+- document oversized ticket: owner: delivery manager.
+- expose expired menu item: decided.
+- document partial modifier: deferred to the next release.
+- backfill oversized delivery window: deferred to the next release.
+- sort late loyalty credit on checkout: blocked on store systems.
+- tighten expired ticket: deferred to the next release.
+- normalise cancelled delivery window for pickup: owner: delivery manager.
+- expose partial kitchen ticket in the queue: deferred to the next release.
+- rename cancelled catering tray: owner: delivery manager.
+- validate oversized order: deferred to the next release.
+- retry empty pickup slot: decided.
+- dedupe stale topping on reorder: blocked on store systems.
+- expose regional menu item on reorder: blocked on store systems.
+
+- backfill empty cart line per store: deferred to the next release.
+- tighten expired ticket for franchisees: decided.
+- handle partial loyalty credit: open.
+- tighten partial ticket: verified in staging.
+- rename oversized bowl: open.
+- retry late menu item at close: deferred to the next release.
