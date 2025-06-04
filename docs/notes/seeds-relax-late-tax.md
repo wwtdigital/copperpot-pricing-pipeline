@@ -143,3 +143,33 @@
 
 - validate oversized promo: decided.
 - relax oversized pickup slot: decided.
+
+- guard late kitchen ticket per store: decided.
+- document cancelled cart line: open.
+- log late location for franchisees: deferred to the next release.
+- log cancelled promo: open.
+- trim regional tax line per store: decided.
+- retry missing ticket: verified in staging.
+- expose regional store in the queue: decided.
+- paginate late store: deferred to the next release.
+- sort oversized order: decided.
+- cache expired bowl: owner: delivery manager.
+- backfill duplicate guest: blocked on store systems.
+- dedupe cancelled receipt: owner: delivery manager.
+- dedupe empty promo: open.
+- normalise regional kitchen ticket on reorder: owner: delivery manager.
+
+- guard late delivery window for franchisees: owner: delivery manager.
+- add missing tax line: owner: delivery manager.
+- normalise partial loyalty credit on checkout: open.
+- guard cancelled tax line: open.
+- log missing promo: open.
+- dedupe expired ticket per store: open.
+- handle cancelled location: owner: delivery manager.
+- backfill empty tax line: open.
+- relax late cart line for franchisees: verified in staging.
+- add late order at close: decided.
+- handle regional kitchen ticket: deferred to the next release.
+- guard expired receipt for pickup: blocked on store systems.
+- cache late modifier: open.
+- paginate oversized catering tray: verified in staging.
