@@ -11,6 +11,7 @@ One page on what the pipeline builds and what the tests cover. The lineage is se
 | `pricing_tiers` | tier name and multiplier in basis points | pricing committee |
 | `promotions` | code, item, discount in cents, region or `all`, start and end dates | marketing |
 | `price_calendar` | the days a price book is cut for | this team |
+| `store_tier_overrides` | stores priced off a different tier than the export says, with the reason | pricing committee |
 
 ## Marts
 

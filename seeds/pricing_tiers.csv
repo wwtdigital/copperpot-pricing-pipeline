@@ -2,3 +2,4 @@ pricing_tier,multiplier_bps,description
 standard,10000,Base menu price
 metro,10800,Dense urban markets with higher occupancy cost
 airport,11500,Concession agreements in airport terminals
+stadium,12000,Arena and stadium concessions
