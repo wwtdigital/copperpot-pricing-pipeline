@@ -143,3 +143,18 @@
 
 - validate oversized promo: decided.
 - relax oversized pickup slot: decided.
+
+- guard late kitchen ticket per store: decided.
+- document cancelled cart line: open.
+- log late location for franchisees: deferred to the next release.
+- log cancelled promo: open.
+- trim regional tax line per store: decided.
+- retry missing ticket: verified in staging.
+- expose regional store in the queue: decided.
+- paginate late store: deferred to the next release.
+- sort oversized order: decided.
+- cache expired bowl: owner: delivery manager.
+- backfill duplicate guest: blocked on store systems.
+- dedupe cancelled receipt: owner: delivery manager.
+- dedupe empty promo: open.
+- normalise regional kitchen ticket on reorder: owner: delivery manager.
