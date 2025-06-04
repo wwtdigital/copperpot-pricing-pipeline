@@ -12,7 +12,7 @@ models:
         data_tests:
           - accepted_values:
               arguments:
-                values: ['standard', 'metro', 'airport']
+                values: ['standard', 'metro', 'airport', 'stadium']
 
   - name: stg_menu_items
     description: The menu as merchandising maintains it, active and retired items alike.
@@ -47,3 +47,16 @@ models:
         data_tests:
           - unique
           - not_null
+
+  - name: stg_store_tier_overrides
+    description: Stores priced off a tier other than the one in the store export, with the reason.
+    columns:
+      - name: store_id
+        data_tests:
+          - unique
+          - not_null
+      - name: override_tier
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['standard', 'metro', 'airport', 'stadium']
