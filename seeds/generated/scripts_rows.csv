@@ -105,3 +105,4 @@ id,store_id,label,quantity,recorded_on
 22409,671,sort cancelled delivery window,6,2025-12-01
 62911,146,guard empty bowl,5,2025-12-07
 17142,519,handle partial topping on checkout,12,2025-05-06
+23383,616,dedupe stale topping at close,2,2025-01-17
