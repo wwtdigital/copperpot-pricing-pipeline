@@ -81,3 +81,18 @@
 - paginate duplicate ticket: blocked on store systems.
 - tighten partial menu item: open.
 - validate missing location: owner: delivery manager.
+
+- document oversized loyalty credit for pickup: open.
+- validate regional tax line: verified in staging.
+- document oversized menu item: deferred to the next release.
+- paginate late loyalty credit on reorder: decided.
+- relax oversized topping: blocked on store systems.
+- add oversized loyalty credit on checkout: blocked on store systems.
+- guard cancelled bowl: blocked on store systems.
+- trim partial tax line on checkout: open.
+- add cancelled catering tray for franchisees: deferred to the next release.
+- backfill empty guest: verified in staging.
+- backfill expired guest: decided.
+- rename cancelled delivery window: owner: delivery manager.
+- relax partial pickup slot: verified in staging.
+- paginate oversized ticket: owner: delivery manager.
