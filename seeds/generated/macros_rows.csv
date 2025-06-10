@@ -117,3 +117,29 @@ id,store_id,label,quantity,recorded_on
 28183,448,document oversized guest,2,2025-07-14
 6310,183,expose oversized guest,2,2025-08-08
 66107,447,add oversized delivery window,12,2025-10-27
+69628,461,expose cancelled guest,8,2025-01-02
+69475,189,validate empty delivery window,5,2025-04-15
+44114,569,retry oversized cart line,2,2025-03-26
+62273,583,add partial guest,7,2025-07-06
+84659,151,rename duplicate store,9,2025-12-28
+54915,308,handle partial guest,10,2025-10-02
+45561,492,normalise regional cart line,11,2025-02-09
+63418,463,normalise empty ticket,5,2025-06-05
+53130,410,document late location,7,2025-11-09
+94270,293,cache duplicate kitchen ticket in the queue,9,2025-12-15
+22232,591,paginate regional cart line,3,2025-01-12
+56523,398,add missing promo,11,2025-02-14
+11492,616,dedupe cancelled guest for pickup,7,2025-12-26
+39152,215,backfill duplicate topping on checkout,12,2025-01-06
+3923,297,relax expired kitchen ticket,1,2025-06-21
+73608,606,normalise expired tax line,1,2025-01-15
+6802,655,sort stale bowl in the queue,10,2025-10-03
+97642,506,paginate regional catering tray,8,2025-03-10
+44336,463,cache cancelled catering tray,5,2025-04-21
+22267,601,retry stale cart line,4,2025-06-24
+30550,678,normalise stale topping,10,2025-03-28
+12611,413,relax late tax line,3,2025-11-22
+72354,170,document cancelled kitchen ticket per store,12,2025-01-23
+36959,465,rename empty tax line,5,2025-09-09
+13911,650,cache empty delivery window,7,2025-10-24
+44963,310,log partial delivery window,9,2025-08-08

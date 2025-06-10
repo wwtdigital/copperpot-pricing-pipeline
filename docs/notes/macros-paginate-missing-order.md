@@ -29,3 +29,33 @@
 - relax expired catering tray: decided.
 - paginate late ticket at close: blocked on store systems.
 - tighten missing menu item: owner: delivery manager.
+
+- guard empty promo in the queue: blocked on store systems.
+- validate expired catering tray: deferred to the next release.
+- log cancelled ticket: owner: delivery manager.
+- log duplicate cart line: blocked on store systems.
+- expose duplicate store in the queue: decided.
+- sort duplicate menu item: blocked on store systems.
+- expose cancelled kitchen ticket for franchisees: deferred to the next release.
+- relax regional tax line: owner: delivery manager.
+- log empty order in the queue: blocked on store systems.
+- validate expired location: owner: delivery manager.
+- relax expired cart line at close: open.
+- tighten stale loyalty credit per store: blocked on store systems.
+- tighten duplicate promo: open.
+- relax regional guest for pickup: open.
+
+- normalise expired store for pickup: owner: delivery manager.
+- tighten late delivery window: deferred to the next release.
+- validate stale cart line: owner: delivery manager.
+- normalise duplicate ticket: deferred to the next release.
+- rename partial promo for pickup: blocked on store systems.
+- tighten cancelled bowl: open.
+- expose duplicate store: decided.
+- document duplicate bowl per store: blocked on store systems.
+- normalise late tax line: decided.
+- backfill expired promo: blocked on store systems.
+- sort regional order for franchisees: open.
+- tighten regional promo at close: open.
+- paginate expired store on checkout: deferred to the next release.
+- trim oversized order per store: decided.
