@@ -134,3 +134,12 @@ id,store_id,label,quantity,recorded_on
 3923,297,relax expired kitchen ticket,1,2025-06-21
 73608,606,normalise expired tax line,1,2025-01-15
 6802,655,sort stale bowl in the queue,10,2025-10-03
+97642,506,paginate regional catering tray,8,2025-03-10
+44336,463,cache cancelled catering tray,5,2025-04-21
+22267,601,retry stale cart line,4,2025-06-24
+30550,678,normalise stale topping,10,2025-03-28
+12611,413,relax late tax line,3,2025-11-22
+72354,170,document cancelled kitchen ticket per store,12,2025-01-23
+36959,465,rename empty tax line,5,2025-09-09
+13911,650,cache empty delivery window,7,2025-10-24
+44963,310,log partial delivery window,9,2025-08-08
