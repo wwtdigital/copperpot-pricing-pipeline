@@ -106,3 +106,20 @@ id,store_id,label,quantity,recorded_on
 62911,146,guard empty bowl,5,2025-12-07
 17142,519,handle partial topping on checkout,12,2025-05-06
 23383,616,dedupe stale topping at close,2,2025-01-17
+84370,687,sort stale guest,7,2025-07-17
+71800,231,trim regional tax line,6,2025-07-03
+92509,276,guard cancelled receipt,4,2025-07-04
+55494,174,guard stale guest per store,12,2025-03-24
+95914,221,paginate cancelled catering tray,6,2025-06-03
+23808,546,log oversized menu item per store,3,2025-08-11
+85548,481,relax expired store,1,2025-07-23
+79439,457,sort missing menu item in the queue,4,2025-10-09
+13097,548,backfill partial modifier,12,2025-07-02
+61348,409,validate expired store,11,2025-07-15
+62380,188,handle duplicate promo for pickup,1,2025-02-10
+44597,139,log oversized cart line on reorder,2,2025-01-12
+63444,143,expose regional delivery window,7,2025-07-18
+45790,334,paginate missing kitchen ticket,2,2025-12-03
+28367,655,expose partial cart line on reorder,5,2025-02-22
+24133,490,add late store,4,2025-04-20
+37148,470,normalise duplicate topping,11,2025-02-17
