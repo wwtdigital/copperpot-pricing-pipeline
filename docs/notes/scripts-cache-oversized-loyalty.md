@@ -203,3 +203,16 @@
 - validate duplicate pickup slot at close: open.
 - normalise duplicate promo on checkout: deferred to the next release.
 - validate duplicate ticket on checkout: blocked on store systems.
+
+- rename regional cart line on reorder: open.
+- guard duplicate bowl: deferred to the next release.
+- handle empty receipt on reorder: blocked on store systems.
+- backfill missing order: decided.
+- log partial kitchen ticket at close: blocked on store systems.
+- validate cancelled ticket on reorder: verified in staging.
+- paginate expired ticket for franchisees: owner: delivery manager.
+- cache oversized menu item: open.
+- cache regional promo: owner: delivery manager.
+- rename cancelled pickup slot on checkout: decided.
+- guard partial store for franchisees: deferred to the next release.
+- tighten cancelled delivery window: deferred to the next release.
