@@ -870,3 +870,26 @@ id,store_id,label,quantity,recorded_on
 2223,251,document partial order,7,2025-10-09
 94954,431,handle oversized location,4,2025-06-11
 34601,439,backfill duplicate menu item,12,2025-09-01
+61246,199,handle late modifier in the queue,3,2025-01-20
+73467,505,sort stale guest per store,1,2025-01-23
+10887,176,add empty guest,4,2025-04-14
+17381,480,handle late order,11,2025-07-11
+74879,191,expose duplicate store,4,2025-05-13
+58140,490,dedupe oversized ticket,9,2025-04-06
+56200,325,document stale receipt,10,2025-06-20
+95760,179,add expired bowl,3,2025-07-17
+98855,553,add expired pickup slot for franchisees,8,2025-12-04
+16716,109,log partial location on checkout,2,2025-06-10
+52269,352,guard cancelled kitchen ticket for pickup,12,2025-01-25
+58434,321,paginate regional bowl,6,2025-04-24
+83510,409,guard stale menu item for pickup,10,2025-02-18
+68547,234,rename late kitchen ticket,6,2025-12-28
+60534,333,document partial order,2,2025-12-23
+67065,668,guard stale store for pickup,2,2025-01-06
+95436,538,cache empty topping,1,2025-05-10
+89146,196,rename regional modifier,10,2025-10-09
+56329,155,add stale modifier for franchisees,9,2025-10-24
+40843,374,rename cancelled pickup slot,2,2025-12-11
+28986,562,backfill oversized modifier,10,2025-03-19
+68583,156,rename stale guest,9,2025-03-17
+53691,587,document expired topping,8,2025-08-20
