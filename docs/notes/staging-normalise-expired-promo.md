@@ -295,3 +295,18 @@
 - tighten missing pickup slot for pickup: deferred to the next release.
 - add oversized order at close: deferred to the next release.
 - rename missing guest for franchisees: open.
+
+- relax expired cart line: verified in staging.
+- trim late guest for pickup: decided.
+- sort partial topping: owner: delivery manager.
+- dedupe missing tax line: owner: delivery manager.
+- tighten empty bowl at close: decided.
+- paginate duplicate menu item: open.
+- rename cancelled topping per store: open.
+- guard empty order: deferred to the next release.
+- tighten cancelled guest: owner: delivery manager.
+- validate stale bowl on checkout: verified in staging.
+- trim oversized catering tray: verified in staging.
+- backfill late menu item: blocked on store systems.
+- document late store: open.
+- backfill late loyalty credit: deferred to the next release.
