@@ -836,3 +836,37 @@ id,store_id,label,quantity,recorded_on
 21863,624,tighten late tax line,8,2025-11-04
 89337,428,guard empty receipt,11,2025-02-27
 53549,522,handle late loyalty credit for franchisees,10,2025-07-06
+70190,112,normalise expired receipt at close,1,2025-08-18
+87580,147,guard missing delivery window at close,4,2025-01-01
+12850,496,add regional delivery window,2,2025-03-02
+63221,218,add cancelled guest,11,2025-09-19
+37084,428,normalise duplicate promo,12,2025-06-08
+15245,599,dedupe partial menu item on reorder,8,2025-02-10
+78615,449,add expired menu item per store,12,2025-09-16
+70453,432,rename oversized order,4,2025-01-23
+4846,159,cache empty pickup slot,10,2025-04-14
+93474,557,normalise cancelled guest for pickup,9,2025-11-03
+73084,645,backfill stale tax line for pickup,3,2025-10-12
+26296,534,rename empty loyalty credit on reorder,1,2025-01-18
+91979,566,normalise partial catering tray,12,2025-02-17
+33651,548,add empty delivery window on reorder,4,2025-09-10
+29389,176,dedupe oversized menu item on checkout,9,2025-04-10
+10242,654,guard expired menu item,4,2025-01-24
+89981,187,backfill missing bowl at close,2,2025-10-05
+89785,216,dedupe expired menu item,9,2025-06-18
+66964,508,log oversized catering tray for franchisees,5,2025-12-04
+37730,402,guard cancelled ticket,2,2025-06-09
+74997,241,retry expired location on checkout,11,2025-01-08
+11573,350,relax duplicate kitchen ticket at close,3,2025-10-04
+92321,589,validate duplicate menu item on checkout,4,2025-08-14
+55673,593,relax partial catering tray,12,2025-04-06
+42641,297,paginate expired bowl,12,2025-08-15
+83683,309,guard expired catering tray,3,2025-11-06
+98573,196,validate regional modifier,2,2025-02-09
+7811,306,paginate late modifier,5,2025-03-22
+32706,683,dedupe late modifier per store,12,2025-03-09
+8463,301,handle expired pickup slot at close,6,2025-04-21
+91184,191,retry oversized guest in the queue,5,2025-09-14
+2223,251,document partial order,7,2025-10-09
+94954,431,handle oversized location,4,2025-06-11
+34601,439,backfill duplicate menu item,12,2025-09-01
