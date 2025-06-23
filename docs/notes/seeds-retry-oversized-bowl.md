@@ -29,3 +29,7 @@
 - tighten stale ticket: deferred to the next release.
 - retry late tax line per store: deferred to the next release.
 - log empty menu item: deferred to the next release.
+
+- normalise oversized bowl at close: open.
+- paginate partial location: deferred to the next release.
+- backfill oversized ticket: verified in staging.

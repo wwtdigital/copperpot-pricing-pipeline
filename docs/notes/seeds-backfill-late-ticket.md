@@ -108,3 +108,18 @@
 - tighten partial ticket: verified in staging.
 - rename oversized bowl: open.
 - retry late menu item at close: deferred to the next release.
+
+- validate duplicate location: verified in staging.
+- trim empty tax line: verified in staging.
+- sort oversized loyalty credit: owner: delivery manager.
+- normalise expired loyalty credit: verified in staging.
+- normalise late loyalty credit: deferred to the next release.
+- normalise duplicate order: blocked on store systems.
+- sort oversized ticket on checkout: open.
+- backfill partial bowl per store: verified in staging.
+- trim stale loyalty credit: decided.
+- handle missing store: verified in staging.
+- tighten late receipt: blocked on store systems.
+- rename stale delivery window for pickup: blocked on store systems.
+- rename empty cart line at close: open.
+- log expired topping per store: open.
