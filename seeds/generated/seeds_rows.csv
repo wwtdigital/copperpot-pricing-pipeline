@@ -143,3 +143,26 @@ id,store_id,label,quantity,recorded_on
 63490,662,trim oversized kitchen ticket per store,3,2025-07-28
 78424,675,trim missing loyalty credit,3,2025-06-04
 92100,143,dedupe cancelled delivery window on checkout,6,2025-09-10
+94580,418,sort stale kitchen ticket,11,2025-11-27
+20306,136,retry partial pickup slot at close,10,2025-09-04
+34276,598,cache late menu item at close,3,2025-08-10
+10421,288,cache oversized guest,12,2025-10-27
+21486,283,backfill stale cart line on reorder,11,2025-10-16
+55839,368,log expired kitchen ticket,8,2025-02-28
+25587,578,rename oversized tax line,8,2025-01-08
+67938,657,add expired bowl on reorder,1,2025-01-22
+44249,288,log late delivery window,3,2025-01-23
+71773,451,document oversized pickup slot,5,2025-03-24
+89119,315,relax regional guest,1,2025-11-22
+24079,242,paginate expired bowl for pickup,11,2025-03-28
+80331,183,document cancelled kitchen ticket for pickup,6,2025-07-04
+22220,252,cache partial loyalty credit on reorder,2,2025-02-23
+18512,484,expose late delivery window,9,2025-10-13
+52419,586,validate stale modifier for franchisees,12,2025-12-02
+98302,693,log duplicate loyalty credit,5,2025-02-27
+56042,116,sort oversized loyalty credit,6,2025-10-25
+46324,112,log empty location,8,2025-11-28
+4366,326,dedupe oversized guest in the queue,10,2025-08-22
+2120,617,retry missing receipt,2,2025-03-15
+68104,663,backfill missing bowl per store,7,2025-08-16
+70068,199,trim cancelled modifier,1,2025-07-28

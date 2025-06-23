@@ -173,3 +173,18 @@
 - guard expired receipt for pickup: blocked on store systems.
 - cache late modifier: open.
 - paginate oversized catering tray: verified in staging.
+
+- sort oversized catering tray: blocked on store systems.
+- guard oversized location per store: open.
+- document regional pickup slot in the queue: blocked on store systems.
+- paginate missing kitchen ticket: owner: delivery manager.
+- retry duplicate guest in the queue: open.
+- validate late pickup slot: verified in staging.
+- rename cancelled guest: deferred to the next release.
+- relax stale location: verified in staging.
+- guard cancelled bowl: decided.
+- expose cancelled catering tray: verified in staging.
+- validate stale kitchen ticket for pickup: blocked on store systems.
+- dedupe late store: open.
+- document duplicate store: verified in staging.
+- cache stale kitchen ticket: blocked on store systems.
