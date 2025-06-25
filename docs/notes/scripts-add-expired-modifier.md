@@ -270,3 +270,18 @@
 - cache empty delivery window: deferred to the next release.
 - retry empty location at close: verified in staging.
 - normalise oversized store: decided.
+
+- cache regional menu item: decided.
+- dedupe cancelled cart line: blocked on store systems.
+- tighten cancelled tax line: blocked on store systems.
+- normalise stale store: verified in staging.
+- add missing location: blocked on store systems.
+- log cancelled tax line: decided.
+- paginate partial modifier: open.
+- cache partial catering tray in the queue: decided.
+- document cancelled location: decided.
+- guard missing delivery window: owner: delivery manager.
+- trim cancelled loyalty credit: owner: delivery manager.
+- expose empty ticket for pickup: verified in staging.
+- document stale cart line: blocked on store systems.
+- paginate late topping: deferred to the next release.
