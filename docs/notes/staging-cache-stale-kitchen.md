@@ -67,3 +67,18 @@
 
 - dedupe cancelled loyalty credit: deferred to the next release.
 - validate empty cart line: open.
+
+- document duplicate ticket in the queue: decided.
+- tighten empty location: blocked on store systems.
+- log oversized receipt: blocked on store systems.
+- validate missing loyalty credit per store: deferred to the next release.
+- log stale promo: verified in staging.
+- handle late kitchen ticket per store: owner: delivery manager.
+- handle partial promo: verified in staging.
+- tighten duplicate menu item on checkout: owner: delivery manager.
+- guard expired loyalty credit: blocked on store systems.
+- expose expired loyalty credit for franchisees: owner: delivery manager.
+- sort empty modifier in the queue: deferred to the next release.
+- document cancelled order: blocked on store systems.
+- backfill oversized guest on reorder: blocked on store systems.
+- dedupe oversized menu item: verified in staging.
