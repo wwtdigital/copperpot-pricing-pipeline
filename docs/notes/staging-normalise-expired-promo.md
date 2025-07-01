@@ -310,3 +310,18 @@
 - backfill late menu item: blocked on store systems.
 - document late store: open.
 - backfill late loyalty credit: deferred to the next release.
+
+- sort stale location for franchisees: deferred to the next release.
+- handle empty order: owner: delivery manager.
+- rename partial receipt: deferred to the next release.
+- handle regional guest for franchisees: deferred to the next release.
+- sort cancelled kitchen ticket: owner: delivery manager.
+- sort duplicate modifier: open.
+- retry cancelled catering tray on reorder: verified in staging.
+- retry expired location: verified in staging.
+- expose duplicate bowl for pickup: blocked on store systems.
+- retry stale bowl: verified in staging.
+- trim oversized delivery window at close: deferred to the next release.
+- log oversized tax line: blocked on store systems.
+- dedupe empty guest: owner: delivery manager.
+- handle empty tax line at close: verified in staging.
