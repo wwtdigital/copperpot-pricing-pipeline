@@ -95,3 +95,25 @@ id,store_id,label,quantity,recorded_on
 61762,649,cache cancelled modifier,11,2025-03-05
 51305,291,dedupe missing loyalty credit,1,2025-03-12
 78529,693,log expired delivery window on checkout,10,2025-07-11
+53876,426,cache regional delivery window,2,2025-11-26
+33888,298,backfill late loyalty credit,5,2025-11-08
+68477,361,sort stale modifier,5,2025-09-12
+3490,531,trim cancelled catering tray,6,2025-04-12
+59977,102,log missing guest,11,2025-07-15
+70585,451,handle cancelled guest,11,2025-10-05
+23183,414,trim cancelled catering tray,3,2025-10-04
+98585,237,cache expired catering tray,5,2025-04-07
+67611,669,paginate oversized topping,5,2025-11-14
+6349,429,handle late tax line per store,4,2025-02-27
+91294,297,document empty order,7,2025-11-08
+89783,285,document missing guest,3,2025-09-21
+80999,335,add oversized ticket,6,2025-06-20
+19751,378,document missing pickup slot at close,10,2025-05-04
+73607,696,document late store for pickup,5,2025-08-18
+58794,659,cache late location,6,2025-01-15
+60371,242,cache partial store,4,2025-02-09
+6130,349,cache late menu item,4,2025-09-26
+7970,405,validate stale tax line,7,2025-09-07
+80254,149,trim missing promo,6,2025-07-03
+40061,273,normalise oversized modifier,10,2025-04-04
+8154,642,backfill partial kitchen ticket,5,2025-04-11
