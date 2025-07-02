@@ -117,3 +117,14 @@ id,store_id,label,quantity,recorded_on
 80254,149,trim missing promo,6,2025-07-03
 40061,273,normalise oversized modifier,10,2025-04-04
 8154,642,backfill partial kitchen ticket,5,2025-04-11
+94279,448,guard late catering tray,4,2025-01-28
+61422,162,handle duplicate tax line per store,2,2025-10-01
+60842,283,guard stale catering tray,2,2025-02-14
+18716,471,cache expired kitchen ticket,6,2025-05-18
+96294,657,trim regional pickup slot on reorder,12,2025-07-14
+26753,132,guard late catering tray,7,2025-11-17
+16629,210,relax oversized guest on reorder,2,2025-01-08
+38688,530,sort regional location per store,2,2025-07-09
+84706,571,retry late modifier for franchisees,10,2025-11-18
+28336,539,trim missing modifier,3,2025-08-24
+59423,312,retry duplicate catering tray,7,2025-06-19
