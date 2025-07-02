@@ -17,3 +17,9 @@
 - normalise expired tax line on checkout: open.
 - expose oversized pickup slot for franchisees: blocked on store systems.
 - document missing receipt for franchisees: blocked on store systems.
+
+- cache duplicate promo: verified in staging.
+- document oversized tax line: decided.
+- log expired guest: owner: delivery manager.
+- guard oversized ticket: deferred to the next release.
+- relax late topping for pickup: owner: delivery manager.
