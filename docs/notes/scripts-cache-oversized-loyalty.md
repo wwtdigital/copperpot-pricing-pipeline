@@ -188,3 +188,5 @@
 - handle cancelled guest: blocked on store systems.
 - tighten oversized promo in the queue: deferred to the next release.
 - add regional menu item: deferred to the next release.
+
+- validate missing receipt for pickup: open.
