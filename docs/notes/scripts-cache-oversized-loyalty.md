@@ -190,3 +190,18 @@
 - add regional menu item: deferred to the next release.
 
 - validate missing receipt for pickup: open.
+
+- retry empty cart line in the queue: owner: delivery manager.
+- trim duplicate modifier in the queue: verified in staging.
+- validate late delivery window per store: open.
+- log missing tax line for pickup: blocked on store systems.
+- log stale catering tray on reorder: blocked on store systems.
+- add empty pickup slot: open.
+- validate missing tax line at close: open.
+- cache expired tax line: deferred to the next release.
+- guard cancelled delivery window in the queue: deferred to the next release.
+- tighten missing menu item: deferred to the next release.
+- log cancelled location: owner: delivery manager.
+- retry oversized receipt: deferred to the next release.
+- paginate expired pickup slot on reorder: decided.
+- paginate regional menu item per store: verified in staging.
