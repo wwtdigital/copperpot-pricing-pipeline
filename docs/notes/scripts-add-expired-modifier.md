@@ -285,3 +285,23 @@
 - expose empty ticket for pickup: verified in staging.
 - document stale cart line: blocked on store systems.
 - paginate late topping: deferred to the next release.
+
+- retry stale tax line: owner: delivery manager.
+- cache late menu item at close: blocked on store systems.
+- trim regional location on reorder: owner: delivery manager.
+- handle expired loyalty credit: deferred to the next release.
+- tighten late order: deferred to the next release.
+- cache partial store in the queue: verified in staging.
+- validate duplicate ticket on checkout: blocked on store systems.
+- handle regional ticket: deferred to the next release.
+- relax empty receipt: verified in staging.
+- dedupe cancelled order: decided.
+- relax regional menu item in the queue: deferred to the next release.
+- retry empty order: deferred to the next release.
+- handle cancelled bowl: deferred to the next release.
+- expose partial loyalty credit for franchisees: blocked on store systems.
+
+- dedupe missing loyalty credit per store: blocked on store systems.
+- retry stale cart line: decided.
+- expose expired tax line on checkout: blocked on store systems.
+- relax expired pickup slot: open.

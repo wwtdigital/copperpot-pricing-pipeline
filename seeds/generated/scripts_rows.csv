@@ -123,3 +123,43 @@ id,store_id,label,quantity,recorded_on
 28367,655,expose partial cart line on reorder,5,2025-02-22
 24133,490,add late store,4,2025-04-20
 37148,470,normalise duplicate topping,11,2025-02-17
+98543,541,dedupe cancelled store,8,2025-08-15
+92523,364,relax duplicate store in the queue,5,2025-04-14
+83771,347,sort expired guest,2,2025-12-07
+56127,383,rename late ticket,11,2025-09-12
+84827,280,guard oversized order on checkout,8,2025-02-26
+81896,682,normalise empty topping,4,2025-12-17
+92612,355,add expired pickup slot,9,2025-03-27
+73748,694,log partial promo,9,2025-12-03
+98666,673,expose missing topping,10,2025-08-21
+2307,511,dedupe stale tax line,11,2025-07-07
+48754,152,log expired ticket for franchisees,6,2025-04-21
+82266,225,normalise expired delivery window on reorder,8,2025-06-17
+24049,362,expose late menu item in the queue,4,2025-01-21
+99913,303,normalise regional tax line,5,2025-12-26
+70752,336,rename expired kitchen ticket,9,2025-01-07
+7400,578,handle missing pickup slot,11,2025-04-21
+59841,489,add missing topping,12,2025-03-27
+13884,414,trim empty pickup slot on checkout,1,2025-10-21
+73457,319,rename empty receipt,9,2025-06-17
+48888,619,normalise expired guest on checkout,3,2025-08-28
+92690,100,rename oversized tax line,9,2025-01-25
+44965,677,dedupe duplicate receipt for franchisees,6,2025-10-16
+54305,509,expose empty guest,12,2025-04-26
+67634,237,paginate partial ticket,8,2025-07-11
+49319,442,guard expired promo,4,2025-06-02
+20384,618,relax duplicate pickup slot,7,2025-12-10
+43453,222,log late tax line for pickup,12,2025-10-15
+74635,193,backfill missing order,2,2025-01-16
+90491,444,handle partial delivery window,7,2025-12-26
+58884,528,retry stale guest in the queue,7,2025-01-06
+93880,244,retry empty promo,7,2025-07-07
+4588,533,document duplicate store on checkout,12,2025-09-03
+52695,216,add partial pickup slot on checkout,12,2025-09-26
+74793,659,guard expired receipt,11,2025-04-20
+83804,353,guard expired receipt at close,5,2025-01-10
+70223,529,dedupe empty ticket for franchisees,10,2025-04-18
+56806,533,expose partial modifier at close,5,2025-08-24
+56275,497,document late loyalty credit for franchisees,9,2025-03-13
+85929,501,document stale cart line,1,2025-08-17
+96575,404,document partial delivery window,12,2025-04-12
