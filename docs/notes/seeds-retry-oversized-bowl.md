@@ -33,3 +33,33 @@
 - normalise oversized bowl at close: open.
 - paginate partial location: deferred to the next release.
 - backfill oversized ticket: verified in staging.
+
+- rename cancelled pickup slot for pickup: deferred to the next release.
+- document empty ticket: verified in staging.
+- normalise stale bowl: deferred to the next release.
+- document empty order: open.
+- relax partial ticket: blocked on store systems.
+- sort missing topping on reorder: verified in staging.
+- backfill regional receipt: deferred to the next release.
+- backfill cancelled store on reorder: verified in staging.
+- log partial catering tray: verified in staging.
+- log cancelled menu item: blocked on store systems.
+- sort empty receipt: open.
+- log late promo: deferred to the next release.
+- sort missing modifier: decided.
+- cache partial menu item on checkout: open.
+
+- handle missing ticket: verified in staging.
+- sort stale catering tray: verified in staging.
+- add regional pickup slot on reorder: verified in staging.
+- backfill regional pickup slot: blocked on store systems.
+- cache missing order in the queue: deferred to the next release.
+- log duplicate delivery window on checkout: blocked on store systems.
+- log late menu item: open.
+- add cancelled ticket for pickup: verified in staging.
+- expose missing topping: open.
+- backfill regional store: verified in staging.
+- validate late bowl: deferred to the next release.
+- retry stale promo for pickup: open.
+- sort stale modifier: decided.
+- normalise regional tax line: open.
