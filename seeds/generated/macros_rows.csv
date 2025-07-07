@@ -143,3 +143,16 @@ id,store_id,label,quantity,recorded_on
 36959,465,rename empty tax line,5,2025-09-09
 13911,650,cache empty delivery window,7,2025-10-24
 44963,310,log partial delivery window,9,2025-08-08
+12694,216,cache regional order,11,2025-06-27
+68290,446,validate stale topping,10,2025-11-24
+49132,250,paginate duplicate pickup slot,6,2025-05-22
+65056,532,document partial order,9,2025-01-05
+25288,693,sort partial location,5,2025-03-26
+41341,395,document cancelled kitchen ticket,8,2025-10-27
+1713,113,backfill stale modifier for pickup,11,2025-12-10
+67263,341,dedupe late kitchen ticket,10,2025-05-27
+48643,534,validate expired topping,6,2025-09-01
+54789,135,trim expired cart line,10,2025-11-19
+85035,190,dedupe duplicate location on checkout,4,2025-05-07
+79956,431,cache oversized location,4,2025-01-09
+44446,471,expose stale location,6,2025-12-24
