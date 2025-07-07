@@ -59,3 +59,16 @@
 - tighten regional promo at close: open.
 - paginate expired store on checkout: deferred to the next release.
 - trim oversized order per store: decided.
+
+- cache regional tax line: owner: delivery manager.
+- retry partial ticket: owner: delivery manager.
+- dedupe duplicate menu item: decided.
+- document duplicate order: decided.
+- retry late menu item: decided.
+- expose late guest per store: owner: delivery manager.
+- validate oversized guest: open.
+- document regional delivery window: verified in staging.
+- cache empty guest for pickup: verified in staging.
+- trim late cart line for franchisees: decided.
+- tighten missing cart line on reorder: decided.
+- paginate cancelled menu item: deferred to the next release.
