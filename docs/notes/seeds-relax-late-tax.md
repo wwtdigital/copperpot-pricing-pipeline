@@ -188,3 +188,18 @@
 - dedupe late store: open.
 - document duplicate store: verified in staging.
 - cache stale kitchen ticket: blocked on store systems.
+
+- relax empty kitchen ticket at close: deferred to the next release.
+- sort cancelled receipt: owner: delivery manager.
+- paginate missing bowl: blocked on store systems.
+- backfill missing loyalty credit: open.
+- validate partial catering tray per store: verified in staging.
+- relax expired location: verified in staging.
+- backfill empty order per store: open.
+- expose missing delivery window on reorder: verified in staging.
+- normalise missing promo in the queue: open.
+- normalise partial ticket: blocked on store systems.
+- paginate oversized menu item: open.
+- normalise empty receipt: blocked on store systems.
+- backfill regional ticket: decided.
+- handle late store: open.
