@@ -59,3 +59,46 @@
 - tighten regional promo at close: open.
 - paginate expired store on checkout: deferred to the next release.
 - trim oversized order per store: decided.
+
+- cache regional tax line: owner: delivery manager.
+- retry partial ticket: owner: delivery manager.
+- dedupe duplicate menu item: decided.
+- document duplicate order: decided.
+- retry late menu item: decided.
+- expose late guest per store: owner: delivery manager.
+- validate oversized guest: open.
+- document regional delivery window: verified in staging.
+- cache empty guest for pickup: verified in staging.
+- trim late cart line for franchisees: decided.
+- tighten missing cart line on reorder: decided.
+- paginate cancelled menu item: deferred to the next release.
+
+- rename stale modifier: decided.
+- trim late tax line: verified in staging.
+- retry stale loyalty credit: blocked on store systems.
+- add late order: owner: delivery manager.
+- rename late location for franchisees: blocked on store systems.
+- paginate regional cart line: verified in staging.
+- normalise empty receipt for pickup: open.
+- backfill missing receipt for franchisees: blocked on store systems.
+- normalise empty kitchen ticket in the queue: owner: delivery manager.
+- validate duplicate catering tray: verified in staging.
+- expose oversized kitchen ticket: deferred to the next release.
+- trim regional ticket: blocked on store systems.
+- add late guest: blocked on store systems.
+- retry partial menu item on checkout: verified in staging.
+
+- trim duplicate catering tray: open.
+- log partial menu item: decided.
+- rename oversized tax line on checkout: blocked on store systems.
+- dedupe late guest: verified in staging.
+- dedupe late location for franchisees: decided.
+- validate empty tax line: verified in staging.
+- normalise missing order: decided.
+- log regional loyalty credit for pickup: deferred to the next release.
+- sort partial tax line at close: owner: delivery manager.
+- trim cancelled delivery window: blocked on store systems.
+- retry oversized location: blocked on store systems.
+- relax oversized store: blocked on store systems.
+- rename cancelled guest: verified in staging.
+- expose stale promo: blocked on store systems.
