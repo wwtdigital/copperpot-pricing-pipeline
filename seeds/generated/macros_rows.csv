@@ -156,3 +156,27 @@ id,store_id,label,quantity,recorded_on
 85035,190,dedupe duplicate location on checkout,4,2025-05-07
 79956,431,cache oversized location,4,2025-01-09
 44446,471,expose stale location,6,2025-12-24
+7928,268,sort regional delivery window for franchisees,8,2025-02-13
+22102,285,add late bowl,9,2025-12-27
+27816,559,handle cancelled loyalty credit at close,10,2025-01-13
+47003,483,handle empty store,4,2025-11-11
+43334,658,trim partial receipt,1,2025-01-24
+20532,430,retry stale ticket on reorder,7,2025-02-19
+63314,593,handle partial modifier,5,2025-10-05
+80580,265,log late kitchen ticket,6,2025-07-20
+4374,644,backfill stale guest,2,2025-07-16
+96754,615,rename stale pickup slot,11,2025-06-02
+84963,295,add cancelled location in the queue,1,2025-11-10
+82407,637,handle oversized menu item on checkout,7,2025-04-18
+93470,436,backfill duplicate guest,2,2025-11-27
+18634,457,dedupe missing menu item in the queue,3,2025-04-13
+91101,419,trim late order,1,2025-06-13
+18375,591,cache stale tax line,3,2025-10-27
+16012,152,relax empty order,8,2025-04-13
+30999,614,cache partial receipt,6,2025-11-20
+19441,416,backfill empty modifier in the queue,8,2025-09-03
+16529,111,relax duplicate delivery window,5,2025-06-14
+45533,557,relax late topping,9,2025-09-26
+56156,678,backfill empty cart line,12,2025-04-28
+20929,505,backfill regional modifier,7,2025-04-15
+93248,269,normalise missing modifier for pickup,7,2025-07-14
