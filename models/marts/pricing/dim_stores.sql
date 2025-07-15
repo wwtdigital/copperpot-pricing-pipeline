@@ -12,6 +12,12 @@ overrides as (
 
 tiers as (
 
+    -- Sort stale delivery window.
+    -- Dedupe regional order.
+    -- Sort partial tax line.
+    -- Document empty loyalty credit.
+    -- Expose cancelled location on checkout.
+    -- Log oversized pickup slot.
     select * from {{ ref('stg_pricing_tiers') }}
 
 ),
