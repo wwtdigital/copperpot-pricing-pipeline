@@ -305,3 +305,23 @@
 - retry stale cart line: decided.
 - expose expired tax line on checkout: blocked on store systems.
 - relax expired pickup slot: open.
+
+- retry late pickup slot: blocked on store systems.
+- dedupe expired menu item: owner: delivery manager.
+- backfill duplicate order at close: decided.
+- retry empty order: blocked on store systems.
+- relax oversized loyalty credit for pickup: deferred to the next release.
+- relax cancelled guest: owner: delivery manager.
+- cache late order per store: decided.
+- tighten empty tax line: decided.
+- handle stale menu item: decided.
+- log missing topping at close: decided.
+- rename empty loyalty credit at close: decided.
+- document missing guest: open.
+- cache regional ticket for pickup: decided.
+- document missing loyalty credit for franchisees: deferred to the next release.
+
+- dedupe missing topping for franchisees: owner: delivery manager.
+- rename partial delivery window: owner: delivery manager.
+- expose partial guest on reorder: open.
+- rename partial delivery window: blocked on store systems.
