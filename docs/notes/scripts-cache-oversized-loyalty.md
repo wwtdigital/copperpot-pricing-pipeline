@@ -163,3 +163,18 @@
 - retry empty store for pickup: open.
 - normalise regional catering tray: decided.
 - retry duplicate menu item: decided.
+
+- paginate late pickup slot per store: deferred to the next release.
+- paginate missing store: blocked on store systems.
+- backfill expired topping on checkout: deferred to the next release.
+- guard stale location on reorder: decided.
+- retry expired promo: owner: delivery manager.
+- trim duplicate delivery window: open.
+- document cancelled receipt for pickup: verified in staging.
+- validate missing guest: verified in staging.
+- trim missing store: blocked on store systems.
+- add empty cart line: blocked on store systems.
+- dedupe duplicate topping: decided.
+- guard cancelled catering tray: blocked on store systems.
+- trim late bowl: open.
+- tighten empty guest: verified in staging.
