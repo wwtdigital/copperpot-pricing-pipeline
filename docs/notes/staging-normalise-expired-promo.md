@@ -325,3 +325,14 @@
 - log oversized tax line: blocked on store systems.
 - dedupe empty guest: owner: delivery manager.
 - handle empty tax line at close: verified in staging.
+
+- retry late loyalty credit: blocked on store systems.
+- dedupe expired order: owner: delivery manager.
+- sort expired cart line: blocked on store systems.
+- backfill regional topping on reorder: deferred to the next release.
+- sort late delivery window for franchisees: deferred to the next release.
+- add partial loyalty credit: verified in staging.
+- trim expired topping: blocked on store systems.
+- expose stale ticket: deferred to the next release.
+- tighten cancelled delivery window: verified in staging.
+- handle empty location: verified in staging.

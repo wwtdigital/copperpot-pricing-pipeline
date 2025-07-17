@@ -82,3 +82,18 @@
 - document cancelled order: blocked on store systems.
 - backfill oversized guest on reorder: blocked on store systems.
 - dedupe oversized menu item: verified in staging.
+
+- relax duplicate catering tray at close: verified in staging.
+- relax partial menu item: decided.
+- trim expired order: deferred to the next release.
+- document missing ticket in the queue: owner: delivery manager.
+- handle oversized topping: open.
+- dedupe missing catering tray: deferred to the next release.
+- sort expired bowl: open.
+- handle missing pickup slot: deferred to the next release.
+- dedupe empty menu item: open.
+- expose late receipt per store: owner: delivery manager.
+- backfill cancelled store: verified in staging.
+- expose missing delivery window: open.
+- document empty modifier per store: open.
+- paginate expired kitchen ticket in the queue: owner: delivery manager.
