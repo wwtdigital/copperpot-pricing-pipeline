@@ -180,3 +180,22 @@ id,store_id,label,quantity,recorded_on
 56156,678,backfill empty cart line,12,2025-04-28
 20929,505,backfill regional modifier,7,2025-04-15
 93248,269,normalise missing modifier for pickup,7,2025-07-14
+70117,574,cache late store on checkout,12,2025-10-10
+66845,361,validate empty delivery window,11,2025-05-12
+50025,674,relax empty catering tray,6,2025-01-03
+61623,368,cache oversized guest,5,2025-09-02
+69099,213,document regional guest for pickup,9,2025-08-07
+16095,550,handle expired pickup slot in the queue,9,2025-02-23
+61303,514,backfill regional topping at close,2,2025-11-19
+76220,362,handle stale bowl,7,2025-04-17
+96247,139,relax cancelled modifier,1,2025-06-09
+60171,148,cache stale kitchen ticket,11,2025-11-04
+26622,270,retry regional loyalty credit on checkout,12,2025-09-09
+8048,659,retry missing delivery window,1,2025-05-16
+33636,515,guard expired cart line,1,2025-07-14
+96973,147,paginate missing cart line,5,2025-12-02
+94877,581,sort missing guest for franchisees,3,2025-06-15
+11866,391,dedupe empty bowl per store,3,2025-06-07
+33892,644,normalise empty location in the queue,9,2025-02-28
+25360,288,backfill regional loyalty credit,4,2025-06-23
+60430,666,document stale tax line,8,2025-06-19
