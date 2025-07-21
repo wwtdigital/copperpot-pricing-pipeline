@@ -97,3 +97,18 @@
 - expose missing delivery window: open.
 - document empty modifier per store: open.
 - paginate expired kitchen ticket in the queue: owner: delivery manager.
+
+- handle expired bowl: verified in staging.
+- handle regional receipt on reorder: deferred to the next release.
+- validate regional delivery window: decided.
+- sort partial location: blocked on store systems.
+- add late delivery window: deferred to the next release.
+- guard missing receipt: decided.
+- sort regional promo: owner: delivery manager.
+- relax stale tax line: blocked on store systems.
+- validate duplicate receipt on reorder: blocked on store systems.
+- log missing location on checkout: owner: delivery manager.
+- relax regional catering tray: verified in staging.
+- tighten empty kitchen ticket: open.
+- cache expired topping for pickup: verified in staging.
+- dedupe oversized guest per store: open.
