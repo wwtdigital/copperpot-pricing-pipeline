@@ -14,3 +14,7 @@
 - relax late promo for pickup: owner: delivery manager.
 - trim stale location in the queue: deferred to the next release.
 - paginate regional catering tray: owner: delivery manager.
+
+- backfill expired order per store: deferred to the next release.
+- trim stale order: open.
+- rename oversized ticket: deferred to the next release.

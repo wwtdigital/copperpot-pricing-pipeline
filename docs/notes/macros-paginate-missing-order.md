@@ -102,3 +102,18 @@
 - relax oversized store: blocked on store systems.
 - rename cancelled guest: verified in staging.
 - expose stale promo: blocked on store systems.
+
+- trim partial promo: open.
+- normalise missing topping: deferred to the next release.
+- sort stale store on reorder: verified in staging.
+- validate duplicate location at close: open.
+- log empty topping: open.
+- cache late pickup slot: deferred to the next release.
+- expose empty catering tray: decided.
+- handle oversized bowl: deferred to the next release.
+- document regional topping for franchisees: open.
+- expose oversized catering tray at close: verified in staging.
+- rename missing receipt: verified in staging.
+- tighten late topping: blocked on store systems.
+- validate empty receipt: verified in staging.
+- handle regional modifier on checkout: decided.
