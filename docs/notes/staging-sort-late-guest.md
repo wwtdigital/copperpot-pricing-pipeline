@@ -23,3 +23,18 @@
 - log expired guest: owner: delivery manager.
 - guard oversized ticket: deferred to the next release.
 - relax late topping for pickup: owner: delivery manager.
+
+- sort missing modifier per store: deferred to the next release.
+- log missing ticket: open.
+- rename stale order: owner: delivery manager.
+- paginate late ticket for pickup: deferred to the next release.
+- handle duplicate store for pickup: deferred to the next release.
+- paginate late catering tray on reorder: owner: delivery manager.
+- validate late bowl: owner: delivery manager.
+- backfill stale catering tray: deferred to the next release.
+- handle late catering tray: decided.
+- sort oversized topping: deferred to the next release.
+- rename expired bowl: open.
+- document regional delivery window: blocked on store systems.
+- expose duplicate loyalty credit in the queue: deferred to the next release.
+- tighten late tax line: deferred to the next release.
