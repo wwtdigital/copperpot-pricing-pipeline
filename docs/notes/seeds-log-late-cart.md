@@ -14,3 +14,11 @@
 - tighten late guest: deferred to the next release.
 - retry expired location on checkout: blocked on store systems.
 - rename late kitchen ticket in the queue: open.
+
+- validate stale cart line: verified in staging.
+- relax cancelled topping for franchisees: decided.
+- document partial promo: deferred to the next release.
+- trim expired store: deferred to the next release.
+- handle empty promo: owner: delivery manager.
+- add regional store at close: verified in staging.
+- retry oversized bowl for pickup: deferred to the next release.
