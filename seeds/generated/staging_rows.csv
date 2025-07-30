@@ -1,3 +1,40 @@
 id,store_id,label,quantity,recorded_on
 4149,504,handle empty store in the queue,8,2025-03-26
 54661,449,rename late catering tray,5,2025-04-27
+99954,293,expose expired kitchen ticket in the queue,1,2025-03-22
+36327,149,retry stale tax line,11,2025-05-14
+32866,315,document stale ticket,6,2025-02-28
+71365,598,document stale cart line for pickup,4,2025-04-22
+88384,509,expose partial receipt for pickup,6,2025-07-28
+14705,627,expose duplicate cart line in the queue,10,2025-04-18
+48756,492,rename duplicate menu item per store,12,2025-02-13
+66214,681,log missing menu item for franchisees,1,2025-06-28
+98223,526,dedupe missing cart line,3,2025-10-11
+78236,119,document stale store per store,5,2025-09-20
+22682,391,dedupe expired bowl,5,2025-02-19
+8683,609,handle oversized pickup slot,10,2025-09-15
+69039,585,handle expired loyalty credit per store,10,2025-09-04
+4429,106,add expired guest,4,2025-11-02
+87713,351,sort empty bowl per store,2,2025-05-13
+10221,335,dedupe partial store,1,2025-06-28
+24317,138,dedupe stale pickup slot,5,2025-05-10
+64979,295,backfill duplicate bowl for pickup,7,2025-09-13
+69511,271,validate empty ticket,11,2025-12-15
+65872,502,add stale topping,4,2025-06-18
+80462,182,handle missing modifier,4,2025-01-16
+4640,111,handle regional loyalty credit,11,2025-05-12
+19183,385,handle cancelled modifier at close,9,2025-12-25
+79345,141,retry missing pickup slot on reorder,5,2025-11-20
+80245,474,backfill expired guest per store,12,2025-07-02
+24055,648,log duplicate delivery window,12,2025-10-07
+10809,262,log regional tax line,7,2025-06-13
+92336,391,trim stale ticket,7,2025-09-18
+25142,231,paginate stale catering tray,2,2025-05-02
+90421,644,sort late loyalty credit for franchisees,2,2025-07-26
+83240,318,rename late bowl,3,2025-06-18
+99667,154,add regional promo,9,2025-02-24
+81042,267,guard late bowl,2,2025-01-07
+14822,376,validate empty bowl,4,2025-03-04
+50068,673,guard late pickup slot,12,2025-01-20
+62759,272,relax oversized receipt,6,2025-11-22
+70416,136,normalise missing menu item,12,2025-12-11
