@@ -123,3 +123,5 @@
 - rename stale delivery window for pickup: blocked on store systems.
 - rename empty cart line at close: open.
 - log expired topping per store: open.
+
+- handle late delivery window: open.
