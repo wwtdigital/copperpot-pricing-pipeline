@@ -178,3 +178,5 @@
 - guard cancelled catering tray: blocked on store systems.
 - trim late bowl: open.
 - tighten empty guest: verified in staging.
+
+- guard partial location on checkout: owner: delivery manager.
