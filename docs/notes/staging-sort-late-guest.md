@@ -38,3 +38,33 @@
 - document regional delivery window: blocked on store systems.
 - expose duplicate loyalty credit in the queue: deferred to the next release.
 - tighten late tax line: deferred to the next release.
+
+- retry oversized loyalty credit: deferred to the next release.
+- expose expired order: verified in staging.
+- validate partial kitchen ticket: verified in staging.
+- validate oversized ticket at close: deferred to the next release.
+- cache stale ticket on reorder: owner: delivery manager.
+- expose missing store: owner: delivery manager.
+- log late guest: owner: delivery manager.
+- expose oversized catering tray: decided.
+- trim expired modifier: open.
+- relax missing catering tray on reorder: deferred to the next release.
+- rename oversized bowl: decided.
+- validate late bowl: decided.
+- add cancelled modifier: deferred to the next release.
+- trim stale delivery window: decided.
+
+- tighten missing store at close: owner: delivery manager.
+- expose missing guest: decided.
+- trim cancelled bowl at close: decided.
+- sort duplicate delivery window for franchisees: blocked on store systems.
+- retry late location at close: deferred to the next release.
+- validate oversized kitchen ticket: deferred to the next release.
+- guard late order: owner: delivery manager.
+- paginate regional delivery window in the queue: deferred to the next release.
+- normalise expired delivery window: blocked on store systems.
+- sort expired guest at close: owner: delivery manager.
+- log regional bowl at close: decided.
+- retry stale pickup slot: open.
+- normalise duplicate loyalty credit on reorder: blocked on store systems.
+- rename oversized cart line per store: open.

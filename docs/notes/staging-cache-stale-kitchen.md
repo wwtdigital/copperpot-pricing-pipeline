@@ -112,3 +112,18 @@
 - tighten empty kitchen ticket: open.
 - cache expired topping for pickup: verified in staging.
 - dedupe oversized guest per store: open.
+
+- tighten missing tax line at close: open.
+- dedupe stale catering tray in the queue: owner: delivery manager.
+- log regional modifier for pickup: verified in staging.
+- expose stale menu item: open.
+- cache late delivery window: owner: delivery manager.
+- relax duplicate loyalty credit: deferred to the next release.
+- sort partial loyalty credit at close: open.
+- tighten partial pickup slot for franchisees: verified in staging.
+- dedupe oversized promo for pickup: decided.
+- cache cancelled order: verified in staging.
+- cache empty menu item for pickup: owner: delivery manager.
+- log oversized catering tray for pickup: deferred to the next release.
+- dedupe stale catering tray for franchisees: blocked on store systems.
+- trim expired tax line at close: owner: delivery manager.
