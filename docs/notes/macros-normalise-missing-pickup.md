@@ -18,3 +18,18 @@
 - backfill expired order per store: deferred to the next release.
 - trim stale order: open.
 - rename oversized ticket: deferred to the next release.
+
+- add missing bowl: blocked on store systems.
+- dedupe oversized delivery window per store: open.
+- handle duplicate menu item: open.
+- tighten cancelled guest: owner: delivery manager.
+- sort oversized cart line: decided.
+- relax duplicate promo on checkout: blocked on store systems.
+- rename empty receipt: open.
+- normalise oversized bowl: blocked on store systems.
+- relax missing store: deferred to the next release.
+- handle regional cart line: owner: delivery manager.
+- normalise late order: blocked on store systems.
+- dedupe oversized receipt: blocked on store systems.
+- document missing menu item: owner: delivery manager.
+- trim duplicate receipt in the queue: verified in staging.

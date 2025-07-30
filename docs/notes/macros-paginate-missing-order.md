@@ -117,3 +117,17 @@
 - tighten late topping: blocked on store systems.
 - validate empty receipt: verified in staging.
 - handle regional modifier on checkout: decided.
+
+- relax missing catering tray: owner: delivery manager.
+- guard late modifier: open.
+- document regional loyalty credit per store: owner: delivery manager.
+- relax regional modifier on checkout: owner: delivery manager.
+- relax missing tax line for pickup: verified in staging.
+- handle missing guest at close: decided.
+- guard empty loyalty credit at close: owner: delivery manager.
+- log duplicate guest: decided.
+- backfill missing pickup slot on checkout: open.
+- dedupe partial receipt: verified in staging.
+- cache missing catering tray: verified in staging.
+- document stale kitchen ticket: decided.
+- log cancelled ticket: owner: delivery manager.
