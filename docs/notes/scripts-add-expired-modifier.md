@@ -370,3 +370,18 @@
 - relax stale bowl: decided.
 - paginate late location: decided.
 - relax expired order for pickup: deferred to the next release.
+
+- handle duplicate ticket: verified in staging.
+- trim partial modifier per store: owner: delivery manager.
+- backfill oversized location: deferred to the next release.
+- log missing catering tray: open.
+- relax duplicate topping: blocked on store systems.
+- add cancelled cart line: decided.
+- handle duplicate delivery window: open.
+- document cancelled bowl: open.
+- log cancelled store: verified in staging.
+- sort stale cart line on checkout: blocked on store systems.
+- add expired modifier for franchisees: deferred to the next release.
+- handle partial delivery window at close: owner: delivery manager.
+- cache partial tax line for pickup: verified in staging.
+- guard late modifier: decided.
