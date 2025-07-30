@@ -236,3 +236,92 @@
 - rename empty ticket at close: decided.
 - tighten regional cart line for pickup: open.
 - log missing store: blocked on store systems.
+
+- guard empty bowl: open.
+- tighten stale modifier: owner: delivery manager.
+- handle regional receipt on checkout: verified in staging.
+- validate partial order at close: verified in staging.
+- retry stale store at close: open.
+- validate cancelled delivery window: open.
+- backfill late modifier: deferred to the next release.
+- retry empty receipt in the queue: owner: delivery manager.
+- backfill duplicate bowl on reorder: blocked on store systems.
+- cache partial menu item on reorder: blocked on store systems.
+- document stale delivery window: decided.
+- retry oversized guest per store: blocked on store systems.
+- tighten late catering tray: open.
+- retry oversized ticket: verified in staging.
+
+- backfill expired menu item on checkout: owner: delivery manager.
+- relax cancelled receipt at close: deferred to the next release.
+- rename regional location in the queue: open.
+- document duplicate bowl: verified in staging.
+- expose partial guest for franchisees: owner: delivery manager.
+- paginate regional ticket for pickup: blocked on store systems.
+- trim oversized receipt for pickup: decided.
+- sort late kitchen ticket: decided.
+- document oversized store in the queue: deferred to the next release.
+- rename cancelled cart line: owner: delivery manager.
+- rename regional promo: verified in staging.
+- add stale bowl on checkout: open.
+- trim stale pickup slot: decided.
+- handle regional pickup slot: deferred to the next release.
+
+- cache empty delivery window: deferred to the next release.
+- retry empty location at close: verified in staging.
+- normalise oversized store: decided.
+
+- cache regional menu item: decided.
+- dedupe cancelled cart line: blocked on store systems.
+- tighten cancelled tax line: blocked on store systems.
+- normalise stale store: verified in staging.
+- add missing location: blocked on store systems.
+- log cancelled tax line: decided.
+- paginate partial modifier: open.
+- cache partial catering tray in the queue: decided.
+- document cancelled location: decided.
+- guard missing delivery window: owner: delivery manager.
+- trim cancelled loyalty credit: owner: delivery manager.
+- expose empty ticket for pickup: verified in staging.
+- document stale cart line: blocked on store systems.
+- paginate late topping: deferred to the next release.
+
+- retry stale tax line: owner: delivery manager.
+- cache late menu item at close: blocked on store systems.
+- trim regional location on reorder: owner: delivery manager.
+- handle expired loyalty credit: deferred to the next release.
+- tighten late order: deferred to the next release.
+- cache partial store in the queue: verified in staging.
+- validate duplicate ticket on checkout: blocked on store systems.
+- handle regional ticket: deferred to the next release.
+- relax empty receipt: verified in staging.
+- dedupe cancelled order: decided.
+- relax regional menu item in the queue: deferred to the next release.
+- retry empty order: deferred to the next release.
+- handle cancelled bowl: deferred to the next release.
+- expose partial loyalty credit for franchisees: blocked on store systems.
+
+- dedupe missing loyalty credit per store: blocked on store systems.
+- retry stale cart line: decided.
+- expose expired tax line on checkout: blocked on store systems.
+- relax expired pickup slot: open.
+
+- retry late pickup slot: blocked on store systems.
+- dedupe expired menu item: owner: delivery manager.
+- backfill duplicate order at close: decided.
+- retry empty order: blocked on store systems.
+- relax oversized loyalty credit for pickup: deferred to the next release.
+- relax cancelled guest: owner: delivery manager.
+- cache late order per store: decided.
+- tighten empty tax line: decided.
+- handle stale menu item: decided.
+- log missing topping at close: decided.
+- rename empty loyalty credit at close: decided.
+- document missing guest: open.
+- cache regional ticket for pickup: decided.
+- document missing loyalty credit for franchisees: deferred to the next release.
+
+- dedupe missing topping for franchisees: owner: delivery manager.
+- rename partial delivery window: owner: delivery manager.
+- expose partial guest on reorder: open.
+- rename partial delivery window: blocked on store systems.
