@@ -325,3 +325,48 @@
 - rename partial delivery window: owner: delivery manager.
 - expose partial guest on reorder: open.
 - rename partial delivery window: blocked on store systems.
+
+- guard late pickup slot: blocked on store systems.
+- cache oversized ticket: owner: delivery manager.
+- trim missing cart line: open.
+- paginate missing guest: decided.
+- backfill partial kitchen ticket at close: blocked on store systems.
+- log regional cart line: deferred to the next release.
+- normalise oversized bowl: decided.
+- log stale cart line at close: decided.
+- retry oversized pickup slot on reorder: owner: delivery manager.
+- backfill late guest on reorder: decided.
+- guard expired cart line: verified in staging.
+- sort expired receipt: verified in staging.
+- expose duplicate tax line: owner: delivery manager.
+- tighten expired loyalty credit: open.
+
+- relax empty kitchen ticket per store: owner: delivery manager.
+- rename missing promo: blocked on store systems.
+- validate oversized promo: verified in staging.
+- normalise missing modifier: open.
+- trim empty location per store: owner: delivery manager.
+- cache cancelled receipt: owner: delivery manager.
+- guard oversized catering tray: blocked on store systems.
+- add expired menu item on reorder: open.
+- relax partial pickup slot: deferred to the next release.
+- retry regional promo: open.
+- sort late ticket: open.
+- retry cancelled modifier: deferred to the next release.
+- expose missing topping: deferred to the next release.
+- sort duplicate menu item: blocked on store systems.
+
+- guard partial guest: decided.
+- normalise missing bowl at close: deferred to the next release.
+- retry cancelled pickup slot: blocked on store systems.
+- expose late kitchen ticket: owner: delivery manager.
+- validate partial promo: verified in staging.
+- trim late promo: decided.
+- document regional tax line in the queue: open.
+- document empty kitchen ticket on reorder: deferred to the next release.
+- log cancelled guest: deferred to the next release.
+- dedupe oversized delivery window: verified in staging.
+- guard partial location: deferred to the next release.
+- relax stale bowl: decided.
+- paginate late location: decided.
+- relax expired order for pickup: deferred to the next release.

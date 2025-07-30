@@ -1,0 +1,41 @@
+id,store_id,label,quantity,recorded_on
+71717,474,relax late order,6,2025-10-13
+46464,129,document empty promo for franchisees,10,2025-09-14
+11472,376,guard empty location for pickup,9,2025-02-20
+63283,386,trim cancelled ticket on reorder,2,2025-06-13
+57801,446,add regional store,7,2025-05-28
+25079,179,dedupe missing delivery window,11,2025-09-09
+71156,336,cache empty location,5,2025-10-09
+62627,677,backfill late tax line,11,2025-04-26
+8201,539,relax stale store,12,2025-07-20
+77316,373,log late pickup slot,12,2025-05-22
+44846,196,retry late bowl at close,2,2025-01-01
+19127,599,validate stale store at close,10,2025-09-18
+6275,189,trim expired guest at close,2,2025-08-01
+26968,685,cache missing promo,5,2025-06-14
+86379,487,sort duplicate catering tray,3,2025-10-17
+57888,145,retry partial store in the queue,8,2025-01-14
+12893,220,cache partial kitchen ticket,5,2025-03-07
+80499,481,rename stale modifier per store,1,2025-05-08
+58784,424,validate duplicate guest in the queue,3,2025-09-25
+57150,223,tighten late guest,8,2025-11-07
+75437,398,tighten missing pickup slot,4,2025-04-20
+54595,279,sort expired topping for franchisees,6,2025-05-28
+95376,181,paginate stale ticket,8,2025-07-19
+93936,205,guard oversized kitchen ticket,9,2025-12-25
+65533,416,sort partial cart line,6,2025-11-18
+76958,648,document partial bowl,9,2025-03-05
+43151,154,dedupe duplicate receipt,6,2025-02-20
+52618,693,sort regional kitchen ticket,11,2025-01-25
+2493,668,expose missing receipt,4,2025-09-23
+36914,454,handle stale guest,12,2025-08-20
+46556,111,rename missing delivery window,2,2025-11-27
+11148,135,tighten cancelled promo,9,2025-03-01
+81042,298,paginate empty menu item for pickup,10,2025-06-04
+16760,193,dedupe expired kitchen ticket per store,5,2025-02-07
+77027,153,validate partial store,3,2025-08-11
+44641,270,normalise empty kitchen ticket,7,2025-06-27
+18896,197,validate duplicate topping,11,2025-06-09
+44552,412,validate expired catering tray in the queue,6,2025-03-21
+7854,590,relax expired delivery window,1,2025-06-04
+36588,312,handle stale catering tray,3,2025-03-22
