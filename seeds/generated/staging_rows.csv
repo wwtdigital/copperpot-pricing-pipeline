@@ -38,3 +38,41 @@ id,store_id,label,quantity,recorded_on
 50068,673,guard late pickup slot,12,2025-01-20
 62759,272,relax oversized receipt,6,2025-11-22
 70416,136,normalise missing menu item,12,2025-12-11
+25157,420,document late kitchen ticket per store,8,2025-02-14
+65473,478,cache oversized tax line for pickup,3,2025-03-20
+85025,367,handle partial kitchen ticket for franchisees,10,2025-02-11
+44802,353,tighten cancelled ticket,12,2025-06-01
+45558,178,relax oversized store,3,2025-09-04
+14121,248,dedupe oversized ticket,8,2025-04-08
+66898,648,add expired order,11,2025-07-22
+19793,361,expose partial catering tray at close,8,2025-10-16
+41434,127,document stale kitchen ticket,3,2025-07-24
+19620,504,log partial bowl for pickup,12,2025-08-02
+19502,286,expose partial menu item per store,1,2025-07-03
+8198,416,rename empty delivery window on reorder,12,2025-12-13
+89616,144,handle oversized bowl,3,2025-03-12
+77605,581,handle cancelled delivery window,9,2025-08-26
+58553,323,sort oversized guest,1,2025-08-12
+80007,388,cache regional tax line,6,2025-07-28
+33242,362,expose stale receipt,12,2025-10-11
+27403,539,normalise stale promo,12,2025-07-19
+69365,611,handle empty delivery window on checkout,4,2025-05-03
+75677,139,trim duplicate modifier,7,2025-11-25
+71015,551,normalise partial delivery window at close,12,2025-06-20
+53084,252,retry cancelled tax line,2,2025-04-13
+99183,346,sort late cart line,5,2025-10-06
+9743,129,trim missing catering tray,4,2025-04-15
+38910,203,rename stale menu item,8,2025-06-14
+59587,313,dedupe stale kitchen ticket at close,4,2025-12-10
+30290,127,log missing menu item,2,2025-01-14
+7663,627,validate late catering tray,3,2025-01-24
+81856,668,log regional store for franchisees,2,2025-01-08
+9554,633,guard expired modifier on checkout,3,2025-08-06
+86459,183,sort duplicate menu item,5,2025-01-10
+14565,222,sort missing order for franchisees,7,2025-12-05
+56553,173,handle partial loyalty credit,3,2025-09-08
+99887,699,backfill late pickup slot,8,2025-10-10
+45115,627,dedupe stale cart line,2,2025-10-16
+93742,155,add expired promo,4,2025-10-28
+20817,377,guard stale guest on checkout,11,2025-05-21
+57949,291,add partial cart line for franchisees,1,2025-02-06

@@ -336,3 +336,8 @@
 - expose stale ticket: deferred to the next release.
 - tighten cancelled delivery window: verified in staging.
 - handle empty location: verified in staging.
+
+- retry late tax line: deferred to the next release.
+- paginate partial promo: verified in staging.
+- retry stale topping: owner: delivery manager.
+- rename empty tax line: deferred to the next release.
