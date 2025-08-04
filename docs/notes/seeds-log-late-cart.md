@@ -14,3 +14,26 @@
 - tighten late guest: deferred to the next release.
 - retry expired location on checkout: blocked on store systems.
 - rename late kitchen ticket in the queue: open.
+
+- validate stale cart line: verified in staging.
+- relax cancelled topping for franchisees: decided.
+- document partial promo: deferred to the next release.
+- trim expired store: deferred to the next release.
+- handle empty promo: owner: delivery manager.
+- add regional store at close: verified in staging.
+- retry oversized bowl for pickup: deferred to the next release.
+
+- document empty topping: open.
+- tighten cancelled guest: verified in staging.
+- cache expired guest: owner: delivery manager.
+- rename expired catering tray for franchisees: verified in staging.
+- document expired pickup slot: owner: delivery manager.
+- retry stale order: open.
+- dedupe empty catering tray: deferred to the next release.
+
+- expose late store: owner: delivery manager.
+- rename late location for franchisees: decided.
+- relax late promo for franchisees: deferred to the next release.
+- handle partial catering tray for pickup: deferred to the next release.
+- trim duplicate loyalty credit at close: blocked on store systems.
+- expose regional receipt: owner: delivery manager.
