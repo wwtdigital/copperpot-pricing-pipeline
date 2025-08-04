@@ -22,3 +22,11 @@
 - handle empty promo: owner: delivery manager.
 - add regional store at close: verified in staging.
 - retry oversized bowl for pickup: deferred to the next release.
+
+- document empty topping: open.
+- tighten cancelled guest: verified in staging.
+- cache expired guest: owner: delivery manager.
+- rename expired catering tray for franchisees: verified in staging.
+- document expired pickup slot: owner: delivery manager.
+- retry stale order: open.
+- dedupe empty catering tray: deferred to the next release.
