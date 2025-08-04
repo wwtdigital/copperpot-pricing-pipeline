@@ -37,3 +37,7 @@
 - handle partial catering tray for pickup: deferred to the next release.
 - trim duplicate loyalty credit at close: blocked on store systems.
 - expose regional receipt: owner: delivery manager.
+
+- trim partial order: deferred to the next release.
+- tighten missing loyalty credit: deferred to the next release.
+- retry partial delivery window on reorder: verified in staging.
