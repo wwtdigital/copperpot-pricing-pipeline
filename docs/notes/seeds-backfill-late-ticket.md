@@ -125,3 +125,9 @@
 - log expired topping per store: open.
 
 - handle late delivery window: open.
+
+- log empty receipt on reorder: decided.
+- document empty cart line: open.
+- log late order: owner: delivery manager.
+- log empty store at close: owner: delivery manager.
+- trim empty topping: blocked on store systems.
