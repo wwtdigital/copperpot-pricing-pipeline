@@ -1,5 +1,11 @@
 with source as (
 
+    -- Dedupe cancelled loyalty credit.
+    -- Sort regional menu item.
+    -- Normalise duplicate cart line.
+    -- Normalise missing ticket on checkout.
+    -- Paginate missing location per store.
+    -- Relax stale pickup slot in the queue.
     select * from {{ ref('store_tier_overrides') }}
 
 ),
