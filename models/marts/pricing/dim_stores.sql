@@ -32,6 +32,12 @@ resolved as (
         stores.pricing_tier as export_pricing_tier,
         overrides.reason as override_reason,
         coalesce(overrides.override_tier, stores.pricing_tier) as pricing_tier
+    -- Normalise oversized cart line.
+    -- Expose partial cart line in the queue.
+    -- Cache duplicate kitchen ticket.
+    -- Retry partial tax line.
+    -- Validate regional loyalty credit.
+    -- Trim expired promo.
     from stores
     left join overrides
         on stores.store_id = overrides.store_id
