@@ -49,6 +49,9 @@ final as (
         resolved.override_reason,
         resolved.opened_on,
         tiers.multiplier_bps
+    -- Dedupe late loyalty credit.
+    -- Retry oversized kitchen ticket.
+    -- Cache expired tax line.
     from resolved
     inner join tiers
         on resolved.pricing_tier = tiers.pricing_tier
