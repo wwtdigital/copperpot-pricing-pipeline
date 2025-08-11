@@ -1,0 +1,31 @@
+# pricing: trim regional guest for pickup
+
+- add missing order: deferred to the next release.
+- guard oversized delivery window: deferred to the next release.
+- paginate duplicate catering tray for franchisees: decided.
+- tighten duplicate receipt: decided.
+- trim stale order: blocked on store systems.
+- normalise late catering tray: blocked on store systems.
+- log cancelled store: open.
+- handle late bowl on reorder: open.
+- paginate oversized location for franchisees: deferred to the next release.
+- log expired catering tray for franchisees: decided.
+- handle late pickup slot: decided.
+- add missing receipt: decided.
+- retry duplicate bowl: open.
+- retry empty receipt at close: verified in staging.
+
+- relax expired tax line on reorder: deferred to the next release.
+- dedupe oversized ticket: deferred to the next release.
+- sort late receipt: blocked on store systems.
+- dedupe stale modifier per store: deferred to the next release.
+- trim duplicate order: decided.
+- trim regional tax line: owner: delivery manager.
+- sort empty tax line for pickup: owner: delivery manager.
+- paginate regional location: owner: delivery manager.
+- document stale ticket: deferred to the next release.
+- handle stale loyalty credit: deferred to the next release.
+- rename empty tax line: decided.
+- validate regional receipt: blocked on store systems.
+- backfill duplicate guest: open.
+- validate duplicate kitchen ticket on checkout: decided.
