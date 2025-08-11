@@ -119,3 +119,18 @@ id,store_id,label,quantity,recorded_on
 52866,485,rename expired tax line,7,2025-04-09
 33981,268,log empty menu item,6,2025-06-10
 69108,405,expose cancelled loyalty credit,8,2025-07-01
+87741,543,handle empty menu item per store,7,2025-11-09
+1497,125,dedupe expired bowl for pickup,8,2025-04-06
+7034,118,paginate oversized delivery window,4,2025-03-10
+23167,373,dedupe partial cart line,8,2025-02-17
+78105,175,paginate oversized delivery window,7,2025-12-16
+39098,680,tighten partial delivery window,11,2025-05-26
+78078,664,backfill oversized catering tray,8,2025-07-05
+74056,385,validate oversized kitchen ticket,10,2025-02-07
+22830,423,backfill cancelled modifier,2,2025-10-12
+76299,190,validate oversized receipt,9,2025-12-24
+34170,330,retry missing topping for franchisees,10,2025-07-15
+33552,571,document stale store,10,2025-03-03
+63253,237,validate duplicate modifier per store,12,2025-08-03
+41940,595,log stale menu item,8,2025-05-01
+30365,276,log regional loyalty credit at close,1,2025-12-01
