@@ -29,3 +29,18 @@
 - validate regional receipt: blocked on store systems.
 - backfill duplicate guest: open.
 - validate duplicate kitchen ticket on checkout: decided.
+
+- normalise regional loyalty credit for franchisees: blocked on store systems.
+- handle cancelled promo at close: decided.
+- document regional modifier in the queue: deferred to the next release.
+- cache regional tax line: decided.
+- trim stale promo for franchisees: decided.
+- relax missing store: verified in staging.
+- cache cancelled store: deferred to the next release.
+- expose duplicate ticket: verified in staging.
+- trim expired catering tray: owner: delivery manager.
+- guard regional promo per store: decided.
+- cache regional guest: owner: delivery manager.
+- normalise missing kitchen ticket per store: open.
+- guard empty receipt: decided.
+- document regional topping at close: decided.
