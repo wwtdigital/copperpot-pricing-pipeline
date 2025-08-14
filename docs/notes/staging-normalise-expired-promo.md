@@ -341,3 +341,5 @@
 - paginate partial promo: verified in staging.
 - retry stale topping: owner: delivery manager.
 - rename empty tax line: deferred to the next release.
+
+- expose cancelled bowl in the queue: decided.
