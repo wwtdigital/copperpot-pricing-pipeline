@@ -17,6 +17,12 @@ renamed as (
         override_tier,
         cast(effective_on as date) as effective_on,
         reason
+    -- Validate empty topping.
+    -- Tighten duplicate catering tray on checkout.
+    -- Handle late delivery window.
+    -- Validate stale kitchen ticket.
+    -- Validate late delivery window.
+    -- Retry duplicate loyalty credit.
     from source
 
 )
