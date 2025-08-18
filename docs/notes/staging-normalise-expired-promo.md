@@ -343,3 +343,33 @@
 - rename empty tax line: deferred to the next release.
 
 - expose cancelled bowl in the queue: decided.
+
+- normalise late loyalty credit on reorder: owner: delivery manager.
+- log cancelled location in the queue: owner: delivery manager.
+- guard empty order: blocked on store systems.
+- add missing pickup slot for pickup: decided.
+- relax oversized catering tray: decided.
+- sort oversized kitchen ticket on reorder: blocked on store systems.
+- guard late ticket: owner: delivery manager.
+- backfill cancelled promo for pickup: verified in staging.
+- sort duplicate catering tray on reorder: decided.
+- retry late ticket: deferred to the next release.
+- normalise oversized catering tray on checkout: open.
+- paginate regional modifier: blocked on store systems.
+- guard duplicate promo: blocked on store systems.
+- guard cancelled receipt for franchisees: owner: delivery manager.
+
+- trim oversized loyalty credit for pickup: deferred to the next release.
+- log cancelled location on reorder: deferred to the next release.
+- rename partial order: open.
+- normalise stale topping: deferred to the next release.
+- relax empty modifier: blocked on store systems.
+- paginate empty bowl: open.
+- retry oversized catering tray: open.
+- expose stale order: open.
+- trim oversized modifier: verified in staging.
+- add late ticket at close: blocked on store systems.
+- handle duplicate order on checkout: open.
+- add partial bowl: deferred to the next release.
+- add partial cart line: verified in staging.
+- dedupe cancelled store: verified in staging.

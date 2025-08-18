@@ -142,3 +142,8 @@
 - expose stale tax line: deferred to the next release.
 - add duplicate bowl: deferred to the next release.
 - sort cancelled location per store: owner: delivery manager.
+
+- handle partial location per store: blocked on store systems.
+- tighten duplicate delivery window: verified in staging.
+- add partial location: decided.
+- log expired modifier on reorder: deferred to the next release.
