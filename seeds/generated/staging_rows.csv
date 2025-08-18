@@ -76,3 +76,24 @@ id,store_id,label,quantity,recorded_on
 93742,155,add expired promo,4,2025-10-28
 20817,377,guard stale guest on checkout,11,2025-05-21
 57949,291,add partial cart line for franchisees,1,2025-02-06
+3134,626,expose late menu item,2,2025-01-02
+84810,495,document empty location per store,12,2025-05-15
+96394,114,relax late menu item,4,2025-09-21
+3627,603,relax oversized loyalty credit,7,2025-09-23
+25152,170,dedupe empty receipt in the queue,4,2025-09-20
+54355,363,cache empty delivery window for franchisees,8,2025-12-26
+84553,572,document duplicate promo,11,2025-08-21
+61998,470,guard empty menu item,3,2025-06-03
+97757,244,sort missing store,7,2025-10-03
+46917,503,tighten missing guest at close,3,2025-08-15
+42324,455,handle expired topping in the queue,3,2025-10-17
+39660,173,document late catering tray,3,2025-05-06
+15315,193,document regional catering tray,10,2025-06-03
+80749,283,dedupe duplicate order,9,2025-03-11
+60561,132,handle missing menu item,2,2025-05-09
+44118,679,validate cancelled order at close,11,2025-11-09
+74188,335,sort duplicate order for franchisees,2,2025-04-21
+49946,678,normalise empty delivery window,3,2025-10-22
+39984,537,validate stale receipt,2,2025-04-27
+42674,360,add duplicate receipt,1,2025-10-17
+57791,497,sort stale guest in the queue,5,2025-04-13
