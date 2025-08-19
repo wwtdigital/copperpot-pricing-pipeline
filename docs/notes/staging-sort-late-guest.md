@@ -68,3 +68,18 @@
 - retry stale pickup slot: open.
 - normalise duplicate loyalty credit on reorder: blocked on store systems.
 - rename oversized cart line per store: open.
+
+- relax duplicate tax line in the queue: decided.
+- sort missing topping: open.
+- add cancelled pickup slot: owner: delivery manager.
+- rename duplicate kitchen ticket: owner: delivery manager.
+- add expired bowl: owner: delivery manager.
+- guard oversized loyalty credit: deferred to the next release.
+- sort partial location for pickup: deferred to the next release.
+- retry empty location: decided.
+- validate stale cart line: blocked on store systems.
+- relax duplicate kitchen ticket: open.
+- expose duplicate receipt: decided.
+- log duplicate receipt: verified in staging.
+- backfill duplicate ticket at close: decided.
+- rename regional delivery window: verified in staging.

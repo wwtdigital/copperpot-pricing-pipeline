@@ -127,3 +127,23 @@
 - log oversized catering tray for pickup: deferred to the next release.
 - dedupe stale catering tray for franchisees: blocked on store systems.
 - trim expired tax line at close: owner: delivery manager.
+
+- dedupe oversized topping: open.
+- retry regional tax line on checkout: open.
+- normalise expired modifier for franchisees: owner: delivery manager.
+- add partial tax line for franchisees: deferred to the next release.
+- guard late menu item in the queue: blocked on store systems.
+- handle stale promo in the queue: open.
+- normalise oversized delivery window at close: deferred to the next release.
+- sort partial topping at close: deferred to the next release.
+- dedupe late location for pickup: verified in staging.
+- retry oversized ticket on checkout: deferred to the next release.
+- add stale store per store: open.
+- expose stale tax line: deferred to the next release.
+- add duplicate bowl: deferred to the next release.
+- sort cancelled location per store: owner: delivery manager.
+
+- handle partial location per store: blocked on store systems.
+- tighten duplicate delivery window: verified in staging.
+- add partial location: decided.
+- log expired modifier on reorder: deferred to the next release.
