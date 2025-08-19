@@ -147,3 +147,8 @@
 - tighten duplicate delivery window: verified in staging.
 - add partial location: decided.
 - log expired modifier on reorder: deferred to the next release.
+
+- guard late order: decided.
+- relax partial delivery window: deferred to the next release.
+- normalise oversized promo: blocked on store systems.
+- sort expired modifier: decided.
