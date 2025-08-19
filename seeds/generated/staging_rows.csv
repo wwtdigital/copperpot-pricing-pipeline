@@ -97,3 +97,43 @@ id,store_id,label,quantity,recorded_on
 39984,537,validate stale receipt,2,2025-04-27
 42674,360,add duplicate receipt,1,2025-10-17
 57791,497,sort stale guest in the queue,5,2025-04-13
+57505,121,rename late delivery window,3,2025-09-08
+21285,641,retry stale delivery window,5,2025-12-15
+9548,258,document late modifier,10,2025-12-18
+89188,403,add stale promo,6,2025-06-04
+18164,398,guard stale receipt for franchisees,1,2025-08-20
+65752,666,normalise duplicate cart line,2,2025-10-25
+21409,116,cache stale guest,11,2025-10-14
+82103,285,rename missing pickup slot,1,2025-10-08
+89817,550,sort oversized modifier on checkout,4,2025-07-07
+32047,506,log oversized topping,7,2025-02-12
+19672,443,document oversized store in the queue,11,2025-05-17
+27599,655,retry cancelled topping,10,2025-12-08
+17838,203,add cancelled kitchen ticket,10,2025-11-10
+32228,208,expose oversized delivery window in the queue,9,2025-12-04
+35982,348,tighten partial tax line at close,4,2025-10-25
+83793,578,normalise missing catering tray,8,2025-05-14
+68748,688,dedupe expired pickup slot,4,2025-07-20
+99344,295,sort regional menu item,4,2025-02-25
+5408,469,handle regional topping on checkout,8,2025-04-07
+86796,391,expose expired bowl per store,12,2025-08-27
+19427,271,paginate late delivery window,1,2025-05-17
+73771,451,validate oversized location,4,2025-05-15
+54108,392,rename partial modifier,7,2025-12-02
+72025,643,normalise oversized guest for franchisees,4,2025-01-22
+31234,234,dedupe expired pickup slot for pickup,9,2025-04-26
+2423,553,tighten late delivery window at close,9,2025-03-14
+54525,333,expose stale order,1,2025-02-20
+86294,135,backfill expired tax line,9,2025-04-23
+77935,228,normalise expired promo,5,2025-10-21
+39965,200,document duplicate tax line,2,2025-01-13
+45238,612,rename cancelled bowl for franchisees,8,2025-03-12
+56564,660,dedupe partial loyalty credit on checkout,6,2025-02-17
+29140,468,dedupe oversized cart line in the queue,5,2025-03-23
+95953,697,trim stale ticket,3,2025-05-18
+62418,182,paginate late receipt,2,2025-07-28
+7320,488,guard expired loyalty credit,10,2025-05-17
+30963,320,backfill late order,7,2025-04-11
+86673,281,retry late order,8,2025-08-27
+66375,572,log stale order on checkout,1,2025-11-27
+47435,108,dedupe empty loyalty credit,12,2025-08-22

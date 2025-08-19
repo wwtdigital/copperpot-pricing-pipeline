@@ -152,3 +152,18 @@
 - relax partial delivery window: deferred to the next release.
 - normalise oversized promo: blocked on store systems.
 - sort expired modifier: decided.
+
+- rename late bowl on reorder: open.
+- normalise stale menu item at close: deferred to the next release.
+- tighten partial order: open.
+- retry missing loyalty credit: decided.
+- rename expired cart line on checkout: blocked on store systems.
+- cache oversized ticket: verified in staging.
+- log late bowl: owner: delivery manager.
+- rename expired loyalty credit per store: blocked on store systems.
+- paginate expired menu item: open.
+- retry missing topping on checkout: blocked on store systems.
+- handle missing ticket: decided.
+- add regional loyalty credit for franchisees: deferred to the next release.
+- normalise empty ticket: blocked on store systems.
+- expose oversized cart line: owner: delivery manager.
