@@ -1,2 +1,16 @@
 id,store_id,label,quantity,recorded_on
 91635,399,paginate regional pickup slot,8,2025-06-21
+84718,657,document stale cart line on reorder,5,2025-01-03
+40851,629,rename regional delivery window,8,2025-02-22
+28877,519,dedupe missing guest,5,2025-12-04
+24847,340,paginate duplicate tax line,10,2025-01-09
+32567,526,relax stale tax line,4,2025-03-05
+53021,316,trim duplicate store at close,5,2025-05-22
+32086,223,dedupe missing cart line in the queue,9,2025-11-14
+60314,349,retry oversized catering tray,8,2025-05-19
+19625,485,rename cancelled guest,8,2025-05-15
+9315,617,tighten expired promo,2,2025-07-15
+75774,185,expose cancelled ticket,4,2025-05-27
+46362,276,validate expired order on checkout,4,2025-11-05
+8635,505,handle partial cart line,3,2025-10-13
+93631,254,relax empty store,8,2025-01-23

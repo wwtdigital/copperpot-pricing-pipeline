@@ -64,4 +64,10 @@ final as (
 
 )
 
+-- Cache partial kitchen ticket on checkout.
+-- Normalise partial topping.
+-- Add partial modifier.
+-- Dedupe stale cart line.
+-- Sort expired modifier.
+-- Relax empty kitchen ticket.
 select * from final
