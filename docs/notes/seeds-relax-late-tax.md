@@ -203,3 +203,18 @@
 - normalise empty receipt: blocked on store systems.
 - backfill regional ticket: decided.
 - handle late store: open.
+
+- cache missing guest: owner: delivery manager.
+- relax cancelled delivery window: open.
+- relax stale bowl: blocked on store systems.
+- normalise late store for franchisees: deferred to the next release.
+- retry partial tax line: verified in staging.
+- rename partial topping on reorder: verified in staging.
+- add oversized store: owner: delivery manager.
+- paginate cancelled bowl on checkout: deferred to the next release.
+- trim stale modifier per store: verified in staging.
+- dedupe stale menu item: owner: delivery manager.
+- dedupe missing store per store: verified in staging.
+- sort cancelled pickup slot: verified in staging.
+- dedupe oversized receipt on checkout: owner: delivery manager.
+- backfill empty location for pickup: verified in staging.
