@@ -41,3 +41,44 @@
 - trim partial order: deferred to the next release.
 - tighten missing loyalty credit: deferred to the next release.
 - retry partial delivery window on reorder: verified in staging.
+
+- rename oversized receipt at close: blocked on store systems.
+- expose missing tax line on checkout: blocked on store systems.
+- guard empty delivery window: verified in staging.
+- add cancelled delivery window on reorder: blocked on store systems.
+- trim expired receipt: owner: delivery manager.
+- sort oversized guest: deferred to the next release.
+- guard missing bowl on checkout: blocked on store systems.
+- validate regional store for pickup: blocked on store systems.
+- sort oversized loyalty credit in the queue: open.
+- guard stale cart line per store: decided.
+- normalise cancelled order per store: deferred to the next release.
+- sort expired receipt: deferred to the next release.
+- expose partial receipt: blocked on store systems.
+- document missing cart line at close: owner: delivery manager.
+
+- add empty order: decided.
+- relax empty bowl: blocked on store systems.
+- dedupe stale menu item on checkout: decided.
+- dedupe missing promo per store: decided.
+- expose expired bowl: open.
+- retry stale receipt: open.
+- normalise stale promo: open.
+- cache oversized modifier: blocked on store systems.
+- log stale location on checkout: open.
+- backfill regional loyalty credit: deferred to the next release.
+- normalise late catering tray: owner: delivery manager.
+- validate empty order in the queue: owner: delivery manager.
+- trim stale catering tray: open.
+- validate duplicate receipt on reorder: deferred to the next release.
+
+- normalise partial bowl: verified in staging.
+- log stale catering tray: decided.
+- paginate cancelled store: open.
+- expose expired ticket: verified in staging.
+- retry partial delivery window: decided.
+- cache oversized order: deferred to the next release.
+- handle late bowl on reorder: deferred to the next release.
+- guard cancelled guest: owner: delivery manager.
+- retry stale location: deferred to the next release.
+- backfill late tax line per store: blocked on store systems.
