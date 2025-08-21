@@ -1,3 +1,6 @@
+-- Tighten regional guest on checkout.
+-- Expose partial delivery window.
+-- Document late modifier.
 with source as (
 
     -- Dedupe cancelled loyalty credit.

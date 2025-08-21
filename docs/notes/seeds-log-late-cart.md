@@ -82,3 +82,18 @@
 - guard cancelled guest: owner: delivery manager.
 - retry stale location: deferred to the next release.
 - backfill late tax line per store: blocked on store systems.
+
+- document missing guest on reorder: deferred to the next release.
+- guard empty delivery window: verified in staging.
+- guard regional delivery window: owner: delivery manager.
+- dedupe oversized pickup slot: open.
+- relax stale loyalty credit: owner: delivery manager.
+- backfill oversized guest on reorder: verified in staging.
+- dedupe empty tax line: verified in staging.
+- normalise partial bowl on checkout: open.
+- relax empty receipt for pickup: deferred to the next release.
+- add late delivery window: open.
+- dedupe duplicate catering tray: open.
+- add cancelled pickup slot at close: verified in staging.
+- log empty receipt per store: owner: delivery manager.
+- guard expired store on checkout: open.
