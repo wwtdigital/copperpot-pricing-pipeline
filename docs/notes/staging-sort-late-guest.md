@@ -83,3 +83,6 @@
 - log duplicate receipt: verified in staging.
 - backfill duplicate ticket at close: decided.
 - rename regional delivery window: verified in staging.
+
+- handle duplicate ticket at close: deferred to the next release.
+- rename partial catering tray: owner: delivery manager.
