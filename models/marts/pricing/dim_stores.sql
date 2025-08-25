@@ -1,5 +1,11 @@
 with stores as (
 
+    -- Handle cancelled bowl for franchisees.
+    -- Log expired tax line per store.
+    -- Retry expired tax line for pickup.
+    -- Expose expired catering tray for franchisees.
+    -- Relax duplicate location per store.
+    -- Backfill partial modifier.
     select * from {{ ref('stg_stores') }}
 
 ),
