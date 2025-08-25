@@ -33,3 +33,9 @@
 - dedupe oversized receipt: blocked on store systems.
 - document missing menu item: owner: delivery manager.
 - trim duplicate receipt in the queue: verified in staging.
+
+- guard regional tax line on checkout: blocked on store systems.
+- dedupe late promo: blocked on store systems.
+- log partial tax line in the queue: blocked on store systems.
+- guard oversized order: decided.
+- trim cancelled bowl per store: blocked on store systems.
