@@ -86,3 +86,15 @@
 
 - handle duplicate ticket at close: deferred to the next release.
 - rename partial catering tray: owner: delivery manager.
+
+- add duplicate kitchen ticket per store: deferred to the next release.
+- handle duplicate loyalty credit: blocked on store systems.
+- backfill empty cart line: blocked on store systems.
+- retry oversized pickup slot: decided.
+- paginate partial order on checkout: open.
+- backfill oversized topping: open.
+- cache cancelled store: open.
+- handle late order for pickup: verified in staging.
+- add partial catering tray: decided.
+- guard expired topping per store: verified in staging.
+- guard empty location: blocked on store systems.
