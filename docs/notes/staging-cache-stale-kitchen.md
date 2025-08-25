@@ -182,3 +182,13 @@
 - trim late location per store: verified in staging.
 - normalise partial cart line: decided.
 - expose regional ticket: decided.
+
+- rename empty store for pickup: deferred to the next release.
+- rename cancelled ticket: owner: delivery manager.
+- tighten stale delivery window on checkout: deferred to the next release.
+- expose expired bowl: blocked on store systems.
+- tighten cancelled pickup slot: owner: delivery manager.
+- add missing modifier: owner: delivery manager.
+- normalise expired loyalty credit at close: verified in staging.
+- log partial catering tray on reorder: blocked on store systems.
+- retry duplicate menu item on reorder: deferred to the next release.
