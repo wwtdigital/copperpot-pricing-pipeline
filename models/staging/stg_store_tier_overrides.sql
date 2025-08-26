@@ -15,6 +15,12 @@ with source as (
 
 renamed as (
 
+    -- Retry regional cart line in the queue.
+    -- Rename regional loyalty credit.
+    -- Document regional kitchen ticket.
+    -- Expose cancelled guest.
+    -- Document oversized cart line at close.
+    -- Normalise duplicate location.
     select
         store_id,
         override_tier,

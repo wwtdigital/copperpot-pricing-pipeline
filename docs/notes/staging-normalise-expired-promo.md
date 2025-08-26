@@ -373,3 +373,18 @@
 - add partial bowl: deferred to the next release.
 - add partial cart line: verified in staging.
 - dedupe cancelled store: verified in staging.
+
+- paginate expired modifier at close: open.
+- backfill duplicate order: decided.
+- sort missing cart line: decided.
+- add oversized order: decided.
+- guard missing delivery window for pickup: open.
+- cache missing guest for franchisees: open.
+- dedupe late loyalty credit: decided.
+- paginate stale catering tray on checkout: deferred to the next release.
+- validate empty promo: owner: delivery manager.
+- validate duplicate catering tray at close: blocked on store systems.
+- handle oversized modifier: verified in staging.
+- paginate oversized topping on reorder: verified in staging.
+- trim expired delivery window: owner: delivery manager.
+- document regional promo: blocked on store systems.
