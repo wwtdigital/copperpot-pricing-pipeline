@@ -137,3 +137,7 @@ id,store_id,label,quantity,recorded_on
 86673,281,retry late order,8,2025-08-27
 66375,572,log stale order on checkout,1,2025-11-27
 47435,108,dedupe empty loyalty credit,12,2025-08-22
+31775,120,rename stale promo,11,2025-10-07
+39627,576,paginate duplicate store for pickup,5,2025-02-20
+96603,502,normalise expired guest on checkout,1,2025-04-23
+27235,291,sort regional receipt,11,2025-02-15
