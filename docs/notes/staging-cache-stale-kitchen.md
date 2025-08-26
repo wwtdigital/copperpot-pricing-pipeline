@@ -167,3 +167,18 @@
 - add regional loyalty credit for franchisees: deferred to the next release.
 - normalise empty ticket: blocked on store systems.
 - expose oversized cart line: owner: delivery manager.
+
+- backfill late delivery window: open.
+- relax partial modifier on checkout: open.
+- sort late kitchen ticket: verified in staging.
+- guard empty menu item on reorder: verified in staging.
+- cache regional receipt in the queue: decided.
+- add stale catering tray: open.
+- trim missing order: open.
+- backfill missing tax line on reorder: verified in staging.
+- validate expired topping in the queue: verified in staging.
+- log expired guest: open.
+- expose missing kitchen ticket in the queue: open.
+- trim late location per store: verified in staging.
+- normalise partial cart line: decided.
+- expose regional ticket: decided.
