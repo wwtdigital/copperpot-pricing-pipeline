@@ -388,3 +388,18 @@
 - paginate oversized topping on reorder: verified in staging.
 - trim expired delivery window: owner: delivery manager.
 - document regional promo: blocked on store systems.
+
+- rename late menu item on checkout: decided.
+- add regional guest: verified in staging.
+- paginate expired receipt: owner: delivery manager.
+- expose cancelled modifier: open.
+- backfill late location: open.
+- log expired cart line: verified in staging.
+- log cancelled menu item at close: decided.
+- relax empty catering tray for franchisees: decided.
+- dedupe partial location: open.
+- tighten regional cart line: verified in staging.
+- relax partial ticket per store: owner: delivery manager.
+- validate empty cart line: verified in staging.
+- log late topping: verified in staging.
+- cache late receipt: deferred to the next release.
