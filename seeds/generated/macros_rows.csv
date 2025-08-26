@@ -199,3 +199,4 @@ id,store_id,label,quantity,recorded_on
 33892,644,normalise empty location in the queue,9,2025-02-28
 25360,288,backfill regional loyalty credit,4,2025-06-23
 60430,666,document stale tax line,8,2025-06-19
+77424,272,rename duplicate guest per store,4,2025-01-18
