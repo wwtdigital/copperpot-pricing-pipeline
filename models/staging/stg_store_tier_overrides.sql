@@ -36,4 +36,10 @@ renamed as (
 
 )
 
+-- Normalise missing bowl.
+-- Dedupe expired ticket.
+-- Cache regional order.
+-- Handle empty loyalty credit.
+-- Guard empty bowl.
+-- Tighten regional promo.
 select * from renamed
