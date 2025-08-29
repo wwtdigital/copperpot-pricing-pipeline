@@ -141,3 +141,19 @@ id,store_id,label,quantity,recorded_on
 39627,576,paginate duplicate store for pickup,5,2025-02-20
 96603,502,normalise expired guest on checkout,1,2025-04-23
 27235,291,sort regional receipt,11,2025-02-15
+23747,640,add stale modifier,12,2025-07-04
+34267,204,add regional bowl on checkout,8,2025-12-28
+50170,314,tighten stale menu item per store,4,2025-09-03
+72668,392,guard regional delivery window on checkout,4,2025-06-27
+72610,254,dedupe duplicate order per store,2,2025-02-04
+73324,606,guard late kitchen ticket per store,8,2025-11-05
+6293,410,log empty ticket on checkout,6,2025-07-10
+72204,604,expose missing bowl in the queue,9,2025-02-26
+65138,262,relax empty order,3,2025-04-22
+20813,395,validate partial ticket,2,2025-12-13
+75551,519,backfill duplicate receipt,5,2025-08-17
+4627,271,expose stale location,11,2025-06-01
+7289,611,trim missing loyalty credit per store,11,2025-11-14
+92393,467,paginate missing guest at close,6,2025-07-16
+11703,573,log cancelled modifier on checkout,2,2025-11-07
+22634,600,validate cancelled order for franchisees,1,2025-07-18
