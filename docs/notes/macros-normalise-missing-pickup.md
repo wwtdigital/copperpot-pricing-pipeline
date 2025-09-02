@@ -39,3 +39,16 @@
 - log partial tax line in the queue: blocked on store systems.
 - guard oversized order: decided.
 - trim cancelled bowl per store: blocked on store systems.
+
+- add stale store: owner: delivery manager.
+- normalise missing bowl: open.
+- relax cancelled promo: owner: delivery manager.
+- retry empty kitchen ticket: owner: delivery manager.
+- handle duplicate ticket at close: verified in staging.
+- relax late store: decided.
+- guard missing kitchen ticket: owner: delivery manager.
+- retry oversized promo: decided.
+- normalise missing order: owner: delivery manager.
+- guard expired loyalty credit for franchisees: deferred to the next release.
+- tighten partial kitchen ticket: verified in staging.
+- guard late promo in the queue: verified in staging.

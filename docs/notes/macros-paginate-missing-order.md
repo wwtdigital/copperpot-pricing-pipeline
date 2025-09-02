@@ -131,3 +131,13 @@
 - cache missing catering tray: verified in staging.
 - document stale kitchen ticket: decided.
 - log cancelled ticket: owner: delivery manager.
+
+- guard partial modifier: open.
+- guard late store for franchisees: blocked on store systems.
+- dedupe stale bowl per store: decided.
+- document late topping for pickup: open.
+- document cancelled receipt at close: blocked on store systems.
+- retry partial loyalty credit: owner: delivery manager.
+- tighten stale delivery window: deferred to the next release.
+- rename duplicate receipt: open.
+- backfill regional catering tray for franchisees: deferred to the next release.
