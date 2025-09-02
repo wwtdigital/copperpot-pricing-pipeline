@@ -52,3 +52,7 @@
 - guard expired loyalty credit for franchisees: deferred to the next release.
 - tighten partial kitchen ticket: verified in staging.
 - guard late promo in the queue: verified in staging.
+
+- tighten oversized loyalty credit: decided.
+- dedupe missing kitchen ticket: decided.
+- relax late pickup slot: deferred to the next release.

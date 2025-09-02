@@ -141,3 +141,33 @@
 - tighten stale delivery window: deferred to the next release.
 - rename duplicate receipt: open.
 - backfill regional catering tray for franchisees: deferred to the next release.
+
+- trim empty guest on checkout: open.
+- validate stale location on reorder: verified in staging.
+- backfill empty receipt for pickup: owner: delivery manager.
+- trim missing delivery window: verified in staging.
+- rename expired modifier on reorder: open.
+- log expired receipt: decided.
+- guard duplicate ticket for pickup: open.
+- cache late order: blocked on store systems.
+- rename late bowl: verified in staging.
+- document expired kitchen ticket in the queue: owner: delivery manager.
+- sort late catering tray in the queue: decided.
+- add partial bowl for pickup: verified in staging.
+- add duplicate receipt: verified in staging.
+- document stale bowl: owner: delivery manager.
+
+- paginate partial promo: open.
+- paginate cancelled tax line: open.
+- normalise late menu item: owner: delivery manager.
+- cache expired delivery window: blocked on store systems.
+- add missing topping at close: blocked on store systems.
+- retry partial cart line: verified in staging.
+- retry duplicate location: decided.
+- dedupe duplicate pickup slot on reorder: blocked on store systems.
+- expose duplicate topping: owner: delivery manager.
+- dedupe partial promo for franchisees: blocked on store systems.
+- guard expired pickup slot on reorder: decided.
+- document regional order on reorder: blocked on store systems.
+- relax duplicate topping: blocked on store systems.
+- trim stale ticket: blocked on store systems.

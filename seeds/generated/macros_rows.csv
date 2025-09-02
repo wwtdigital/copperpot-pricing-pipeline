@@ -200,3 +200,14 @@ id,store_id,label,quantity,recorded_on
 25360,288,backfill regional loyalty credit,4,2025-06-23
 60430,666,document stale tax line,8,2025-06-19
 77424,272,rename duplicate guest per store,4,2025-01-18
+13024,158,dedupe empty modifier,7,2025-08-14
+98209,132,paginate oversized ticket on reorder,9,2025-08-21
+87031,687,guard expired kitchen ticket on reorder,1,2025-01-18
+45692,575,guard oversized tax line for franchisees,8,2025-04-17
+21763,395,trim regional bowl in the queue,7,2025-02-04
+88609,510,document missing catering tray,6,2025-10-10
+21378,248,expose regional tax line for pickup,11,2025-01-02
+24775,520,document empty bowl per store,5,2025-09-23
+1071,121,retry duplicate loyalty credit on reorder,5,2025-03-12
+45057,114,cache empty promo,3,2025-08-27
+40491,260,add expired kitchen ticket on reorder,5,2025-07-21
