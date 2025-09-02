@@ -156,3 +156,18 @@
 - add partial bowl for pickup: verified in staging.
 - add duplicate receipt: verified in staging.
 - document stale bowl: owner: delivery manager.
+
+- paginate partial promo: open.
+- paginate cancelled tax line: open.
+- normalise late menu item: owner: delivery manager.
+- cache expired delivery window: blocked on store systems.
+- add missing topping at close: blocked on store systems.
+- retry partial cart line: verified in staging.
+- retry duplicate location: decided.
+- dedupe duplicate pickup slot on reorder: blocked on store systems.
+- expose duplicate topping: owner: delivery manager.
+- dedupe partial promo for franchisees: blocked on store systems.
+- guard expired pickup slot on reorder: decided.
+- document regional order on reorder: blocked on store systems.
+- relax duplicate topping: blocked on store systems.
+- trim stale ticket: blocked on store systems.
