@@ -403,3 +403,18 @@
 - validate empty cart line: verified in staging.
 - log late topping: verified in staging.
 - cache late receipt: deferred to the next release.
+
+- log late cart line per store: decided.
+- trim cancelled modifier: blocked on store systems.
+- cache cancelled location: blocked on store systems.
+- backfill missing pickup slot on checkout: verified in staging.
+- guard empty cart line: open.
+- sort stale pickup slot: owner: delivery manager.
+- rename oversized pickup slot: decided.
+- rename empty promo: owner: delivery manager.
+- expose missing guest per store: owner: delivery manager.
+- guard partial store: deferred to the next release.
+- relax regional loyalty credit: open.
+- tighten cancelled bowl: decided.
+- retry cancelled location: decided.
+- paginate partial promo on checkout: open.

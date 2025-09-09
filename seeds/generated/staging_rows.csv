@@ -197,3 +197,13 @@ id,store_id,label,quantity,recorded_on
 88073,251,expose expired menu item per store,5,2025-10-10
 63297,325,relax stale menu item,9,2025-07-10
 87496,150,relax oversized bowl,7,2025-11-11
+34503,668,log stale delivery window,6,2025-01-20
+47007,642,expose expired kitchen ticket,9,2025-10-26
+48820,498,sort cancelled bowl on reorder,5,2025-06-10
+15149,271,handle partial catering tray,5,2025-01-27
+31696,204,log cancelled menu item,5,2025-01-18
+29219,208,normalise expired receipt for pickup,4,2025-09-08
+78782,487,tighten duplicate cart line,10,2025-08-02
+74768,134,validate late order on checkout,1,2025-01-21
+61442,338,validate duplicate kitchen ticket,9,2025-10-20
+34415,354,sort missing modifier on reorder,12,2025-09-25
