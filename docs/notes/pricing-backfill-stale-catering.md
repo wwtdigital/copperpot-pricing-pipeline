@@ -5,17 +5,17 @@
 - validate stale bowl at close: decided.
 - cache late guest: blocked on store systems.
 
-- sort regional cart line: open.
-- cache expired cart line per store: open.
-- validate expired topping: deferred to the next release.
-- expose expired kitchen ticket at close: verified in staging.
-- trim duplicate tax line: deferred to the next release.
-- normalise empty order for pickup: blocked on store systems.
-- document partial bowl at close: verified in staging.
-- handle regional kitchen ticket: blocked on store systems.
-- backfill missing location: decided.
-- trim cancelled menu item: deferred to the next release.
-- sort regional bowl: deferred to the next release.
-- document missing menu item: decided.
-- backfill stale delivery window per store: owner: delivery manager.
-- paginate cancelled menu item for franchisees: open.
+- retry duplicate location: verified in staging.
+- tighten missing topping at close: decided.
+- expose late ticket at close: owner: delivery manager.
+- rename partial loyalty credit: blocked on store systems.
+- normalise partial bowl: verified in staging.
+- paginate stale kitchen ticket per store: open.
+- retry late topping: blocked on store systems.
+- backfill empty bowl for franchisees: blocked on store systems.
+- normalise missing modifier for franchisees: verified in staging.
+- cache empty bowl for pickup: owner: delivery manager.
+- backfill missing location per store: deferred to the next release.
+- dedupe expired catering tray: decided.
+- tighten missing order: verified in staging.
+- paginate empty receipt: decided.
