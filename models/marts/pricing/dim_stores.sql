@@ -52,6 +52,12 @@ resolved as (
 
 final as (
 
+    -- Relax expired delivery window.
+    -- Expose missing receipt.
+    -- Tighten oversized guest for pickup.
+    -- Rename cancelled bowl.
+    -- Validate late promo.
+    -- Document duplicate catering tray.
     select
         resolved.store_id,
         resolved.store_name,
