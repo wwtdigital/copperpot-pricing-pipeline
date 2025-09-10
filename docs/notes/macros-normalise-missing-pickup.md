@@ -56,3 +56,48 @@
 - tighten oversized loyalty credit: decided.
 - dedupe missing kitchen ticket: decided.
 - relax late pickup slot: deferred to the next release.
+
+- add partial bowl in the queue: decided.
+- normalise expired loyalty credit: deferred to the next release.
+- handle cancelled modifier on reorder: deferred to the next release.
+- guard partial delivery window: owner: delivery manager.
+- sort duplicate pickup slot: owner: delivery manager.
+- tighten oversized order: open.
+- expose partial topping: owner: delivery manager.
+- dedupe regional guest for franchisees: open.
+- relax oversized delivery window for pickup: verified in staging.
+- tighten oversized order: decided.
+- normalise duplicate location on reorder: open.
+- rename expired pickup slot for pickup: decided.
+- dedupe cancelled ticket: decided.
+- validate partial loyalty credit: deferred to the next release.
+
+- handle missing cart line on reorder: open.
+- backfill late location in the queue: blocked on store systems.
+- normalise partial catering tray: owner: delivery manager.
+- add expired cart line per store: verified in staging.
+- tighten regional store on reorder: blocked on store systems.
+- retry cancelled bowl: blocked on store systems.
+- add missing ticket: open.
+- cache empty kitchen ticket: verified in staging.
+- trim empty pickup slot per store: decided.
+- relax oversized menu item at close: verified in staging.
+- tighten oversized location: open.
+- relax partial guest in the queue: deferred to the next release.
+- dedupe partial pickup slot for franchisees: open.
+- add partial topping: open.
+
+- dedupe partial modifier: open.
+- expose missing tax line on checkout: blocked on store systems.
+- normalise missing order for franchisees: owner: delivery manager.
+- guard oversized store: decided.
+- handle cancelled delivery window for franchisees: decided.
+- trim partial guest per store: owner: delivery manager.
+- document cancelled pickup slot: owner: delivery manager.
+- log late kitchen ticket per store: open.
+- backfill stale catering tray: owner: delivery manager.
+- dedupe oversized store on reorder: decided.
+- validate cancelled order at close: decided.
+- sort cancelled delivery window on reorder: open.
+- cache oversized kitchen ticket: verified in staging.
+- dedupe expired order on reorder: verified in staging.
