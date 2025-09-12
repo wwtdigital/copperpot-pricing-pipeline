@@ -166,3 +166,83 @@ id,store_id,label,quantity,recorded_on
 2120,617,retry missing receipt,2,2025-03-15
 68104,663,backfill missing bowl per store,7,2025-08-16
 70068,199,trim cancelled modifier,1,2025-07-28
+95560,361,handle late guest,6,2025-02-15
+65319,186,validate oversized order at close,12,2025-03-22
+80430,612,dedupe late menu item for franchisees,2,2025-01-01
+55169,661,cache expired catering tray for pickup,7,2025-10-09
+53123,478,log partial catering tray at close,12,2025-07-07
+74842,453,guard empty order,10,2025-01-04
+43119,575,cache late delivery window in the queue,10,2025-01-04
+57267,265,normalise oversized kitchen ticket,3,2025-09-19
+43394,226,expose stale pickup slot,2,2025-11-19
+60423,405,document duplicate location,5,2025-10-12
+19230,418,relax partial ticket,6,2025-04-16
+81946,491,handle partial modifier on reorder,1,2025-04-03
+94423,461,handle late location,5,2025-07-02
+91006,149,expose late guest,12,2025-02-06
+6478,119,tighten partial order on checkout,12,2025-10-28
+42475,356,expose regional receipt in the queue,7,2025-03-15
+41811,187,tighten regional bowl,1,2025-12-16
+10677,362,sort duplicate store for pickup,1,2025-08-15
+5028,352,document partial modifier,6,2025-02-23
+77173,114,normalise oversized order per store,11,2025-03-06
+82112,508,rename empty menu item for franchisees,12,2025-01-07
+58903,587,normalise late menu item,6,2025-12-11
+34183,651,guard duplicate cart line,7,2025-08-22
+49785,462,retry partial guest at close,12,2025-06-26
+89706,520,log regional cart line,4,2025-05-13
+48686,576,tighten late cart line in the queue,8,2025-05-06
+28101,676,paginate empty delivery window,2,2025-01-15
+28553,391,sort stale cart line for pickup,3,2025-06-13
+14084,491,normalise regional cart line,11,2025-04-14
+35697,358,trim expired guest for franchisees,9,2025-08-10
+7488,605,handle missing topping,8,2025-09-19
+79621,296,rename duplicate receipt at close,8,2025-07-01
+98825,206,trim empty guest per store,3,2025-10-12
+68697,233,validate missing menu item for pickup,3,2025-12-08
+29238,699,add oversized modifier,8,2025-02-20
+16993,669,backfill missing cart line in the queue,3,2025-10-12
+71604,389,retry stale loyalty credit,11,2025-08-17
+24257,329,paginate partial catering tray,4,2025-12-07
+90871,248,sort regional topping per store,3,2025-10-13
+39249,327,guard empty store for franchisees,3,2025-08-26
+45545,570,document missing bowl,4,2025-05-13
+18627,463,trim empty pickup slot on checkout,4,2025-12-10
+51549,389,rename cancelled bowl,7,2025-05-10
+99899,184,paginate expired bowl per store,6,2025-01-24
+4943,275,handle late location,2,2025-05-12
+68006,558,sort oversized store in the queue,3,2025-07-28
+95615,580,log stale pickup slot,12,2025-06-05
+53850,199,validate late location on reorder,11,2025-11-02
+92039,671,retry late modifier,7,2025-12-18
+85311,479,backfill late cart line per store,5,2025-04-20
+4323,530,guard oversized loyalty credit,5,2025-08-21
+98637,695,rename late store,10,2025-03-02
+41022,153,document empty guest on checkout,2,2025-06-18
+89142,274,guard partial cart line,3,2025-04-17
+69383,363,backfill empty promo on checkout,9,2025-09-27
+44863,380,relax oversized delivery window on checkout,10,2025-11-08
+84683,523,backfill partial topping for pickup,3,2025-07-20
+23654,143,document empty bowl,5,2025-05-25
+62761,500,guard late guest,10,2025-04-25
+5442,642,log missing guest,7,2025-02-04
+87759,690,document cancelled cart line,12,2025-07-17
+30932,510,cache cancelled topping per store,9,2025-03-04
+40881,127,dedupe expired topping per store,5,2025-07-25
+77012,538,backfill empty delivery window,7,2025-09-09
+82527,347,trim duplicate location,7,2025-09-05
+42011,192,retry stale promo,6,2025-03-20
+7710,205,log partial location,3,2025-04-02
+15485,258,trim expired delivery window,4,2025-04-19
+69768,648,backfill missing store on checkout,4,2025-06-15
+74988,404,handle oversized ticket at close,1,2025-07-21
+62397,350,paginate missing promo for franchisees,9,2025-07-21
+23586,456,log regional store,7,2025-10-25
+55876,188,rename partial tax line per store,8,2025-08-08
+78211,122,guard missing tax line per store,9,2025-04-24
+82364,483,retry stale tax line in the queue,9,2025-02-06
+68007,329,relax missing loyalty credit in the queue,6,2025-09-06
+99385,573,retry oversized topping,12,2025-10-22
+37514,508,document cancelled guest on checkout,2,2025-12-22
+47326,619,expose expired menu item,6,2025-01-04
+88936,508,handle duplicate pickup slot on checkout,3,2025-11-01
