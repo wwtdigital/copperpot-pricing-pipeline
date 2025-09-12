@@ -184,3 +184,11 @@
 - relax stale location: verified in staging.
 - guard cancelled bowl: decided.
 - expose cancelled catering tray: verified in staging.
+
+- handle cancelled pickup slot: verified in staging.
+- cache oversized catering tray per store: blocked on store systems.
+- tighten partial promo per store: open.
+- rename expired tax line: open.
+- expose missing promo: owner: delivery manager.
+- dedupe expired tax line: verified in staging.
+- dedupe oversized modifier: open.
