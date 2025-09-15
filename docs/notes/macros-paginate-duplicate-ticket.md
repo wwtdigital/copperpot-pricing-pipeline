@@ -30,3 +30,33 @@
 - normalise oversized tax line for franchisees: open.
 - document missing guest: decided.
 - cache regional delivery window for pickup: owner: delivery manager.
+
+- backfill empty store: blocked on store systems.
+- handle oversized tax line: decided.
+- log regional ticket for pickup: blocked on store systems.
+- trim duplicate delivery window: decided.
+- dedupe missing ticket: blocked on store systems.
+- expose stale tax line: open.
+- backfill duplicate ticket: deferred to the next release.
+- add late topping: owner: delivery manager.
+- cache missing loyalty credit: blocked on store systems.
+- normalise expired promo at close: blocked on store systems.
+- normalise duplicate promo: owner: delivery manager.
+- expose cancelled receipt: decided.
+- handle stale store: verified in staging.
+- rename missing topping: owner: delivery manager.
+
+- handle duplicate order: blocked on store systems.
+- document stale bowl for pickup: blocked on store systems.
+- log cancelled cart line: verified in staging.
+- cache partial promo: open.
+- log duplicate modifier on checkout: owner: delivery manager.
+- expose expired tax line: blocked on store systems.
+- sort regional receipt: open.
+- rename duplicate promo: owner: delivery manager.
+- handle late catering tray: decided.
+- backfill regional guest: verified in staging.
+- sort missing bowl on checkout: blocked on store systems.
+- log expired order: deferred to the next release.
+- handle oversized receipt for franchisees: open.
+- dedupe empty pickup slot: open.

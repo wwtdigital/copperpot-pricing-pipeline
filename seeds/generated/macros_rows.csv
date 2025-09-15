@@ -279,3 +279,43 @@ id,store_id,label,quantity,recorded_on
 34954,237,dedupe expired guest,2,2025-10-05
 91361,587,document cancelled guest,7,2025-09-06
 60825,186,trim late location,4,2025-10-20
+66964,219,normalise empty delivery window on checkout,6,2025-08-14
+26580,250,log expired delivery window,8,2025-06-21
+81332,267,expose cancelled menu item,1,2025-11-01
+79288,206,dedupe expired catering tray,12,2025-02-10
+87189,649,paginate partial catering tray,5,2025-04-24
+38262,514,paginate expired cart line at close,5,2025-03-11
+57822,558,add duplicate tax line on reorder,7,2025-11-01
+47931,251,retry cancelled bowl for pickup,9,2025-09-25
+97830,370,rename late cart line,3,2025-02-05
+55622,537,validate regional loyalty credit on reorder,3,2025-09-16
+87491,427,relax late pickup slot,7,2025-08-03
+47208,326,document cancelled delivery window,2,2025-04-07
+81072,632,retry cancelled ticket,9,2025-02-10
+93560,327,validate missing kitchen ticket,6,2025-11-26
+39449,519,trim stale loyalty credit,11,2025-07-22
+4723,602,cache late modifier,10,2025-04-19
+28920,158,rename empty store on checkout,4,2025-05-14
+39691,415,document expired catering tray at close,1,2025-08-06
+92310,651,tighten stale menu item in the queue,11,2025-08-09
+23024,410,validate missing cart line in the queue,12,2025-09-04
+11688,663,retry missing catering tray per store,7,2025-05-06
+41747,689,document expired menu item on reorder,12,2025-04-02
+22330,500,add partial delivery window,6,2025-06-01
+74305,536,trim regional guest,4,2025-02-02
+41426,504,expose duplicate loyalty credit,11,2025-12-22
+3306,282,retry regional catering tray on reorder,10,2025-07-01
+62294,344,relax late modifier,6,2025-05-23
+69852,142,tighten regional promo,12,2025-09-21
+26592,261,rename empty delivery window,7,2025-09-14
+15808,677,expose empty bowl,12,2025-06-14
+84173,501,guard oversized guest,11,2025-10-15
+74073,116,rename stale menu item,2,2025-08-24
+24198,162,guard late guest,9,2025-12-05
+75994,284,backfill expired bowl,6,2025-07-22
+63211,206,document stale receipt,4,2025-05-15
+33516,685,dedupe late kitchen ticket per store,10,2025-08-19
+34127,481,log regional menu item in the queue,8,2025-01-26
+32364,679,paginate late receipt,8,2025-05-24
+82650,631,validate empty catering tray for franchisees,3,2025-05-24
+7637,251,tighten regional promo,6,2025-02-19
