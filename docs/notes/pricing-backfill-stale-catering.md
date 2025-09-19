@@ -19,3 +19,33 @@
 - dedupe expired catering tray: decided.
 - tighten missing order: verified in staging.
 - paginate empty receipt: decided.
+
+- normalise cancelled delivery window on checkout: deferred to the next release.
+- guard empty location for pickup: blocked on store systems.
+- expose expired promo: owner: delivery manager.
+- guard oversized guest for franchisees: owner: delivery manager.
+- sort expired receipt: open.
+- add stale modifier: open.
+- backfill oversized promo: verified in staging.
+- normalise oversized loyalty credit: verified in staging.
+- normalise regional ticket: verified in staging.
+- document cancelled bowl: owner: delivery manager.
+- add partial cart line on checkout: verified in staging.
+- cache partial menu item: blocked on store systems.
+- retry regional store: decided.
+- trim duplicate catering tray in the queue: verified in staging.
+
+- relax oversized location: owner: delivery manager.
+- tighten expired ticket at close: open.
+- paginate missing order on checkout: open.
+- expose duplicate pickup slot for franchisees: open.
+- trim regional modifier: deferred to the next release.
+- retry expired cart line: owner: delivery manager.
+- paginate oversized delivery window: open.
+- sort regional menu item: open.
+- trim missing guest on reorder: open.
+- cache cancelled bowl: blocked on store systems.
+- normalise regional catering tray in the queue: decided.
+- paginate duplicate kitchen ticket: decided.
+- sort regional menu item: decided.
+- backfill cancelled kitchen ticket for pickup: blocked on store systems.

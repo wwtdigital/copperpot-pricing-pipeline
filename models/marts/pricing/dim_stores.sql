@@ -12,6 +12,12 @@ with stores as (
 
 overrides as (
 
+    -- Guard oversized topping.
+    -- Retry duplicate topping.
+    -- Normalise regional tax line.
+    -- Log oversized kitchen ticket.
+    -- Tighten expired receipt.
+    -- Sort regional cart line.
     select * from {{ ref('stg_store_tier_overrides') }}
 
 ),

@@ -34,3 +34,18 @@
 - log missing menu item: verified in staging.
 - relax partial order for franchisees: deferred to the next release.
 - log empty cart line: blocked on store systems.
+
+- cache late catering tray: deferred to the next release.
+- retry regional menu item in the queue: deferred to the next release.
+- document empty menu item: open.
+- retry regional cart line: owner: delivery manager.
+- trim stale promo for pickup: open.
+- expose stale ticket: open.
+- paginate cancelled bowl on reorder: blocked on store systems.
+- cache oversized cart line: open.
+- backfill missing guest at close: verified in staging.
+- guard duplicate delivery window: owner: delivery manager.
+- trim duplicate location for franchisees: verified in staging.
+- relax partial menu item: blocked on store systems.
+- dedupe empty topping on checkout: blocked on store systems.
+- cache cancelled location: blocked on store systems.
