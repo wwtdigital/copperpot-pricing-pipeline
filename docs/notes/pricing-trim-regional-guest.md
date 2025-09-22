@@ -44,3 +44,14 @@
 - normalise missing kitchen ticket per store: open.
 - guard empty receipt: decided.
 - document regional topping at close: decided.
+
+- handle expired modifier for pickup: deferred to the next release.
+- rename regional pickup slot: deferred to the next release.
+- guard duplicate location: verified in staging.
+- paginate missing catering tray per store: owner: delivery manager.
+- relax expired bowl at close: open.
+- normalise empty location: owner: delivery manager.
+- retry expired delivery window in the queue: open.
+- add late ticket: deferred to the next release.
+- tighten expired modifier: open.
+- sort missing tax line: blocked on store systems.
