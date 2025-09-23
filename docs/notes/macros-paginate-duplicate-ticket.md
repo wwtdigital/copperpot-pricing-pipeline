@@ -60,3 +60,18 @@
 - log expired order: deferred to the next release.
 - handle oversized receipt for franchisees: open.
 - dedupe empty pickup slot: open.
+
+- log stale pickup slot: open.
+- paginate stale tax line: decided.
+- dedupe duplicate kitchen ticket: open.
+- handle missing promo: blocked on store systems.
+- add duplicate catering tray for franchisees: open.
+- rename regional bowl: blocked on store systems.
+- sort duplicate kitchen ticket: open.
+- retry partial guest: decided.
+- guard empty delivery window per store: verified in staging.
+- cache expired kitchen ticket: decided.
+- cache late guest: blocked on store systems.
+- document oversized loyalty credit: verified in staging.
+- handle oversized cart line: verified in staging.
+- guard empty loyalty credit on checkout: blocked on store systems.

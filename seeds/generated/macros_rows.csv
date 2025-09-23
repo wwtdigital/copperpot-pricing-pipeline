@@ -1,0 +1,7 @@
+id,store_id,label,quantity,recorded_on
+47964,487,document stale order at close,1,2025-02-03
+79671,124,normalise partial pickup slot,5,2025-05-23
+56839,337,validate regional topping,4,2025-02-03
+80815,623,cache stale guest on checkout,12,2025-06-06
+30728,276,normalise partial location at close,3,2025-02-06
+11665,595,rename oversized guest,9,2025-04-05
