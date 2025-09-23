@@ -101,3 +101,16 @@
 - sort cancelled delivery window on reorder: open.
 - cache oversized kitchen ticket: verified in staging.
 - dedupe expired order on reorder: verified in staging.
+
+- guard oversized promo per store: deferred to the next release.
+- validate partial bowl: owner: delivery manager.
+- document partial topping: decided.
+- cache late ticket: owner: delivery manager.
+- trim oversized catering tray for pickup: verified in staging.
+- add late delivery window: verified in staging.
+- paginate partial guest: deferred to the next release.
+- validate missing promo: owner: delivery manager.
+- backfill missing kitchen ticket on reorder: verified in staging.
+- sort regional location: decided.
+- cache duplicate order on checkout: verified in staging.
+- handle partial receipt at close: blocked on store systems.
