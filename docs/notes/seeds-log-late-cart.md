@@ -82,3 +82,15 @@
 - guard cancelled guest: owner: delivery manager.
 - retry stale location: deferred to the next release.
 - backfill late tax line per store: blocked on store systems.
+
+- validate late order for franchisees: deferred to the next release.
+- log regional topping at close: owner: delivery manager.
+- relax expired catering tray on reorder: verified in staging.
+- tighten late modifier: open.
+- add partial loyalty credit: blocked on store systems.
+- trim expired promo: blocked on store systems.
+- guard missing bowl: blocked on store systems.
+- add empty store in the queue: blocked on store systems.
+- rename missing pickup slot: deferred to the next release.
+- relax stale topping on reorder: deferred to the next release.
+- backfill duplicate promo: blocked on store systems.

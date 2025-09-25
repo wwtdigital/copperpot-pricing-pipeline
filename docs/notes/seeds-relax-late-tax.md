@@ -192,3 +192,6 @@
 - expose missing promo: owner: delivery manager.
 - dedupe expired tax line: verified in staging.
 - dedupe oversized modifier: open.
+
+- backfill partial bowl: deferred to the next release.
+- relax stale cart line: deferred to the next release.
