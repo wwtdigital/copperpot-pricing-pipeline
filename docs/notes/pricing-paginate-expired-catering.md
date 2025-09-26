@@ -49,3 +49,18 @@
 - relax partial menu item: blocked on store systems.
 - dedupe empty topping on checkout: blocked on store systems.
 - cache cancelled location: blocked on store systems.
+
+- dedupe cancelled bowl: verified in staging.
+- log missing kitchen ticket: verified in staging.
+- add late location: decided.
+- backfill empty kitchen ticket in the queue: decided.
+- sort partial cart line: verified in staging.
+- handle late kitchen ticket: owner: delivery manager.
+- normalise oversized modifier in the queue: decided.
+- expose cancelled pickup slot: decided.
+- rename expired order: deferred to the next release.
+- add oversized catering tray: owner: delivery manager.
+- guard partial bowl at close: owner: delivery manager.
+- sort duplicate promo in the queue: decided.
+- rename missing receipt on checkout: owner: delivery manager.
+- add expired menu item: owner: delivery manager.
