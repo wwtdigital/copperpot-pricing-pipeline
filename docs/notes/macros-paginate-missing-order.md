@@ -171,3 +171,32 @@
 - document regional order on reorder: blocked on store systems.
 - relax duplicate topping: blocked on store systems.
 - trim stale ticket: blocked on store systems.
+
+- add partial tax line: decided.
+- document missing catering tray for pickup: open.
+- sort late topping: open.
+- trim partial menu item: decided.
+- handle late loyalty credit: deferred to the next release.
+- normalise duplicate kitchen ticket for pickup: decided.
+- log missing pickup slot on checkout: open.
+- relax stale loyalty credit on checkout: verified in staging.
+- dedupe expired menu item: blocked on store systems.
+- add expired promo: blocked on store systems.
+- guard empty receipt for pickup: open.
+- log duplicate ticket: decided.
+- cache missing modifier: owner: delivery manager.
+- log stale store: blocked on store systems.
+
+- add missing delivery window: owner: delivery manager.
+- paginate late store in the queue: verified in staging.
+- guard expired menu item: owner: delivery manager.
+- validate stale ticket: owner: delivery manager.
+- dedupe cancelled delivery window on checkout: blocked on store systems.
+- sort expired menu item: open.
+- backfill partial kitchen ticket: deferred to the next release.
+- trim regional modifier: verified in staging.
+- backfill cancelled receipt: owner: delivery manager.
+- handle duplicate pickup slot at close: blocked on store systems.
+- sort cancelled guest: decided.
+- validate late location for franchisees: owner: delivery manager.
+- cache expired delivery window: deferred to the next release.
