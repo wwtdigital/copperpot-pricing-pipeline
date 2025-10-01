@@ -75,3 +75,18 @@
 - document oversized loyalty credit: verified in staging.
 - handle oversized cart line: verified in staging.
 - guard empty loyalty credit on checkout: blocked on store systems.
+
+- normalise oversized topping: decided.
+- add missing receipt per store: decided.
+- sort duplicate location: decided.
+- add cancelled guest: decided.
+- normalise expired delivery window: deferred to the next release.
+- retry regional bowl: deferred to the next release.
+- validate expired pickup slot: deferred to the next release.
+- add regional receipt per store: owner: delivery manager.
+- expose empty location for franchisees: verified in staging.
+- backfill stale location: blocked on store systems.
+- handle duplicate tax line: open.
+- tighten duplicate store: open.
+- guard late tax line: owner: delivery manager.
+- rename oversized bowl: open.
