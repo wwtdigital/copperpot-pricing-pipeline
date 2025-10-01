@@ -207,3 +207,16 @@ id,store_id,label,quantity,recorded_on
 74768,134,validate late order on checkout,1,2025-01-21
 61442,338,validate duplicate kitchen ticket,9,2025-10-20
 34415,354,sort missing modifier on reorder,12,2025-09-25
+84035,246,tighten cancelled delivery window in the queue,11,2025-09-27
+10976,341,expose oversized catering tray,11,2025-01-08
+1843,456,validate partial loyalty credit,4,2025-10-16
+8803,118,guard expired cart line,1,2025-08-20
+78091,161,trim empty topping,2,2025-07-08
+51649,200,log duplicate order,9,2025-11-08
+58371,631,normalise expired promo for franchisees,9,2025-11-12
+19268,246,log empty delivery window on checkout,6,2025-10-05
+47088,342,document stale kitchen ticket on checkout,4,2025-09-18
+87634,139,trim regional tax line on reorder,5,2025-06-08
+95636,185,retry late kitchen ticket on reorder,10,2025-11-10
+23142,262,sort duplicate receipt for franchisees,5,2025-06-03
+78626,284,document stale catering tray,6,2025-11-19

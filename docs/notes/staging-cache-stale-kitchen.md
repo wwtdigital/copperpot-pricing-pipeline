@@ -192,3 +192,18 @@
 - normalise expired loyalty credit at close: verified in staging.
 - log partial catering tray on reorder: blocked on store systems.
 - retry duplicate menu item on reorder: deferred to the next release.
+
+- guard regional promo for franchisees: verified in staging.
+- add expired topping: deferred to the next release.
+- document cancelled kitchen ticket: deferred to the next release.
+- normalise missing topping: decided.
+- document late tax line: deferred to the next release.
+- dedupe partial loyalty credit: owner: delivery manager.
+- log expired loyalty credit for pickup: open.
+- expose stale ticket in the queue: decided.
+- log late bowl: owner: delivery manager.
+- rename expired delivery window: owner: delivery manager.
+- document empty store: decided.
+- handle expired location for franchisees: owner: delivery manager.
+- handle expired ticket on checkout: open.
+- validate late loyalty credit: decided.
