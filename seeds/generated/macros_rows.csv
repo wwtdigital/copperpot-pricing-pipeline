@@ -5,3 +5,39 @@ id,store_id,label,quantity,recorded_on
 80815,623,cache stale guest on checkout,12,2025-06-06
 30728,276,normalise partial location at close,3,2025-02-06
 11665,595,rename oversized guest,9,2025-04-05
+44596,289,document cancelled promo,7,2025-03-02
+7240,698,guard missing delivery window,11,2025-02-08
+14194,576,document cancelled store,10,2025-12-21
+61104,201,paginate regional delivery window on reorder,4,2025-04-14
+62527,566,document oversized pickup slot,4,2025-06-28
+84183,482,tighten missing order in the queue,9,2025-08-02
+29105,360,backfill expired location,7,2025-09-09
+47156,651,cache duplicate guest in the queue,2,2025-09-09
+64912,343,validate oversized promo for pickup,7,2025-11-21
+29253,281,dedupe stale kitchen ticket on checkout,4,2025-12-10
+40464,443,log regional topping,10,2025-01-05
+95298,481,document missing bowl in the queue,4,2025-12-25
+11545,523,validate cancelled promo,3,2025-09-04
+9064,414,handle stale cart line,8,2025-11-26
+21572,304,add missing topping in the queue,11,2025-01-01
+11763,461,trim empty bowl,4,2025-11-19
+24306,658,validate regional pickup slot,1,2025-01-13
+76053,572,relax regional loyalty credit,8,2025-03-11
+45435,589,sort cancelled modifier,5,2025-04-07
+87206,220,trim stale receipt,7,2025-10-24
+51405,647,dedupe cancelled store on checkout,7,2025-08-23
+12731,555,dedupe regional guest on checkout,2,2025-08-21
+7001,310,sort regional promo per store,11,2025-09-27
+47096,593,add partial receipt,4,2025-08-12
+57802,148,document missing receipt at close,5,2025-12-22
+52995,433,guard missing guest,11,2025-11-24
+8031,201,tighten regional kitchen ticket per store,6,2025-03-12
+43956,287,trim late catering tray for pickup,11,2025-12-15
+9144,451,guard cancelled order,9,2025-09-09
+59803,351,backfill cancelled modifier in the queue,3,2025-12-12
+56552,656,validate oversized tax line for pickup,8,2025-11-15
+33266,368,relax duplicate menu item in the queue,3,2025-07-25
+53849,544,sort expired location,8,2025-03-18
+43774,458,rename expired menu item,1,2025-08-09
+46724,632,rename duplicate kitchen ticket,8,2025-07-19
+19564,559,backfill empty menu item for pickup,12,2025-11-15
