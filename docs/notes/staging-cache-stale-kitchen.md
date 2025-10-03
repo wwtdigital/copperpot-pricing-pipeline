@@ -192,3 +192,42 @@
 - normalise expired loyalty credit at close: verified in staging.
 - log partial catering tray on reorder: blocked on store systems.
 - retry duplicate menu item on reorder: deferred to the next release.
+
+- guard regional promo for franchisees: verified in staging.
+- add expired topping: deferred to the next release.
+- document cancelled kitchen ticket: deferred to the next release.
+- normalise missing topping: decided.
+- document late tax line: deferred to the next release.
+- dedupe partial loyalty credit: owner: delivery manager.
+- log expired loyalty credit for pickup: open.
+- expose stale ticket in the queue: decided.
+- log late bowl: owner: delivery manager.
+- rename expired delivery window: owner: delivery manager.
+- document empty store: decided.
+- handle expired location for franchisees: owner: delivery manager.
+- handle expired ticket on checkout: open.
+- validate late loyalty credit: decided.
+
+- backfill expired cart line: deferred to the next release.
+- normalise late modifier on reorder: owner: delivery manager.
+- log cancelled loyalty credit at close: deferred to the next release.
+- normalise cancelled order: verified in staging.
+- trim stale catering tray: owner: delivery manager.
+- document partial catering tray: blocked on store systems.
+- paginate missing promo: blocked on store systems.
+- rename cancelled tax line for pickup: open.
+- document oversized topping: verified in staging.
+- add partial cart line for franchisees: blocked on store systems.
+- validate missing menu item: blocked on store systems.
+- sort duplicate catering tray per store: deferred to the next release.
+- log duplicate bowl: blocked on store systems.
+- cache missing pickup slot on reorder: decided.
+
+- log duplicate loyalty credit: owner: delivery manager.
+- trim late bowl: verified in staging.
+- rename cancelled catering tray on reorder: verified in staging.
+- rename stale guest at close: open.
+- backfill cancelled kitchen ticket at close: decided.
+- relax late catering tray for pickup: owner: delivery manager.
+- cache expired promo for pickup: blocked on store systems.
+- add stale loyalty credit: open.
