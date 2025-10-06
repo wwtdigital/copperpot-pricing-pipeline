@@ -200,3 +200,12 @@
 - sort cancelled guest: decided.
 - validate late location for franchisees: owner: delivery manager.
 - cache expired delivery window: deferred to the next release.
+
+- relax missing guest: open.
+- sort empty bowl on reorder: open.
+- tighten expired loyalty credit: verified in staging.
+- dedupe empty pickup slot: open.
+- handle partial receipt: open.
+- log oversized store: owner: delivery manager.
+- retry cancelled catering tray: decided.
+- backfill expired catering tray: verified in staging.
