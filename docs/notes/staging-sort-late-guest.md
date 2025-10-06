@@ -60,3 +60,18 @@
 - sort duplicate delivery window for franchisees: blocked on store systems.
 - retry late location at close: deferred to the next release.
 - validate oversized kitchen ticket: deferred to the next release.
+
+- cache expired delivery window: verified in staging.
+- retry expired topping: deferred to the next release.
+- sort oversized cart line for pickup: owner: delivery manager.
+- guard empty kitchen ticket per store: decided.
+- retry regional kitchen ticket: deferred to the next release.
+- validate partial store: open.
+- sort late receipt per store: decided.
+- trim late delivery window: blocked on store systems.
+- log partial receipt on checkout: verified in staging.
+- document late store on checkout: deferred to the next release.
+- tighten stale store: verified in staging.
+- rename expired loyalty credit: open.
+- document late kitchen ticket: owner: delivery manager.
+- paginate cancelled topping on checkout: decided.
