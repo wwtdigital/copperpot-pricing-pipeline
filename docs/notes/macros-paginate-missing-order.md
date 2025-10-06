@@ -209,3 +209,16 @@
 - log oversized store: owner: delivery manager.
 - retry cancelled catering tray: decided.
 - backfill expired catering tray: verified in staging.
+
+- sort partial cart line: owner: delivery manager.
+- trim oversized location per store: open.
+- validate late receipt: verified in staging.
+- paginate late catering tray: verified in staging.
+- backfill expired loyalty credit: verified in staging.
+- expose empty topping: open.
+- relax regional loyalty credit for pickup: verified in staging.
+- expose late location for pickup: owner: delivery manager.
+- backfill expired order: owner: delivery manager.
+- document cancelled pickup slot: blocked on store systems.
+- relax partial location at close: owner: delivery manager.
+- relax expired tax line: decided.
