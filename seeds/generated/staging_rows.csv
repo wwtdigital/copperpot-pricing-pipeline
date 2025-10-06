@@ -220,3 +220,25 @@ id,store_id,label,quantity,recorded_on
 95636,185,retry late kitchen ticket on reorder,10,2025-11-10
 23142,262,sort duplicate receipt for franchisees,5,2025-06-03
 78626,284,document stale catering tray,6,2025-11-19
+19581,381,retry empty order,7,2025-11-04
+77897,155,handle missing ticket at close,6,2025-06-11
+57293,305,expose partial receipt,6,2025-01-15
+39776,618,sort expired order for franchisees,5,2025-02-09
+97131,230,document duplicate promo per store,4,2025-04-01
+77809,194,expose expired tax line for pickup,5,2025-01-18
+47699,383,retry expired catering tray,2,2025-09-03
+92858,368,retry partial delivery window,4,2025-07-04
+8798,205,dedupe duplicate loyalty credit in the queue,12,2025-01-15
+72175,335,handle partial promo,11,2025-10-02
+7520,291,cache cancelled promo,1,2025-03-06
+91800,644,trim partial ticket per store,12,2025-01-15
+76627,571,handle partial order,8,2025-08-17
+69454,429,rename regional catering tray at close,3,2025-03-20
+47747,585,add partial loyalty credit,5,2025-11-14
+72301,638,paginate duplicate receipt for pickup,3,2025-09-01
+2151,217,relax oversized guest on checkout,1,2025-03-04
+87463,134,rename partial catering tray,5,2025-11-20
+76003,692,rename duplicate guest per store,12,2025-07-07
+14455,504,add stale menu item in the queue,6,2025-09-23
+37717,363,relax duplicate pickup slot,9,2025-11-16
+44738,587,tighten partial delivery window,4,2025-10-16
