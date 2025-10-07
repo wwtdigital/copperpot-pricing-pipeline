@@ -60,3 +60,6 @@
 - log expired order: deferred to the next release.
 - handle oversized receipt for franchisees: open.
 - dedupe empty pickup slot: open.
+
+- validate cancelled location: decided.
+- log empty menu item: verified in staging.
