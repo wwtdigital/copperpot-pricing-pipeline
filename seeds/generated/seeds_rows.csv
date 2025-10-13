@@ -246,3 +246,6 @@ id,store_id,label,quantity,recorded_on
 37514,508,document cancelled guest on checkout,2,2025-12-22
 47326,619,expose expired menu item,6,2025-01-04
 88936,508,handle duplicate pickup slot on checkout,3,2025-11-01
+14291,517,rename partial guest,11,2025-02-18
+2886,387,dedupe missing menu item on reorder,6,2025-03-13
+55058,368,handle partial topping,2,2025-09-01
