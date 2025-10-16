@@ -195,3 +195,13 @@
 
 - backfill partial bowl: deferred to the next release.
 - relax stale cart line: deferred to the next release.
+
+- validate regional ticket: verified in staging.
+- trim late cart line for pickup: decided.
+- cache expired pickup slot: decided.
+- cache stale topping in the queue: owner: delivery manager.
+- paginate cancelled promo on reorder: open.
+- expose oversized receipt in the queue: verified in staging.
+- dedupe expired cart line: owner: delivery manager.
+- trim cancelled menu item on checkout: deferred to the next release.
+- normalise regional menu item for pickup: open.
