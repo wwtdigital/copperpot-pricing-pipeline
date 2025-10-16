@@ -246,3 +246,14 @@ id,store_id,label,quantity,recorded_on
 37514,508,document cancelled guest on checkout,2,2025-12-22
 47326,619,expose expired menu item,6,2025-01-04
 88936,508,handle duplicate pickup slot on checkout,3,2025-11-01
+14291,517,rename partial guest,11,2025-02-18
+2886,387,dedupe missing menu item on reorder,6,2025-03-13
+55058,368,handle partial topping,2,2025-09-01
+12652,624,cache expired modifier,11,2025-06-22
+81674,218,retry partial pickup slot,6,2025-09-11
+30006,244,relax stale location on reorder,11,2025-01-05
+14603,211,normalise cancelled topping,7,2025-01-22
+96638,545,rename stale tax line,11,2025-05-06
+83646,299,tighten missing order in the queue,6,2025-02-11
+23352,440,expose late order,1,2025-12-04
+88537,157,validate cancelled pickup slot per store,1,2025-06-11
