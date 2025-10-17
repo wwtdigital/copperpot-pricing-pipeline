@@ -69,3 +69,18 @@
 - validate partial store: open.
 - sort late receipt per store: decided.
 - trim late delivery window: blocked on store systems.
+
+- paginate late catering tray: blocked on store systems.
+- guard missing modifier in the queue: blocked on store systems.
+- cache regional delivery window at close: owner: delivery manager.
+- paginate missing ticket: owner: delivery manager.
+- document partial delivery window: decided.
+- relax oversized store: deferred to the next release.
+- relax expired delivery window: blocked on store systems.
+- tighten missing cart line: blocked on store systems.
+- relax regional catering tray: blocked on store systems.
+- normalise stale kitchen ticket: owner: delivery manager.
+- retry late guest: open.
+- guard oversized pickup slot: deferred to the next release.
+- normalise oversized modifier in the queue: blocked on store systems.
+- retry partial kitchen ticket on checkout: deferred to the next release.

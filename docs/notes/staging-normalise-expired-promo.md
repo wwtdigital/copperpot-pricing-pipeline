@@ -418,3 +418,23 @@
 - tighten cancelled bowl: decided.
 - retry cancelled location: decided.
 - paginate partial promo on checkout: open.
+
+- handle partial ticket on checkout: owner: delivery manager.
+- handle partial cart line: deferred to the next release.
+- relax duplicate store: blocked on store systems.
+- retry oversized pickup slot on reorder: deferred to the next release.
+- trim oversized catering tray: open.
+- validate expired tax line: open.
+- sort late guest for franchisees: open.
+- cache regional catering tray: owner: delivery manager.
+- rename regional modifier: owner: delivery manager.
+- add empty ticket in the queue: blocked on store systems.
+- rename expired promo for pickup: owner: delivery manager.
+- validate oversized order in the queue: owner: delivery manager.
+- log late menu item: decided.
+- normalise stale location for pickup: blocked on store systems.
+
+- guard duplicate receipt for pickup: open.
+- validate expired store on reorder: decided.
+- paginate partial receipt: open.
+- sort duplicate catering tray: blocked on store systems.
