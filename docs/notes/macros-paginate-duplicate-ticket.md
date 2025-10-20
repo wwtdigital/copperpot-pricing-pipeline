@@ -63,3 +63,18 @@
 
 - validate cancelled location: decided.
 - log empty menu item: verified in staging.
+
+- cache stale cart line: decided.
+- dedupe missing bowl: deferred to the next release.
+- guard partial kitchen ticket on checkout: owner: delivery manager.
+- retry regional tax line: open.
+- normalise late tax line: blocked on store systems.
+- guard missing cart line per store: decided.
+- document empty cart line: deferred to the next release.
+- expose cancelled kitchen ticket at close: deferred to the next release.
+- backfill regional loyalty credit: owner: delivery manager.
+- paginate regional ticket: blocked on store systems.
+- normalise stale promo in the queue: deferred to the next release.
+- expose duplicate menu item on reorder: deferred to the next release.
+- paginate duplicate cart line at close: deferred to the next release.
+- dedupe stale location: owner: delivery manager.

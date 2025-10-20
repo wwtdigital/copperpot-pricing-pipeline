@@ -103,3 +103,18 @@ id,store_id,label,quantity,recorded_on
 30052,215,backfill missing catering tray on checkout,3,2025-04-25
 78021,332,rename late guest,9,2025-10-18
 36547,132,normalise oversized loyalty credit,9,2025-01-28
+86764,124,trim regional guest,6,2025-08-01
+16188,179,normalise empty order,10,2025-04-02
+18173,207,paginate regional guest,12,2025-11-20
+13077,182,relax empty menu item,2,2025-05-10
+98821,351,trim duplicate tax line on reorder,1,2025-08-11
+90609,151,trim expired guest per store,5,2025-06-11
+27561,624,retry duplicate location in the queue,4,2025-08-01
+26595,654,trim regional cart line at close,4,2025-12-20
+74893,491,paginate duplicate order,4,2025-04-03
+73276,210,paginate empty guest in the queue,10,2025-12-13
+11434,115,dedupe empty pickup slot,10,2025-09-27
+30745,259,tighten partial catering tray,8,2025-08-19
+54092,200,normalise regional menu item,8,2025-01-05
+25586,271,relax regional menu item,11,2025-06-10
+1064,405,paginate duplicate store,8,2025-01-19
