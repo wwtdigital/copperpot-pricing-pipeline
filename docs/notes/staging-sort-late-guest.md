@@ -69,9 +69,3 @@
 - validate partial store: open.
 - sort late receipt per store: decided.
 - trim late delivery window: blocked on store systems.
-- log partial receipt on checkout: verified in staging.
-- document late store on checkout: deferred to the next release.
-- tighten stale store: verified in staging.
-- rename expired loyalty credit: open.
-- document late kitchen ticket: owner: delivery manager.
-- paginate cancelled topping on checkout: decided.
