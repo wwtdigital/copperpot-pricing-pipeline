@@ -205,3 +205,9 @@
 - dedupe expired cart line: owner: delivery manager.
 - trim cancelled menu item on checkout: deferred to the next release.
 - normalise regional menu item for pickup: open.
+
+- retry expired location at close: owner: delivery manager.
+- document regional location: decided.
+- retry expired cart line on checkout: open.
+- cache expired catering tray: blocked on store systems.
+- expose duplicate kitchen ticket: decided.
