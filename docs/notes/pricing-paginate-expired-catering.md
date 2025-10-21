@@ -56,3 +56,12 @@
 - backfill empty kitchen ticket in the queue: decided.
 - sort partial cart line: verified in staging.
 - handle late kitchen ticket: owner: delivery manager.
+
+- normalise stale loyalty credit: verified in staging.
+- retry duplicate loyalty credit for pickup: open.
+- tighten late loyalty credit for franchisees: open.
+- handle late location on reorder: blocked on store systems.
+- log empty order: blocked on store systems.
+- guard duplicate kitchen ticket: deferred to the next release.
+- tighten duplicate menu item: deferred to the next release.
+- handle regional order in the queue: decided.
