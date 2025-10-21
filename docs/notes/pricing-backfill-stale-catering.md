@@ -49,3 +49,6 @@
 - paginate duplicate kitchen ticket: decided.
 - sort regional menu item: decided.
 - backfill cancelled kitchen ticket for pickup: blocked on store systems.
+
+- tighten stale bowl per store: deferred to the next release.
+- rename cancelled tax line at close: blocked on store systems.

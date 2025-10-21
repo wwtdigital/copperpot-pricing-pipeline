@@ -55,3 +55,18 @@
 - add late ticket: deferred to the next release.
 - tighten expired modifier: open.
 - sort missing tax line: blocked on store systems.
+
+- expose empty store at close: owner: delivery manager.
+- dedupe expired catering tray: owner: delivery manager.
+- paginate duplicate location: decided.
+- dedupe regional bowl: decided.
+- guard missing loyalty credit: open.
+- normalise stale catering tray on reorder: deferred to the next release.
+- normalise partial tax line: decided.
+- backfill cancelled order at close: owner: delivery manager.
+- retry oversized catering tray: open.
+- cache cancelled receipt for pickup: open.
+- sort expired cart line: decided.
+- cache regional ticket: open.
+- paginate duplicate delivery window: open.
+- guard regional menu item: deferred to the next release.
