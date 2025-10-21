@@ -49,3 +49,15 @@
 - paginate duplicate kitchen ticket: decided.
 - sort regional menu item: decided.
 - backfill cancelled kitchen ticket for pickup: blocked on store systems.
+
+- tighten stale bowl per store: deferred to the next release.
+- rename cancelled tax line at close: blocked on store systems.
+
+- relax stale kitchen ticket: deferred to the next release.
+- rename stale loyalty credit per store: decided.
+- relax oversized store: open.
+- guard oversized guest: owner: delivery manager.
+- add partial modifier: open.
+- document missing modifier: decided.
+- trim late topping: deferred to the next release.
+- add late modifier: owner: delivery manager.
