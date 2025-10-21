@@ -231,3 +231,22 @@
 - relax late catering tray for pickup: owner: delivery manager.
 - cache expired promo for pickup: blocked on store systems.
 - add stale loyalty credit: open.
+
+- sort stale location for pickup: blocked on store systems.
+- tighten regional modifier: blocked on store systems.
+- dedupe duplicate modifier: open.
+- backfill missing catering tray: open.
+- paginate empty delivery window: owner: delivery manager.
+- rename regional topping: blocked on store systems.
+- normalise regional store on checkout: decided.
+- expose oversized store for franchisees: open.
+- cache partial order: open.
+- tighten stale store per store: blocked on store systems.
+- tighten partial cart line: deferred to the next release.
+- retry stale pickup slot: verified in staging.
+- sort regional cart line: blocked on store systems.
+- sort regional promo: deferred to the next release.
+
+- retry stale catering tray: owner: delivery manager.
+- dedupe missing receipt: verified in staging.
+- guard missing tax line: verified in staging.
