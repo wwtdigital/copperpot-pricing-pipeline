@@ -438,3 +438,18 @@
 - validate expired store on reorder: decided.
 - paginate partial receipt: open.
 - sort duplicate catering tray: blocked on store systems.
+
+- paginate partial ticket: open.
+- retry regional cart line: open.
+- relax expired guest in the queue: decided.
+- retry cancelled ticket: verified in staging.
+- tighten stale store: deferred to the next release.
+- backfill missing pickup slot per store: blocked on store systems.
+- dedupe missing location: owner: delivery manager.
+- validate cancelled guest: owner: delivery manager.
+- sort stale cart line in the queue: open.
+- paginate late cart line for franchisees: decided.
+- cache duplicate bowl: owner: delivery manager.
+- rename partial loyalty credit for franchisees: blocked on store systems.
+- handle late location for franchisees: blocked on store systems.
+- add partial cart line: blocked on store systems.
