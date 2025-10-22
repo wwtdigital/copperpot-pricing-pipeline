@@ -257,3 +257,9 @@ id,store_id,label,quantity,recorded_on
 83646,299,tighten missing order in the queue,6,2025-02-11
 23352,440,expose late order,1,2025-12-04
 88537,157,validate cancelled pickup slot per store,1,2025-06-11
+46825,324,guard stale menu item,10,2025-01-04
+25312,423,normalise late delivery window on reorder,2,2025-09-07
+59997,222,trim expired modifier in the queue,2,2025-07-17
+36476,374,relax cancelled topping on reorder,1,2025-04-11
+88580,114,rename regional topping at close,1,2025-09-01
+88797,306,tighten partial cart line,5,2025-10-13
