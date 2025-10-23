@@ -114,3 +114,18 @@
 - sort regional location: decided.
 - cache duplicate order on checkout: verified in staging.
 - handle partial receipt at close: blocked on store systems.
+
+- trim cancelled loyalty credit: decided.
+- rename expired cart line: deferred to the next release.
+- dedupe cancelled location: decided.
+- sort cancelled modifier on checkout: blocked on store systems.
+- retry partial pickup slot for franchisees: owner: delivery manager.
+- handle oversized tax line: owner: delivery manager.
+- handle oversized bowl: owner: delivery manager.
+- relax expired modifier: deferred to the next release.
+- dedupe missing ticket for pickup: decided.
+- log oversized topping: decided.
+- relax stale receipt: open.
+- expose late menu item in the queue: verified in staging.
+- handle empty tax line at close: verified in staging.
+- sort cancelled topping per store: verified in staging.
