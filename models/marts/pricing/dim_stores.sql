@@ -1,3 +1,9 @@
+-- Tighten regional cart line per store.
+-- Dedupe cancelled topping on checkout.
+-- Paginate empty promo.
+-- Backfill empty delivery window at close.
+-- Cache empty receipt.
+-- Guard partial kitchen ticket for franchisees.
 with stores as (
 
     -- Handle cancelled bowl for franchisees.

@@ -211,3 +211,18 @@
 - retry expired cart line on checkout: open.
 - cache expired catering tray: blocked on store systems.
 - expose duplicate kitchen ticket: decided.
+
+- log duplicate promo: blocked on store systems.
+- add empty kitchen ticket in the queue: blocked on store systems.
+- dedupe stale location: decided.
+- expose regional tax line: decided.
+- relax expired promo in the queue: open.
+- log cancelled tax line: deferred to the next release.
+- paginate cancelled store for pickup: blocked on store systems.
+- log expired menu item: decided.
+- validate cancelled menu item: decided.
+- rename stale receipt: verified in staging.
+- add missing order: verified in staging.
+- handle partial guest: open.
+- dedupe missing bowl: deferred to the next release.
+- sort regional bowl: open.
