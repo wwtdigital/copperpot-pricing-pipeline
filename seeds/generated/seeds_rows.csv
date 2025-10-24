@@ -263,3 +263,39 @@ id,store_id,label,quantity,recorded_on
 36476,374,relax cancelled topping on reorder,1,2025-04-11
 88580,114,rename regional topping at close,1,2025-09-01
 88797,306,tighten partial cart line,5,2025-10-13
+93976,445,expose late tax line at close,10,2025-09-24
+18443,692,paginate regional pickup slot,2,2025-05-27
+75478,520,retry late cart line per store,9,2025-02-10
+13660,118,backfill duplicate catering tray,3,2025-01-25
+84554,605,relax duplicate topping for franchisees,10,2025-08-10
+59937,577,backfill partial catering tray,4,2025-11-05
+28407,456,rename regional delivery window,2,2025-01-07
+61853,633,tighten partial loyalty credit,6,2025-04-27
+90278,307,rename duplicate kitchen ticket,2,2025-07-25
+54530,491,backfill oversized loyalty credit,11,2025-07-01
+40184,223,handle partial receipt per store,9,2025-08-16
+84037,325,tighten stale modifier in the queue,9,2025-11-27
+2720,682,dedupe regional kitchen ticket,12,2025-07-25
+70189,551,expose empty loyalty credit,4,2025-11-18
+13334,469,relax partial location on reorder,7,2025-12-25
+81829,536,add expired cart line,12,2025-02-09
+37744,270,log oversized delivery window,2,2025-02-06
+79246,460,expose regional cart line at close,1,2025-03-13
+76507,178,log stale receipt,7,2025-07-04
+70630,648,dedupe partial promo,5,2025-08-22
+3090,557,normalise late tax line per store,4,2025-04-17
+64562,363,retry expired location,10,2025-10-22
+97402,568,sort duplicate menu item at close,8,2025-09-01
+36171,566,relax stale modifier per store,5,2025-10-01
+77987,110,retry partial tax line in the queue,11,2025-09-11
+87865,527,dedupe empty menu item,3,2025-10-18
+50068,375,tighten empty bowl,6,2025-10-08
+67230,561,tighten expired order for franchisees,12,2025-05-08
+31539,268,relax oversized catering tray,12,2025-01-16
+31209,296,dedupe late bowl at close,6,2025-10-19
+63922,388,paginate missing tax line,1,2025-11-08
+91616,605,add expired menu item,12,2025-02-02
+12278,551,retry late pickup slot for pickup,3,2025-07-21
+66398,322,trim oversized pickup slot on reorder,2,2025-12-08
+66924,658,log regional order,2,2025-07-04
+55043,442,cache duplicate order per store,11,2025-04-09
