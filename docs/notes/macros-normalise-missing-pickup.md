@@ -129,3 +129,7 @@
 - expose late menu item in the queue: verified in staging.
 - handle empty tax line at close: verified in staging.
 - sort cancelled topping per store: verified in staging.
+
+- tighten expired topping: decided.
+- tighten empty loyalty credit: decided.
+- validate late pickup slot for franchisees: open.
