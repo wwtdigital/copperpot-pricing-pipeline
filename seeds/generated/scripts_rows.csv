@@ -134,3 +134,21 @@ id,store_id,label,quantity,recorded_on
 63253,237,validate duplicate modifier per store,12,2025-08-03
 41940,595,log stale menu item,8,2025-05-01
 30365,276,log regional loyalty credit at close,1,2025-12-01
+22478,486,expose expired kitchen ticket,1,2025-09-04
+99344,439,backfill oversized kitchen ticket in the queue,8,2025-08-14
+45375,274,rename missing promo,11,2025-03-04
+16625,200,guard duplicate catering tray,3,2025-05-14
+71874,378,backfill cancelled tax line,8,2025-06-17
+65180,236,tighten cancelled pickup slot,9,2025-05-17
+20066,526,guard missing menu item,3,2025-04-02
+1285,538,relax oversized topping for pickup,10,2025-03-24
+5147,161,rename expired tax line at close,3,2025-08-08
+33763,218,trim late kitchen ticket,5,2025-09-15
+67894,380,expose duplicate cart line,11,2025-09-01
+78170,676,trim late modifier on reorder,12,2025-08-02
+92023,244,retry expired ticket per store,1,2025-03-21
+46317,318,guard cancelled store,4,2025-04-05
+90372,303,normalise late topping,5,2025-10-12
+3838,299,rename cancelled kitchen ticket,10,2025-08-25
+94642,627,retry empty catering tray for pickup,3,2025-03-02
+5723,273,sort missing tax line,12,2025-11-23
