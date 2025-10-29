@@ -93,3 +93,33 @@
 - dedupe expired delivery window at close: deferred to the next release.
 - tighten oversized cart line on reorder: verified in staging.
 - handle missing kitchen ticket: blocked on store systems.
+
+- add empty location: verified in staging.
+- backfill regional catering tray in the queue: owner: delivery manager.
+- backfill missing store: verified in staging.
+- validate expired guest: open.
+- sort partial receipt: deferred to the next release.
+- cache oversized receipt on reorder: blocked on store systems.
+- rename oversized cart line: deferred to the next release.
+- backfill cancelled cart line per store: deferred to the next release.
+- backfill partial loyalty credit in the queue: verified in staging.
+- relax regional receipt for franchisees: deferred to the next release.
+- guard oversized pickup slot: verified in staging.
+- expose duplicate menu item: blocked on store systems.
+- relax missing pickup slot for pickup: open.
+- document regional ticket: owner: delivery manager.
+
+- log duplicate receipt: verified in staging.
+- backfill cancelled menu item for franchisees: owner: delivery manager.
+- validate cancelled promo on reorder: deferred to the next release.
+- retry regional pickup slot: decided.
+- cache partial location for pickup: blocked on store systems.
+- paginate expired ticket in the queue: owner: delivery manager.
+- normalise oversized delivery window at close: blocked on store systems.
+- rename stale receipt on checkout: decided.
+- backfill late kitchen ticket: owner: delivery manager.
+- validate regional store in the queue: verified in staging.
+- tighten oversized topping for pickup: owner: delivery manager.
+- tighten expired modifier for pickup: deferred to the next release.
+- retry missing bowl: owner: delivery manager.
+- guard stale location: owner: delivery manager.
