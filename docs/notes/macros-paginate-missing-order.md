@@ -218,3 +218,25 @@
 - expose empty topping: open.
 - relax regional loyalty credit for pickup: verified in staging.
 - expose late location for pickup: owner: delivery manager.
+
+- validate regional topping: decided.
+- normalise partial cart line on reorder: decided.
+- trim expired modifier for franchisees: deferred to the next release.
+- cache late promo: open.
+- retry expired kitchen ticket at close: open.
+- rename empty guest: deferred to the next release.
+- document regional modifier in the queue: verified in staging.
+- dedupe oversized delivery window: deferred to the next release.
+- tighten cancelled bowl per store: deferred to the next release.
+- tighten stale guest for franchisees: decided.
+- backfill late guest: open.
+- backfill expired pickup slot: decided.
+- expose duplicate order on checkout: deferred to the next release.
+- cache late delivery window for franchisees: decided.
+
+- sort missing topping: blocked on store systems.
+- add partial guest: open.
+- tighten stale pickup slot for franchisees: open.
+- rename expired loyalty credit: verified in staging.
+- paginate expired tax line in the queue: verified in staging.
+- tighten expired kitchen ticket at close: blocked on store systems.
