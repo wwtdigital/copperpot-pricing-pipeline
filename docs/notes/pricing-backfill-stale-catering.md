@@ -61,3 +61,6 @@
 - document missing modifier: decided.
 - trim late topping: deferred to the next release.
 - add late modifier: owner: delivery manager.
+
+- normalise oversized guest: open.
+- validate expired pickup slot in the queue: verified in staging.
