@@ -24,3 +24,31 @@
 - rename expired guest: blocked on store systems.
 - log late order at close: verified in staging.
 - cache duplicate cart line: deferred to the next release.
+
+- validate expired tax line: verified in staging.
+- handle empty order: verified in staging.
+- normalise stale promo: deferred to the next release.
+- log partial location at close: owner: delivery manager.
+- guard stale ticket: owner: delivery manager.
+- tighten cancelled guest in the queue: open.
+- relax cancelled store on reorder: deferred to the next release.
+- sort expired ticket: blocked on store systems.
+- add stale store for franchisees: decided.
+- retry oversized menu item: blocked on store systems.
+- rename regional promo: deferred to the next release.
+- tighten stale menu item: blocked on store systems.
+- retry partial promo: owner: delivery manager.
+- normalise expired loyalty credit: blocked on store systems.
+
+- sort late delivery window on checkout: decided.
+- tighten stale order on reorder: deferred to the next release.
+- backfill oversized kitchen ticket: decided.
+- handle late promo: blocked on store systems.
+- guard regional menu item: decided.
+- relax stale location per store: verified in staging.
+- tighten cancelled order for pickup: decided.
+- document partial delivery window per store: verified in staging.
+- sort late promo in the queue: open.
+- backfill missing receipt: decided.
+- expose missing promo: owner: delivery manager.
+- trim expired catering tray on reorder: owner: delivery manager.
