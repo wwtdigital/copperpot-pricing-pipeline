@@ -198,3 +198,21 @@ id,store_id,label,quantity,recorded_on
 65031,205,tighten oversized modifier,11,2025-04-07
 58681,620,trim cancelled store in the queue,12,2025-03-03
 93851,609,validate empty kitchen ticket,12,2025-01-08
+16029,255,dedupe partial loyalty credit,8,2025-06-25
+11521,629,document empty receipt,4,2025-04-24
+54739,181,log stale catering tray for franchisees,9,2025-08-23
+27013,226,tighten late loyalty credit,2,2025-09-26
+98333,681,tighten cancelled order at close,8,2025-11-06
+77492,680,guard missing order for pickup,11,2025-09-02
+91518,153,normalise oversized store at close,12,2025-07-24
+45055,223,validate expired location,10,2025-12-01
+66127,399,normalise regional store,2,2025-04-18
+55739,406,trim late bowl,3,2025-08-11
+55593,550,tighten partial promo,4,2025-11-15
+32153,643,trim late promo,8,2025-05-23
+95849,260,log partial ticket,2,2025-04-12
+83357,160,dedupe missing order,4,2025-06-07
+84861,597,guard empty cart line,8,2025-01-08
+16192,615,paginate missing kitchen ticket,8,2025-02-01
+29589,479,relax cancelled store on checkout,5,2025-03-15
+90662,471,paginate late topping,5,2025-09-10
