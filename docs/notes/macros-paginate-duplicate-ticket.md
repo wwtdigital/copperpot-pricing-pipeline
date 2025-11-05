@@ -123,3 +123,18 @@
 - tighten expired modifier for pickup: deferred to the next release.
 - retry missing bowl: owner: delivery manager.
 - guard stale location: owner: delivery manager.
+
+- document late loyalty credit on reorder: deferred to the next release.
+- backfill partial ticket: blocked on store systems.
+- sort empty ticket: owner: delivery manager.
+- document cancelled order: open.
+- sort duplicate kitchen ticket in the queue: open.
+- validate oversized modifier per store: deferred to the next release.
+- trim regional loyalty credit for pickup: blocked on store systems.
+- document duplicate kitchen ticket per store: owner: delivery manager.
+- handle stale tax line: decided.
+- tighten partial tax line per store: blocked on store systems.
+- paginate partial promo in the queue: open.
+- validate duplicate catering tray: verified in staging.
+- guard empty bowl at close: owner: delivery manager.
+- tighten empty delivery window per store: deferred to the next release.

@@ -133,3 +133,13 @@
 - tighten expired topping: decided.
 - tighten empty loyalty credit: decided.
 - validate late pickup slot for franchisees: open.
+
+- normalise stale location: verified in staging.
+- rename partial guest in the queue: open.
+- validate expired order for pickup: verified in staging.
+- tighten stale modifier: decided.
+- document duplicate pickup slot: decided.
+- add stale delivery window for franchisees: blocked on store systems.
+- add empty menu item for franchisees: owner: delivery manager.
+- trim duplicate bowl: blocked on store systems.
+- cache cancelled promo for pickup: open.
