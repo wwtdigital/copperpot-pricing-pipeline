@@ -70,3 +70,12 @@
 - cache regional ticket: open.
 - paginate duplicate delivery window: open.
 - guard regional menu item: deferred to the next release.
+
+- trim regional tax line: deferred to the next release.
+- handle expired pickup slot per store: verified in staging.
+- add oversized kitchen ticket: blocked on store systems.
+- dedupe expired receipt: deferred to the next release.
+- cache expired bowl for franchisees: blocked on store systems.
+- dedupe late catering tray in the queue: decided.
+- rename stale loyalty credit: blocked on store systems.
+- normalise expired bowl for pickup: blocked on store systems.
