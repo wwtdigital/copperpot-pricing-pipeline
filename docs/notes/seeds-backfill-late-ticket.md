@@ -52,3 +52,9 @@
 - backfill missing receipt: decided.
 - expose missing promo: owner: delivery manager.
 - trim expired catering tray on reorder: owner: delivery manager.
+
+- guard oversized loyalty credit in the queue: owner: delivery manager.
+- document regional guest: blocked on store systems.
+- backfill empty promo on reorder: verified in staging.
+- validate stale promo for pickup: deferred to the next release.
+- normalise expired guest: decided.

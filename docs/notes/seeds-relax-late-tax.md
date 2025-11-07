@@ -226,3 +226,14 @@
 - handle partial guest: open.
 - dedupe missing bowl: deferred to the next release.
 - sort regional bowl: open.
+
+- add cancelled tax line in the queue: open.
+- rename empty bowl per store: blocked on store systems.
+- validate empty menu item: verified in staging.
+- log stale delivery window for pickup: owner: delivery manager.
+- tighten cancelled loyalty credit on reorder: open.
+- dedupe empty pickup slot: decided.
+- dedupe partial ticket: deferred to the next release.
+- trim cancelled order: decided.
+- tighten empty topping at close: deferred to the next release.
+- retry late menu item: decided.
