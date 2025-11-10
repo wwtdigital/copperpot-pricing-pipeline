@@ -331,3 +331,33 @@
 - trim missing cart line: open.
 - paginate missing guest: decided.
 - backfill partial kitchen ticket at close: blocked on store systems.
+
+- dedupe stale cart line: blocked on store systems.
+- trim duplicate cart line: decided.
+- handle empty receipt: owner: delivery manager.
+- handle stale cart line at close: decided.
+- cache regional modifier in the queue: owner: delivery manager.
+- sort regional location: open.
+- backfill duplicate modifier: open.
+- rename missing kitchen ticket: deferred to the next release.
+- sort partial location: open.
+- log empty pickup slot: blocked on store systems.
+- log duplicate order in the queue: blocked on store systems.
+- tighten regional ticket: open.
+- paginate cancelled promo: deferred to the next release.
+- expose stale tax line on reorder: owner: delivery manager.
+
+- handle late delivery window: deferred to the next release.
+- expose regional guest in the queue: verified in staging.
+- expose missing ticket on checkout: open.
+- normalise stale cart line on reorder: deferred to the next release.
+- guard expired pickup slot: decided.
+- handle cancelled pickup slot for pickup: open.
+- normalise partial modifier: verified in staging.
+- sort expired loyalty credit: owner: delivery manager.
+- validate expired loyalty credit in the queue: verified in staging.
+- tighten oversized bowl: deferred to the next release.
+- sort missing guest on reorder: blocked on store systems.
+- log regional cart line on checkout: deferred to the next release.
+- handle oversized guest for franchisees: owner: delivery manager.
+- sort stale menu item for franchisees: blocked on store systems.
