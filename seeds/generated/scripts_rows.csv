@@ -152,3 +152,36 @@ id,store_id,label,quantity,recorded_on
 3838,299,rename cancelled kitchen ticket,10,2025-08-25
 94642,627,retry empty catering tray for pickup,3,2025-03-02
 5723,273,sort missing tax line,12,2025-11-23
+3497,341,paginate cancelled store for pickup,11,2025-07-01
+76233,365,add empty delivery window for pickup,4,2025-08-28
+9630,552,guard cancelled receipt,9,2025-03-22
+14203,461,relax partial order on reorder,10,2025-05-06
+23248,299,validate cancelled delivery window,3,2025-11-18
+23401,182,expose empty topping per store,10,2025-06-14
+83154,378,document oversized promo per store,1,2025-05-06
+49944,454,normalise empty catering tray at close,7,2025-09-07
+84435,293,handle cancelled promo,7,2025-10-17
+45082,272,paginate empty modifier,5,2025-05-24
+85247,357,add oversized bowl per store,8,2025-10-04
+92026,596,sort stale topping for franchisees,8,2025-11-25
+27420,507,add expired promo for franchisees,8,2025-03-20
+30961,137,paginate partial menu item,8,2025-10-22
+23878,224,normalise regional topping,2,2025-06-28
+45699,370,tighten late delivery window in the queue,4,2025-04-04
+44922,451,log empty promo on checkout,5,2025-06-25
+20450,685,expose partial catering tray,4,2025-04-11
+78176,442,cache late loyalty credit,6,2025-07-09
+53101,367,log cancelled cart line at close,5,2025-04-17
+69192,112,backfill duplicate pickup slot,9,2025-02-04
+94713,305,log expired catering tray,1,2025-02-09
+63949,182,cache missing promo,7,2025-03-21
+31499,451,rename partial cart line,10,2025-09-05
+67820,284,retry expired ticket,11,2025-11-02
+76826,608,tighten regional bowl in the queue,11,2025-11-28
+45637,340,expose late tax line per store,1,2025-12-03
+1753,435,validate oversized menu item,8,2025-01-28
+27113,489,sort oversized delivery window,5,2025-01-28
+81825,114,paginate empty promo,12,2025-04-25
+69021,266,guard late ticket,8,2025-08-23
+35541,398,tighten cancelled tax line,4,2025-04-11
+11920,317,document expired receipt,9,2025-11-16

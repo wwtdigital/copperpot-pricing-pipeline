@@ -346,3 +346,18 @@
 - tighten regional ticket: open.
 - paginate cancelled promo: deferred to the next release.
 - expose stale tax line on reorder: owner: delivery manager.
+
+- handle late delivery window: deferred to the next release.
+- expose regional guest in the queue: verified in staging.
+- expose missing ticket on checkout: open.
+- normalise stale cart line on reorder: deferred to the next release.
+- guard expired pickup slot: decided.
+- handle cancelled pickup slot for pickup: open.
+- normalise partial modifier: verified in staging.
+- sort expired loyalty credit: owner: delivery manager.
+- validate expired loyalty credit in the queue: verified in staging.
+- tighten oversized bowl: deferred to the next release.
+- sort missing guest on reorder: blocked on store systems.
+- log regional cart line on checkout: deferred to the next release.
+- handle oversized guest for franchisees: owner: delivery manager.
+- sort stale menu item for franchisees: blocked on store systems.
