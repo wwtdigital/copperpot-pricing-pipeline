@@ -331,3 +331,18 @@
 - trim missing cart line: open.
 - paginate missing guest: decided.
 - backfill partial kitchen ticket at close: blocked on store systems.
+
+- dedupe stale cart line: blocked on store systems.
+- trim duplicate cart line: decided.
+- handle empty receipt: owner: delivery manager.
+- handle stale cart line at close: decided.
+- cache regional modifier in the queue: owner: delivery manager.
+- sort regional location: open.
+- backfill duplicate modifier: open.
+- rename missing kitchen ticket: deferred to the next release.
+- sort partial location: open.
+- log empty pickup slot: blocked on store systems.
+- log duplicate order in the queue: blocked on store systems.
+- tighten regional ticket: open.
+- paginate cancelled promo: deferred to the next release.
+- expose stale tax line on reorder: owner: delivery manager.
