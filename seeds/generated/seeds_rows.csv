@@ -337,3 +337,19 @@ id,store_id,label,quantity,recorded_on
 66188,494,guard partial promo,7,2025-04-15
 39675,612,handle regional modifier for pickup,6,2025-02-06
 96901,470,expose regional ticket for pickup,4,2025-02-17
+5576,610,relax expired catering tray,12,2025-03-20
+92761,688,tighten regional guest at close,5,2025-07-08
+7049,255,expose regional cart line,2,2025-10-28
+10639,549,cache duplicate location,9,2025-09-14
+42987,620,retry duplicate pickup slot in the queue,1,2025-11-05
+95271,325,normalise late guest,11,2025-09-07
+24099,408,retry late ticket on checkout,12,2025-10-24
+82903,320,retry cancelled promo,11,2025-09-17
+5296,476,retry duplicate receipt for pickup,8,2025-06-07
+25276,205,guard partial pickup slot at close,3,2025-04-16
+44299,427,relax oversized location in the queue,7,2025-01-13
+42165,334,log partial order per store,10,2025-06-08
+88419,400,retry late topping for franchisees,2,2025-11-01
+34757,496,backfill stale order,2,2025-10-11
+27009,515,dedupe missing menu item,1,2025-09-12
+82417,265,sort oversized modifier for franchisees,12,2025-03-25
