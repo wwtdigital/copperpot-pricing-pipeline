@@ -237,3 +237,18 @@
 - trim cancelled order: decided.
 - tighten empty topping at close: deferred to the next release.
 - retry late menu item: decided.
+
+- normalise empty modifier for pickup: blocked on store systems.
+- dedupe duplicate pickup slot for pickup: decided.
+- relax late cart line: blocked on store systems.
+- retry regional tax line: open.
+- dedupe empty pickup slot: open.
+- backfill empty menu item for pickup: verified in staging.
+- paginate duplicate receipt for pickup: owner: delivery manager.
+- sort partial pickup slot: decided.
+- handle missing promo: decided.
+- tighten expired ticket for pickup: owner: delivery manager.
+- guard stale modifier: blocked on store systems.
+- document missing receipt at close: verified in staging.
+- retry stale promo on checkout: deferred to the next release.
+- handle regional guest at close: blocked on store systems.
