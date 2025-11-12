@@ -1,0 +1,15 @@
+id,store_id,label,quantity,recorded_on
+89499,669,backfill partial tax line,11,2025-05-05
+95074,633,add partial catering tray in the queue,10,2025-02-23
+65360,359,guard stale delivery window per store,7,2025-01-04
+26392,119,expose regional ticket,8,2025-03-03
+5766,228,cache empty topping,7,2025-05-26
+13474,454,log partial pickup slot,2,2025-10-05
+83582,511,paginate expired guest for franchisees,1,2025-02-10
+19359,135,guard missing pickup slot on checkout,11,2025-10-03
+3273,231,add partial catering tray,8,2025-02-18
+25526,349,tighten regional modifier,2,2025-12-09
+22621,207,validate regional catering tray,1,2025-03-27
+92103,242,dedupe cancelled receipt,10,2025-08-18
+12074,255,paginate duplicate location,4,2025-12-22
+19219,248,document expired menu item,6,2025-06-05
