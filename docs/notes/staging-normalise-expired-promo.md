@@ -441,3 +441,8 @@
 
 - paginate partial ticket: open.
 - retry regional cart line: open.
+
+- handle missing tax line: verified in staging.
+- trim duplicate receipt on checkout: blocked on store systems.
+- sort duplicate topping: deferred to the next release.
+- log partial modifier: decided.

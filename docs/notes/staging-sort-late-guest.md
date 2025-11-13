@@ -84,3 +84,18 @@
 - guard oversized pickup slot: deferred to the next release.
 - normalise oversized modifier in the queue: blocked on store systems.
 - retry partial kitchen ticket on checkout: deferred to the next release.
+
+- relax cancelled guest: open.
+- paginate expired location for pickup: verified in staging.
+- backfill late store: blocked on store systems.
+- backfill expired receipt: owner: delivery manager.
+- normalise stale bowl on checkout: open.
+- retry duplicate receipt: verified in staging.
+- guard late order: blocked on store systems.
+- handle regional kitchen ticket for pickup: open.
+- cache regional order for franchisees: open.
+- guard missing topping per store: open.
+- relax expired order in the queue: owner: delivery manager.
+- log regional kitchen ticket for pickup: open.
+- dedupe expired guest for pickup: blocked on store systems.
+- relax missing delivery window on reorder: deferred to the next release.
