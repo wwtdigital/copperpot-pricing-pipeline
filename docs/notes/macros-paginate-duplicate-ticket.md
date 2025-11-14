@@ -138,3 +138,20 @@
 - validate duplicate catering tray: verified in staging.
 - guard empty bowl at close: owner: delivery manager.
 - tighten empty delivery window per store: deferred to the next release.
+
+- retry empty ticket: blocked on store systems.
+- retry cancelled catering tray for franchisees: deferred to the next release.
+- log oversized kitchen ticket for pickup: owner: delivery manager.
+- retry expired delivery window on checkout: blocked on store systems.
+- log cancelled kitchen ticket: decided.
+- validate regional promo on checkout: blocked on store systems.
+- handle partial kitchen ticket: deferred to the next release.
+- validate expired order: blocked on store systems.
+- dedupe regional receipt: decided.
+- rename expired delivery window: deferred to the next release.
+- rename empty delivery window: blocked on store systems.
+- paginate empty ticket: deferred to the next release.
+- paginate stale promo at close: deferred to the next release.
+- rename regional kitchen ticket: verified in staging.
+
+- handle regional tax line: deferred to the next release.

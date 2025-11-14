@@ -216,3 +216,43 @@ id,store_id,label,quantity,recorded_on
 16192,615,paginate missing kitchen ticket,8,2025-02-01
 29589,479,relax cancelled store on checkout,5,2025-03-15
 90662,471,paginate late topping,5,2025-09-10
+64380,408,retry oversized ticket per store,2,2025-04-06
+34512,279,cache empty loyalty credit,2,2025-09-27
+42776,179,trim expired modifier,4,2025-01-18
+28436,336,sort regional promo on reorder,7,2025-07-06
+44208,517,tighten duplicate catering tray in the queue,10,2025-07-17
+85499,112,log late bowl,4,2025-10-04
+13721,593,guard empty cart line at close,12,2025-04-25
+42663,596,paginate partial pickup slot,7,2025-08-26
+51067,102,dedupe partial catering tray for pickup,10,2025-11-07
+12091,170,document partial menu item,5,2025-09-18
+65701,547,rename late menu item for pickup,5,2025-09-27
+33899,150,retry oversized bowl,1,2025-03-11
+30591,184,guard regional kitchen ticket for pickup,6,2025-06-08
+67946,615,relax stale receipt,8,2025-09-02
+24530,256,paginate partial topping,6,2025-09-09
+70287,139,handle expired cart line,7,2025-05-24
+9890,281,relax cancelled receipt,12,2025-05-04
+48703,255,validate empty topping for pickup,3,2025-12-18
+14904,649,tighten empty store in the queue,9,2025-10-03
+9660,513,normalise regional catering tray,4,2025-12-06
+33380,551,validate late ticket,9,2025-12-04
+45858,685,backfill cancelled kitchen ticket,4,2025-04-28
+82705,229,log duplicate modifier,6,2025-06-24
+71215,594,relax late bowl,11,2025-12-14
+77977,697,document cancelled store,2,2025-11-21
+7396,389,validate expired modifier for pickup,9,2025-04-08
+23468,677,relax cancelled receipt per store,10,2025-02-10
+56162,276,backfill partial catering tray per store,8,2025-11-11
+18810,415,validate regional order,8,2025-04-02
+24432,589,add expired kitchen ticket for pickup,3,2025-05-25
+29316,555,retry duplicate store,2,2025-12-25
+51566,324,add expired store,6,2025-11-02
+38619,294,normalise missing store per store,8,2025-07-05
+70698,388,dedupe duplicate catering tray,2,2025-11-14
+49954,570,retry oversized kitchen ticket,5,2025-12-22
+23726,204,retry oversized modifier on checkout,12,2025-07-06
+80930,425,relax cancelled order,1,2025-08-25
+82621,116,dedupe missing guest,1,2025-11-12
+44807,234,validate cancelled bowl on reorder,8,2025-05-16
+9549,448,tighten expired kitchen ticket per store,7,2025-04-22
