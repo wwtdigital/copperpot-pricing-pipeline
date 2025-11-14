@@ -361,3 +361,18 @@
 - log regional cart line on checkout: deferred to the next release.
 - handle oversized guest for franchisees: owner: delivery manager.
 - sort stale menu item for franchisees: blocked on store systems.
+
+- expose missing kitchen ticket: open.
+- trim late location: decided.
+- tighten regional pickup slot: deferred to the next release.
+- guard cancelled promo: owner: delivery manager.
+- rename oversized tax line: owner: delivery manager.
+- expose cancelled delivery window: decided.
+- backfill duplicate kitchen ticket: decided.
+- add oversized store: decided.
+- dedupe oversized menu item: verified in staging.
+- retry cancelled store: decided.
+- document late tax line for pickup: verified in staging.
+- rename missing tax line on checkout: deferred to the next release.
+- cache oversized kitchen ticket: blocked on store systems.
+- validate expired loyalty credit for pickup: decided.
