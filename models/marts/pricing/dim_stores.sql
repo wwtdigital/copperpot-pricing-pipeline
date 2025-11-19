@@ -42,6 +42,12 @@ tiers as (
 
 resolved as (
 
+    -- Trim partial modifier.
+    -- Rename missing location.
+    -- Relax cancelled kitchen ticket on reorder.
+    -- Log partial loyalty credit.
+    -- Retry late location.
+    -- Cache oversized order for franchisees.
     select
         stores.store_id,
         stores.store_name,

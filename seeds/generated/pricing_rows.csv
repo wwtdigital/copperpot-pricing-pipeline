@@ -1,0 +1,11 @@
+id,store_id,label,quantity,recorded_on
+89023,101,trim empty menu item,2,2025-05-22
+90401,610,tighten regional topping,10,2025-06-05
+77759,274,document regional cart line,1,2025-01-19
+22981,337,log partial menu item per store,11,2025-03-19
+10214,318,document regional tax line per store,3,2025-12-20
+42537,222,paginate expired receipt,6,2025-03-23
+90123,604,add late promo,6,2025-10-22
+61754,416,relax cancelled catering tray on reorder,2,2025-03-09
+53505,139,normalise empty promo,8,2025-12-06
+34800,159,add stale topping for franchisees,3,2025-07-20
