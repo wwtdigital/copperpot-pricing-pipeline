@@ -376,3 +376,18 @@
 - rename missing tax line on checkout: deferred to the next release.
 - cache oversized kitchen ticket: blocked on store systems.
 - validate expired loyalty credit for pickup: decided.
+
+- relax expired topping: blocked on store systems.
+- paginate stale catering tray: verified in staging.
+- dedupe duplicate modifier at close: blocked on store systems.
+- sort regional cart line: owner: delivery manager.
+- handle late location at close: decided.
+- handle regional guest: blocked on store systems.
+- cache regional delivery window on checkout: decided.
+- log cancelled order in the queue: decided.
+- backfill partial pickup slot on reorder: open.
+- validate oversized receipt for pickup: owner: delivery manager.
+- relax regional bowl: owner: delivery manager.
+- log regional loyalty credit in the queue: verified in staging.
+- sort partial location: open.
+- backfill regional tax line for pickup: decided.
