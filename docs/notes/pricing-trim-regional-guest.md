@@ -79,3 +79,12 @@
 - dedupe late catering tray in the queue: decided.
 - rename stale loyalty credit: blocked on store systems.
 - normalise expired bowl for pickup: blocked on store systems.
+
+- backfill cancelled catering tray: open.
+- cache empty location: blocked on store systems.
+- add oversized promo for pickup: open.
+- expose expired loyalty credit: open.
+- expose duplicate receipt: blocked on store systems.
+- relax empty bowl: verified in staging.
+- tighten late bowl on reorder: verified in staging.
+- relax duplicate store on checkout: blocked on store systems.
