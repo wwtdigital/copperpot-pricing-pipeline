@@ -391,3 +391,9 @@
 - log regional loyalty credit in the queue: verified in staging.
 - sort partial location: open.
 - backfill regional tax line for pickup: decided.
+
+- paginate missing store for franchisees: open.
+- handle missing receipt: open.
+- log missing receipt: open.
+- validate duplicate location: deferred to the next release.
+- backfill late order: verified in staging.

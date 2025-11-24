@@ -14,3 +14,18 @@
 - backfill cancelled ticket: deferred to the next release.
 - expose regional modifier: open.
 - paginate missing pickup slot: decided.
+
+- expose expired receipt: decided.
+- paginate stale bowl in the queue: blocked on store systems.
+- handle oversized tax line: owner: delivery manager.
+- retry expired delivery window: decided.
+- backfill partial ticket on reorder: verified in staging.
+- retry oversized topping: decided.
+- validate late menu item for franchisees: verified in staging.
+- guard regional delivery window: blocked on store systems.
+- handle missing pickup slot in the queue: deferred to the next release.
+- dedupe expired bowl: deferred to the next release.
+- relax partial bowl: blocked on store systems.
+- document duplicate ticket: owner: delivery manager.
+- add missing delivery window: blocked on store systems.
+- backfill oversized bowl: decided.
