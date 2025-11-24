@@ -109,3 +109,27 @@
 - dedupe stale location: blocked on store systems.
 - rename missing delivery window: blocked on store systems.
 - backfill oversized delivery window: verified in staging.
+
+- validate stale menu item for pickup: verified in staging.
+- guard cancelled kitchen ticket: owner: delivery manager.
+- retry oversized cart line: open.
+- sort duplicate topping: open.
+- log duplicate loyalty credit: open.
+- paginate duplicate delivery window: decided.
+- log oversized promo: owner: delivery manager.
+- relax duplicate order: decided.
+- log cancelled kitchen ticket: owner: delivery manager.
+- dedupe partial bowl in the queue: decided.
+- validate expired store: owner: delivery manager.
+- add stale loyalty credit: open.
+- dedupe expired menu item on checkout: open.
+- expose missing location per store: blocked on store systems.
+
+- handle duplicate receipt for franchisees: blocked on store systems.
+- tighten oversized loyalty credit: open.
+- guard cancelled kitchen ticket on reorder: deferred to the next release.
+- validate missing tax line: deferred to the next release.
+- document expired modifier: deferred to the next release.
+- normalise missing guest: verified in staging.
+- backfill late location at close: open.
+- cache oversized modifier: decided.
