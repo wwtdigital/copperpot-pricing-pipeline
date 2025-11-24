@@ -58,3 +58,17 @@
 - backfill empty promo on reorder: verified in staging.
 - validate stale promo for pickup: deferred to the next release.
 - normalise expired guest: decided.
+
+- relax expired topping: owner: delivery manager.
+- paginate cancelled topping for franchisees: open.
+- trim empty order for pickup: decided.
+- dedupe duplicate delivery window for pickup: open.
+- retry cancelled order on checkout: open.
+- handle expired cart line on reorder: open.
+- relax oversized topping per store: owner: delivery manager.
+- expose cancelled guest in the queue: deferred to the next release.
+- paginate regional pickup slot: decided.
+- backfill missing bowl: decided.
+- sort late location: decided.
+- rename late menu item on checkout: blocked on store systems.
+- tighten late tax line on checkout: deferred to the next release.
