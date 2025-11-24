@@ -72,3 +72,18 @@
 - sort late location: decided.
 - rename late menu item on checkout: blocked on store systems.
 - tighten late tax line on checkout: deferred to the next release.
+
+- normalise empty order per store: verified in staging.
+- cache oversized modifier on reorder: decided.
+- log empty pickup slot: blocked on store systems.
+- dedupe oversized catering tray: open.
+- log empty menu item: verified in staging.
+- tighten expired tax line for pickup: blocked on store systems.
+- paginate partial loyalty credit: owner: delivery manager.
+- tighten empty receipt: open.
+- log oversized catering tray: owner: delivery manager.
+- add expired guest: open.
+- relax oversized cart line on reorder: owner: delivery manager.
+- relax late loyalty credit per store: blocked on store systems.
+- dedupe regional receipt: verified in staging.
+- sort cancelled store: blocked on store systems.
