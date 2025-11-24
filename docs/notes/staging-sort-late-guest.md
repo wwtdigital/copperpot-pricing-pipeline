@@ -99,3 +99,48 @@
 - log regional kitchen ticket for pickup: open.
 - dedupe expired guest for pickup: blocked on store systems.
 - relax missing delivery window on reorder: deferred to the next release.
+
+- trim empty cart line: deferred to the next release.
+- document partial modifier: decided.
+- relax stale pickup slot for pickup: decided.
+- retry missing location on checkout: open.
+- document regional bowl: verified in staging.
+- handle duplicate modifier: decided.
+- trim duplicate pickup slot: decided.
+- handle empty tax line: deferred to the next release.
+- document oversized order: deferred to the next release.
+- log duplicate receipt for franchisees: owner: delivery manager.
+- backfill cancelled location: blocked on store systems.
+- relax oversized bowl: open.
+- dedupe regional store on checkout: owner: delivery manager.
+- guard expired delivery window on reorder: deferred to the next release.
+
+- sort empty receipt: open.
+- trim duplicate loyalty credit on checkout: blocked on store systems.
+- document partial ticket: owner: delivery manager.
+- trim oversized pickup slot per store: blocked on store systems.
+- guard partial catering tray in the queue: deferred to the next release.
+- tighten duplicate promo: verified in staging.
+- backfill empty menu item for franchisees: decided.
+- handle empty store on checkout: verified in staging.
+- document empty catering tray: owner: delivery manager.
+- normalise regional menu item for franchisees: blocked on store systems.
+- cache oversized location in the queue: open.
+- validate empty receipt in the queue: decided.
+- sort late tax line in the queue: owner: delivery manager.
+- paginate empty receipt: deferred to the next release.
+
+- paginate regional delivery window in the queue: blocked on store systems.
+- expose cancelled catering tray: decided.
+- add missing order at close: blocked on store systems.
+- add cancelled tax line: deferred to the next release.
+- tighten duplicate bowl per store: owner: delivery manager.
+- retry stale location: owner: delivery manager.
+- trim cancelled loyalty credit for franchisees: open.
+- normalise duplicate loyalty credit for franchisees: deferred to the next release.
+- validate cancelled catering tray: decided.
+- tighten late receipt: verified in staging.
+- validate late promo: open.
+- sort cancelled kitchen ticket: deferred to the next release.
+- log partial modifier: deferred to the next release.
+- document partial promo: decided.
