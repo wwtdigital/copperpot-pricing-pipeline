@@ -94,3 +94,18 @@
 - rename missing pickup slot: deferred to the next release.
 - relax stale topping on reorder: deferred to the next release.
 - backfill duplicate promo: blocked on store systems.
+
+- add stale promo on reorder: owner: delivery manager.
+- paginate expired order at close: decided.
+- relax missing pickup slot: verified in staging.
+- relax cancelled receipt per store: blocked on store systems.
+- dedupe missing topping: verified in staging.
+- add empty cart line: blocked on store systems.
+- expose stale delivery window: owner: delivery manager.
+- retry missing promo: decided.
+- trim cancelled store: owner: delivery manager.
+- backfill oversized ticket: open.
+- paginate partial delivery window at close: deferred to the next release.
+- dedupe stale location: blocked on store systems.
+- rename missing delivery window: blocked on store systems.
+- backfill oversized delivery window: verified in staging.
