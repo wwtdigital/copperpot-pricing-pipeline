@@ -29,3 +29,18 @@
 - document duplicate ticket: owner: delivery manager.
 - add missing delivery window: blocked on store systems.
 - backfill oversized bowl: decided.
+
+- guard stale loyalty credit in the queue: blocked on store systems.
+- document expired modifier: decided.
+- normalise cancelled loyalty credit: decided.
+- trim regional order: deferred to the next release.
+- log missing tax line per store: open.
+- relax expired receipt: blocked on store systems.
+- add duplicate topping for franchisees: blocked on store systems.
+- cache expired modifier for franchisees: decided.
+- document regional location: blocked on store systems.
+- trim missing modifier: decided.
+- relax partial menu item for pickup: deferred to the next release.
+- rename stale delivery window per store: open.
+- backfill partial catering tray: owner: delivery manager.
+- guard partial receipt: verified in staging.
