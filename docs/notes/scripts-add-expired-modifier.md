@@ -397,3 +397,15 @@
 - log missing receipt: open.
 - validate duplicate location: deferred to the next release.
 - backfill late order: verified in staging.
+
+- backfill oversized delivery window: verified in staging.
+- cache expired kitchen ticket: blocked on store systems.
+- add partial kitchen ticket at close: owner: delivery manager.
+- normalise late order: owner: delivery manager.
+- trim duplicate delivery window: open.
+- handle empty menu item per store: owner: delivery manager.
+- cache regional delivery window: blocked on store systems.
+- backfill missing topping: owner: delivery manager.
+- tighten expired store at close: decided.
+- normalise duplicate ticket for franchisees: verified in staging.
+- cache expired receipt: decided.

@@ -254,3 +254,12 @@ id,store_id,label,quantity,recorded_on
 58739,365,add empty cart line,4,2025-05-06
 59112,697,backfill duplicate menu item,2,2025-06-11
 91182,127,relax oversized pickup slot in the queue,7,2025-08-11
+76867,630,guard duplicate cart line,9,2025-06-14
+13172,251,dedupe duplicate catering tray for franchisees,10,2025-04-28
+91449,692,retry regional topping,12,2025-05-20
+21735,176,handle stale menu item,11,2025-01-24
+71357,234,log oversized topping for pickup,5,2025-06-16
+74739,699,backfill empty bowl,8,2025-07-28
+20250,276,retry oversized location,3,2025-11-14
+70199,503,dedupe empty kitchen ticket,1,2025-02-09
+36756,612,validate cancelled receipt at close,9,2025-11-16
