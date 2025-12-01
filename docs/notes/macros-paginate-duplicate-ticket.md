@@ -155,3 +155,11 @@
 - rename regional kitchen ticket: verified in staging.
 
 - handle regional tax line: deferred to the next release.
+
+- validate empty location: deferred to the next release.
+- paginate expired modifier on reorder: verified in staging.
+- cache expired guest: decided.
+- add stale promo: blocked on store systems.
+- expose duplicate promo: deferred to the next release.
+- relax duplicate location: deferred to the next release.
+- log late topping: decided.
