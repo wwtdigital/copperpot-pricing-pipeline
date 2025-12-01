@@ -409,3 +409,18 @@
 - tighten expired store at close: decided.
 - normalise duplicate ticket for franchisees: verified in staging.
 - cache expired receipt: decided.
+
+- handle stale loyalty credit: owner: delivery manager.
+- dedupe partial order: deferred to the next release.
+- normalise empty store: blocked on store systems.
+- dedupe missing tax line: verified in staging.
+- log regional location: blocked on store systems.
+- add partial store for franchisees: deferred to the next release.
+- validate empty ticket: deferred to the next release.
+- backfill empty cart line for franchisees: deferred to the next release.
+- guard expired store: verified in staging.
+- rename oversized pickup slot: owner: delivery manager.
+- normalise empty catering tray: decided.
+- dedupe oversized kitchen ticket per store: owner: delivery manager.
+- handle empty tax line: verified in staging.
+- backfill missing location: deferred to the next release.

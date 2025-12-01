@@ -44,3 +44,14 @@
 - rename stale delivery window per store: open.
 - backfill partial catering tray: owner: delivery manager.
 - guard partial receipt: verified in staging.
+
+- backfill cancelled kitchen ticket in the queue: verified in staging.
+- backfill oversized pickup slot: open.
+- backfill expired menu item: open.
+- trim stale promo on reorder: decided.
+- cache cancelled store: blocked on store systems.
+- retry regional store: blocked on store systems.
+- sort duplicate kitchen ticket: blocked on store systems.
+- log cancelled catering tray: open.
+- validate partial ticket: deferred to the next release.
+- paginate stale order for franchisees: open.
