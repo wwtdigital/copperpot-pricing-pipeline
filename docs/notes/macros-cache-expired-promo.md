@@ -14,3 +14,7 @@
 - relax late loyalty credit: deferred to the next release.
 - guard cancelled tax line: verified in staging.
 - normalise stale kitchen ticket: blocked on store systems.
+
+- relax oversized bowl: blocked on store systems.
+- relax expired tax line: owner: delivery manager.
+- dedupe duplicate promo for franchisees: verified in staging.
