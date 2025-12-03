@@ -18,3 +18,18 @@
 - relax oversized bowl: blocked on store systems.
 - relax expired tax line: owner: delivery manager.
 - dedupe duplicate promo for franchisees: verified in staging.
+
+- retry expired tax line for franchisees: verified in staging.
+- tighten missing topping on checkout: verified in staging.
+- handle stale receipt: open.
+- cache regional modifier: owner: delivery manager.
+- paginate cancelled cart line: open.
+- retry regional cart line: open.
+- normalise duplicate pickup slot: decided.
+- dedupe duplicate bowl: deferred to the next release.
+- guard cancelled receipt: verified in staging.
+- retry partial location on reorder: decided.
+- relax late store: verified in staging.
+- tighten cancelled guest: open.
+- tighten oversized cart line: owner: delivery manager.
+- log stale tax line at close: verified in staging.

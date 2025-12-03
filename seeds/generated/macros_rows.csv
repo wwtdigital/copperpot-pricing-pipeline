@@ -268,3 +268,10 @@ id,store_id,label,quantity,recorded_on
 67597,180,backfill stale loyalty credit,12,2025-12-20
 66426,485,document duplicate promo,7,2025-04-18
 91592,584,guard stale store,11,2025-12-26
+71452,542,document partial order,9,2025-05-02
+89667,639,trim expired ticket on checkout,5,2025-11-13
+3086,519,sort stale loyalty credit,9,2025-02-07
+57336,168,document partial store per store,9,2025-04-14
+43355,500,paginate expired tax line,10,2025-12-06
+30340,585,relax expired catering tray for franchisees,7,2025-11-11
+54246,568,tighten duplicate cart line,5,2025-04-15
