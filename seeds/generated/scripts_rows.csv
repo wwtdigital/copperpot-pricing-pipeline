@@ -315,3 +315,21 @@ id,store_id,label,quantity,recorded_on
 25899,594,backfill late ticket,4,2025-02-02
 95766,600,expose regional guest for franchisees,10,2025-01-10
 48999,176,rename regional store,8,2025-03-16
+34772,252,sort oversized modifier,2,2025-01-12
+69197,293,validate regional topping,2,2025-09-06
+56868,575,add empty menu item,3,2025-07-06
+99930,467,guard regional store,9,2025-01-11
+63197,107,guard missing topping on reorder,4,2025-02-28
+20279,645,dedupe duplicate kitchen ticket,11,2025-11-13
+30657,494,normalise missing modifier,9,2025-09-03
+26401,504,retry late promo,7,2025-03-04
+69715,172,paginate expired loyalty credit on reorder,12,2025-03-06
+49149,146,trim duplicate pickup slot,4,2025-02-21
+61912,313,expose late guest,8,2025-02-27
+57671,690,expose oversized ticket for pickup,2,2025-09-04
+26365,497,rename partial pickup slot,11,2025-10-13
+72879,423,add empty kitchen ticket per store,1,2025-10-02
+47655,166,add expired catering tray on reorder,8,2025-08-19
+52923,407,add partial bowl in the queue,11,2025-10-20
+99942,115,expose missing modifier,9,2025-02-07
+25885,563,rename stale topping,9,2025-09-04
