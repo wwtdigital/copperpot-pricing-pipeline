@@ -256,3 +256,22 @@ id,store_id,label,quantity,recorded_on
 82621,116,dedupe missing guest,1,2025-11-12
 44807,234,validate cancelled bowl on reorder,8,2025-05-16
 9549,448,tighten expired kitchen ticket per store,7,2025-04-22
+14218,115,relax regional pickup slot,2,2025-02-08
+4071,586,dedupe partial kitchen ticket,1,2025-08-20
+95994,219,guard duplicate topping,11,2025-02-11
+94730,370,log partial pickup slot,12,2025-11-05
+73349,424,log oversized kitchen ticket in the queue,8,2025-05-08
+47185,615,tighten regional promo,2,2025-05-24
+6630,182,tighten oversized store,5,2025-07-19
+99647,634,retry late catering tray at close,5,2025-04-24
+65981,251,rename cancelled ticket,9,2025-08-09
+67597,180,backfill stale loyalty credit,12,2025-12-20
+66426,485,document duplicate promo,7,2025-04-18
+91592,584,guard stale store,11,2025-12-26
+71452,542,document partial order,9,2025-05-02
+89667,639,trim expired ticket on checkout,5,2025-11-13
+3086,519,sort stale loyalty credit,9,2025-02-07
+57336,168,document partial store per store,9,2025-04-14
+43355,500,paginate expired tax line,10,2025-12-06
+30340,585,relax expired catering tray for franchisees,7,2025-11-11
+54246,568,tighten duplicate cart line,5,2025-04-15
