@@ -55,3 +55,12 @@
 - log cancelled catering tray: open.
 - validate partial ticket: deferred to the next release.
 - paginate stale order for franchisees: open.
+
+- expose partial cart line: owner: delivery manager.
+- normalise late menu item on checkout: blocked on store systems.
+- normalise oversized order: owner: delivery manager.
+- rename late location: verified in staging.
+- guard late delivery window for franchisees: verified in staging.
+- dedupe duplicate delivery window for franchisees: decided.
+- trim empty catering tray: decided.
+- rename cancelled loyalty credit: blocked on store systems.
