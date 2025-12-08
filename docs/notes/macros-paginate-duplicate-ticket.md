@@ -163,3 +163,18 @@
 - expose duplicate promo: deferred to the next release.
 - relax duplicate location: deferred to the next release.
 - log late topping: decided.
+
+- backfill cancelled pickup slot on checkout: open.
+- validate stale delivery window: verified in staging.
+- validate late cart line on checkout: verified in staging.
+- tighten partial cart line per store: verified in staging.
+- log partial order on checkout: decided.
+- rename regional pickup slot: owner: delivery manager.
+- dedupe stale kitchen ticket: verified in staging.
+- validate partial location: open.
+- validate cancelled tax line: decided.
+- guard missing tax line: decided.
+- normalise late receipt for pickup: verified in staging.
+- cache regional bowl: verified in staging.
+- paginate partial delivery window in the queue: owner: delivery manager.
+- normalise missing store on checkout: decided.
