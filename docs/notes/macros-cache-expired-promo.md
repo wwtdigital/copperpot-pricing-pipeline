@@ -33,3 +33,18 @@
 - tighten cancelled guest: open.
 - tighten oversized cart line: owner: delivery manager.
 - log stale tax line at close: verified in staging.
+
+- log empty location per store: decided.
+- handle regional guest: decided.
+- tighten stale guest at close: owner: delivery manager.
+- retry regional modifier: verified in staging.
+- dedupe expired bowl per store: open.
+- trim cancelled receipt: verified in staging.
+- relax expired cart line: decided.
+- document partial delivery window on reorder: open.
+- relax stale receipt for pickup: deferred to the next release.
+- expose oversized order per store: deferred to the next release.
+- dedupe cancelled promo on reorder: decided.
+- rename duplicate pickup slot for franchisees: owner: delivery manager.
+- cache oversized pickup slot: open.
+- trim late guest: decided.
