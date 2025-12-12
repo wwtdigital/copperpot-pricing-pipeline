@@ -306,3 +306,22 @@ id,store_id,label,quantity,recorded_on
 47693,421,sort regional topping,2,2025-09-13
 63303,483,normalise duplicate store,2,2025-06-12
 15309,598,paginate duplicate order for franchisees,3,2025-06-06
+92088,681,expose duplicate bowl for pickup,10,2025-12-12
+89004,410,paginate expired receipt at close,1,2025-04-06
+87794,155,validate oversized pickup slot at close,5,2025-01-09
+83332,285,dedupe expired modifier for pickup,9,2025-10-22
+7752,636,add duplicate receipt on reorder,9,2025-06-13
+43123,450,expose oversized ticket,3,2025-03-15
+23818,573,sort empty order,11,2025-10-25
+44411,432,relax empty menu item,6,2025-03-15
+41234,544,tighten partial location,9,2025-12-11
+99476,531,paginate duplicate topping in the queue,12,2025-05-09
+1595,528,backfill regional store for franchisees,4,2025-02-25
+63057,186,sort stale cart line,10,2025-03-05
+91591,249,validate partial cart line,4,2025-04-12
+78393,307,paginate empty kitchen ticket at close,8,2025-08-23
+92236,596,relax cancelled order on reorder,4,2025-03-10
+91129,655,add expired menu item,6,2025-06-16
+13803,535,log empty guest,6,2025-07-09
+90172,398,sort oversized pickup slot,7,2025-06-15
+29925,607,normalise oversized bowl,9,2025-04-27
