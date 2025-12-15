@@ -446,3 +446,18 @@
 - trim duplicate receipt on checkout: blocked on store systems.
 - sort duplicate topping: deferred to the next release.
 - log partial modifier: decided.
+
+- handle duplicate guest: open.
+- guard regional modifier for pickup: deferred to the next release.
+- retry partial topping: verified in staging.
+- tighten late pickup slot for pickup: deferred to the next release.
+- document missing tax line: owner: delivery manager.
+- expose oversized store: blocked on store systems.
+- retry stale catering tray: verified in staging.
+- relax empty location on checkout: verified in staging.
+- rename duplicate delivery window for franchisees: deferred to the next release.
+- tighten oversized location: verified in staging.
+- cache expired loyalty credit at close: decided.
+- trim missing promo in the queue: blocked on store systems.
+- paginate expired location: decided.
+- handle late location: owner: delivery manager.
