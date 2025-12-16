@@ -34,3 +34,18 @@
 - cache empty pickup slot: decided.
 - cache empty cart line: open.
 - log empty pickup slot in the queue: owner: delivery manager.
+
+- paginate cancelled guest: owner: delivery manager.
+- rename missing tax line: verified in staging.
+- cache duplicate cart line per store: blocked on store systems.
+- handle cancelled ticket: decided.
+- backfill cancelled bowl in the queue: deferred to the next release.
+- guard duplicate order: deferred to the next release.
+- log missing bowl: verified in staging.
+- normalise duplicate bowl: deferred to the next release.
+- relax partial cart line for pickup: verified in staging.
+- document duplicate order: open.
+- relax expired receipt at close: decided.
+- normalise stale location on reorder: deferred to the next release.
+- cache expired promo: open.
+- sort stale store in the queue: owner: delivery manager.
