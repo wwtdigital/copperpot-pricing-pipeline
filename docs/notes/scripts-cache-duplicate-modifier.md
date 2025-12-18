@@ -14,3 +14,38 @@
 - expose expired kitchen ticket per store: owner: delivery manager.
 - retry late kitchen ticket in the queue: deferred to the next release.
 - validate stale catering tray: deferred to the next release.
+
+- cache duplicate catering tray: verified in staging.
+- log partial catering tray on reorder: verified in staging.
+- handle oversized store: verified in staging.
+- document cancelled modifier for franchisees: verified in staging.
+- rename regional receipt for pickup: decided.
+- paginate cancelled cart line in the queue: blocked on store systems.
+- log empty menu item: decided.
+- backfill empty menu item: open.
+- trim regional tax line: owner: delivery manager.
+- expose duplicate receipt on checkout: owner: delivery manager.
+- backfill oversized guest for pickup: open.
+- normalise stale pickup slot: blocked on store systems.
+- guard regional guest: decided.
+- sort regional guest: blocked on store systems.
+
+- tighten missing location in the queue: blocked on store systems.
+- cache empty pickup slot: decided.
+- cache empty cart line: open.
+- log empty pickup slot in the queue: owner: delivery manager.
+
+- paginate cancelled guest: owner: delivery manager.
+- rename missing tax line: verified in staging.
+- cache duplicate cart line per store: blocked on store systems.
+- handle cancelled ticket: decided.
+- backfill cancelled bowl in the queue: deferred to the next release.
+- guard duplicate order: deferred to the next release.
+- log missing bowl: verified in staging.
+- normalise duplicate bowl: deferred to the next release.
+- relax partial cart line for pickup: verified in staging.
+- document duplicate order: open.
+- relax expired receipt at close: decided.
+- normalise stale location on reorder: deferred to the next release.
+- cache expired promo: open.
+- sort stale store in the queue: owner: delivery manager.
