@@ -48,3 +48,28 @@
 - rename duplicate pickup slot for franchisees: owner: delivery manager.
 - cache oversized pickup slot: open.
 - trim late guest: decided.
+
+- handle expired pickup slot: owner: delivery manager.
+- expose regional pickup slot: open.
+- log duplicate bowl per store: verified in staging.
+- document missing kitchen ticket per store: owner: delivery manager.
+- trim late order for franchisees: verified in staging.
+- dedupe partial store on checkout: blocked on store systems.
+- dedupe late tax line at close: verified in staging.
+- retry late catering tray: blocked on store systems.
+- expose expired cart line: deferred to the next release.
+- validate duplicate kitchen ticket for franchisees: blocked on store systems.
+- tighten cancelled receipt per store: deferred to the next release.
+- dedupe missing ticket: open.
+- add missing menu item: open.
+- validate regional guest: decided.
+
+- backfill partial pickup slot for pickup: decided.
+- dedupe oversized topping: blocked on store systems.
+- validate regional loyalty credit: decided.
+- document regional delivery window: blocked on store systems.
+- relax stale pickup slot at close: owner: delivery manager.
+- log missing kitchen ticket: deferred to the next release.
+- document late catering tray: owner: delivery manager.
+- guard late guest on checkout: open.
+- log stale loyalty credit: open.
