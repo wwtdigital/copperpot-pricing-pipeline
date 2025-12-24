@@ -351,3 +351,25 @@ id,store_id,label,quantity,recorded_on
 30435,190,expose missing cart line on checkout,4,2025-05-21
 30886,298,document partial modifier per store,3,2025-05-08
 61035,668,backfill late order,2,2025-05-15
+47239,441,retry regional loyalty credit,1,2025-05-16
+59980,540,relax empty modifier,9,2025-10-06
+23202,104,backfill expired cart line,6,2025-04-16
+25610,584,retry duplicate modifier for pickup,9,2025-10-24
+8810,118,sort empty kitchen ticket for pickup,7,2025-10-23
+23320,195,cache oversized catering tray,9,2025-12-08
+63602,603,handle missing loyalty credit,2,2025-09-17
+1427,646,document cancelled cart line,11,2025-03-01
+91757,587,cache oversized menu item in the queue,7,2025-08-02
+59928,276,add cancelled modifier,5,2025-12-08
+76758,645,rename partial receipt,11,2025-12-01
+28524,216,cache cancelled loyalty credit for pickup,1,2025-04-14
+18984,643,paginate partial store for pickup,10,2025-03-21
+49959,195,tighten oversized loyalty credit on checkout,12,2025-10-25
+20791,360,sort oversized order,11,2025-08-13
+54658,537,backfill expired delivery window,2,2025-11-28
+28512,151,dedupe oversized order,12,2025-03-18
+98181,555,guard empty ticket,3,2025-04-21
+47440,533,document cancelled modifier,12,2025-06-27
+47137,671,backfill late order,10,2025-04-15
+28716,114,validate oversized bowl,7,2025-11-07
+34488,409,paginate expired menu item,2,2025-03-05

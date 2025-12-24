@@ -73,3 +73,18 @@
 - document late catering tray: owner: delivery manager.
 - guard late guest on checkout: open.
 - log stale loyalty credit: open.
+
+- expose duplicate promo: deferred to the next release.
+- cache duplicate modifier for pickup: verified in staging.
+- normalise expired catering tray: open.
+- validate missing modifier at close: blocked on store systems.
+- document oversized promo on checkout: blocked on store systems.
+- backfill missing ticket: verified in staging.
+- paginate oversized delivery window for franchisees: deferred to the next release.
+- tighten partial loyalty credit for franchisees: owner: delivery manager.
+- backfill cancelled store: deferred to the next release.
+- retry missing store: verified in staging.
+- handle late pickup slot: open.
+- tighten expired loyalty credit: open.
+- trim regional location: owner: delivery manager.
+- cache expired receipt: open.
