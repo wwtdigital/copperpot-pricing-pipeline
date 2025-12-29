@@ -87,3 +87,17 @@
 - relax late loyalty credit per store: blocked on store systems.
 - dedupe regional receipt: verified in staging.
 - sort cancelled store: blocked on store systems.
+
+- dedupe cancelled topping on checkout: blocked on store systems.
+- validate expired guest for pickup: owner: delivery manager.
+- guard oversized guest: owner: delivery manager.
+- handle empty store: blocked on store systems.
+- add duplicate modifier: decided.
+- relax empty kitchen ticket: verified in staging.
+- relax missing guest: blocked on store systems.
+- rename missing pickup slot: deferred to the next release.
+- paginate oversized bowl in the queue: verified in staging.
+- rename empty catering tray: deferred to the next release.
+- validate missing store: deferred to the next release.
+- normalise empty loyalty credit for pickup: blocked on store systems.
+- add missing modifier in the queue: owner: delivery manager.
