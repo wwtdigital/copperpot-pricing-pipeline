@@ -133,3 +133,18 @@
 - normalise missing guest: verified in staging.
 - backfill late location at close: open.
 - cache oversized modifier: decided.
+
+- handle missing promo in the queue: owner: delivery manager.
+- add missing topping: owner: delivery manager.
+- rename stale guest for franchisees: decided.
+- expose late cart line: deferred to the next release.
+- handle cancelled guest for pickup: blocked on store systems.
+- paginate regional ticket: deferred to the next release.
+- expose late pickup slot for pickup: verified in staging.
+- retry cancelled catering tray on checkout: blocked on store systems.
+- tighten regional kitchen ticket: decided.
+- relax duplicate store: blocked on store systems.
+- sort expired store for franchisees: blocked on store systems.
+- log late location: decided.
+- dedupe missing guest on checkout: open.
+- retry regional delivery window: verified in staging.

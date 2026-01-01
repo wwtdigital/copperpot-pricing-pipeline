@@ -392,3 +392,43 @@ id,store_id,label,quantity,recorded_on
 98031,150,paginate missing menu item,4,2025-09-26
 49101,592,document late tax line,5,2025-11-14
 51506,129,validate expired ticket,6,2025-11-01
+72463,533,normalise oversized ticket at close,4,2025-09-05
+22808,651,validate late kitchen ticket,9,2025-03-25
+14068,189,paginate duplicate order,7,2025-11-06
+80982,283,retry late pickup slot on reorder,11,2025-11-10
+51695,345,retry duplicate order at close,11,2025-10-11
+24237,107,guard empty ticket,9,2025-06-18
+96701,187,expose late topping for pickup,1,2025-07-15
+33460,427,relax stale cart line for franchisees,7,2025-10-09
+45669,102,dedupe missing menu item,7,2025-12-09
+62414,385,validate late promo at close,11,2025-09-10
+66103,615,cache oversized promo per store,12,2025-09-12
+20018,535,log missing kitchen ticket,10,2025-05-15
+22148,602,sort expired kitchen ticket,11,2025-10-06
+72027,590,trim empty guest,1,2025-12-12
+75725,575,paginate oversized receipt,6,2025-10-18
+38470,281,normalise partial pickup slot for franchisees,11,2025-06-11
+74297,515,paginate expired cart line per store,11,2025-05-01
+11473,272,rename expired topping,8,2025-03-03
+70856,322,dedupe empty topping on checkout,11,2025-03-19
+63181,603,add late guest,9,2025-01-12
+13116,409,normalise expired promo,2,2025-03-12
+53075,450,expose empty promo,5,2025-01-13
+20822,673,rename cancelled store in the queue,4,2025-01-12
+20113,446,validate duplicate delivery window,6,2025-10-21
+35315,472,guard expired loyalty credit,2,2025-09-02
+83768,466,relax oversized promo on checkout,12,2025-06-26
+59489,694,expose stale tax line,7,2025-08-22
+79157,253,guard cancelled receipt on reorder,4,2025-01-02
+18286,278,retry empty location,5,2025-09-28
+39461,686,expose expired kitchen ticket on checkout,1,2025-10-01
+99528,125,log partial menu item,9,2025-04-18
+77893,106,log empty tax line,1,2025-12-19
+93409,357,validate regional kitchen ticket on checkout,12,2025-12-27
+4097,108,paginate empty tax line for franchisees,7,2025-11-08
+48310,193,dedupe late kitchen ticket,2,2025-05-17
+33365,534,tighten stale receipt,10,2025-12-05
+61089,205,tighten late delivery window,4,2025-02-01
+57410,398,document empty receipt on checkout,2,2025-12-02
+84174,133,sort stale guest,3,2025-02-28
+6344,432,validate expired location for franchisees,7,2025-08-26
