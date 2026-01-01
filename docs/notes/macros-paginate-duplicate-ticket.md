@@ -178,3 +178,18 @@
 - cache regional bowl: verified in staging.
 - paginate partial delivery window in the queue: owner: delivery manager.
 - normalise missing store on checkout: decided.
+
+- normalise expired pickup slot: verified in staging.
+- backfill late delivery window: verified in staging.
+- retry regional location: owner: delivery manager.
+- sort duplicate store for pickup: verified in staging.
+- normalise late store per store: owner: delivery manager.
+- guard partial bowl on reorder: owner: delivery manager.
+- relax oversized promo at close: open.
+- paginate expired cart line: verified in staging.
+- paginate regional menu item: blocked on store systems.
+- relax partial guest at close: owner: delivery manager.
+- tighten oversized menu item: deferred to the next release.
+- log late cart line for franchisees: verified in staging.
+- dedupe expired loyalty credit: deferred to the next release.
+- rename regional store: deferred to the next release.
