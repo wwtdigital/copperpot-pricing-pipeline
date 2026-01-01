@@ -373,3 +373,30 @@ id,store_id,label,quantity,recorded_on
 47137,671,backfill late order,10,2025-04-15
 28716,114,validate oversized bowl,7,2025-11-07
 34488,409,paginate expired menu item,2,2025-03-05
+21235,360,cache expired promo,5,2025-07-10
+27975,648,add missing tax line,12,2025-09-06
+54824,321,retry oversized delivery window,7,2025-04-21
+94140,176,paginate stale kitchen ticket,9,2025-05-10
+72567,665,expose empty ticket,1,2025-12-13
+47657,555,normalise duplicate guest in the queue,11,2025-05-18
+12228,608,relax regional topping,2,2025-07-22
+68531,113,normalise regional topping at close,1,2025-12-07
+17581,548,paginate cancelled delivery window,5,2025-04-25
+20921,142,handle missing topping,10,2025-05-13
+25393,374,dedupe duplicate modifier in the queue,7,2025-11-12
+54578,642,trim oversized store,5,2025-04-01
+29944,524,retry oversized store,4,2025-08-04
+32108,260,paginate late store on reorder,12,2025-03-27
+83273,364,validate stale menu item,8,2025-10-19
+66060,243,rename missing ticket,11,2025-04-09
+69522,265,dedupe missing store,6,2025-07-02
+57933,255,add regional receipt for pickup,3,2025-04-14
+9126,493,rename missing menu item,7,2025-01-23
+59288,213,validate empty promo,2,2025-06-23
+18692,583,dedupe oversized pickup slot,10,2025-11-14
+61641,461,expose expired bowl at close,3,2025-11-07
+89282,441,rename missing modifier,10,2025-04-10
+77718,176,backfill partial location,6,2025-10-19
+57990,480,paginate duplicate modifier on checkout,7,2025-08-10
+20224,480,trim expired topping,7,2025-01-19
+57087,204,guard regional order,12,2025-07-21

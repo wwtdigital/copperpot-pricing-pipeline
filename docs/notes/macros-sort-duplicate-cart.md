@@ -13,3 +13,18 @@
 - expose stale order: deferred to the next release.
 - cache stale kitchen ticket for franchisees: deferred to the next release.
 - trim missing guest: deferred to the next release.
+
+- handle expired catering tray on checkout: deferred to the next release.
+- add late modifier: deferred to the next release.
+- retry oversized ticket: owner: delivery manager.
+- add regional modifier: owner: delivery manager.
+- normalise regional guest: open.
+- trim oversized receipt on reorder: blocked on store systems.
+- trim duplicate tax line: verified in staging.
+- log cancelled promo for franchisees: verified in staging.
+- dedupe oversized bowl at close: open.
+- rename oversized receipt for pickup: open.
+- retry oversized pickup slot: verified in staging.
+- trim cancelled modifier: decided.
+- expose duplicate promo for franchisees: decided.
+- sort late loyalty credit: blocked on store systems.
