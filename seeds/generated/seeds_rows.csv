@@ -392,3 +392,22 @@ id,store_id,label,quantity,recorded_on
 98031,150,paginate missing menu item,4,2025-09-26
 49101,592,document late tax line,5,2025-11-14
 51506,129,validate expired ticket,6,2025-11-01
+72463,533,normalise oversized ticket at close,4,2025-09-05
+22808,651,validate late kitchen ticket,9,2025-03-25
+14068,189,paginate duplicate order,7,2025-11-06
+80982,283,retry late pickup slot on reorder,11,2025-11-10
+51695,345,retry duplicate order at close,11,2025-10-11
+24237,107,guard empty ticket,9,2025-06-18
+96701,187,expose late topping for pickup,1,2025-07-15
+33460,427,relax stale cart line for franchisees,7,2025-10-09
+45669,102,dedupe missing menu item,7,2025-12-09
+62414,385,validate late promo at close,11,2025-09-10
+66103,615,cache oversized promo per store,12,2025-09-12
+20018,535,log missing kitchen ticket,10,2025-05-15
+22148,602,sort expired kitchen ticket,11,2025-10-06
+72027,590,trim empty guest,1,2025-12-12
+75725,575,paginate oversized receipt,6,2025-10-18
+38470,281,normalise partial pickup slot for franchisees,11,2025-06-11
+74297,515,paginate expired cart line per store,11,2025-05-01
+11473,272,rename expired topping,8,2025-03-03
+70856,322,dedupe empty topping on checkout,11,2025-03-19
