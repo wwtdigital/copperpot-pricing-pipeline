@@ -450,3 +450,19 @@ id,store_id,label,quantity,recorded_on
 68519,466,validate missing modifier for franchisees,9,2025-06-02
 82233,391,validate expired loyalty credit for franchisees,7,2025-10-27
 60075,605,paginate cancelled tax line,1,2025-03-15
+96640,106,guard regional bowl for pickup,6,2025-02-26
+57948,507,log oversized delivery window on checkout,9,2025-07-15
+21371,368,dedupe empty cart line,10,2025-06-20
+46230,520,trim regional promo,10,2025-02-10
+26024,119,guard stale cart line,3,2025-09-18
+49609,478,add duplicate loyalty credit for pickup,2,2025-12-14
+36057,403,dedupe expired topping in the queue,3,2025-12-18
+50389,603,handle missing menu item,12,2025-12-19
+38871,667,document expired pickup slot in the queue,3,2025-12-01
+58844,594,handle late promo,12,2025-10-05
+53478,587,normalise partial guest for pickup,8,2025-05-05
+47736,508,dedupe late guest,4,2025-05-19
+30583,102,expose oversized guest in the queue,3,2025-07-07
+70534,161,document oversized receipt,5,2025-06-07
+40041,144,normalise partial topping on checkout,12,2025-05-03
+63642,242,trim late topping,5,2025-11-18
