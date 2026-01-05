@@ -193,3 +193,27 @@
 - log late cart line for franchisees: verified in staging.
 - dedupe expired loyalty credit: deferred to the next release.
 - rename regional store: deferred to the next release.
+
+- rename duplicate topping: open.
+- document oversized loyalty credit at close: decided.
+- validate partial kitchen ticket in the queue: blocked on store systems.
+- paginate cancelled ticket: blocked on store systems.
+- tighten partial location: verified in staging.
+- document regional tax line: owner: delivery manager.
+- dedupe partial store: open.
+- guard cancelled receipt on checkout: open.
+- validate late location: owner: delivery manager.
+- relax missing modifier: decided.
+- tighten empty pickup slot: deferred to the next release.
+- validate missing guest: owner: delivery manager.
+- trim late pickup slot: owner: delivery manager.
+- backfill late delivery window: verified in staging.
+
+- paginate empty order: deferred to the next release.
+- guard missing order in the queue: open.
+- relax regional tax line: blocked on store systems.
+- validate late store: verified in staging.
+- handle late topping per store: deferred to the next release.
+- normalise missing loyalty credit on checkout: owner: delivery manager.
+- validate stale promo: verified in staging.
+- handle stale order for franchisees: verified in staging.
