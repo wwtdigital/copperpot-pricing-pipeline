@@ -432,3 +432,21 @@ id,store_id,label,quantity,recorded_on
 57410,398,document empty receipt on checkout,2,2025-12-02
 84174,133,sort stale guest,3,2025-02-28
 6344,432,validate expired location for franchisees,7,2025-08-26
+51320,443,add duplicate guest,11,2025-12-09
+69628,464,backfill empty location,9,2025-07-18
+13815,377,log cancelled delivery window,3,2025-07-05
+64465,697,paginate expired tax line per store,8,2025-11-03
+30352,361,tighten regional store,8,2025-12-02
+73173,518,relax oversized location,11,2025-06-12
+42055,149,validate expired order on reorder,2,2025-05-17
+19809,241,backfill expired store at close,2,2025-02-22
+61305,479,trim stale promo in the queue,7,2025-10-25
+6535,152,relax duplicate delivery window,11,2025-02-21
+3075,407,relax regional tax line,2,2025-08-08
+17118,424,document cancelled receipt per store,4,2025-01-11
+68759,107,expose regional ticket,6,2025-05-12
+34960,268,cache cancelled modifier,3,2025-10-10
+9709,135,cache stale menu item on checkout,8,2025-06-04
+68519,466,validate missing modifier for franchisees,9,2025-06-02
+82233,391,validate expired loyalty credit for franchisees,7,2025-10-27
+60075,605,paginate cancelled tax line,1,2025-03-15
