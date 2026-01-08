@@ -28,3 +28,18 @@
 - trim cancelled modifier: decided.
 - expose duplicate promo for franchisees: decided.
 - sort late loyalty credit: blocked on store systems.
+
+- sort expired modifier for pickup: decided.
+- tighten empty tax line: deferred to the next release.
+- validate late ticket in the queue: open.
+- add partial tax line: deferred to the next release.
+- validate expired guest: open.
+- add stale loyalty credit: open.
+- paginate partial topping: decided.
+- cache oversized order: decided.
+- tighten expired guest: verified in staging.
+- trim stale guest for pickup: open.
+- backfill cancelled tax line for franchisees: owner: delivery manager.
+- log empty guest: decided.
+- relax oversized receipt: verified in staging.
+- tighten missing receipt: decided.

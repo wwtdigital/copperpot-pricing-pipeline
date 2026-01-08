@@ -88,3 +88,9 @@
 - tighten expired loyalty credit: open.
 - trim regional location: owner: delivery manager.
 - cache expired receipt: open.
+
+- log expired order: decided.
+- rename partial topping in the queue: verified in staging.
+- backfill expired location in the queue: blocked on store systems.
+- rename duplicate topping: deferred to the next release.
+- relax duplicate modifier: open.
