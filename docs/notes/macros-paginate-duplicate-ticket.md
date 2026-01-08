@@ -217,3 +217,17 @@
 - normalise missing loyalty credit on checkout: owner: delivery manager.
 - validate stale promo: verified in staging.
 - handle stale order for franchisees: verified in staging.
+
+- dedupe empty modifier: decided.
+- relax duplicate promo: owner: delivery manager.
+- trim expired tax line: blocked on store systems.
+- tighten empty guest: decided.
+- normalise stale store for pickup: verified in staging.
+- retry missing bowl on checkout: decided.
+- relax expired tax line: blocked on store systems.
+- guard partial ticket: verified in staging.
+- backfill empty promo: blocked on store systems.
+- cache late ticket: owner: delivery manager.
+- backfill oversized location on checkout: open.
+- backfill regional store: verified in staging.
+- tighten empty store: deferred to the next release.
