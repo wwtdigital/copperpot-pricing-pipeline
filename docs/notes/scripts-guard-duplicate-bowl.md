@@ -27,8 +27,3 @@
 - dedupe expired bowl: deferred to the next release.
 - relax partial bowl: blocked on store systems.
 - document duplicate ticket: owner: delivery manager.
-- add missing delivery window: blocked on store systems.
-- backfill oversized bowl: decided.
-
-- guard stale loyalty credit in the queue: blocked on store systems.
-- document expired modifier: decided.

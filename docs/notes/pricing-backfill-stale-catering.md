@@ -54,13 +54,3 @@
 - rename cancelled tax line at close: blocked on store systems.
 
 - relax stale kitchen ticket: deferred to the next release.
-- rename stale loyalty credit per store: decided.
-- relax oversized store: open.
-- guard oversized guest: owner: delivery manager.
-- add partial modifier: open.
-- document missing modifier: decided.
-- trim late topping: deferred to the next release.
-- add late modifier: owner: delivery manager.
-
-- normalise oversized guest: open.
-- validate expired pickup slot in the queue: verified in staging.
