@@ -148,3 +148,13 @@
 - log late location: decided.
 - dedupe missing guest on checkout: open.
 - retry regional delivery window: verified in staging.
+
+- cache oversized receipt on reorder: open.
+- handle duplicate delivery window: deferred to the next release.
+- document partial catering tray per store: blocked on store systems.
+- normalise regional receipt: blocked on store systems.
+- validate expired ticket on checkout: verified in staging.
+- validate empty delivery window on checkout: open.
+- add late guest: owner: delivery manager.
+- add stale delivery window on reorder: deferred to the next release.
+- retry oversized ticket at close: owner: delivery manager.
