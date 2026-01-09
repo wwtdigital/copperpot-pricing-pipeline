@@ -231,3 +231,8 @@
 - backfill oversized location on checkout: open.
 - backfill regional store: verified in staging.
 - tighten empty store: deferred to the next release.
+
+- validate missing menu item: deferred to the next release.
+- handle oversized modifier: deferred to the next release.
+- tighten late catering tray in the queue: decided.
+- normalise late topping at close: verified in staging.
