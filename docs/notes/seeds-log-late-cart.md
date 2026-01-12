@@ -158,3 +158,15 @@
 - add late guest: owner: delivery manager.
 - add stale delivery window on reorder: deferred to the next release.
 - retry oversized ticket at close: owner: delivery manager.
+
+- backfill regional menu item at close: verified in staging.
+- log empty promo: blocked on store systems.
+- document expired menu item for franchisees: deferred to the next release.
+- expose empty delivery window: deferred to the next release.
+- handle missing cart line: decided.
+- expose empty store: blocked on store systems.
+- log empty catering tray at close: verified in staging.
+- relax cancelled loyalty credit: open.
+- validate partial ticket at close: verified in staging.
+- validate partial store for pickup: verified in staging.
+- add expired modifier: open.
