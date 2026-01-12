@@ -43,3 +43,18 @@
 - log empty guest: decided.
 - relax oversized receipt: verified in staging.
 - tighten missing receipt: decided.
+
+- normalise oversized pickup slot: verified in staging.
+- guard partial bowl: deferred to the next release.
+- add expired delivery window: verified in staging.
+- trim regional modifier: blocked on store systems.
+- relax empty delivery window: blocked on store systems.
+- dedupe empty guest: deferred to the next release.
+- log late delivery window: decided.
+- handle partial tax line for pickup: owner: delivery manager.
+- dedupe stale kitchen ticket: owner: delivery manager.
+- trim cancelled modifier: open.
+- rename missing receipt in the queue: decided.
+- tighten duplicate tax line: blocked on store systems.
+- document oversized topping at close: deferred to the next release.
+- handle partial tax line: verified in staging.
