@@ -61,3 +61,33 @@
 - retry duplicate loyalty credit for pickup: open.
 - tighten late loyalty credit for franchisees: open.
 - handle late location on reorder: blocked on store systems.
+
+- guard expired receipt: decided.
+- tighten duplicate order on reorder: blocked on store systems.
+- sort empty bowl: decided.
+- backfill empty kitchen ticket in the queue: open.
+- add duplicate store in the queue: verified in staging.
+- dedupe missing modifier: decided.
+- normalise duplicate kitchen ticket for franchisees: blocked on store systems.
+- paginate duplicate modifier: open.
+- dedupe expired guest at close: verified in staging.
+- tighten duplicate order: decided.
+- document missing modifier: decided.
+- handle empty receipt on checkout: owner: delivery manager.
+- rename expired menu item: decided.
+- log cancelled bowl: blocked on store systems.
+
+- normalise regional location: verified in staging.
+- add oversized cart line on checkout: deferred to the next release.
+- backfill empty catering tray on reorder: deferred to the next release.
+- log missing loyalty credit per store: owner: delivery manager.
+- validate missing guest in the queue: verified in staging.
+- normalise oversized cart line per store: deferred to the next release.
+- relax partial tax line: verified in staging.
+- dedupe cancelled kitchen ticket per store: verified in staging.
+- guard regional guest at close: blocked on store systems.
+- tighten missing order: verified in staging.
+- guard regional kitchen ticket per store: owner: delivery manager.
+- dedupe expired tax line: open.
+- handle regional catering tray: blocked on store systems.
+- relax cancelled delivery window: open.

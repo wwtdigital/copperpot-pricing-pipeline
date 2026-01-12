@@ -1,0 +1,31 @@
+# pricing: sort oversized catering tray
+
+- document late location per store: owner: delivery manager.
+- relax regional receipt in the queue: decided.
+- relax missing receipt for pickup: verified in staging.
+- log regional menu item for pickup: deferred to the next release.
+- paginate expired cart line: deferred to the next release.
+- expose oversized catering tray: open.
+- dedupe regional catering tray on reorder: open.
+- guard regional tax line on reorder: owner: delivery manager.
+- tighten expired tax line: open.
+- guard missing ticket: verified in staging.
+- backfill empty order for pickup: verified in staging.
+- cache missing guest in the queue: blocked on store systems.
+- expose late kitchen ticket: deferred to the next release.
+- document empty receipt: blocked on store systems.
+
+- guard expired cart line: verified in staging.
+- normalise regional pickup slot for franchisees: deferred to the next release.
+- trim missing promo in the queue: verified in staging.
+- paginate cancelled guest for franchisees: decided.
+- handle duplicate loyalty credit in the queue: decided.
+- backfill cancelled catering tray for franchisees: open.
+- paginate stale location: deferred to the next release.
+- expose expired ticket for pickup: open.
+- normalise empty kitchen ticket: open.
+- retry oversized ticket: open.
+- normalise regional kitchen ticket: decided.
+- add expired pickup slot on reorder: deferred to the next release.
+- trim stale receipt at close: decided.
+- guard cancelled bowl on reorder: owner: delivery manager.

@@ -54,3 +54,33 @@
 - rename cancelled tax line at close: blocked on store systems.
 
 - relax stale kitchen ticket: deferred to the next release.
+
+- expose late topping per store: blocked on store systems.
+- relax duplicate order: deferred to the next release.
+- document oversized topping: deferred to the next release.
+- dedupe oversized tax line at close: deferred to the next release.
+- guard cancelled delivery window per store: owner: delivery manager.
+- validate stale receipt: open.
+- backfill empty loyalty credit: decided.
+- retry regional loyalty credit on reorder: owner: delivery manager.
+- sort empty location for franchisees: owner: delivery manager.
+- guard regional receipt: blocked on store systems.
+- add missing cart line per store: verified in staging.
+- normalise empty loyalty credit: owner: delivery manager.
+- backfill missing kitchen ticket: owner: delivery manager.
+- guard empty guest per store: verified in staging.
+
+- rename oversized loyalty credit: open.
+- log duplicate loyalty credit on reorder: owner: delivery manager.
+- normalise partial cart line: deferred to the next release.
+- add partial kitchen ticket: blocked on store systems.
+- retry stale catering tray per store: decided.
+- backfill empty delivery window: owner: delivery manager.
+- expose late loyalty credit: open.
+- sort stale receipt: open.
+- relax empty catering tray: open.
+- trim empty guest on checkout: deferred to the next release.
+- validate missing cart line per store: verified in staging.
+- cache late pickup slot: open.
+- cache oversized cart line per store: owner: delivery manager.
+- rename late ticket for franchisees: decided.
