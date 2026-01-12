@@ -28,3 +28,33 @@
 - trim cancelled modifier: decided.
 - expose duplicate promo for franchisees: decided.
 - sort late loyalty credit: blocked on store systems.
+
+- sort expired modifier for pickup: decided.
+- tighten empty tax line: deferred to the next release.
+- validate late ticket in the queue: open.
+- add partial tax line: deferred to the next release.
+- validate expired guest: open.
+- add stale loyalty credit: open.
+- paginate partial topping: decided.
+- cache oversized order: decided.
+- tighten expired guest: verified in staging.
+- trim stale guest for pickup: open.
+- backfill cancelled tax line for franchisees: owner: delivery manager.
+- log empty guest: decided.
+- relax oversized receipt: verified in staging.
+- tighten missing receipt: decided.
+
+- normalise oversized pickup slot: verified in staging.
+- guard partial bowl: deferred to the next release.
+- add expired delivery window: verified in staging.
+- trim regional modifier: blocked on store systems.
+- relax empty delivery window: blocked on store systems.
+- dedupe empty guest: deferred to the next release.
+- log late delivery window: decided.
+- handle partial tax line for pickup: owner: delivery manager.
+- dedupe stale kitchen ticket: owner: delivery manager.
+- trim cancelled modifier: open.
+- rename missing receipt in the queue: decided.
+- tighten duplicate tax line: blocked on store systems.
+- document oversized topping at close: deferred to the next release.
+- handle partial tax line: verified in staging.

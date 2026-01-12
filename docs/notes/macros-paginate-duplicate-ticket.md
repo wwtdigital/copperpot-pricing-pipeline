@@ -236,3 +236,26 @@
 - handle oversized modifier: deferred to the next release.
 - tighten late catering tray in the queue: decided.
 - normalise late topping at close: verified in staging.
+
+- normalise cancelled cart line on reorder: blocked on store systems.
+- trim oversized ticket: blocked on store systems.
+- add late tax line at close: blocked on store systems.
+- retry stale loyalty credit: deferred to the next release.
+- cache stale kitchen ticket: deferred to the next release.
+- expose stale pickup slot on checkout: decided.
+- paginate expired catering tray for pickup: owner: delivery manager.
+- paginate expired ticket for franchisees: decided.
+- sort regional receipt: verified in staging.
+- document oversized bowl for franchisees: blocked on store systems.
+- relax stale promo in the queue: blocked on store systems.
+- handle stale guest on reorder: verified in staging.
+- retry partial order: decided.
+- log cancelled cart line on reorder: decided.
+
+- dedupe partial loyalty credit for franchisees: owner: delivery manager.
+- normalise oversized loyalty credit: verified in staging.
+- dedupe missing modifier: blocked on store systems.
+- handle stale location per store: decided.
+- tighten missing promo per store: open.
+- trim partial loyalty credit: verified in staging.
+- validate partial catering tray at close: blocked on store systems.

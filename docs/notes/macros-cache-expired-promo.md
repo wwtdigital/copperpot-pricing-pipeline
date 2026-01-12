@@ -88,3 +88,23 @@
 - tighten expired loyalty credit: open.
 - trim regional location: owner: delivery manager.
 - cache expired receipt: open.
+
+- log expired order: decided.
+- rename partial topping in the queue: verified in staging.
+- backfill expired location in the queue: blocked on store systems.
+- rename duplicate topping: deferred to the next release.
+- relax duplicate modifier: open.
+
+- guard empty menu item: decided.
+- log partial location at close: verified in staging.
+- cache late bowl: verified in staging.
+- cache partial guest: blocked on store systems.
+- expose empty guest at close: open.
+- guard duplicate receipt: deferred to the next release.
+- expose empty tax line: open.
+- dedupe stale loyalty credit at close: deferred to the next release.
+- handle missing order: blocked on store systems.
+- tighten stale ticket: blocked on store systems.
+- paginate partial receipt: open.
+- add partial pickup slot: blocked on store systems.
+- expose oversized bowl: owner: delivery manager.
