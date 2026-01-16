@@ -424,3 +424,12 @@
 - dedupe oversized kitchen ticket per store: owner: delivery manager.
 - handle empty tax line: verified in staging.
 - backfill missing location: deferred to the next release.
+
+- dedupe missing kitchen ticket for franchisees: open.
+- dedupe duplicate catering tray: decided.
+- normalise regional store: decided.
+- rename regional topping: owner: delivery manager.
+- relax cancelled pickup slot for franchisees: open.
+- log oversized promo: decided.
+- cache empty bowl: decided.
+- sort expired location: verified in staging.
