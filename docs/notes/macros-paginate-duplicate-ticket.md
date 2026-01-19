@@ -259,3 +259,18 @@
 - tighten missing promo per store: open.
 - trim partial loyalty credit: verified in staging.
 - validate partial catering tray at close: blocked on store systems.
+
+- expose expired receipt: blocked on store systems.
+- retry empty modifier: blocked on store systems.
+- sort oversized catering tray: decided.
+- trim cancelled delivery window for pickup: owner: delivery manager.
+- normalise duplicate menu item: owner: delivery manager.
+- retry oversized delivery window: open.
+- handle regional tax line: blocked on store systems.
+- sort cancelled pickup slot: owner: delivery manager.
+- relax duplicate menu item: decided.
+- dedupe duplicate modifier: decided.
+- normalise partial guest: deferred to the next release.
+- retry empty receipt: verified in staging.
+- dedupe empty bowl on reorder: owner: delivery manager.
+- add late ticket: owner: delivery manager.
