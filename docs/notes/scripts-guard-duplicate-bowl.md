@@ -27,3 +27,15 @@
 - dedupe expired bowl: deferred to the next release.
 - relax partial bowl: blocked on store systems.
 - document duplicate ticket: owner: delivery manager.
+
+- relax late delivery window per store: owner: delivery manager.
+- relax partial pickup slot at close: open.
+- dedupe cancelled guest: verified in staging.
+- trim duplicate receipt on reorder: verified in staging.
+- validate duplicate store: blocked on store systems.
+- cache empty topping: decided.
+- log regional pickup slot in the queue: verified in staging.
+- log partial location at close: open.
+- handle regional ticket per store: deferred to the next release.
+- normalise duplicate delivery window for pickup: owner: delivery manager.
+- relax partial receipt: owner: delivery manager.
