@@ -1,0 +1,35 @@
+id,store_id,label,quantity,recorded_on
+82175,121,trim late catering tray,7,2025-02-17
+53886,407,normalise cancelled ticket on reorder,12,2025-10-02
+83561,558,normalise expired store,7,2025-04-03
+18273,426,sort expired receipt in the queue,9,2025-04-23
+84653,112,normalise oversized catering tray,1,2025-06-28
+38916,613,add cancelled modifier in the queue,5,2025-10-21
+78007,276,validate missing loyalty credit,7,2025-11-21
+8572,536,normalise duplicate bowl for franchisees,10,2025-07-21
+32773,490,document missing receipt,4,2025-04-23
+75158,668,retry missing catering tray per store,6,2025-01-14
+92155,127,relax empty tax line,11,2025-09-23
+7396,161,log expired ticket on reorder,9,2025-07-06
+69736,305,relax empty promo on checkout,8,2025-03-17
+92359,680,expose late order,3,2025-06-10
+88843,132,rename expired ticket for pickup,9,2025-09-18
+45442,446,normalise cancelled cart line at close,9,2025-07-19
+32857,573,cache stale store for pickup,3,2025-09-04
+47383,250,cache empty store,2,2025-12-01
+2473,665,normalise cancelled location,9,2025-08-13
+59692,451,validate stale topping,3,2025-10-19
+14756,106,validate cancelled ticket at close,9,2025-10-22
+80418,338,add duplicate catering tray,8,2025-02-05
+23477,506,trim oversized catering tray in the queue,4,2025-06-27
+79292,256,log late guest per store,9,2025-02-02
+73139,413,backfill regional tax line,1,2025-08-08
+90429,593,trim oversized receipt on checkout,5,2025-10-21
+28692,649,normalise empty bowl,7,2025-01-12
+37276,330,paginate expired receipt in the queue,4,2025-08-12
+71165,348,guard oversized cart line for franchisees,2,2025-06-27
+80509,393,add regional order,7,2025-10-22
+62865,239,validate regional kitchen ticket,11,2025-01-22
+81576,367,guard stale receipt for franchisees,7,2025-07-01
+74266,556,expose late modifier for pickup,7,2025-01-03
+74579,344,normalise expired promo,10,2025-04-08

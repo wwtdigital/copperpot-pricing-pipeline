@@ -29,3 +29,18 @@
 - add expired pickup slot on reorder: deferred to the next release.
 - trim stale receipt at close: decided.
 - guard cancelled bowl on reorder: owner: delivery manager.
+
+- validate cancelled kitchen ticket on reorder: decided.
+- tighten oversized guest: open.
+- rename missing promo: verified in staging.
+- trim duplicate guest: deferred to the next release.
+- normalise stale pickup slot: verified in staging.
+- backfill regional promo: owner: delivery manager.
+- normalise duplicate topping: decided.
+- cache partial receipt: owner: delivery manager.
+- expose stale modifier: open.
+- dedupe stale topping: deferred to the next release.
+- guard missing promo: blocked on store systems.
+- tighten duplicate ticket for pickup: open.
+- retry oversized pickup slot: owner: delivery manager.
+- document regional kitchen ticket on reorder: verified in staging.
