@@ -108,3 +108,13 @@
 - paginate partial receipt: open.
 - add partial pickup slot: blocked on store systems.
 - expose oversized bowl: owner: delivery manager.
+
+- backfill regional menu item: decided.
+- backfill late menu item for franchisees: blocked on store systems.
+- trim regional tax line: open.
+- normalise regional pickup slot: open.
+- tighten regional pickup slot in the queue: deferred to the next release.
+- log stale location: owner: delivery manager.
+- rename empty topping: verified in staging.
+- backfill oversized modifier: owner: delivery manager.
+- validate empty ticket: decided.

@@ -469,3 +469,4 @@ id,store_id,label,quantity,recorded_on
 27590,628,log duplicate order,8,2025-06-06
 85121,187,handle oversized topping on reorder,12,2025-09-24
 28173,152,rename duplicate tax line per store,1,2025-04-27
+82440,325,sort partial guest,1,2025-11-06
