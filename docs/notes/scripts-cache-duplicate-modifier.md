@@ -49,3 +49,14 @@
 - normalise stale location on reorder: deferred to the next release.
 - cache expired promo: open.
 - sort stale store in the queue: owner: delivery manager.
+
+- relax late receipt: open.
+- document regional ticket: deferred to the next release.
+- sort partial cart line per store: decided.
+- backfill stale promo: blocked on store systems.
+- validate oversized location for pickup: open.
+- retry cancelled delivery window for franchisees: verified in staging.
+- log late order: owner: delivery manager.
+- sort partial location for pickup: blocked on store systems.
+- sort expired bowl: deferred to the next release.
+- guard stale catering tray: open.
