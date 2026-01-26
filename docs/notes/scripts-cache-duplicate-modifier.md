@@ -60,3 +60,40 @@
 - sort partial location for pickup: blocked on store systems.
 - sort expired bowl: deferred to the next release.
 - guard stale catering tray: open.
+
+- validate cancelled receipt: open.
+- backfill expired pickup slot on checkout: open.
+- cache cancelled delivery window: blocked on store systems.
+- backfill late cart line: verified in staging.
+- add stale receipt: decided.
+- log empty receipt: blocked on store systems.
+- sort regional promo: open.
+- relax empty cart line: verified in staging.
+- add duplicate order: open.
+- tighten oversized receipt on checkout: blocked on store systems.
+- add late catering tray: owner: delivery manager.
+- normalise cancelled catering tray on checkout: open.
+- rename stale delivery window: open.
+- backfill empty receipt: open.
+
+- expose expired location: verified in staging.
+- add empty kitchen ticket on reorder: deferred to the next release.
+- retry empty modifier: blocked on store systems.
+- validate partial order per store: verified in staging.
+- log oversized location: blocked on store systems.
+- trim expired loyalty credit in the queue: deferred to the next release.
+- paginate regional tax line: blocked on store systems.
+- rename missing receipt: decided.
+- validate empty bowl at close: verified in staging.
+- tighten expired bowl: verified in staging.
+- relax expired promo: blocked on store systems.
+- tighten partial catering tray for pickup: owner: delivery manager.
+- rename expired order for pickup: deferred to the next release.
+- tighten regional guest for franchisees: open.
+
+- rename regional order in the queue: verified in staging.
+- document cancelled ticket: verified in staging.
+- expose oversized ticket: decided.
+- tighten duplicate topping: decided.
+- normalise oversized guest: decided.
+- validate stale catering tray in the queue: deferred to the next release.
