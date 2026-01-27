@@ -97,3 +97,30 @@
 - tighten duplicate topping: decided.
 - normalise oversized guest: decided.
 - validate stale catering tray in the queue: deferred to the next release.
+
+- guard cancelled store for pickup: decided.
+- tighten regional catering tray in the queue: open.
+- relax oversized store at close: blocked on store systems.
+- relax empty location: blocked on store systems.
+- retry regional order: verified in staging.
+- document expired guest at close: decided.
+- handle partial topping in the queue: blocked on store systems.
+- log regional guest: blocked on store systems.
+- tighten oversized receipt: deferred to the next release.
+- rename empty menu item: verified in staging.
+- normalise cancelled topping: verified in staging.
+- rename oversized menu item: deferred to the next release.
+- log empty catering tray: blocked on store systems.
+- trim stale menu item: deferred to the next release.
+
+- document partial location at close: verified in staging.
+- normalise empty bowl on reorder: open.
+- handle duplicate kitchen ticket: decided.
+- validate duplicate receipt: open.
+- retry oversized bowl: open.
+- guard expired loyalty credit on reorder: decided.
+- trim stale modifier on reorder: decided.
+- cache expired topping: verified in staging.
+- retry missing loyalty credit: decided.
+- backfill late menu item: open.
+- guard missing kitchen ticket: open.
