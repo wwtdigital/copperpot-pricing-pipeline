@@ -44,3 +44,15 @@
 - tighten duplicate ticket for pickup: open.
 - retry oversized pickup slot: owner: delivery manager.
 - document regional kitchen ticket on reorder: verified in staging.
+
+- dedupe missing promo: owner: delivery manager.
+- rename duplicate pickup slot: decided.
+- normalise late store: verified in staging.
+- validate oversized menu item in the queue: blocked on store systems.
+- tighten cancelled store on reorder: owner: delivery manager.
+- guard stale ticket: blocked on store systems.
+- rename oversized store: verified in staging.
+- paginate stale promo: blocked on store systems.
+- backfill expired tax line per store: verified in staging.
+- expose expired tax line: verified in staging.
+- normalise oversized kitchen ticket for franchisees: owner: delivery manager.

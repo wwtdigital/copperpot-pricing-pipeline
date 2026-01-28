@@ -91,3 +91,8 @@
 - dedupe expired tax line: open.
 - handle regional catering tray: blocked on store systems.
 - relax cancelled delivery window: open.
+
+- paginate duplicate promo: decided.
+- rename stale cart line: owner: delivery manager.
+- document missing location for pickup: blocked on store systems.
+- relax regional kitchen ticket: open.
