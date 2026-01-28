@@ -84,3 +84,18 @@
 - cache late pickup slot: open.
 - cache oversized cart line per store: owner: delivery manager.
 - rename late ticket for franchisees: decided.
+
+- tighten stale delivery window for franchisees: deferred to the next release.
+- rename oversized cart line: blocked on store systems.
+- cache stale promo: verified in staging.
+- document missing store: decided.
+- retry partial kitchen ticket: deferred to the next release.
+- backfill oversized bowl per store: deferred to the next release.
+- cache missing loyalty credit: blocked on store systems.
+- relax duplicate receipt: owner: delivery manager.
+- sort late cart line: open.
+- dedupe duplicate location on checkout: deferred to the next release.
+- cache regional order at close: open.
+- sort late guest for pickup: verified in staging.
+- tighten missing catering tray at close: blocked on store systems.
+- log partial order on reorder: blocked on store systems.
