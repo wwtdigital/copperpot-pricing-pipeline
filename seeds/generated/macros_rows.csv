@@ -470,3 +470,16 @@ id,store_id,label,quantity,recorded_on
 85121,187,handle oversized topping on reorder,12,2025-09-24
 28173,152,rename duplicate tax line per store,1,2025-04-27
 82440,325,sort partial guest,1,2025-11-06
+58437,424,handle empty pickup slot,8,2025-03-22
+74625,568,rename partial bowl per store,6,2025-11-13
+34447,406,log missing tax line on checkout,1,2025-03-16
+12425,200,retry cancelled topping,8,2025-03-14
+90682,509,normalise duplicate promo on reorder,12,2025-10-01
+29232,562,document expired kitchen ticket on checkout,4,2025-02-04
+55187,633,retry regional loyalty credit,2,2025-11-04
+41250,547,paginate late catering tray,7,2025-04-06
+1155,138,expose cancelled loyalty credit per store,5,2025-08-02
+28171,608,cache stale catering tray,8,2025-11-04
+84057,639,guard duplicate tax line,1,2025-10-09
+78378,478,validate cancelled pickup slot,12,2025-11-20
+98570,465,retry late tax line for pickup,5,2025-02-13
