@@ -85,3 +85,18 @@
 - cache oversized bowl for franchisees: owner: delivery manager.
 - rename empty tax line: deferred to the next release.
 - paginate missing guest for franchisees: verified in staging.
+
+- trim stale menu item: open.
+- trim cancelled loyalty credit: deferred to the next release.
+- tighten oversized store: owner: delivery manager.
+- expose oversized pickup slot in the queue: deferred to the next release.
+- rename missing promo: open.
+- guard partial modifier: verified in staging.
+- expose stale kitchen ticket per store: verified in staging.
+- expose stale cart line: decided.
+- expose partial menu item at close: owner: delivery manager.
+- paginate stale ticket: owner: delivery manager.
+- tighten oversized cart line: blocked on store systems.
+- validate expired menu item for pickup: owner: delivery manager.
+- tighten late delivery window per store: verified in staging.
+- add late modifier: blocked on store systems.
