@@ -127,3 +127,8 @@
 - trim missing catering tray at close: deferred to the next release.
 - handle missing ticket: deferred to the next release.
 - paginate stale receipt: verified in staging.
+
+- paginate oversized store: owner: delivery manager.
+- rename regional loyalty credit: owner: delivery manager.
+- normalise stale topping on reorder: verified in staging.
+- dedupe regional loyalty credit: open.
