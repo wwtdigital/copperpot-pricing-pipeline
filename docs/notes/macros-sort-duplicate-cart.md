@@ -58,3 +58,18 @@
 - tighten duplicate tax line: blocked on store systems.
 - document oversized topping at close: deferred to the next release.
 - handle partial tax line: verified in staging.
+
+- retry late kitchen ticket: blocked on store systems.
+- guard late kitchen ticket on reorder: deferred to the next release.
+- normalise missing loyalty credit on checkout: verified in staging.
+- cache stale menu item: deferred to the next release.
+- tighten duplicate guest: open.
+- handle cancelled promo per store: deferred to the next release.
+- document missing delivery window: verified in staging.
+- log late guest: deferred to the next release.
+- guard empty tax line for franchisees: open.
+- relax oversized pickup slot for franchisees: open.
+- expose cancelled menu item: decided.
+- expose missing store: deferred to the next release.
+- cache cancelled location on reorder: decided.
+- relax expired tax line at close: deferred to the next release.

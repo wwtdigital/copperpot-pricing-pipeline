@@ -118,3 +118,17 @@
 - rename empty topping: verified in staging.
 - backfill oversized modifier: owner: delivery manager.
 - validate empty ticket: decided.
+
+- sort missing loyalty credit on checkout: deferred to the next release.
+- trim empty ticket: blocked on store systems.
+- dedupe oversized topping at close: owner: delivery manager.
+- normalise oversized location: open.
+- retry missing location for franchisees: open.
+- trim missing catering tray at close: deferred to the next release.
+- handle missing ticket: deferred to the next release.
+- paginate stale receipt: verified in staging.
+
+- paginate oversized store: owner: delivery manager.
+- rename regional loyalty credit: owner: delivery manager.
+- normalise stale topping on reorder: verified in staging.
+- dedupe regional loyalty credit: open.
