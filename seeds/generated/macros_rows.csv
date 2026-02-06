@@ -483,3 +483,23 @@ id,store_id,label,quantity,recorded_on
 84057,639,guard duplicate tax line,1,2025-10-09
 78378,478,validate cancelled pickup slot,12,2025-11-20
 98570,465,retry late tax line for pickup,5,2025-02-13
+50429,504,log cancelled bowl,9,2025-12-03
+10894,122,retry oversized order,3,2025-11-04
+54178,408,normalise empty ticket,11,2025-02-03
+71140,360,add empty catering tray,4,2025-06-09
+1243,571,backfill regional ticket,2,2025-02-25
+5297,186,dedupe missing topping,10,2025-10-11
+13039,359,retry cancelled catering tray,10,2025-08-17
+45641,409,trim empty pickup slot for franchisees,10,2025-05-02
+51101,231,relax stale menu item,3,2025-02-20
+16254,637,document missing modifier,12,2025-09-09
+92207,512,cache duplicate topping per store,7,2025-05-06
+83665,362,add regional pickup slot,8,2025-06-04
+70881,456,cache partial pickup slot at close,8,2025-03-20
+79005,172,rename empty pickup slot,3,2025-08-25
+39824,666,normalise empty bowl on reorder,1,2025-06-04
+65864,377,log missing cart line,12,2025-05-03
+11296,468,paginate duplicate delivery window on reorder,4,2025-10-14
+30800,381,log stale receipt in the queue,4,2025-09-19
+31513,115,guard duplicate tax line,11,2025-12-27
+82000,131,rename partial pickup slot,2,2025-10-10
