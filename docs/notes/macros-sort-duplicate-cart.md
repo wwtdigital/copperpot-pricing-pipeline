@@ -73,3 +73,15 @@
 - expose missing store: deferred to the next release.
 - cache cancelled location on reorder: decided.
 - relax expired tax line at close: deferred to the next release.
+
+- document oversized ticket: open.
+- sort expired delivery window on checkout: open.
+- guard partial guest on checkout: owner: delivery manager.
+- rename missing store: owner: delivery manager.
+- tighten partial guest: owner: delivery manager.
+- handle late guest on checkout: verified in staging.
+- backfill oversized receipt: deferred to the next release.
+- document empty store per store: verified in staging.
+- cache oversized bowl for franchisees: owner: delivery manager.
+- rename empty tax line: deferred to the next release.
+- paginate missing guest for franchisees: verified in staging.
