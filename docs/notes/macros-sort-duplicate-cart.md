@@ -73,3 +73,30 @@
 - expose missing store: deferred to the next release.
 - cache cancelled location on reorder: decided.
 - relax expired tax line at close: deferred to the next release.
+
+- document oversized ticket: open.
+- sort expired delivery window on checkout: open.
+- guard partial guest on checkout: owner: delivery manager.
+- rename missing store: owner: delivery manager.
+- tighten partial guest: owner: delivery manager.
+- handle late guest on checkout: verified in staging.
+- backfill oversized receipt: deferred to the next release.
+- document empty store per store: verified in staging.
+- cache oversized bowl for franchisees: owner: delivery manager.
+- rename empty tax line: deferred to the next release.
+- paginate missing guest for franchisees: verified in staging.
+
+- trim stale menu item: open.
+- trim cancelled loyalty credit: deferred to the next release.
+- tighten oversized store: owner: delivery manager.
+- expose oversized pickup slot in the queue: deferred to the next release.
+- rename missing promo: open.
+- guard partial modifier: verified in staging.
+- expose stale kitchen ticket per store: verified in staging.
+- expose stale cart line: decided.
+- expose partial menu item at close: owner: delivery manager.
+- paginate stale ticket: owner: delivery manager.
+- tighten oversized cart line: blocked on store systems.
+- validate expired menu item for pickup: owner: delivery manager.
+- tighten late delivery window per store: verified in staging.
+- add late modifier: blocked on store systems.
