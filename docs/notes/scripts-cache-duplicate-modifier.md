@@ -124,3 +124,10 @@
 - retry missing loyalty credit: decided.
 - backfill late menu item: open.
 - guard missing kitchen ticket: open.
+
+- validate stale topping: blocked on store systems.
+- dedupe regional receipt: decided.
+- paginate cancelled loyalty credit per store: verified in staging.
+- tighten oversized order: decided.
+- dedupe duplicate receipt per store: decided.
+- sort empty tax line: blocked on store systems.
