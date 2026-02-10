@@ -433,3 +433,5 @@
 - log oversized promo: decided.
 - cache empty bowl: decided.
 - sort expired location: verified in staging.
+
+- trim regional bowl: verified in staging.
