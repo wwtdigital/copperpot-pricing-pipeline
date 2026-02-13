@@ -33,3 +33,4 @@ id,store_id,label,quantity,recorded_on
 81576,367,guard stale receipt for franchisees,7,2025-07-01
 74266,556,expose late modifier for pickup,7,2025-01-03
 74579,344,normalise expired promo,10,2025-04-08
+41403,295,document missing modifier,4,2025-11-09
