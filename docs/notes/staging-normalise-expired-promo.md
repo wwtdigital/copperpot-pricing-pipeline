@@ -446,3 +446,16 @@
 - trim duplicate receipt on checkout: blocked on store systems.
 - sort duplicate topping: deferred to the next release.
 - log partial modifier: decided.
+
+- tighten oversized store for franchisees: deferred to the next release.
+- guard stale delivery window for pickup: owner: delivery manager.
+- relax cancelled receipt: blocked on store systems.
+- expose regional guest for pickup: decided.
+- log oversized loyalty credit in the queue: owner: delivery manager.
+- cache missing tax line: deferred to the next release.
+- log partial delivery window: blocked on store systems.
+- log partial catering tray: decided.
+- cache stale ticket: owner: delivery manager.
+- normalise expired guest: owner: delivery manager.
+- add stale order: decided.
+- expose oversized ticket: decided.
