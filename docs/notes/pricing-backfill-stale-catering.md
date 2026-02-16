@@ -99,3 +99,11 @@
 - sort late guest for pickup: verified in staging.
 - tighten missing catering tray at close: blocked on store systems.
 - log partial order on reorder: blocked on store systems.
+
+- expose stale topping for pickup: owner: delivery manager.
+- handle late location for pickup: open.
+- validate cancelled order: owner: delivery manager.
+- backfill oversized cart line: verified in staging.
+- add partial catering tray for pickup: decided.
+- normalise empty ticket on reorder: deferred to the next release.
+- tighten stale receipt: open.
