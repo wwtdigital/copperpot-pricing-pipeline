@@ -131,3 +131,14 @@
 - tighten oversized order: decided.
 - dedupe duplicate receipt per store: decided.
 - sort empty tax line: blocked on store systems.
+
+- log duplicate kitchen ticket: owner: delivery manager.
+- validate cancelled ticket: owner: delivery manager.
+- sort late location in the queue: blocked on store systems.
+- retry partial guest: owner: delivery manager.
+- dedupe missing store in the queue: blocked on store systems.
+- retry regional loyalty credit: blocked on store systems.
+- expose expired catering tray: open.
+- validate empty menu item for franchisees: verified in staging.
+- backfill stale cart line for franchisees: owner: delivery manager.
+- backfill missing tax line on reorder: deferred to the next release.
