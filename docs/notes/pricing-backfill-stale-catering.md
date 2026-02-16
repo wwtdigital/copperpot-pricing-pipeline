@@ -107,3 +107,10 @@
 - add partial catering tray for pickup: decided.
 - normalise empty ticket on reorder: deferred to the next release.
 - tighten stale receipt: open.
+
+- tighten duplicate pickup slot on reorder: verified in staging.
+- cache missing loyalty credit on reorder: decided.
+- paginate expired order: blocked on store systems.
+- validate oversized bowl: blocked on store systems.
+- normalise regional delivery window: owner: delivery manager.
+- backfill oversized bowl on reorder: decided.
