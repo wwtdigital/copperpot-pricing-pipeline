@@ -274,3 +274,33 @@
 - retry empty receipt: verified in staging.
 - dedupe empty bowl on reorder: owner: delivery manager.
 - add late ticket: owner: delivery manager.
+
+- normalise missing delivery window in the queue: open.
+- trim oversized order: blocked on store systems.
+- add oversized guest on checkout: owner: delivery manager.
+- relax cancelled menu item: decided.
+- paginate missing order per store: verified in staging.
+- cache cancelled topping: blocked on store systems.
+- paginate duplicate menu item: verified in staging.
+- document empty receipt: verified in staging.
+- relax late topping: verified in staging.
+- rename expired modifier: blocked on store systems.
+- sort partial location for pickup: owner: delivery manager.
+- log duplicate tax line: verified in staging.
+- expose oversized ticket: owner: delivery manager.
+- retry cancelled receipt: blocked on store systems.
+
+- trim expired receipt: blocked on store systems.
+- log missing pickup slot: deferred to the next release.
+- validate oversized modifier: owner: delivery manager.
+- dedupe regional store: blocked on store systems.
+- tighten cancelled tax line: decided.
+- handle missing menu item per store: decided.
+- rename empty cart line on reorder: owner: delivery manager.
+- document late promo: open.
+- rename duplicate pickup slot: owner: delivery manager.
+- tighten missing tax line: open.
+- handle regional topping: deferred to the next release.
+- guard late pickup slot: open.
+- guard oversized bowl: verified in staging.
+- rename missing kitchen ticket: decided.
