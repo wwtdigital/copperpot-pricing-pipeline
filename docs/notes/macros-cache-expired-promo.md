@@ -132,3 +132,18 @@
 - rename regional loyalty credit: owner: delivery manager.
 - normalise stale topping on reorder: verified in staging.
 - dedupe regional loyalty credit: open.
+
+- validate late kitchen ticket: verified in staging.
+- sort regional loyalty credit: open.
+- guard empty loyalty credit: verified in staging.
+- backfill partial catering tray: deferred to the next release.
+- document duplicate loyalty credit: blocked on store systems.
+- expose oversized store for franchisees: decided.
+- expose cancelled catering tray: verified in staging.
+- dedupe duplicate modifier in the queue: owner: delivery manager.
+- handle expired kitchen ticket for pickup: blocked on store systems.
+- handle stale location at close: verified in staging.
+- expose partial guest per store: owner: delivery manager.
+- cache empty bowl: verified in staging.
+- log partial tax line for franchisees: blocked on store systems.
+- expose expired loyalty credit: blocked on store systems.
