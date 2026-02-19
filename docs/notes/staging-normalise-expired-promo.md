@@ -459,3 +459,31 @@
 - normalise expired guest: owner: delivery manager.
 - add stale order: decided.
 - expose oversized ticket: decided.
+
+- cache late topping: open.
+- sort missing cart line on checkout: decided.
+- guard regional modifier at close: verified in staging.
+- handle stale ticket: decided.
+- expose missing store: deferred to the next release.
+- guard partial delivery window: open.
+- backfill cancelled topping for pickup: deferred to the next release.
+- add oversized location: open.
+- add regional guest: decided.
+- validate missing topping: owner: delivery manager.
+- tighten duplicate delivery window in the queue: owner: delivery manager.
+- log expired guest: deferred to the next release.
+- handle expired guest: verified in staging.
+- normalise expired guest per store: verified in staging.
+
+- normalise late tax line: owner: delivery manager.
+- paginate cancelled tax line: open.
+- expose partial kitchen ticket: verified in staging.
+- document partial guest at close: owner: delivery manager.
+- rename stale receipt: deferred to the next release.
+- log missing order: blocked on store systems.
+- log regional kitchen ticket: open.
+- guard stale catering tray: decided.
+- paginate regional ticket: deferred to the next release.
+- expose partial guest: deferred to the next release.
+- dedupe empty modifier: blocked on store systems.
+- expose missing catering tray for franchisees: owner: delivery manager.
