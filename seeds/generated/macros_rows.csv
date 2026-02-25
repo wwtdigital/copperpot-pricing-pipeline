@@ -503,3 +503,15 @@ id,store_id,label,quantity,recorded_on
 30800,381,log stale receipt in the queue,4,2025-09-19
 31513,115,guard duplicate tax line,11,2025-12-27
 82000,131,rename partial pickup slot,2,2025-10-10
+60962,620,relax missing bowl,1,2025-09-22
+83857,147,handle late menu item,7,2025-12-27
+97018,541,relax missing pickup slot for franchisees,2,2025-12-12
+19238,171,backfill expired guest,9,2025-07-01
+79492,644,rename oversized menu item on checkout,1,2025-05-12
+19491,232,validate empty modifier for pickup,7,2025-11-19
+3997,101,retry regional promo,7,2025-02-09
+39986,101,sort oversized bowl per store,2,2025-01-12
+82096,268,expose partial modifier,9,2025-05-04
+29184,486,trim empty location for pickup,3,2025-10-27
+33350,352,guard regional promo on checkout,1,2025-10-07
+48035,251,relax late tax line per store,11,2025-01-10

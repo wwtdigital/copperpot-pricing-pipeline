@@ -147,3 +147,18 @@
 - cache empty bowl: verified in staging.
 - log partial tax line for franchisees: blocked on store systems.
 - expose expired loyalty credit: blocked on store systems.
+
+- retry oversized loyalty credit: verified in staging.
+- trim oversized store: open.
+- relax late store: blocked on store systems.
+- retry cancelled menu item: owner: delivery manager.
+- cache regional modifier for franchisees: blocked on store systems.
+- dedupe missing modifier: owner: delivery manager.
+- trim oversized receipt: verified in staging.
+- relax expired menu item in the queue: verified in staging.
+- log stale menu item: deferred to the next release.
+- backfill duplicate receipt in the queue: open.
+- guard cancelled modifier at close: open.
+- relax late topping: open.
+- log cancelled topping: decided.
+- retry expired receipt: decided.
