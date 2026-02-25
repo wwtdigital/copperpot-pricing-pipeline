@@ -515,3 +515,7 @@ id,store_id,label,quantity,recorded_on
 29184,486,trim empty location for pickup,3,2025-10-27
 33350,352,guard regional promo on checkout,1,2025-10-07
 48035,251,relax late tax line per store,11,2025-01-10
+20306,186,retry duplicate topping,9,2025-01-13
+45587,305,tighten regional kitchen ticket,6,2025-07-25
+78703,366,trim regional guest for franchisees,10,2025-08-11
+70302,613,handle regional delivery window,5,2025-05-14

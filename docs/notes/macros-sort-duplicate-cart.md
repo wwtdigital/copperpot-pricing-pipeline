@@ -100,3 +100,18 @@
 - validate expired menu item for pickup: owner: delivery manager.
 - tighten late delivery window per store: verified in staging.
 - add late modifier: blocked on store systems.
+
+- trim partial kitchen ticket: owner: delivery manager.
+- document duplicate loyalty credit: open.
+- normalise oversized receipt at close: blocked on store systems.
+- validate regional receipt: owner: delivery manager.
+- validate oversized catering tray per store: owner: delivery manager.
+- log oversized store in the queue: verified in staging.
+- validate oversized modifier: owner: delivery manager.
+- document stale loyalty credit: owner: delivery manager.
+- sort expired cart line per store: blocked on store systems.
+- tighten missing topping: deferred to the next release.
+- cache stale loyalty credit: open.
+- relax regional delivery window: decided.
+- rename duplicate kitchen ticket at close: blocked on store systems.
+- backfill regional guest: decided.
