@@ -304,3 +304,18 @@
 - guard late pickup slot: open.
 - guard oversized bowl: verified in staging.
 - rename missing kitchen ticket: decided.
+
+- rename expired menu item: blocked on store systems.
+- log empty guest on checkout: deferred to the next release.
+- document duplicate receipt: blocked on store systems.
+- log missing order: deferred to the next release.
+- tighten expired pickup slot: deferred to the next release.
+- rename regional receipt: open.
+- retry missing cart line per store: blocked on store systems.
+- validate duplicate receipt at close: verified in staging.
+- sort stale tax line: blocked on store systems.
+- log oversized topping: blocked on store systems.
+- sort expired bowl: deferred to the next release.
+- rename expired modifier: decided.
+- tighten partial cart line: blocked on store systems.
+- add duplicate ticket in the queue: deferred to the next release.
