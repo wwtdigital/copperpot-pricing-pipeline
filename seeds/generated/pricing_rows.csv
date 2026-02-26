@@ -34,3 +34,19 @@ id,store_id,label,quantity,recorded_on
 74266,556,expose late modifier for pickup,7,2025-01-03
 74579,344,normalise expired promo,10,2025-04-08
 41403,295,document missing modifier,4,2025-11-09
+22018,553,guard empty order,4,2025-04-10
+14178,602,tighten expired modifier,9,2025-06-12
+4965,161,validate missing location,5,2025-12-15
+21370,589,relax expired store,11,2025-09-25
+90907,470,relax regional receipt on reorder,7,2025-10-10
+73370,375,trim duplicate store for pickup,9,2025-02-15
+2305,619,dedupe empty order on reorder,1,2025-08-01
+12946,580,document missing pickup slot,9,2025-01-02
+76732,604,sort regional topping per store,9,2025-07-24
+83653,591,tighten cancelled cart line,9,2025-10-22
+1058,612,expose empty guest,10,2025-01-07
+48293,227,log stale guest,3,2025-08-23
+63031,249,paginate empty delivery window,8,2025-02-26
+9873,320,guard expired order,1,2025-11-11
+49616,129,expose expired loyalty credit,12,2025-03-25
+91860,444,tighten late kitchen ticket on reorder,2,2025-09-19
