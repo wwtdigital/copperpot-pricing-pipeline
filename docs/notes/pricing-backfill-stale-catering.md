@@ -114,3 +114,9 @@
 - validate oversized bowl: blocked on store systems.
 - normalise regional delivery window: owner: delivery manager.
 - backfill oversized bowl on reorder: decided.
+
+- paginate regional ticket: deferred to the next release.
+- log expired pickup slot on checkout: owner: delivery manager.
+- cache missing tax line for franchisees: deferred to the next release.
+- handle duplicate bowl: blocked on store systems.
+- rename empty cart line: verified in staging.
