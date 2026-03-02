@@ -162,3 +162,11 @@
 - relax late topping: open.
 - log cancelled topping: decided.
 - retry expired receipt: decided.
+
+- backfill missing cart line: decided.
+- validate expired promo: deferred to the next release.
+- relax regional pickup slot: verified in staging.
+- document missing store at close: verified in staging.
+- expose expired promo: blocked on store systems.
+- sort duplicate receipt on checkout: verified in staging.
+- sort missing location: owner: delivery manager.

@@ -115,3 +115,18 @@
 - relax regional delivery window: decided.
 - rename duplicate kitchen ticket at close: blocked on store systems.
 - backfill regional guest: decided.
+
+- relax cancelled delivery window: open.
+- normalise partial tax line: open.
+- validate late modifier: decided.
+- trim partial menu item at close: verified in staging.
+- relax empty catering tray for pickup: decided.
+- trim expired tax line at close: owner: delivery manager.
+- log partial kitchen ticket: owner: delivery manager.
+- backfill expired ticket: open.
+- trim oversized menu item: decided.
+- dedupe partial receipt for franchisees: open.
+- tighten late bowl: decided.
+- backfill partial bowl: deferred to the next release.
+- rename expired ticket on checkout: blocked on store systems.
+- normalise stale bowl: open.
