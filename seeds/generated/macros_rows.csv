@@ -535,3 +535,10 @@ id,store_id,label,quantity,recorded_on
 64106,322,guard stale menu item,2,2025-03-14
 41901,294,guard empty topping,12,2025-04-01
 43545,122,validate regional catering tray,12,2025-08-09
+60995,214,backfill cancelled store for pickup,5,2025-06-03
+29979,546,handle regional modifier at close,2,2025-10-26
+63579,138,normalise partial catering tray on checkout,3,2025-05-20
+56142,225,trim late store at close,6,2025-03-20
+74955,241,tighten partial modifier,12,2025-10-18
+88482,133,guard partial receipt for franchisees,7,2025-11-23
+46103,515,tighten partial location,1,2025-10-22
