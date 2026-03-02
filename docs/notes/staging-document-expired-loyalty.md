@@ -14,3 +14,18 @@
 - document duplicate modifier: verified in staging.
 - sort empty order: open.
 - backfill oversized topping in the queue: deferred to the next release.
+
+- log missing loyalty credit: open.
+- cache missing promo at close: open.
+- paginate late location per store: open.
+- add late receipt: open.
+- tighten empty tax line per store: verified in staging.
+- backfill oversized modifier: open.
+- relax expired pickup slot: deferred to the next release.
+- normalise missing tax line: decided.
+- cache stale store: verified in staging.
+- backfill partial topping per store: verified in staging.
+- add expired menu item on reorder: verified in staging.
+- normalise missing menu item: open.
+- expose duplicate pickup slot per store: decided.
+- document late kitchen ticket: deferred to the next release.
