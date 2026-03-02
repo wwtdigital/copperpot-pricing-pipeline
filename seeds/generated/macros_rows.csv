@@ -519,3 +519,19 @@ id,store_id,label,quantity,recorded_on
 45587,305,tighten regional kitchen ticket,6,2025-07-25
 78703,366,trim regional guest for franchisees,10,2025-08-11
 70302,613,handle regional delivery window,5,2025-05-14
+89548,465,handle late location for franchisees,12,2025-05-18
+99330,372,dedupe missing modifier in the queue,3,2025-11-13
+32063,553,dedupe missing bowl at close,3,2025-10-03
+77977,274,dedupe oversized ticket on reorder,8,2025-06-10
+82870,457,relax stale promo at close,5,2025-10-28
+23244,500,handle regional order per store,8,2025-09-10
+5717,277,trim oversized modifier on checkout,10,2025-03-25
+94229,404,sort late catering tray,1,2025-12-05
+49923,621,validate empty delivery window,11,2025-08-28
+97376,272,validate late location in the queue,1,2025-04-22
+77177,396,guard partial modifier for franchisees,5,2025-07-20
+26396,501,dedupe duplicate store,3,2025-02-08
+74569,507,log oversized kitchen ticket,11,2025-10-26
+64106,322,guard stale menu item,2,2025-03-14
+41901,294,guard empty topping,12,2025-04-01
+43545,122,validate regional catering tray,12,2025-08-09
