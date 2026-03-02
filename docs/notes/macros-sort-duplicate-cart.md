@@ -115,3 +115,33 @@
 - relax regional delivery window: decided.
 - rename duplicate kitchen ticket at close: blocked on store systems.
 - backfill regional guest: decided.
+
+- relax cancelled delivery window: open.
+- normalise partial tax line: open.
+- validate late modifier: decided.
+- trim partial menu item at close: verified in staging.
+- relax empty catering tray for pickup: decided.
+- trim expired tax line at close: owner: delivery manager.
+- log partial kitchen ticket: owner: delivery manager.
+- backfill expired ticket: open.
+- trim oversized menu item: decided.
+- dedupe partial receipt for franchisees: open.
+- tighten late bowl: decided.
+- backfill partial bowl: deferred to the next release.
+- rename expired ticket on checkout: blocked on store systems.
+- normalise stale bowl: open.
+
+- rename empty store: owner: delivery manager.
+- log late pickup slot on reorder: blocked on store systems.
+- paginate late promo for pickup: owner: delivery manager.
+- dedupe missing kitchen ticket: open.
+- tighten cancelled receipt: decided.
+- sort missing catering tray: deferred to the next release.
+- dedupe oversized location per store: verified in staging.
+- paginate regional kitchen ticket: deferred to the next release.
+- guard cancelled modifier at close: deferred to the next release.
+- tighten regional pickup slot per store: owner: delivery manager.
+- handle missing ticket: owner: delivery manager.
+- rename partial guest: verified in staging.
+- guard oversized tax line: deferred to the next release.
+- trim expired catering tray: owner: delivery manager.
