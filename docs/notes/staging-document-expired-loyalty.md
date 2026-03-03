@@ -29,3 +29,18 @@
 - normalise missing menu item: open.
 - expose duplicate pickup slot per store: decided.
 - document late kitchen ticket: deferred to the next release.
+
+- tighten cancelled order: owner: delivery manager.
+- guard expired kitchen ticket on reorder: owner: delivery manager.
+- backfill regional tax line in the queue: blocked on store systems.
+- validate empty promo: owner: delivery manager.
+- log expired cart line: blocked on store systems.
+- log duplicate delivery window: verified in staging.
+- normalise expired store: deferred to the next release.
+- trim missing delivery window: open.
+- cache empty catering tray: decided.
+- sort duplicate location for franchisees: verified in staging.
+- dedupe regional kitchen ticket: open.
+- add cancelled kitchen ticket: decided.
+- handle missing store at close: blocked on store systems.
+- trim regional order: decided.

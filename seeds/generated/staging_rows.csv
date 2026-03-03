@@ -85,3 +85,43 @@ id,store_id,label,quantity,recorded_on
 62394,633,retry expired kitchen ticket,5,2025-10-01
 39123,273,normalise empty catering tray,6,2025-02-05
 92391,323,retry duplicate promo,10,2025-12-28
+42098,267,cache oversized loyalty credit,7,2025-01-14
+28174,302,normalise oversized cart line,2,2025-12-13
+58740,208,sort missing order,11,2025-09-05
+96255,169,log oversized cart line,1,2025-03-09
+42286,426,backfill oversized store for pickup,10,2025-07-16
+66671,281,cache oversized order,11,2025-09-06
+75010,323,add late order,4,2025-08-23
+19421,543,relax expired pickup slot,7,2025-03-13
+5938,159,expose oversized ticket,7,2025-02-27
+61050,109,cache late bowl per store,1,2025-02-03
+89235,478,retry empty modifier,4,2025-09-15
+85632,263,document stale cart line,10,2025-07-02
+41781,681,expose cancelled loyalty credit,4,2025-12-05
+12700,468,expose regional catering tray for pickup,6,2025-09-26
+53275,565,trim duplicate guest,3,2025-08-15
+66002,353,normalise late store on reorder,7,2025-07-20
+13049,352,backfill cancelled delivery window,4,2025-12-15
+83503,591,relax regional topping in the queue,4,2025-04-28
+45456,574,sort empty kitchen ticket,6,2025-10-27
+26923,245,relax late loyalty credit on checkout,4,2025-04-22
+84794,179,paginate duplicate modifier on checkout,10,2025-06-08
+51172,671,retry expired store,8,2025-04-11
+51873,557,relax empty ticket in the queue,12,2025-03-02
+35657,281,backfill regional location on reorder,8,2025-11-14
+31268,666,cache expired location,5,2025-08-23
+60946,163,retry expired promo at close,12,2025-11-17
+26278,158,paginate duplicate bowl per store,4,2025-09-01
+48949,584,sort cancelled topping,10,2025-08-06
+98999,241,rename stale guest,10,2025-04-12
+61506,678,retry partial guest for franchisees,9,2025-10-25
+14228,483,backfill duplicate kitchen ticket for pickup,8,2025-11-01
+80807,393,validate empty topping,4,2025-01-16
+52973,505,log partial store,12,2025-10-17
+63561,681,paginate stale store,1,2025-03-24
+29682,291,relax missing modifier,1,2025-10-04
+49539,636,validate expired bowl,12,2025-02-01
+40523,255,log duplicate tax line,1,2025-03-10
+10280,328,log oversized guest on reorder,10,2025-06-18
+71959,358,trim missing order,5,2025-11-28
+82425,426,sort empty store,6,2025-02-20
