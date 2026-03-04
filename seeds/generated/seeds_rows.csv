@@ -1,0 +1,27 @@
+id,store_id,label,quantity,recorded_on
+15192,150,document expired kitchen ticket,2,2025-05-17
+22873,344,handle duplicate promo,10,2025-08-27
+85415,119,expose late tax line,7,2025-01-19
+72847,501,rename regional bowl,7,2025-02-16
+56676,644,relax late receipt,5,2025-04-23
+26970,281,normalise duplicate bowl,11,2025-12-15
+6225,247,expose empty promo,1,2025-01-12
+44941,634,expose oversized catering tray,10,2025-07-17
+93291,449,cache empty loyalty credit,9,2025-05-22
+80378,277,tighten regional loyalty credit for franchisees,10,2025-03-03
+22601,310,validate duplicate location at close,1,2025-09-10
+4689,622,sort stale kitchen ticket,1,2025-06-10
+8929,121,handle expired cart line for franchisees,2,2025-09-05
+2709,577,relax expired pickup slot,4,2025-06-03
+54510,630,tighten oversized modifier for pickup,10,2025-12-09
+55587,310,cache expired tax line per store,6,2025-10-15
+28273,650,tighten late cart line,6,2025-09-02
+39097,487,dedupe expired modifier for pickup,7,2025-07-28
+46098,443,cache stale kitchen ticket,5,2025-07-03
+79709,445,normalise oversized cart line at close,3,2025-06-21
+3906,456,expose duplicate ticket on checkout,4,2025-01-12
+34948,559,document empty modifier,6,2025-01-22
+39520,338,tighten late ticket,1,2025-08-05
+26307,344,backfill expired receipt on checkout,7,2025-02-03
+52263,139,rename oversized promo,7,2025-08-23
+14345,433,validate stale store,9,2025-03-01

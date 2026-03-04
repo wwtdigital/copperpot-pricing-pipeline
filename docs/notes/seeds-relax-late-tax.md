@@ -244,3 +244,14 @@
 - retry regional tax line: open.
 - dedupe empty pickup slot: open.
 - backfill empty menu item for pickup: verified in staging.
+
+- sort duplicate catering tray at close: open.
+- relax cancelled modifier for pickup: verified in staging.
+- normalise cancelled menu item: verified in staging.
+- expose expired loyalty credit: open.
+- dedupe oversized catering tray: open.
+- rename missing menu item in the queue: open.
+- expose partial catering tray: deferred to the next release.
+- retry partial location at close: blocked on store systems.
+- paginate partial topping in the queue: blocked on store systems.
+- add missing menu item: owner: delivery manager.
