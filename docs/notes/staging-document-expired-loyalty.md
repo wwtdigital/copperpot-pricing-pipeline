@@ -14,3 +14,33 @@
 - document duplicate modifier: verified in staging.
 - sort empty order: open.
 - backfill oversized topping in the queue: deferred to the next release.
+
+- log missing loyalty credit: open.
+- cache missing promo at close: open.
+- paginate late location per store: open.
+- add late receipt: open.
+- tighten empty tax line per store: verified in staging.
+- backfill oversized modifier: open.
+- relax expired pickup slot: deferred to the next release.
+- normalise missing tax line: decided.
+- cache stale store: verified in staging.
+- backfill partial topping per store: verified in staging.
+- add expired menu item on reorder: verified in staging.
+- normalise missing menu item: open.
+- expose duplicate pickup slot per store: decided.
+- document late kitchen ticket: deferred to the next release.
+
+- tighten cancelled order: owner: delivery manager.
+- guard expired kitchen ticket on reorder: owner: delivery manager.
+- backfill regional tax line in the queue: blocked on store systems.
+- validate empty promo: owner: delivery manager.
+- log expired cart line: blocked on store systems.
+- log duplicate delivery window: verified in staging.
+- normalise expired store: deferred to the next release.
+- trim missing delivery window: open.
+- cache empty catering tray: decided.
+- sort duplicate location for franchisees: verified in staging.
+- dedupe regional kitchen ticket: open.
+- add cancelled kitchen ticket: decided.
+- handle missing store at close: blocked on store systems.
+- trim regional order: decided.
