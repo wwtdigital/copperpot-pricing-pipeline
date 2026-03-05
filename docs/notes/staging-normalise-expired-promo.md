@@ -487,3 +487,16 @@
 - expose partial guest: deferred to the next release.
 - dedupe empty modifier: blocked on store systems.
 - expose missing catering tray for franchisees: owner: delivery manager.
+
+- retry empty kitchen ticket: deferred to the next release.
+- trim partial topping on checkout: blocked on store systems.
+- sort missing pickup slot: decided.
+- normalise partial store: decided.
+- relax cancelled promo for pickup: open.
+- sort expired order: deferred to the next release.
+- backfill late order for franchisees: verified in staging.
+- expose oversized receipt for pickup: blocked on store systems.
+- document cancelled kitchen ticket: deferred to the next release.
+- rename oversized topping: owner: delivery manager.
+- rename missing menu item: blocked on store systems.
+- relax empty tax line: verified in staging.
