@@ -319,3 +319,16 @@
 - rename expired modifier: decided.
 - tighten partial cart line: blocked on store systems.
 - add duplicate ticket in the queue: deferred to the next release.
+
+- document regional order: deferred to the next release.
+- guard regional pickup slot: open.
+- handle expired tax line: blocked on store systems.
+- retry empty ticket for pickup: verified in staging.
+- expose partial catering tray on reorder: deferred to the next release.
+- handle cancelled menu item: decided.
+- add expired receipt on reorder: open.
+- backfill partial ticket for franchisees: deferred to the next release.
+- trim late bowl: owner: delivery manager.
+- relax regional tax line: owner: delivery manager.
+- document expired modifier for franchisees: decided.
+- expose cancelled tax line: blocked on store systems.
