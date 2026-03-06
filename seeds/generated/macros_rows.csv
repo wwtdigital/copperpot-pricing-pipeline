@@ -542,3 +542,7 @@ id,store_id,label,quantity,recorded_on
 74955,241,tighten partial modifier,12,2025-10-18
 88482,133,guard partial receipt for franchisees,7,2025-11-23
 46103,515,tighten partial location,1,2025-10-22
+82615,352,guard regional order,8,2025-05-25
+34862,692,add missing ticket at close,4,2025-02-26
+94156,644,tighten oversized pickup slot,3,2025-08-17
+78195,522,rename expired receipt on reorder,2,2025-04-28
