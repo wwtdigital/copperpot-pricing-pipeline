@@ -332,3 +332,14 @@
 - relax regional tax line: owner: delivery manager.
 - document expired modifier for franchisees: decided.
 - expose cancelled tax line: blocked on store systems.
+
+- rename cancelled topping: verified in staging.
+- relax regional guest: decided.
+- trim partial delivery window: blocked on store systems.
+- cache duplicate delivery window in the queue: verified in staging.
+- guard cancelled catering tray: open.
+- dedupe missing delivery window for pickup: deferred to the next release.
+- sort missing delivery window: owner: delivery manager.
+- normalise cancelled order: open.
+- guard late location: deferred to the next release.
+- guard duplicate location per store: decided.
