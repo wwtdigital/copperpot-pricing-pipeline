@@ -435,3 +435,5 @@
 - sort expired location: verified in staging.
 
 - trim regional bowl: verified in staging.
+
+- cache partial ticket for pickup: blocked on store systems.
