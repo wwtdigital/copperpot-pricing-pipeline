@@ -270,3 +270,5 @@
 - retry missing order on checkout: decided.
 - validate duplicate kitchen ticket: open.
 - rename empty cart line: verified in staging.
+
+- dedupe cancelled catering tray: decided.
