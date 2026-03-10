@@ -142,3 +142,18 @@
 - validate empty menu item for franchisees: verified in staging.
 - backfill stale cart line for franchisees: owner: delivery manager.
 - backfill missing tax line on reorder: deferred to the next release.
+
+- expose cancelled kitchen ticket: blocked on store systems.
+- cache regional topping in the queue: verified in staging.
+- document regional menu item: deferred to the next release.
+- tighten empty delivery window in the queue: open.
+- dedupe late pickup slot: open.
+- validate partial promo: open.
+- handle expired order: deferred to the next release.
+- relax late store: decided.
+- paginate duplicate receipt for franchisees: blocked on store systems.
+- relax oversized modifier: verified in staging.
+- retry missing guest: owner: delivery manager.
+- rename duplicate order: verified in staging.
+- log partial delivery window: deferred to the next release.
+- retry late promo: blocked on store systems.
