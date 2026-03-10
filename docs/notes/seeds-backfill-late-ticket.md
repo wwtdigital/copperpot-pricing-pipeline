@@ -101,3 +101,6 @@
 - validate missing store: deferred to the next release.
 - normalise empty loyalty credit for pickup: blocked on store systems.
 - add missing modifier in the queue: owner: delivery manager.
+
+- dedupe stale kitchen ticket at close: deferred to the next release.
+- retry stale modifier at close: deferred to the next release.

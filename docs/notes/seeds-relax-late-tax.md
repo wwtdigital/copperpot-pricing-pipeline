@@ -255,3 +255,18 @@
 - retry partial location at close: blocked on store systems.
 - paginate partial topping in the queue: blocked on store systems.
 - add missing menu item: owner: delivery manager.
+
+- document late tax line at close: blocked on store systems.
+- dedupe duplicate loyalty credit: open.
+- add stale kitchen ticket: open.
+- document missing location for franchisees: blocked on store systems.
+- backfill late guest on reorder: owner: delivery manager.
+- trim duplicate cart line per store: deferred to the next release.
+- retry cancelled guest in the queue: verified in staging.
+- backfill late order: decided.
+- rename oversized promo in the queue: owner: delivery manager.
+- sort stale loyalty credit on reorder: blocked on store systems.
+- relax cancelled catering tray: open.
+- retry missing order on checkout: decided.
+- validate duplicate kitchen ticket: open.
+- rename empty cart line: verified in staging.
