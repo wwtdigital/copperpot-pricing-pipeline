@@ -140,8 +140,3 @@
 - dedupe oversized location per store: verified in staging.
 - paginate regional kitchen ticket: deferred to the next release.
 - guard cancelled modifier at close: deferred to the next release.
-- tighten regional pickup slot per store: owner: delivery manager.
-- handle missing ticket: owner: delivery manager.
-- rename partial guest: verified in staging.
-- guard oversized tax line: deferred to the next release.
-- trim expired catering tray: owner: delivery manager.
