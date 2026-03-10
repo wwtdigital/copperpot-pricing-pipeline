@@ -150,3 +150,18 @@
 - retry regional delivery window: verified in staging.
 
 - cache oversized receipt on reorder: open.
+
+- expose duplicate bowl: owner: delivery manager.
+- validate missing topping per store: deferred to the next release.
+- retry regional location: open.
+- dedupe cancelled tax line: verified in staging.
+- tighten duplicate loyalty credit: verified in staging.
+- paginate expired location: deferred to the next release.
+- guard late delivery window: blocked on store systems.
+- sort duplicate delivery window at close: owner: delivery manager.
+- guard expired location: deferred to the next release.
+- cache cancelled topping: verified in staging.
+- log missing delivery window on checkout: deferred to the next release.
+- guard missing kitchen ticket: deferred to the next release.
+- retry stale delivery window: blocked on store systems.
+- sort expired receipt: verified in staging.

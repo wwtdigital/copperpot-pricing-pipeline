@@ -25,3 +25,23 @@ id,store_id,label,quantity,recorded_on
 26307,344,backfill expired receipt on checkout,7,2025-02-03
 52263,139,rename oversized promo,7,2025-08-23
 14345,433,validate stale store,9,2025-03-01
+18648,382,log partial bowl for pickup,6,2025-02-09
+29510,166,trim partial modifier,10,2025-09-10
+61970,612,cache duplicate receipt,9,2025-09-28
+90842,338,retry missing tax line,12,2025-07-09
+48389,144,handle partial bowl on reorder,9,2025-11-20
+23622,679,trim expired promo,8,2025-02-03
+85591,104,tighten empty cart line,2,2025-04-02
+63078,292,dedupe partial promo for franchisees,2,2025-09-02
+9549,217,retry late store,3,2025-11-28
+26239,639,rename expired menu item,9,2025-01-21
+18696,201,guard regional delivery window in the queue,9,2025-11-05
+6767,568,document empty order on checkout,2,2025-09-11
+99498,467,relax late promo,8,2025-01-20
+52422,223,validate regional modifier in the queue,10,2025-06-15
+88255,391,normalise regional receipt for franchisees,5,2025-12-10
+39175,619,log duplicate loyalty credit for pickup,9,2025-06-01
+36325,688,relax expired bowl,2,2025-03-01
+37387,164,cache oversized bowl,11,2025-03-27
+89177,498,paginate empty kitchen ticket,9,2025-05-21
+4134,494,rename missing receipt per store,11,2025-10-28
