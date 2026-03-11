@@ -125,3 +125,12 @@ id,store_id,label,quantity,recorded_on
 10280,328,log oversized guest on reorder,10,2025-06-18
 71959,358,trim missing order,5,2025-11-28
 82425,426,sort empty store,6,2025-02-20
+83762,408,relax missing loyalty credit per store,9,2025-09-17
+50929,436,dedupe partial guest,9,2025-12-20
+32064,442,expose late topping,8,2025-09-11
+66682,283,add oversized tax line for franchisees,6,2025-07-18
+35866,489,trim empty kitchen ticket,8,2025-10-11
+5537,376,handle expired pickup slot per store,9,2025-12-12
+50744,160,add empty ticket,2,2025-01-27
+61676,337,sort expired menu item,8,2025-12-09
+30102,330,backfill late pickup slot for pickup,6,2025-03-16
