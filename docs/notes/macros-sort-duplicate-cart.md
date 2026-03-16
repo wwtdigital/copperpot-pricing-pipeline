@@ -140,3 +140,10 @@
 - dedupe oversized location per store: verified in staging.
 - paginate regional kitchen ticket: deferred to the next release.
 - guard cancelled modifier at close: deferred to the next release.
+
+- sort stale loyalty credit: open.
+- document regional bowl: deferred to the next release.
+- tighten late location: blocked on store systems.
+- guard stale cart line: open.
+- backfill late tax line: deferred to the next release.
+- tighten missing topping: owner: delivery manager.
