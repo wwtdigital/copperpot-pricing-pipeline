@@ -113,3 +113,12 @@
 - paginate partial tax line for pickup: decided.
 - log late pickup slot: deferred to the next release.
 - sort oversized bowl in the queue: owner: delivery manager.
+
+- retry regional modifier: verified in staging.
+- log regional catering tray: deferred to the next release.
+- normalise late promo: open.
+- tighten empty receipt: verified in staging.
+- paginate missing receipt: deferred to the next release.
+- sort empty topping: blocked on store systems.
+- paginate regional delivery window for franchisees: owner: delivery manager.
+- normalise cancelled menu item on checkout: open.
