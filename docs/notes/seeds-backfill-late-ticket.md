@@ -104,3 +104,21 @@
 
 - dedupe stale kitchen ticket at close: deferred to the next release.
 - retry stale modifier at close: deferred to the next release.
+
+- expose late pickup slot on reorder: open.
+- normalise expired ticket: blocked on store systems.
+- backfill cancelled pickup slot: blocked on store systems.
+- retry partial location: deferred to the next release.
+- normalise missing menu item: owner: delivery manager.
+- paginate partial tax line for pickup: decided.
+- log late pickup slot: deferred to the next release.
+- sort oversized bowl in the queue: owner: delivery manager.
+
+- retry regional modifier: verified in staging.
+- log regional catering tray: deferred to the next release.
+- normalise late promo: open.
+- tighten empty receipt: verified in staging.
+- paginate missing receipt: deferred to the next release.
+- sort empty topping: blocked on store systems.
+- paginate regional delivery window for franchisees: owner: delivery manager.
+- normalise cancelled menu item on checkout: open.

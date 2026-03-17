@@ -272,3 +272,13 @@
 - rename empty cart line: verified in staging.
 
 - dedupe cancelled catering tray: decided.
+
+- log stale modifier on checkout: decided.
+- relax oversized promo: decided.
+- trim late promo: owner: delivery manager.
+- tighten cancelled guest: blocked on store systems.
+- rename late guest: owner: delivery manager.
+- log missing menu item: blocked on store systems.
+- trim stale modifier for pickup: open.
+- validate oversized bowl: blocked on store systems.
+- log expired ticket: open.
