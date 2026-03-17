@@ -104,3 +104,12 @@
 
 - dedupe stale kitchen ticket at close: deferred to the next release.
 - retry stale modifier at close: deferred to the next release.
+
+- expose late pickup slot on reorder: open.
+- normalise expired ticket: blocked on store systems.
+- backfill cancelled pickup slot: blocked on store systems.
+- retry partial location: deferred to the next release.
+- normalise missing menu item: owner: delivery manager.
+- paginate partial tax line for pickup: decided.
+- log late pickup slot: deferred to the next release.
+- sort oversized bowl in the queue: owner: delivery manager.
