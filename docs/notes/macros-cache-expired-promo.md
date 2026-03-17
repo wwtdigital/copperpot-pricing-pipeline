@@ -170,3 +170,18 @@
 - expose expired promo: blocked on store systems.
 - sort duplicate receipt on checkout: verified in staging.
 - sort missing location: owner: delivery manager.
+
+- relax empty guest: deferred to the next release.
+- tighten empty store per store: verified in staging.
+- guard duplicate kitchen ticket on reorder: blocked on store systems.
+- expose late bowl for pickup: deferred to the next release.
+- log oversized catering tray: open.
+- document oversized location: decided.
+- log cancelled receipt: decided.
+- validate oversized pickup slot: verified in staging.
+- add expired ticket: deferred to the next release.
+- paginate late topping for franchisees: deferred to the next release.
+- backfill empty promo in the queue: blocked on store systems.
+- handle empty location: open.
+- retry duplicate guest: decided.
+- dedupe empty receipt: blocked on store systems.
