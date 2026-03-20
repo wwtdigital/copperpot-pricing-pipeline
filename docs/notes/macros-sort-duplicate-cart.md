@@ -147,3 +147,12 @@
 - guard stale cart line: open.
 - backfill late tax line: deferred to the next release.
 - tighten missing topping: owner: delivery manager.
+
+- relax missing promo in the queue: blocked on store systems.
+- tighten late loyalty credit at close: decided.
+- add late delivery window: decided.
+- paginate cancelled tax line: decided.
+- normalise empty guest in the queue: blocked on store systems.
+- document missing promo: deferred to the next release.
+- normalise regional tax line on reorder: verified in staging.
+- expose cancelled menu item: decided.
