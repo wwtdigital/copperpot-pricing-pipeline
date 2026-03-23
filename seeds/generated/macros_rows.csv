@@ -616,3 +616,15 @@ id,store_id,label,quantity,recorded_on
 15597,301,cache empty modifier per store,8,2025-08-19
 78281,643,rename empty order for franchisees,2,2025-08-17
 32195,490,guard duplicate kitchen ticket,6,2025-12-27
+16662,242,tighten regional receipt,2,2025-08-10
+22357,128,relax cancelled bowl,9,2025-12-28
+44472,584,document stale modifier,9,2025-06-20
+56661,314,validate expired bowl,12,2025-10-19
+7116,163,dedupe cancelled delivery window at close,9,2025-09-18
+81568,262,log expired tax line for franchisees,5,2025-11-03
+23035,116,add duplicate kitchen ticket in the queue,5,2025-07-09
+37393,588,document oversized ticket,8,2025-10-20
+45186,517,document oversized topping,11,2025-02-20
+87214,194,add partial promo per store,11,2025-04-27
+29553,516,dedupe regional ticket on reorder,4,2025-08-22
+76142,318,document regional location per store,12,2025-07-04
