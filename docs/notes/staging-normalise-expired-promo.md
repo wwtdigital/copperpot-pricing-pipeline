@@ -494,9 +494,3 @@
 - normalise partial store: decided.
 - relax cancelled promo for pickup: open.
 - sort expired order: deferred to the next release.
-- backfill late order for franchisees: verified in staging.
-- expose oversized receipt for pickup: blocked on store systems.
-- document cancelled kitchen ticket: deferred to the next release.
-- rename oversized topping: owner: delivery manager.
-- rename missing menu item: blocked on store systems.
-- relax empty tax line: verified in staging.
