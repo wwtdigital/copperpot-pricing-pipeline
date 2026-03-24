@@ -120,3 +120,33 @@
 - cache missing tax line for franchisees: deferred to the next release.
 - handle duplicate bowl: blocked on store systems.
 - rename empty cart line: verified in staging.
+
+- sort expired order: owner: delivery manager.
+- cache regional pickup slot at close: owner: delivery manager.
+- cache expired location: blocked on store systems.
+- validate duplicate tax line: owner: delivery manager.
+- guard cancelled catering tray: deferred to the next release.
+- dedupe oversized cart line: open.
+- relax expired pickup slot: owner: delivery manager.
+- log oversized store on checkout: verified in staging.
+- validate late location: verified in staging.
+- guard stale store in the queue: verified in staging.
+- tighten duplicate ticket: owner: delivery manager.
+- retry regional ticket: verified in staging.
+- rename expired bowl for franchisees: blocked on store systems.
+- paginate duplicate location in the queue: decided.
+
+- paginate empty menu item: decided.
+- guard expired order: blocked on store systems.
+- sort partial tax line at close: open.
+- trim cancelled guest: owner: delivery manager.
+- trim expired modifier for pickup: deferred to the next release.
+- sort regional delivery window: open.
+- log stale catering tray for franchisees: owner: delivery manager.
+- trim oversized tax line per store: deferred to the next release.
+- validate cancelled store: decided.
+- guard partial loyalty credit: open.
+- relax stale bowl: deferred to the next release.
+- tighten expired delivery window: deferred to the next release.
+- log partial receipt on checkout: deferred to the next release.
+- backfill missing store for pickup: blocked on store systems.

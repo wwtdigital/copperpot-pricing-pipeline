@@ -50,3 +50,20 @@ id,store_id,label,quantity,recorded_on
 9873,320,guard expired order,1,2025-11-11
 49616,129,expose expired loyalty credit,12,2025-03-25
 91860,444,tighten late kitchen ticket on reorder,2,2025-09-19
+36633,562,relax duplicate store on reorder,4,2025-02-09
+64660,565,validate missing pickup slot at close,9,2025-08-01
+92701,452,validate regional catering tray,12,2025-08-11
+80175,262,normalise expired ticket for pickup,7,2025-04-05
+78385,423,paginate cancelled store,8,2025-12-11
+65014,596,document stale ticket,1,2025-06-23
+63390,424,paginate missing store,1,2025-07-03
+25675,120,sort late promo for franchisees,5,2025-01-03
+36199,631,document missing ticket,12,2025-07-27
+59543,168,normalise late modifier,2,2025-03-02
+25206,197,rename empty guest,3,2025-06-15
+83427,504,guard empty location,11,2025-11-17
+67395,463,tighten regional tax line on checkout,11,2025-10-04
+33615,607,document cancelled kitchen ticket on reorder,8,2025-11-27
+34315,266,add stale modifier per store,3,2025-10-10
+96431,439,normalise missing ticket,12,2025-03-09
+88954,169,backfill oversized guest,7,2025-08-26
