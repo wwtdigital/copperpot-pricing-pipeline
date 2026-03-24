@@ -135,3 +135,18 @@
 - retry regional ticket: verified in staging.
 - rename expired bowl for franchisees: blocked on store systems.
 - paginate duplicate location in the queue: decided.
+
+- paginate empty menu item: decided.
+- guard expired order: blocked on store systems.
+- sort partial tax line at close: open.
+- trim cancelled guest: owner: delivery manager.
+- trim expired modifier for pickup: deferred to the next release.
+- sort regional delivery window: open.
+- log stale catering tray for franchisees: owner: delivery manager.
+- trim oversized tax line per store: deferred to the next release.
+- validate cancelled store: decided.
+- guard partial loyalty credit: open.
+- relax stale bowl: deferred to the next release.
+- tighten expired delivery window: deferred to the next release.
+- log partial receipt on checkout: deferred to the next release.
+- backfill missing store for pickup: blocked on store systems.

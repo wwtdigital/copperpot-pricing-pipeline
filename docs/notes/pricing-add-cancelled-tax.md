@@ -14,3 +14,18 @@
 - trim cancelled location: decided.
 - handle cancelled guest: blocked on store systems.
 - retry oversized ticket: open.
+
+- paginate cancelled catering tray: verified in staging.
+- validate empty cart line per store: blocked on store systems.
+- backfill cancelled kitchen ticket: decided.
+- rename oversized store at close: blocked on store systems.
+- validate expired delivery window: blocked on store systems.
+- backfill partial guest at close: blocked on store systems.
+- tighten regional kitchen ticket on reorder: deferred to the next release.
+- add oversized receipt: deferred to the next release.
+- trim oversized receipt on checkout: decided.
+- handle late ticket: open.
+- handle duplicate topping per store: decided.
+- cache expired ticket on reorder: verified in staging.
+- guard stale topping: owner: delivery manager.
+- backfill missing guest: decided.
