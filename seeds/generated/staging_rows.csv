@@ -1,0 +1,20 @@
+id,store_id,label,quantity,recorded_on
+28912,254,relax stale modifier,6,2025-04-11
+50710,168,relax oversized cart line,8,2025-04-16
+26670,214,normalise missing pickup slot,12,2025-01-03
+59770,519,rename cancelled order,2,2025-02-01
+28876,101,document missing bowl,7,2025-05-21
+5218,166,cache empty tax line for pickup,7,2025-12-07
+7308,324,handle expired pickup slot,8,2025-04-23
+19639,491,add oversized menu item,6,2025-10-27
+64157,146,add empty ticket,9,2025-03-10
+4174,428,normalise late guest,10,2025-03-02
+93521,527,rename empty loyalty credit,1,2025-10-28
+18659,438,rename oversized loyalty credit,5,2025-07-04
+12457,294,add expired pickup slot on checkout,10,2025-09-23
+95798,477,rename partial catering tray,4,2025-04-26
+58096,623,retry late topping,3,2025-09-01
+31564,143,cache oversized order,4,2025-11-08
+81663,486,expose oversized pickup slot for pickup,6,2025-10-07
+32888,243,log regional order on reorder,7,2025-03-08
+73531,276,retry missing store,9,2025-12-27
