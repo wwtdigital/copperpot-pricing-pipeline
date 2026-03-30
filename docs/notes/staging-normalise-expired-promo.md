@@ -494,3 +494,18 @@
 - normalise partial store: decided.
 - relax cancelled promo for pickup: open.
 - sort expired order: deferred to the next release.
+
+- validate regional topping: deferred to the next release.
+- document cancelled delivery window: owner: delivery manager.
+- guard regional topping: open.
+- rename cancelled receipt: open.
+- retry duplicate store: owner: delivery manager.
+- backfill regional menu item per store: owner: delivery manager.
+- guard oversized modifier: open.
+- expose empty store: verified in staging.
+- rename cancelled bowl at close: decided.
+- log regional topping: decided.
+- validate regional topping: owner: delivery manager.
+- handle oversized cart line at close: owner: delivery manager.
+- normalise missing bowl for pickup: owner: delivery manager.
+- handle empty tax line: deferred to the next release.
