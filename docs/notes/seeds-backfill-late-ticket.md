@@ -122,3 +122,18 @@
 - sort empty topping: blocked on store systems.
 - paginate regional delivery window for franchisees: owner: delivery manager.
 - normalise cancelled menu item on checkout: open.
+
+- rename duplicate order: deferred to the next release.
+- relax cancelled ticket on reorder: deferred to the next release.
+- guard empty tax line: decided.
+- validate empty store: verified in staging.
+- relax partial receipt: open.
+- trim stale topping: verified in staging.
+- cache late loyalty credit at close: deferred to the next release.
+- handle empty store: deferred to the next release.
+- backfill oversized catering tray for franchisees: verified in staging.
+- log late guest: open.
+- validate expired topping per store: deferred to the next release.
+- cache stale menu item at close: owner: delivery manager.
+- expose regional topping for franchisees: verified in staging.
+- sort cancelled menu item: decided.
