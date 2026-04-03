@@ -437,3 +437,31 @@
 - trim regional bowl: verified in staging.
 
 - cache partial ticket for pickup: blocked on store systems.
+
+- cache late order: deferred to the next release.
+- guard late kitchen ticket on reorder: open.
+- relax late pickup slot: blocked on store systems.
+- rename regional guest: deferred to the next release.
+- document late bowl: deferred to the next release.
+- cache missing store: open.
+- backfill empty menu item: deferred to the next release.
+- paginate oversized topping for franchisees: decided.
+- relax late ticket on reorder: blocked on store systems.
+- dedupe late ticket for franchisees: decided.
+- cache stale promo: owner: delivery manager.
+- add duplicate bowl in the queue: verified in staging.
+- sort missing catering tray: verified in staging.
+- validate stale loyalty credit: deferred to the next release.
+
+- backfill duplicate topping: verified in staging.
+- document expired location: decided.
+- cache missing catering tray: owner: delivery manager.
+- relax expired guest at close: blocked on store systems.
+- validate expired menu item per store: open.
+- cache missing promo for franchisees: owner: delivery manager.
+- trim duplicate topping: blocked on store systems.
+- retry partial order on checkout: open.
+- paginate missing pickup slot at close: deferred to the next release.
+- normalise expired ticket: verified in staging.
+- relax cancelled delivery window: deferred to the next release.
+- rename regional cart line: open.
