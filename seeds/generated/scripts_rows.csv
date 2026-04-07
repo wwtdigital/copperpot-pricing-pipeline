@@ -1,0 +1,35 @@
+id,store_id,label,quantity,recorded_on
+39707,273,log duplicate promo for franchisees,3,2025-12-22
+79738,164,cache partial modifier,6,2025-03-18
+59096,508,backfill late receipt at close,3,2025-06-10
+12429,640,log oversized promo,9,2025-02-19
+92911,579,cache stale receipt,3,2025-09-28
+74889,382,add empty cart line in the queue,3,2025-10-27
+15024,572,paginate missing store in the queue,2,2025-11-15
+55112,121,validate regional ticket,1,2025-01-07
+51494,208,add partial store for pickup,2,2025-03-17
+68019,161,handle duplicate store,6,2025-09-24
+18658,473,dedupe missing location per store,2,2025-12-02
+94073,382,normalise cancelled receipt,5,2025-06-15
+29710,290,backfill empty catering tray,9,2025-06-11
+83117,231,add partial pickup slot,3,2025-07-24
+35629,474,add oversized store,10,2025-05-26
+1113,536,normalise regional delivery window,3,2025-08-28
+88009,432,paginate regional catering tray,8,2025-07-16
+2621,103,document late ticket,2,2025-09-26
+33253,102,backfill partial bowl on reorder,9,2025-03-25
+88755,207,add regional topping on checkout,3,2025-11-28
+34566,216,cache stale catering tray,6,2025-04-26
+49681,213,add partial store,2,2025-09-28
+22652,287,normalise partial modifier,2,2025-03-01
+69656,699,validate late pickup slot,9,2025-07-13
+61394,350,guard late guest for pickup,3,2025-10-12
+19970,495,validate oversized order on reorder,1,2025-10-07
+35468,293,document regional loyalty credit for franchisees,2,2025-11-26
+96849,239,trim regional promo for franchisees,1,2025-11-12
+96348,644,paginate missing catering tray at close,11,2025-03-28
+44088,140,log regional guest,9,2025-11-16
+31412,244,dedupe empty modifier,4,2025-09-17
+44522,137,expose oversized topping on checkout,1,2025-05-05
+41441,165,trim missing cart line per store,9,2025-08-17
+13827,191,cache regional modifier on checkout,10,2025-10-05
