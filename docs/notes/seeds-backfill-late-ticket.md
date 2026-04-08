@@ -135,5 +135,3 @@
 - log late guest: open.
 - validate expired topping per store: deferred to the next release.
 - cache stale menu item at close: owner: delivery manager.
-- expose regional topping for franchisees: verified in staging.
-- sort cancelled menu item: decided.

@@ -628,3 +628,31 @@ id,store_id,label,quantity,recorded_on
 87214,194,add partial promo per store,11,2025-04-27
 29553,516,dedupe regional ticket on reorder,4,2025-08-22
 76142,318,document regional location per store,12,2025-07-04
+40244,139,guard expired bowl,2,2025-08-16
+52028,193,handle late receipt at close,1,2025-03-24
+52242,218,validate stale location,6,2025-09-17
+36158,304,dedupe partial menu item for pickup,7,2025-02-17
+93025,494,guard duplicate pickup slot,12,2025-04-23
+27135,661,cache oversized ticket for pickup,1,2025-03-18
+25006,448,relax regional cart line,1,2025-05-16
+35150,583,rename partial kitchen ticket,9,2025-01-02
+2020,583,validate empty receipt,3,2025-12-10
+99167,362,retry expired ticket,11,2025-08-16
+40726,460,relax duplicate tax line for pickup,6,2025-09-25
+24735,404,trim missing kitchen ticket,9,2025-03-03
+23411,360,sort duplicate tax line,3,2025-01-08
+32791,560,paginate partial order,4,2025-05-15
+56948,666,tighten duplicate bowl per store,4,2025-12-12
+85402,299,retry empty bowl,3,2025-07-06
+38606,412,document stale modifier,8,2025-11-01
+13098,579,guard oversized kitchen ticket,4,2025-02-20
+94884,585,backfill missing receipt,4,2025-10-10
+87126,224,validate missing store,3,2025-01-01
+11482,453,guard oversized tax line,10,2025-10-28
+25753,209,tighten cancelled promo,12,2025-04-08
+16957,500,relax missing bowl,4,2025-08-12
+63717,357,tighten expired receipt,7,2025-02-18
+25586,495,rename partial bowl,10,2025-10-23
+74195,171,dedupe partial pickup slot on checkout,4,2025-01-04
+73992,389,rename missing menu item,2,2025-06-24
+70811,542,guard missing topping per store,7,2025-03-25

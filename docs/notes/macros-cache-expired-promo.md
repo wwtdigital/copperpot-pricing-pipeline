@@ -185,3 +185,18 @@
 - handle empty location: open.
 - retry duplicate guest: decided.
 - dedupe empty receipt: blocked on store systems.
+
+- tighten late loyalty credit: decided.
+- trim partial ticket on checkout: verified in staging.
+- guard expired location on reorder: decided.
+- expose regional cart line: owner: delivery manager.
+- cache cancelled bowl: blocked on store systems.
+- trim partial store: decided.
+- tighten duplicate guest in the queue: deferred to the next release.
+- add duplicate location: blocked on store systems.
+- cache duplicate catering tray on checkout: blocked on store systems.
+- retry late loyalty credit: deferred to the next release.
+- retry stale modifier: decided.
+- sort missing pickup slot: owner: delivery manager.
+- guard missing promo for franchisees: open.
+- normalise empty store for pickup: open.

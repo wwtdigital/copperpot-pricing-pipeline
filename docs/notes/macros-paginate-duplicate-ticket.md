@@ -343,3 +343,18 @@
 - normalise cancelled order: open.
 - guard late location: deferred to the next release.
 - guard duplicate location per store: decided.
+
+- rename stale pickup slot: owner: delivery manager.
+- rename regional bowl per store: deferred to the next release.
+- log cancelled receipt on checkout: blocked on store systems.
+- retry late modifier at close: blocked on store systems.
+- log regional order on checkout: verified in staging.
+- trim cancelled tax line on checkout: open.
+- paginate missing delivery window: open.
+- expose duplicate receipt in the queue: deferred to the next release.
+- add expired loyalty credit for pickup: blocked on store systems.
+- add expired delivery window for franchisees: decided.
+- tighten cancelled pickup slot: open.
+- handle empty cart line: owner: delivery manager.
+- retry oversized pickup slot in the queue: blocked on store systems.
+- tighten missing catering tray: owner: delivery manager.
