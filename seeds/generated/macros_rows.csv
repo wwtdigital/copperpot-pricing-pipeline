@@ -628,3 +628,6 @@ id,store_id,label,quantity,recorded_on
 87214,194,add partial promo per store,11,2025-04-27
 29553,516,dedupe regional ticket on reorder,4,2025-08-22
 76142,318,document regional location per store,12,2025-07-04
+40244,139,guard expired bowl,2,2025-08-16
+52028,193,handle late receipt at close,1,2025-03-24
+52242,218,validate stale location,6,2025-09-17
