@@ -358,3 +358,15 @@
 - handle empty cart line: owner: delivery manager.
 - retry oversized pickup slot in the queue: blocked on store systems.
 - tighten missing catering tray: owner: delivery manager.
+
+- document empty menu item on reorder: blocked on store systems.
+- tighten missing cart line: open.
+- paginate regional kitchen ticket: decided.
+- cache late topping in the queue: decided.
+- normalise oversized promo for pickup: open.
+- rename expired ticket: blocked on store systems.
+- sort regional delivery window for pickup: blocked on store systems.
+- log stale pickup slot: blocked on store systems.
+- sort stale order on checkout: owner: delivery manager.
+- log empty modifier: blocked on store systems.
+- validate missing ticket: deferred to the next release.
