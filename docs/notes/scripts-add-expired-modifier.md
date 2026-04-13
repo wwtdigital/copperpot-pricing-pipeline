@@ -465,3 +465,33 @@
 - normalise expired ticket: verified in staging.
 - relax cancelled delivery window: deferred to the next release.
 - rename regional cart line: open.
+
+- paginate stale menu item: open.
+- expose duplicate pickup slot: open.
+- backfill partial menu item: decided.
+- retry oversized promo: blocked on store systems.
+- log expired delivery window per store: verified in staging.
+- rename stale loyalty credit on checkout: owner: delivery manager.
+- log oversized topping: owner: delivery manager.
+- relax partial bowl: owner: delivery manager.
+- relax partial catering tray for franchisees: blocked on store systems.
+- paginate regional menu item: deferred to the next release.
+- add regional menu item in the queue: deferred to the next release.
+- normalise duplicate loyalty credit: owner: delivery manager.
+- add partial modifier: open.
+- paginate oversized location: owner: delivery manager.
+
+- add stale location: verified in staging.
+- document regional ticket for pickup: deferred to the next release.
+- guard partial store: blocked on store systems.
+- expose missing kitchen ticket: deferred to the next release.
+- normalise expired receipt for pickup: open.
+- validate duplicate topping: verified in staging.
+- retry empty modifier: verified in staging.
+- handle oversized location: blocked on store systems.
+- cache stale bowl on checkout: deferred to the next release.
+- validate oversized bowl in the queue: decided.
+- handle oversized cart line at close: decided.
+- handle partial bowl in the queue: decided.
+- normalise partial kitchen ticket: open.
+- retry stale tax line: decided.
