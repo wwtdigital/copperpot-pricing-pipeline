@@ -156,3 +156,18 @@
 - document missing promo: deferred to the next release.
 - normalise regional tax line on reorder: verified in staging.
 - expose cancelled menu item: decided.
+
+- expose partial topping at close: decided.
+- sort partial loyalty credit: open.
+- handle empty topping: decided.
+- trim duplicate guest: open.
+- document empty store at close: blocked on store systems.
+- paginate empty catering tray on checkout: open.
+- rename expired receipt for franchisees: verified in staging.
+- backfill duplicate cart line: decided.
+- tighten oversized delivery window: open.
+- rename missing modifier: open.
+- dedupe expired topping in the queue: verified in staging.
+- retry missing store in the queue: open.
+- tighten duplicate catering tray for franchisees: decided.
+- retry duplicate loyalty credit in the queue: blocked on store systems.

@@ -370,3 +370,33 @@
 - sort stale order on checkout: owner: delivery manager.
 - log empty modifier: blocked on store systems.
 - validate missing ticket: deferred to the next release.
+
+- normalise regional ticket: owner: delivery manager.
+- rename late topping: deferred to the next release.
+- add stale receipt: deferred to the next release.
+- tighten empty guest per store: blocked on store systems.
+- sort cancelled cart line: owner: delivery manager.
+- document oversized order: owner: delivery manager.
+- cache partial topping for franchisees: blocked on store systems.
+- expose oversized promo for franchisees: decided.
+- tighten duplicate location: deferred to the next release.
+- relax expired location: blocked on store systems.
+- add late topping in the queue: decided.
+- trim regional promo: decided.
+- cache late store for franchisees: deferred to the next release.
+- trim empty ticket: open.
+
+- add stale order: verified in staging.
+- guard duplicate cart line: deferred to the next release.
+- add stale menu item: deferred to the next release.
+- paginate late order on checkout: decided.
+- expose expired menu item for franchisees: blocked on store systems.
+- dedupe oversized location at close: deferred to the next release.
+- validate cancelled store at close: decided.
+- normalise empty catering tray: verified in staging.
+- backfill duplicate location per store: decided.
+- retry duplicate guest on reorder: blocked on store systems.
+- expose stale ticket on checkout: owner: delivery manager.
+- backfill late receipt: deferred to the next release.
+- normalise oversized delivery window for pickup: deferred to the next release.
+- sort missing location: deferred to the next release.

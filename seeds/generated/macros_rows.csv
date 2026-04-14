@@ -656,3 +656,10 @@ id,store_id,label,quantity,recorded_on
 74195,171,dedupe partial pickup slot on checkout,4,2025-01-04
 73992,389,rename missing menu item,2,2025-06-24
 70811,542,guard missing topping per store,7,2025-03-25
+91895,163,trim empty kitchen ticket,10,2025-01-17
+51390,379,validate stale tax line,3,2025-08-20
+47630,617,rename oversized modifier,7,2025-11-04
+43796,562,expose missing store,11,2025-04-16
+9339,510,relax empty location for pickup,7,2025-03-03
+49837,668,log empty loyalty credit for franchisees,7,2025-07-10
+85715,151,guard cancelled topping per store,9,2025-02-24
