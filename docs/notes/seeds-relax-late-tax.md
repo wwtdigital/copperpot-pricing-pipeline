@@ -282,3 +282,33 @@
 - trim stale modifier for pickup: open.
 - validate oversized bowl: blocked on store systems.
 - log expired ticket: open.
+
+- rename empty tax line: verified in staging.
+- normalise stale delivery window: decided.
+- log late catering tray: verified in staging.
+- paginate missing guest for franchisees: decided.
+- add regional store: deferred to the next release.
+- relax expired bowl for franchisees: owner: delivery manager.
+- relax empty kitchen ticket: open.
+- expose expired kitchen ticket: owner: delivery manager.
+- validate stale loyalty credit: verified in staging.
+- expose duplicate kitchen ticket: decided.
+- rename missing guest: open.
+- normalise cancelled bowl: blocked on store systems.
+- backfill cancelled guest: open.
+- handle expired tax line on checkout: decided.
+
+- handle expired cart line: decided.
+- log partial pickup slot for pickup: verified in staging.
+- retry empty cart line: owner: delivery manager.
+- retry oversized bowl for pickup: deferred to the next release.
+- expose oversized ticket per store: open.
+- cache oversized menu item in the queue: blocked on store systems.
+- trim regional location for franchisees: verified in staging.
+- rename late pickup slot: blocked on store systems.
+- validate oversized catering tray: owner: delivery manager.
+- sort cancelled bowl: owner: delivery manager.
+- normalise empty ticket: verified in staging.
+- tighten regional catering tray: open.
+- add expired order: decided.
+- guard cancelled tax line at close: open.
