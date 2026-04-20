@@ -29,3 +29,20 @@
 - cache expired ticket on reorder: verified in staging.
 - guard stale topping: owner: delivery manager.
 - backfill missing guest: decided.
+
+- tighten regional ticket: decided.
+- relax partial catering tray on reorder: decided.
+- backfill expired modifier: verified in staging.
+- relax expired kitchen ticket: deferred to the next release.
+- normalise cancelled store: open.
+- retry expired promo for pickup: blocked on store systems.
+- log cancelled modifier: open.
+- normalise missing modifier: verified in staging.
+- rename duplicate ticket: decided.
+- retry cancelled store: decided.
+- handle expired menu item: decided.
+- trim regional delivery window: verified in staging.
+- dedupe expired delivery window: open.
+- log oversized menu item: decided.
+
+- cache oversized pickup slot: open.
