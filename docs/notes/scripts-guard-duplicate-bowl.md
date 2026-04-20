@@ -19,3 +19,18 @@
 - rename expired bowl on checkout: open.
 - dedupe empty menu item: open.
 - backfill cancelled promo: open.
+
+- dedupe oversized cart line: blocked on store systems.
+- rename stale guest for pickup: blocked on store systems.
+- guard duplicate location for franchisees: decided.
+- paginate regional menu item: open.
+- normalise empty modifier on reorder: verified in staging.
+- cache expired pickup slot: blocked on store systems.
+- dedupe missing location: owner: delivery manager.
+- sort stale receipt at close: blocked on store systems.
+- relax late store at close: deferred to the next release.
+- document stale delivery window per store: decided.
+- rename stale pickup slot for pickup: verified in staging.
+- relax duplicate order: deferred to the next release.
+- add missing loyalty credit on checkout: decided.
+- backfill duplicate tax line in the queue: owner: delivery manager.
