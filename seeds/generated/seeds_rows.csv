@@ -75,3 +75,15 @@ id,store_id,label,quantity,recorded_on
 50599,446,handle late cart line,2,2025-03-09
 87872,554,paginate late delivery window,10,2025-06-07
 2075,215,paginate oversized bowl for pickup,11,2025-02-05
+38473,519,add oversized order,10,2025-02-22
+23755,430,guard regional catering tray per store,3,2025-02-22
+15641,656,tighten duplicate cart line,8,2025-04-17
+77620,115,relax oversized modifier for franchisees,8,2025-09-18
+77023,220,expose oversized ticket,12,2025-02-27
+97807,152,paginate partial promo on reorder,8,2025-10-08
+24528,420,handle stale kitchen ticket,6,2025-08-06
+97510,514,normalise expired cart line,9,2025-02-13
+84439,392,log partial cart line at close,9,2025-04-19
+42796,283,guard duplicate topping,12,2025-10-07
+4078,684,cache empty catering tray,9,2025-02-10
+41917,320,add oversized receipt per store,5,2025-12-13
