@@ -135,3 +135,33 @@
 - log late guest: open.
 - validate expired topping per store: deferred to the next release.
 - cache stale menu item at close: owner: delivery manager.
+
+- relax regional loyalty credit: open.
+- tighten oversized tax line: verified in staging.
+- normalise empty cart line: deferred to the next release.
+- document cancelled kitchen ticket for pickup: deferred to the next release.
+- sort late menu item at close: verified in staging.
+- backfill empty catering tray: blocked on store systems.
+- guard regional delivery window: open.
+- document empty receipt in the queue: decided.
+- document regional pickup slot: blocked on store systems.
+- backfill regional bowl: decided.
+- normalise late delivery window: deferred to the next release.
+- sort empty bowl: deferred to the next release.
+- guard stale pickup slot on reorder: open.
+- handle empty pickup slot for franchisees: blocked on store systems.
+
+- validate partial promo for franchisees: open.
+- relax cancelled tax line at close: verified in staging.
+- trim empty menu item: verified in staging.
+- add partial menu item on checkout: decided.
+- rename cancelled loyalty credit at close: owner: delivery manager.
+- document cancelled guest: decided.
+- retry late cart line: owner: delivery manager.
+- expose duplicate tax line in the queue: owner: delivery manager.
+- guard expired bowl: owner: delivery manager.
+- document oversized tax line on checkout: deferred to the next release.
+- retry cancelled guest: owner: delivery manager.
+- normalise partial cart line in the queue: owner: delivery manager.
+- relax oversized order in the queue: open.
+- add expired guest for pickup: verified in staging.

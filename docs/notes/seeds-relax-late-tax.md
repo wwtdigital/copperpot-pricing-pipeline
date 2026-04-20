@@ -312,3 +312,14 @@
 - tighten regional catering tray: open.
 - add expired order: decided.
 - guard cancelled tax line at close: open.
+
+- validate cancelled delivery window: verified in staging.
+- sort missing cart line: owner: delivery manager.
+- guard expired store: deferred to the next release.
+- validate cancelled cart line: verified in staging.
+- paginate empty pickup slot: owner: delivery manager.
+- rename duplicate ticket: blocked on store systems.
+- add empty catering tray on checkout: blocked on store systems.
+- sort missing receipt: verified in staging.
+- tighten oversized pickup slot for pickup: open.
+- rename partial store for pickup: owner: delivery manager.
