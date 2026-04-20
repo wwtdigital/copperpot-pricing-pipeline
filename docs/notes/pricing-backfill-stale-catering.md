@@ -150,3 +150,13 @@
 - tighten expired delivery window: deferred to the next release.
 - log partial receipt on checkout: deferred to the next release.
 - backfill missing store for pickup: blocked on store systems.
+
+- paginate partial loyalty credit for franchisees: verified in staging.
+- normalise stale ticket on checkout: verified in staging.
+- paginate regional delivery window: owner: delivery manager.
+- expose expired order on reorder: deferred to the next release.
+- rename regional catering tray in the queue: open.
+- retry expired kitchen ticket on checkout: open.
+- log cancelled loyalty credit: decided.
+- dedupe duplicate tax line for franchisees: deferred to the next release.
+- backfill empty topping per store: verified in staging.
