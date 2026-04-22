@@ -153,3 +153,24 @@ id,store_id,label,quantity,recorded_on
 25725,425,sort stale order,7,2025-06-02
 99569,265,rename missing receipt,4,2025-02-25
 7821,645,handle oversized kitchen ticket on reorder,5,2025-11-25
+73393,352,trim oversized topping,12,2025-11-03
+28375,569,tighten expired loyalty credit,11,2025-11-09
+49870,369,expose stale store,6,2025-03-16
+14441,506,add duplicate menu item in the queue,3,2025-09-17
+69437,629,trim regional ticket,3,2025-03-19
+98326,389,cache late menu item,2,2025-08-10
+54656,310,trim late store,12,2025-10-10
+74097,257,normalise regional kitchen ticket,1,2025-05-14
+56545,166,sort empty promo for franchisees,10,2025-09-23
+12882,673,handle regional modifier,7,2025-07-21
+41948,328,rename partial promo for pickup,11,2025-12-23
+50030,100,retry empty order,7,2025-12-24
+82546,437,validate stale receipt,6,2025-02-22
+13839,504,guard cancelled menu item for franchisees,4,2025-11-28
+38782,276,sort late loyalty credit,8,2025-06-27
+1870,141,log late location,10,2025-09-05
+31010,494,add partial kitchen ticket,4,2025-12-25
+48710,250,trim oversized cart line in the queue,11,2025-10-19
+68893,141,dedupe empty delivery window,6,2025-04-14
+64932,535,cache empty store,10,2025-03-16
+23465,530,guard late guest,10,2025-03-07

@@ -34,3 +34,18 @@
 - relax duplicate order: deferred to the next release.
 - add missing loyalty credit on checkout: decided.
 - backfill duplicate tax line in the queue: owner: delivery manager.
+
+- cache oversized location on checkout: open.
+- backfill late modifier for pickup: verified in staging.
+- expose partial cart line: deferred to the next release.
+- sort duplicate catering tray at close: blocked on store systems.
+- log missing menu item: blocked on store systems.
+- paginate late catering tray on reorder: owner: delivery manager.
+- rename missing ticket for franchisees: owner: delivery manager.
+- cache stale modifier in the queue: blocked on store systems.
+- expose oversized catering tray for pickup: owner: delivery manager.
+- validate regional topping on reorder: blocked on store systems.
+- guard cancelled catering tray: decided.
+- dedupe oversized cart line: deferred to the next release.
+- add partial kitchen ticket per store: blocked on store systems.
+- log late store: open.
