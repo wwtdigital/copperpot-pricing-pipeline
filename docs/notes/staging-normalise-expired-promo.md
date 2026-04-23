@@ -522,3 +522,10 @@
 - validate late location: owner: delivery manager.
 - relax expired kitchen ticket: blocked on store systems.
 - relax late location: verified in staging.
+
+- retry missing order: verified in staging.
+- add cancelled catering tray: deferred to the next release.
+- log stale location: deferred to the next release.
+- backfill stale location: open.
+- dedupe late bowl in the queue: deferred to the next release.
+- normalise oversized catering tray: deferred to the next release.
