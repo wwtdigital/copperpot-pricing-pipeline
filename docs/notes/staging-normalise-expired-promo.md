@@ -507,3 +507,25 @@
 - log regional topping: decided.
 - validate regional topping: owner: delivery manager.
 - handle oversized cart line at close: owner: delivery manager.
+
+- relax missing topping: deferred to the next release.
+- sort partial cart line: decided.
+- tighten expired order: blocked on store systems.
+- handle missing cart line: verified in staging.
+- cache duplicate modifier: verified in staging.
+- guard duplicate receipt: verified in staging.
+- tighten duplicate store: blocked on store systems.
+- cache empty guest: blocked on store systems.
+- normalise regional kitchen ticket: blocked on store systems.
+- document stale ticket: open.
+- document empty store: blocked on store systems.
+- validate late location: owner: delivery manager.
+- relax expired kitchen ticket: blocked on store systems.
+- relax late location: verified in staging.
+
+- retry missing order: verified in staging.
+- add cancelled catering tray: deferred to the next release.
+- log stale location: deferred to the next release.
+- backfill stale location: open.
+- dedupe late bowl in the queue: deferred to the next release.
+- normalise oversized catering tray: deferred to the next release.
