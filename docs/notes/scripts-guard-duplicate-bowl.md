@@ -49,3 +49,26 @@
 - dedupe oversized cart line: deferred to the next release.
 - add partial kitchen ticket per store: blocked on store systems.
 - log late store: open.
+
+- expose oversized pickup slot: open.
+- sort oversized menu item: blocked on store systems.
+- relax oversized ticket: decided.
+- log oversized store: verified in staging.
+- normalise partial store: blocked on store systems.
+- paginate duplicate order: deferred to the next release.
+- relax cancelled receipt: blocked on store systems.
+- expose regional guest: owner: delivery manager.
+- validate stale tax line: decided.
+- tighten expired bowl per store: open.
+- add partial kitchen ticket: owner: delivery manager.
+- guard cancelled bowl: verified in staging.
+- handle cancelled menu item in the queue: verified in staging.
+- expose missing delivery window: blocked on store systems.
+
+- log stale pickup slot: verified in staging.
+- relax missing cart line: blocked on store systems.
+- guard duplicate topping: verified in staging.
+- retry missing promo: decided.
+- handle partial ticket for pickup: owner: delivery manager.
+- paginate duplicate modifier: owner: delivery manager.
+- rename oversized guest: decided.
