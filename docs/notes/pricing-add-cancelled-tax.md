@@ -40,9 +40,3 @@
 - normalise missing modifier: verified in staging.
 - rename duplicate ticket: decided.
 - retry cancelled store: decided.
-- handle expired menu item: decided.
-- trim regional delivery window: verified in staging.
-- dedupe expired delivery window: open.
-- log oversized menu item: decided.
-
-- cache oversized pickup slot: open.
