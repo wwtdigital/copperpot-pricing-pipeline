@@ -174,3 +174,25 @@ id,store_id,label,quantity,recorded_on
 68893,141,dedupe empty delivery window,6,2025-04-14
 64932,535,cache empty store,10,2025-03-16
 23465,530,guard late guest,10,2025-03-07
+13119,471,validate duplicate menu item,10,2025-08-17
+9355,443,tighten stale promo,2,2025-10-23
+74785,699,relax expired cart line,2,2025-07-11
+48895,491,trim cancelled order,1,2025-11-13
+70449,544,normalise empty topping,11,2025-11-06
+88101,402,document cancelled catering tray,8,2025-06-07
+64413,115,document oversized loyalty credit,7,2025-06-27
+98837,180,dedupe regional catering tray on checkout,12,2025-05-05
+43749,264,document missing loyalty credit for pickup,2,2025-11-04
+12769,125,paginate missing catering tray on reorder,6,2025-08-16
+82414,680,sort oversized kitchen ticket per store,10,2025-12-25
+10589,592,expose empty store on reorder,2,2025-08-22
+60107,581,dedupe late kitchen ticket at close,2,2025-04-17
+92943,101,backfill stale ticket,5,2025-01-02
+7754,139,backfill duplicate guest on checkout,2,2025-06-03
+6778,212,paginate missing tax line on reorder,12,2025-01-04
+45365,626,sort duplicate store,9,2025-08-24
+60848,664,expose duplicate cart line,2,2025-08-07
+45867,606,relax missing bowl on reorder,9,2025-11-20
+12556,633,guard missing location,9,2025-12-27
+35924,649,guard late kitchen ticket,2,2025-01-16
+32949,156,backfill expired guest for franchisees,4,2025-06-21

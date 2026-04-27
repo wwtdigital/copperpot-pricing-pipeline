@@ -72,3 +72,18 @@
 - handle partial ticket for pickup: owner: delivery manager.
 - paginate duplicate modifier: owner: delivery manager.
 - rename oversized guest: decided.
+
+- expose expired kitchen ticket per store: deferred to the next release.
+- document expired guest on checkout: owner: delivery manager.
+- retry stale location: open.
+- paginate missing catering tray for franchisees: owner: delivery manager.
+- trim stale location: owner: delivery manager.
+- tighten cancelled order: verified in staging.
+- dedupe regional receipt on reorder: decided.
+- sort empty promo on checkout: verified in staging.
+- log stale location: owner: delivery manager.
+- guard late kitchen ticket in the queue: deferred to the next release.
+- tighten duplicate menu item: verified in staging.
+- retry empty cart line: deferred to the next release.
+- relax empty location on reorder: deferred to the next release.
+- validate regional menu item: blocked on store systems.

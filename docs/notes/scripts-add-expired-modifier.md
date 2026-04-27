@@ -510,3 +510,18 @@
 - relax duplicate location: verified in staging.
 - add oversized location: owner: delivery manager.
 - paginate stale store on reorder: open.
+
+- cache oversized ticket: verified in staging.
+- rename cancelled cart line: blocked on store systems.
+- validate regional receipt on checkout: verified in staging.
+- tighten regional delivery window: decided.
+- normalise missing delivery window for franchisees: owner: delivery manager.
+- sort expired cart line at close: deferred to the next release.
+- handle regional ticket: owner: delivery manager.
+- paginate regional loyalty credit for pickup: owner: delivery manager.
+- trim stale topping: blocked on store systems.
+- retry partial store for franchisees: blocked on store systems.
+- handle empty tax line: open.
+- normalise regional loyalty credit: owner: delivery manager.
+- document empty order: owner: delivery manager.
+- backfill expired pickup slot: verified in staging.
