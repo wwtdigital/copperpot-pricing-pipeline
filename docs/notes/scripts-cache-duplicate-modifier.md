@@ -187,3 +187,33 @@
 - validate late receipt in the queue: verified in staging.
 - trim empty delivery window: open.
 - paginate late receipt for pickup: deferred to the next release.
+
+- rename cancelled pickup slot in the queue: blocked on store systems.
+- relax duplicate cart line: open.
+- log oversized menu item: open.
+- validate stale store: open.
+- backfill cancelled catering tray on checkout: verified in staging.
+- trim regional catering tray: verified in staging.
+- guard missing bowl: decided.
+- validate regional cart line: verified in staging.
+- document missing tax line for franchisees: blocked on store systems.
+- backfill stale ticket: decided.
+- backfill expired catering tray: owner: delivery manager.
+- handle oversized loyalty credit on checkout: open.
+- dedupe missing store: verified in staging.
+- relax partial catering tray on checkout: decided.
+
+- add partial ticket per store: owner: delivery manager.
+- expose regional delivery window on checkout: verified in staging.
+- backfill stale catering tray: deferred to the next release.
+- validate oversized store: owner: delivery manager.
+- log empty catering tray on reorder: decided.
+- cache late ticket: deferred to the next release.
+- cache duplicate guest on reorder: owner: delivery manager.
+- backfill cancelled pickup slot: blocked on store systems.
+- normalise regional kitchen ticket for franchisees: owner: delivery manager.
+- rename late catering tray: deferred to the next release.
+- expose empty bowl: deferred to the next release.
+- trim cancelled bowl: open.
+- log expired cart line: decided.
+- trim regional tax line: owner: delivery manager.

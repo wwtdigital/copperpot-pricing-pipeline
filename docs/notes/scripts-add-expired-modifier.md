@@ -495,3 +495,33 @@
 - handle partial bowl in the queue: decided.
 - normalise partial kitchen ticket: open.
 - retry stale tax line: decided.
+
+- guard missing guest at close: verified in staging.
+- handle cancelled order: decided.
+- backfill stale tax line: verified in staging.
+- retry regional store on reorder: open.
+- validate partial store: verified in staging.
+- relax cancelled pickup slot on checkout: owner: delivery manager.
+- relax cancelled kitchen ticket for pickup: open.
+- log empty bowl for franchisees: verified in staging.
+- guard expired guest in the queue: owner: delivery manager.
+- log expired order: open.
+- tighten duplicate kitchen ticket: verified in staging.
+- relax duplicate location: verified in staging.
+- add oversized location: owner: delivery manager.
+- paginate stale store on reorder: open.
+
+- cache oversized ticket: verified in staging.
+- rename cancelled cart line: blocked on store systems.
+- validate regional receipt on checkout: verified in staging.
+- tighten regional delivery window: decided.
+- normalise missing delivery window for franchisees: owner: delivery manager.
+- sort expired cart line at close: deferred to the next release.
+- handle regional ticket: owner: delivery manager.
+- paginate regional loyalty credit for pickup: owner: delivery manager.
+- trim stale topping: blocked on store systems.
+- retry partial store for franchisees: blocked on store systems.
+- handle empty tax line: open.
+- normalise regional loyalty credit: owner: delivery manager.
+- document empty order: owner: delivery manager.
+- backfill expired pickup slot: verified in staging.
