@@ -165,3 +165,30 @@
 - normalise partial cart line in the queue: owner: delivery manager.
 - relax oversized order in the queue: open.
 - add expired guest for pickup: verified in staging.
+
+- retry regional location: open.
+- relax partial receipt: blocked on store systems.
+- tighten late bowl in the queue: verified in staging.
+- rename expired cart line at close: decided.
+- guard expired tax line: open.
+- guard empty store on reorder: deferred to the next release.
+- cache empty cart line for pickup: owner: delivery manager.
+- sort regional receipt on reorder: owner: delivery manager.
+- guard duplicate kitchen ticket: deferred to the next release.
+- normalise oversized modifier: verified in staging.
+- normalise cancelled delivery window: open.
+
+- log late bowl: decided.
+- handle missing location in the queue: blocked on store systems.
+- add duplicate pickup slot: open.
+- log cancelled guest: owner: delivery manager.
+- log duplicate loyalty credit for franchisees: open.
+- validate duplicate kitchen ticket: verified in staging.
+- add regional store: blocked on store systems.
+- cache empty pickup slot on reorder: deferred to the next release.
+- relax missing delivery window: deferred to the next release.
+- expose oversized location: verified in staging.
+- rename regional tax line for pickup: deferred to the next release.
+- normalise empty menu item: decided.
+- dedupe stale cart line per store: owner: delivery manager.
+- expose stale bowl: verified in staging.

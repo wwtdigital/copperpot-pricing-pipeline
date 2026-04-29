@@ -87,3 +87,19 @@ id,store_id,label,quantity,recorded_on
 42796,283,guard duplicate topping,12,2025-10-07
 4078,684,cache empty catering tray,9,2025-02-10
 41917,320,add oversized receipt per store,5,2025-12-13
+87946,105,backfill late location,2,2025-06-16
+44427,647,relax regional order for pickup,6,2025-04-24
+25469,643,add stale store on checkout,2,2025-06-03
+75588,531,cache empty topping,8,2025-02-17
+19605,186,dedupe empty tax line per store,11,2025-05-24
+76871,361,handle cancelled order,4,2025-10-14
+93762,298,handle empty receipt,8,2025-06-26
+40716,411,trim partial topping,7,2025-05-24
+47015,442,tighten missing delivery window,6,2025-07-02
+84655,661,backfill missing menu item per store,2,2025-12-26
+19371,611,relax missing loyalty credit for pickup,9,2025-08-06
+76154,498,dedupe oversized modifier,3,2025-12-28
+7626,590,rename partial topping on reorder,7,2025-08-21
+93734,375,rename partial bowl per store,7,2025-05-04
+84564,558,validate oversized modifier,4,2025-07-03
+84442,669,paginate regional tax line,7,2025-04-19
