@@ -160,3 +160,16 @@
 - log cancelled loyalty credit: decided.
 - dedupe duplicate tax line for franchisees: deferred to the next release.
 - backfill empty topping per store: verified in staging.
+
+- rename cancelled tax line for franchisees: blocked on store systems.
+- log oversized order on checkout: deferred to the next release.
+- relax oversized topping for franchisees: deferred to the next release.
+- dedupe missing delivery window at close: decided.
+- handle stale ticket in the queue: owner: delivery manager.
+- paginate expired ticket: decided.
+- document expired tax line for franchisees: decided.
+- document oversized pickup slot for franchisees: open.
+- sort expired kitchen ticket on checkout: open.
+- normalise late location on checkout: deferred to the next release.
+- add partial pickup slot for franchisees: deferred to the next release.
+- cache duplicate topping in the queue: decided.
