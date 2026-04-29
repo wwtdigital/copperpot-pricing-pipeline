@@ -165,3 +165,18 @@
 - guard missing kitchen ticket: deferred to the next release.
 - retry stale delivery window: blocked on store systems.
 - sort expired receipt: verified in staging.
+
+- backfill duplicate loyalty credit for pickup: decided.
+- rename stale ticket per store: open.
+- backfill duplicate topping for franchisees: open.
+- paginate stale location for pickup: blocked on store systems.
+- document cancelled loyalty credit per store: deferred to the next release.
+- sort stale modifier: owner: delivery manager.
+- document partial store: owner: delivery manager.
+- log oversized kitchen ticket: owner: delivery manager.
+- log oversized loyalty credit per store: open.
+- guard cancelled loyalty credit per store: owner: delivery manager.
+- sort stale order: blocked on store systems.
+- guard partial pickup slot for pickup: decided.
+- normalise oversized modifier at close: blocked on store systems.
+- add expired kitchen ticket at close: decided.

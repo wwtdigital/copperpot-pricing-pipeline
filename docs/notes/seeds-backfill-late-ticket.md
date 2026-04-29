@@ -165,3 +165,15 @@
 - normalise partial cart line in the queue: owner: delivery manager.
 - relax oversized order in the queue: open.
 - add expired guest for pickup: verified in staging.
+
+- retry regional location: open.
+- relax partial receipt: blocked on store systems.
+- tighten late bowl in the queue: verified in staging.
+- rename expired cart line at close: decided.
+- guard expired tax line: open.
+- guard empty store on reorder: deferred to the next release.
+- cache empty cart line for pickup: owner: delivery manager.
+- sort regional receipt on reorder: owner: delivery manager.
+- guard duplicate kitchen ticket: deferred to the next release.
+- normalise oversized modifier: verified in staging.
+- normalise cancelled delivery window: open.
