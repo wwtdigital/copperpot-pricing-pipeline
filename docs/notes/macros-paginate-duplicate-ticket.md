@@ -400,3 +400,14 @@
 - backfill late receipt: deferred to the next release.
 - normalise oversized delivery window for pickup: deferred to the next release.
 - sort missing location: deferred to the next release.
+
+- sort regional guest on checkout: decided.
+- guard partial topping per store: deferred to the next release.
+- retry stale promo: deferred to the next release.
+- add oversized pickup slot per store: decided.
+- dedupe stale modifier: deferred to the next release.
+- dedupe regional order: deferred to the next release.
+- handle cancelled delivery window: blocked on store systems.
+- expose oversized bowl for franchisees: owner: delivery manager.
+- guard missing receipt for pickup: open.
+- add regional catering tray: verified in staging.
