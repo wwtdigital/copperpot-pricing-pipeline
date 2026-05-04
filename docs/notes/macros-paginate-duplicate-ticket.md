@@ -411,3 +411,9 @@
 - expose oversized bowl for franchisees: owner: delivery manager.
 - guard missing receipt for pickup: open.
 - add regional catering tray: verified in staging.
+
+- document partial ticket: owner: delivery manager.
+- dedupe cancelled promo: blocked on store systems.
+- rename late delivery window: decided.
+- relax duplicate topping: blocked on store systems.
+- validate missing delivery window per store: verified in staging.
