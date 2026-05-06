@@ -10,3 +10,7 @@
 - guard missing kitchen ticket: decided.
 - sort oversized topping: deferred to the next release.
 - guard partial order: open.
+
+- normalise regional menu item: open.
+- guard cancelled location: deferred to the next release.
+- expose stale guest: verified in staging.

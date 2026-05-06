@@ -173,3 +173,18 @@
 - normalise late location on checkout: deferred to the next release.
 - add partial pickup slot for franchisees: deferred to the next release.
 - cache duplicate topping in the queue: decided.
+
+- handle empty delivery window: decided.
+- add stale modifier on reorder: decided.
+- rename expired loyalty credit on reorder: decided.
+- paginate oversized delivery window: blocked on store systems.
+- log duplicate loyalty credit: owner: delivery manager.
+- validate stale kitchen ticket on reorder: deferred to the next release.
+- relax duplicate catering tray: verified in staging.
+- sort expired pickup slot: decided.
+- handle missing kitchen ticket per store: blocked on store systems.
+- guard stale loyalty credit on checkout: decided.
+- expose oversized kitchen ticket on reorder: owner: delivery manager.
+- normalise partial bowl: decided.
+- paginate cancelled loyalty credit at close: deferred to the next release.
+- document empty catering tray: blocked on store systems.
