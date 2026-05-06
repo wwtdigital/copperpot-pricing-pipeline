@@ -44,3 +44,18 @@
 - add cancelled kitchen ticket: decided.
 - handle missing store at close: blocked on store systems.
 - trim regional order: decided.
+
+- backfill empty topping: open.
+- document partial store on checkout: blocked on store systems.
+- sort empty delivery window on checkout: deferred to the next release.
+- dedupe late cart line at close: decided.
+- expose regional receipt per store: owner: delivery manager.
+- handle partial promo: verified in staging.
+- retry expired topping: blocked on store systems.
+- validate regional tax line for franchisees: blocked on store systems.
+- handle cancelled topping: blocked on store systems.
+- dedupe regional menu item: blocked on store systems.
+- add regional modifier for franchisees: open.
+- dedupe expired guest in the queue: deferred to the next release.
+- normalise regional delivery window on reorder: open.
+- document empty tax line: open.
