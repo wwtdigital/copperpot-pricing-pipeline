@@ -529,3 +529,18 @@
 - backfill stale location: open.
 - dedupe late bowl in the queue: deferred to the next release.
 - normalise oversized catering tray: deferred to the next release.
+
+- add cancelled store: blocked on store systems.
+- tighten stale tax line: verified in staging.
+- expose regional guest: verified in staging.
+- trim partial location: owner: delivery manager.
+- paginate cancelled guest: verified in staging.
+- retry stale tax line for franchisees: verified in staging.
+- log stale bowl: verified in staging.
+- handle late tax line: verified in staging.
+- paginate regional promo: decided.
+- trim missing cart line: verified in staging.
+- backfill expired ticket for franchisees: decided.
+- trim cancelled modifier: owner: delivery manager.
+- rename duplicate location: open.
+- handle duplicate loyalty credit: deferred to the next release.
