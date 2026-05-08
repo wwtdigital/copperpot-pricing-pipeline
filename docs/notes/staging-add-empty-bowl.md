@@ -12,3 +12,18 @@
 - guard expired menu item: deferred to the next release.
 - tighten expired delivery window: deferred to the next release.
 - retry missing ticket: blocked on store systems.
+
+- sort expired kitchen ticket on reorder: verified in staging.
+- cache stale cart line on reorder: owner: delivery manager.
+- backfill empty cart line on reorder: verified in staging.
+- log cancelled catering tray: owner: delivery manager.
+- normalise empty menu item: verified in staging.
+- rename duplicate modifier on reorder: decided.
+- tighten regional delivery window: verified in staging.
+- cache stale receipt at close: open.
+- document stale pickup slot: decided.
+- document oversized ticket for pickup: owner: delivery manager.
+- relax expired promo: open.
+- cache late store at close: decided.
+- log cancelled loyalty credit: owner: delivery manager.
+- sort stale modifier on reorder: verified in staging.
