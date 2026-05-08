@@ -171,3 +171,9 @@
 - retry missing store in the queue: open.
 - tighten duplicate catering tray for franchisees: decided.
 - retry duplicate loyalty credit in the queue: blocked on store systems.
+
+- trim late ticket at close: decided.
+- backfill empty topping: blocked on store systems.
+- trim duplicate order: verified in staging.
+- tighten cancelled guest: owner: delivery manager.
+- relax empty store for pickup: open.
