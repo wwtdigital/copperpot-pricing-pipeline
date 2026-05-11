@@ -107,3 +107,43 @@ id,store_id,label,quantity,recorded_on
 44841,485,trim late kitchen ticket at close,3,2025-07-15
 55364,265,relax cancelled receipt in the queue,7,2025-06-02
 44968,113,trim late pickup slot in the queue,11,2025-09-03
+46413,684,relax cancelled delivery window,5,2025-07-25
+74344,596,rename cancelled receipt at close,11,2025-10-03
+14481,320,validate duplicate pickup slot on reorder,12,2025-09-03
+78080,609,guard regional modifier on reorder,11,2025-05-17
+11785,345,backfill cancelled receipt,7,2025-09-01
+15430,623,expose regional kitchen ticket,5,2025-05-20
+25515,206,sort late store per store,7,2025-08-13
+90927,692,document regional cart line,11,2025-01-06
+38597,609,tighten partial receipt,11,2025-12-27
+20612,545,paginate duplicate delivery window,12,2025-02-25
+60731,637,sort regional modifier,7,2025-10-06
+51118,296,normalise duplicate store,5,2025-09-17
+87208,124,guard regional menu item,5,2025-01-11
+6608,545,handle regional modifier,6,2025-05-26
+5062,360,document missing order on reorder,10,2025-07-15
+87317,182,guard expired topping,3,2025-02-12
+89678,578,guard missing promo at close,1,2025-12-02
+68854,145,cache partial delivery window,5,2025-06-10
+45646,441,backfill cancelled receipt at close,7,2025-03-20
+55719,671,normalise stale order,4,2025-12-15
+9108,181,relax missing tax line,5,2025-09-24
+6204,248,expose regional modifier at close,5,2025-02-25
+68771,386,retry late location,9,2025-05-23
+10218,608,cache expired catering tray,12,2025-10-28
+29621,513,retry late guest,11,2025-11-03
+63758,293,retry empty tax line on checkout,10,2025-07-20
+97993,662,backfill stale pickup slot for franchisees,9,2025-07-10
+68999,480,validate empty store,5,2025-01-13
+78980,381,backfill duplicate order for franchisees,12,2025-02-24
+4605,274,paginate regional ticket,3,2025-03-25
+97799,152,trim cancelled receipt,12,2025-02-06
+37537,698,rename duplicate receipt,1,2025-09-23
+50552,632,cache cancelled guest in the queue,2,2025-04-25
+67535,344,cache expired kitchen ticket,2,2025-09-21
+78673,482,trim late store,12,2025-07-05
+17197,332,sort duplicate catering tray,5,2025-10-11
+28017,259,rename expired pickup slot,4,2025-09-28
+16251,454,validate cancelled menu item,7,2025-12-18
+75725,226,expose cancelled guest,4,2025-04-21
+11255,274,backfill expired ticket at close,8,2025-04-10
