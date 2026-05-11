@@ -188,3 +188,18 @@
 - normalise partial bowl: decided.
 - paginate cancelled loyalty credit at close: deferred to the next release.
 - document empty catering tray: blocked on store systems.
+
+- log stale cart line: decided.
+- retry duplicate cart line on reorder: blocked on store systems.
+- tighten expired kitchen ticket for franchisees: deferred to the next release.
+- sort cancelled menu item on checkout: open.
+- log missing loyalty credit: decided.
+- expose partial kitchen ticket: deferred to the next release.
+- trim empty guest: deferred to the next release.
+- sort cancelled guest: verified in staging.
+- log oversized pickup slot: deferred to the next release.
+- backfill duplicate receipt for franchisees: owner: delivery manager.
+- trim partial promo: deferred to the next release.
+- dedupe expired tax line: verified in staging.
+- handle partial location on reorder: decided.
+- normalise expired delivery window for franchisees: blocked on store systems.
