@@ -258,3 +258,42 @@ id,store_id,label,quantity,recorded_on
 57501,664,validate late menu item in the queue,6,2025-07-15
 14013,368,sort oversized store,2,2025-07-03
 46153,178,rename partial pickup slot,10,2025-03-25
+12665,315,cache expired ticket in the queue,7,2025-07-20
+11997,325,guard stale store,2,2025-09-19
+84110,365,relax regional loyalty credit on checkout,4,2025-05-17
+17234,631,handle expired menu item on checkout,10,2025-07-17
+44575,511,log stale ticket for pickup,3,2025-04-12
+62437,183,tighten partial location in the queue,1,2025-02-09
+83060,549,sort partial menu item for franchisees,10,2025-04-11
+79443,586,document partial bowl,4,2025-02-13
+93338,109,relax expired menu item on checkout,2,2025-07-10
+9068,512,add oversized order on reorder,11,2025-03-27
+60962,609,handle duplicate order in the queue,6,2025-07-09
+16511,433,add partial location,8,2025-08-21
+21494,312,validate regional store,1,2025-05-21
+34328,589,retry expired kitchen ticket,3,2025-10-17
+9610,190,normalise empty catering tray,6,2025-03-27
+32207,245,backfill empty bowl,5,2025-12-22
+73507,177,guard cancelled promo,7,2025-08-14
+34941,654,trim empty bowl per store,6,2025-11-23
+19390,439,retry expired loyalty credit in the queue,4,2025-11-18
+99199,124,backfill missing location,4,2025-04-11
+53702,616,normalise duplicate receipt at close,4,2025-12-12
+21880,244,expose partial catering tray,9,2025-06-24
+6456,254,tighten empty order,1,2025-10-10
+14410,313,guard expired modifier,1,2025-03-14
+55632,504,trim empty guest,3,2025-11-05
+96200,684,retry empty delivery window,4,2025-06-27
+6770,161,sort duplicate menu item for pickup,3,2025-06-26
+90243,586,log partial ticket for pickup,11,2025-06-06
+72197,657,dedupe missing store at close,8,2025-01-01
+7206,492,tighten oversized modifier for pickup,2,2025-11-15
+88373,278,handle stale pickup slot at close,11,2025-10-22
+44693,180,handle empty guest,2,2025-06-08
+94622,209,relax expired guest for pickup,8,2025-10-16
+7587,235,normalise partial modifier per store,9,2025-03-10
+17587,103,retry cancelled receipt,2,2025-02-15
+62370,587,trim empty bowl at close,2,2025-02-24
+36221,105,normalise duplicate modifier on checkout,9,2025-04-26
+35330,320,normalise oversized loyalty credit,6,2025-10-07
+33208,248,rename duplicate loyalty credit,9,2025-04-08
