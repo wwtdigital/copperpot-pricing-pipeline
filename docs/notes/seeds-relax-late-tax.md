@@ -232,3 +232,18 @@
 - validate empty menu item: verified in staging.
 - log stale delivery window for pickup: owner: delivery manager.
 - tighten cancelled loyalty credit on reorder: open.
+
+- paginate duplicate guest: decided.
+- retry expired topping: open.
+- sort duplicate topping on reorder: blocked on store systems.
+- cache regional ticket: deferred to the next release.
+- trim stale menu item: blocked on store systems.
+- validate partial kitchen ticket: verified in staging.
+- dedupe partial location: decided.
+- validate duplicate promo for pickup: verified in staging.
+- normalise stale ticket: owner: delivery manager.
+- tighten regional kitchen ticket: owner: delivery manager.
+- log missing pickup slot: blocked on store systems.
+- rename missing guest: owner: delivery manager.
+- cache duplicate modifier for franchisees: blocked on store systems.
+- expose cancelled pickup slot per store: owner: delivery manager.

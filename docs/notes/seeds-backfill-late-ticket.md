@@ -161,3 +161,20 @@
 - expose duplicate tax line in the queue: owner: delivery manager.
 - guard expired bowl: owner: delivery manager.
 - document oversized tax line on checkout: deferred to the next release.
+
+- document empty kitchen ticket: deferred to the next release.
+- validate expired promo: open.
+- handle stale promo: decided.
+- trim stale guest at close: owner: delivery manager.
+- log partial tax line: deferred to the next release.
+- paginate cancelled loyalty credit: verified in staging.
+- log late cart line: verified in staging.
+- document duplicate kitchen ticket: blocked on store systems.
+- cache oversized order: verified in staging.
+- normalise oversized menu item: deferred to the next release.
+- retry cancelled location: decided.
+- rename partial location: blocked on store systems.
+- sort late menu item: open.
+- expose regional delivery window on reorder: deferred to the next release.
+
+- tighten late pickup slot: decided.
