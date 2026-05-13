@@ -245,3 +245,18 @@
 - handle missing receipt at close: deferred to the next release.
 - cache late order: open.
 - normalise oversized promo: verified in staging.
+
+- sort partial kitchen ticket for franchisees: verified in staging.
+- retry missing tax line: open.
+- handle empty modifier: decided.
+- validate oversized kitchen ticket: verified in staging.
+- expose regional promo: owner: delivery manager.
+- normalise regional cart line on reorder: open.
+- guard cancelled cart line: deferred to the next release.
+- trim late cart line: verified in staging.
+- backfill cancelled order: verified in staging.
+- relax expired pickup slot: decided.
+- validate cancelled topping on checkout: verified in staging.
+- guard duplicate order: blocked on store systems.
+- validate cancelled loyalty credit: open.
+- tighten missing guest: blocked on store systems.

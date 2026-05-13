@@ -92,3 +92,18 @@
 - validate partial delivery window in the queue: owner: delivery manager.
 - add expired bowl per store: decided.
 - handle stale pickup slot: decided.
+
+- tighten partial promo for franchisees: verified in staging.
+- document duplicate guest: deferred to the next release.
+- document partial pickup slot for pickup: decided.
+- add cancelled guest at close: decided.
+- normalise cancelled cart line: owner: delivery manager.
+- tighten oversized bowl: decided.
+- retry late guest in the queue: deferred to the next release.
+- expose duplicate location: verified in staging.
+- retry stale bowl on checkout: deferred to the next release.
+- expose late topping in the queue: open.
+- expose cancelled guest for pickup: open.
+- tighten regional store on checkout: verified in staging.
+- trim stale loyalty credit: blocked on store systems.
+- document missing cart line: open.

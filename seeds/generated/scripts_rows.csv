@@ -297,3 +297,10 @@ id,store_id,label,quantity,recorded_on
 36221,105,normalise duplicate modifier on checkout,9,2025-04-26
 35330,320,normalise oversized loyalty credit,6,2025-10-07
 33208,248,rename duplicate loyalty credit,9,2025-04-08
+87002,142,tighten cancelled kitchen ticket for pickup,9,2025-12-25
+8847,564,paginate empty modifier,6,2025-03-04
+66460,640,add cancelled pickup slot,3,2025-04-08
+93252,283,sort late store,3,2025-09-04
+37338,354,validate cancelled promo,12,2025-10-12
+81669,276,normalise partial store,11,2025-03-24
+76586,241,log missing tax line,3,2025-02-14
