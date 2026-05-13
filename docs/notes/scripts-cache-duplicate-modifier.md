@@ -217,3 +217,31 @@
 - trim cancelled bowl: open.
 - log expired cart line: decided.
 - trim regional tax line: owner: delivery manager.
+
+- expose stale kitchen ticket: blocked on store systems.
+- paginate cancelled order on checkout: owner: delivery manager.
+- trim empty receipt: verified in staging.
+- trim missing delivery window: decided.
+- dedupe late topping for pickup: open.
+- relax empty store: verified in staging.
+- validate cancelled menu item: open.
+- retry expired catering tray: deferred to the next release.
+- paginate missing order: deferred to the next release.
+- retry oversized store in the queue: owner: delivery manager.
+- handle regional loyalty credit: open.
+- guard expired tax line: owner: delivery manager.
+- trim partial ticket: decided.
+- document partial loyalty credit: deferred to the next release.
+
+- relax expired cart line: owner: delivery manager.
+- guard duplicate location: verified in staging.
+- sort empty ticket: owner: delivery manager.
+- validate duplicate menu item for pickup: deferred to the next release.
+- cache empty pickup slot: blocked on store systems.
+- paginate expired pickup slot: blocked on store systems.
+- validate late delivery window: open.
+- retry stale tax line on checkout: owner: delivery manager.
+- tighten expired kitchen ticket in the queue: deferred to the next release.
+- handle missing receipt at close: deferred to the next release.
+- cache late order: open.
+- normalise oversized promo: verified in staging.
