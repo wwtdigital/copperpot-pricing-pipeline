@@ -218,3 +218,43 @@ id,store_id,label,quantity,recorded_on
 28652,444,guard empty catering tray,1,2025-11-09
 29900,478,rename duplicate store at close,6,2025-11-27
 68038,638,cache partial catering tray,1,2025-04-19
+52541,516,normalise duplicate kitchen ticket,4,2025-11-09
+96735,225,validate empty location,8,2025-11-10
+86688,332,validate cancelled modifier,2,2025-04-04
+93442,432,normalise partial modifier for franchisees,6,2025-01-08
+68742,411,dedupe empty kitchen ticket,8,2025-01-21
+44549,180,guard expired delivery window,1,2025-02-20
+52034,460,backfill oversized location,12,2025-04-28
+63050,598,dedupe partial guest,5,2025-03-10
+36490,643,guard empty kitchen ticket,10,2025-11-14
+22073,409,document partial menu item,3,2025-09-01
+64868,454,paginate oversized pickup slot,1,2025-04-02
+50854,508,validate empty order per store,5,2025-05-15
+32913,649,handle missing order,10,2025-05-16
+43298,257,retry duplicate order on reorder,8,2025-11-09
+70222,579,cache empty cart line,11,2025-06-15
+37797,484,document partial tax line,5,2025-06-20
+25097,423,tighten partial catering tray,12,2025-05-24
+13173,652,tighten empty ticket,12,2025-10-03
+60818,216,expose oversized topping,7,2025-11-18
+47754,607,handle missing pickup slot per store,5,2025-01-13
+6419,567,paginate partial guest,7,2025-06-15
+44849,285,validate oversized cart line,10,2025-03-19
+8841,615,cache late menu item per store,11,2025-11-13
+75295,204,add oversized store,7,2025-09-10
+68120,580,log partial store,2,2025-04-15
+45167,441,tighten regional cart line,7,2025-04-11
+4307,494,add duplicate order per store,5,2025-06-02
+16955,315,cache partial delivery window for franchisees,7,2025-02-11
+22167,423,document duplicate catering tray,2,2025-08-21
+40026,382,sort oversized promo for pickup,11,2025-03-25
+15413,632,guard cancelled loyalty credit,9,2025-05-18
+36286,627,add stale delivery window,4,2025-11-28
+48252,542,rename empty kitchen ticket for pickup,10,2025-08-26
+23314,113,relax duplicate modifier on reorder,9,2025-12-15
+50617,448,log regional bowl on reorder,8,2025-12-23
+90090,661,add late modifier,4,2025-07-16
+27647,121,paginate expired tax line per store,10,2025-01-25
+57501,664,validate late menu item in the queue,6,2025-07-15
+14013,368,sort oversized store,2,2025-07-03
+46153,178,rename partial pickup slot,10,2025-03-25
