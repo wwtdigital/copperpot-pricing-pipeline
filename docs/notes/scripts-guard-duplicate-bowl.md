@@ -77,3 +77,18 @@
 - document expired guest on checkout: owner: delivery manager.
 - retry stale location: open.
 - paginate missing catering tray for franchisees: owner: delivery manager.
+
+- dedupe partial cart line: deferred to the next release.
+- sort missing bowl: blocked on store systems.
+- retry stale menu item: owner: delivery manager.
+- add duplicate pickup slot on checkout: blocked on store systems.
+- cache cancelled receipt: decided.
+- backfill duplicate receipt: decided.
+- rename oversized topping per store: blocked on store systems.
+- relax expired topping in the queue: blocked on store systems.
+- tighten stale ticket at close: blocked on store systems.
+- retry missing tax line: blocked on store systems.
+- normalise regional topping at close: deferred to the next release.
+- validate partial delivery window in the queue: owner: delivery manager.
+- add expired bowl per store: decided.
+- handle stale pickup slot: decided.

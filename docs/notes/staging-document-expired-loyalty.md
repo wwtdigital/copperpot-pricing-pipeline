@@ -55,7 +55,3 @@
 - validate regional tax line for franchisees: blocked on store systems.
 - handle cancelled topping: blocked on store systems.
 - dedupe regional menu item: blocked on store systems.
-- add regional modifier for franchisees: open.
-- dedupe expired guest in the queue: deferred to the next release.
-- normalise regional delivery window on reorder: open.
-- document empty tax line: open.
