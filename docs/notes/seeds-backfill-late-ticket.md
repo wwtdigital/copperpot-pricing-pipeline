@@ -178,3 +178,18 @@
 - expose regional delivery window on reorder: deferred to the next release.
 
 - tighten late pickup slot: decided.
+
+- dedupe partial ticket per store: owner: delivery manager.
+- normalise expired loyalty credit for franchisees: owner: delivery manager.
+- backfill partial guest for pickup: verified in staging.
+- backfill cancelled topping in the queue: verified in staging.
+- normalise oversized ticket: verified in staging.
+- dedupe expired tax line for pickup: deferred to the next release.
+- log late loyalty credit at close: deferred to the next release.
+- guard partial order at close: deferred to the next release.
+- expose missing ticket: deferred to the next release.
+- relax regional location at close: blocked on store systems.
+- guard oversized guest: verified in staging.
+- relax regional catering tray for pickup: blocked on store systems.
+- trim stale bowl: owner: delivery manager.
+- normalise expired pickup slot: decided.
