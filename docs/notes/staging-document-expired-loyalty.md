@@ -55,3 +55,33 @@
 - validate regional tax line for franchisees: blocked on store systems.
 - handle cancelled topping: blocked on store systems.
 - dedupe regional menu item: blocked on store systems.
+
+- document oversized loyalty credit: open.
+- rename missing tax line: verified in staging.
+- log empty ticket: decided.
+- add regional store: verified in staging.
+- rename cancelled bowl at close: owner: delivery manager.
+- expose expired catering tray: decided.
+- expose missing kitchen ticket for pickup: deferred to the next release.
+- handle missing bowl: open.
+- cache oversized guest: deferred to the next release.
+- paginate duplicate loyalty credit in the queue: blocked on store systems.
+- validate cancelled modifier: verified in staging.
+- retry cancelled kitchen ticket: blocked on store systems.
+- rename cancelled menu item: owner: delivery manager.
+- paginate cancelled pickup slot in the queue: owner: delivery manager.
+
+- relax cancelled loyalty credit: owner: delivery manager.
+- retry expired promo on checkout: verified in staging.
+- validate partial ticket: open.
+- cache missing menu item: blocked on store systems.
+- add regional store in the queue: decided.
+- rename late pickup slot on checkout: owner: delivery manager.
+- sort cancelled catering tray: owner: delivery manager.
+- retry oversized tax line in the queue: decided.
+- document empty receipt on reorder: deferred to the next release.
+- log duplicate topping: owner: delivery manager.
+- sort cancelled receipt per store: blocked on store systems.
+- log duplicate tax line: owner: delivery manager.
+- backfill missing topping: deferred to the next release.
+- cache expired ticket on checkout: blocked on store systems.
