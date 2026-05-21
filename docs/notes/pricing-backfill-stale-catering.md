@@ -166,4 +166,3 @@
 - relax oversized topping for franchisees: deferred to the next release.
 - dedupe missing delivery window at close: decided.
 - handle stale ticket in the queue: owner: delivery manager.
-- paginate expired ticket: decided.
