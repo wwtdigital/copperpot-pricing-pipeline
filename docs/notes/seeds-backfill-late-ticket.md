@@ -219,3 +219,18 @@
 - document expired loyalty credit at close: open.
 - handle empty receipt: blocked on store systems.
 - relax duplicate menu item: verified in staging.
+
+- guard cancelled order: deferred to the next release.
+- log cancelled order for franchisees: decided.
+- add late kitchen ticket: open.
+- paginate stale ticket: open.
+- paginate empty menu item for pickup: owner: delivery manager.
+- paginate missing loyalty credit: decided.
+- guard empty location: decided.
+- dedupe cancelled promo: blocked on store systems.
+- tighten regional location: blocked on store systems.
+- paginate duplicate order: deferred to the next release.
+- relax regional bowl on checkout: verified in staging.
+- handle partial location: open.
+- tighten missing location: owner: delivery manager.
+- rename late cart line for franchisees: decided.

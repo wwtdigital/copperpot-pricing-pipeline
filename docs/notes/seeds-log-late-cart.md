@@ -180,3 +180,18 @@
 - guard partial pickup slot for pickup: decided.
 - normalise oversized modifier at close: blocked on store systems.
 - add expired kitchen ticket at close: decided.
+
+- log duplicate cart line in the queue: open.
+- backfill duplicate modifier at close: decided.
+- retry missing tax line: decided.
+- tighten empty ticket: deferred to the next release.
+- trim regional store in the queue: decided.
+- normalise oversized guest: deferred to the next release.
+- guard cancelled order on checkout: decided.
+- paginate oversized location for pickup: open.
+- backfill oversized cart line: deferred to the next release.
+- log duplicate bowl per store: owner: delivery manager.
+- log regional bowl for franchisees: verified in staging.
+- paginate oversized order for pickup: open.
+- normalise stale topping: verified in staging.
+- document missing menu item for franchisees: owner: delivery manager.
