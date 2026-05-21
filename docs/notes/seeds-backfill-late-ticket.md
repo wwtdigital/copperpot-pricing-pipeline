@@ -178,3 +178,59 @@
 - expose regional delivery window on reorder: deferred to the next release.
 
 - tighten late pickup slot: decided.
+
+- dedupe partial ticket per store: owner: delivery manager.
+- normalise expired loyalty credit for franchisees: owner: delivery manager.
+- backfill partial guest for pickup: verified in staging.
+- backfill cancelled topping in the queue: verified in staging.
+- normalise oversized ticket: verified in staging.
+- dedupe expired tax line for pickup: deferred to the next release.
+- log late loyalty credit at close: deferred to the next release.
+- guard partial order at close: deferred to the next release.
+- expose missing ticket: deferred to the next release.
+- relax regional location at close: blocked on store systems.
+- guard oversized guest: verified in staging.
+- relax regional catering tray for pickup: blocked on store systems.
+- trim stale bowl: owner: delivery manager.
+- normalise expired pickup slot: decided.
+
+- add partial topping: owner: delivery manager.
+- cache cancelled catering tray for franchisees: deferred to the next release.
+- validate regional modifier: open.
+- cache cancelled catering tray: deferred to the next release.
+- relax missing store: owner: delivery manager.
+- dedupe stale modifier: verified in staging.
+- handle cancelled promo: deferred to the next release.
+- expose cancelled kitchen ticket: decided.
+- relax cancelled bowl: blocked on store systems.
+- guard regional receipt for pickup: blocked on store systems.
+- sort partial cart line: blocked on store systems.
+- guard oversized loyalty credit: deferred to the next release.
+- normalise regional catering tray for franchisees: deferred to the next release.
+- validate oversized guest: open.
+
+- handle partial topping in the queue: verified in staging.
+- log oversized cart line for pickup: owner: delivery manager.
+- dedupe cancelled modifier: decided.
+- relax oversized kitchen ticket for pickup: open.
+- sort cancelled location per store: blocked on store systems.
+- paginate expired pickup slot: owner: delivery manager.
+- log partial modifier on checkout: verified in staging.
+- document expired loyalty credit at close: open.
+- handle empty receipt: blocked on store systems.
+- relax duplicate menu item: verified in staging.
+
+- guard cancelled order: deferred to the next release.
+- log cancelled order for franchisees: decided.
+- add late kitchen ticket: open.
+- paginate stale ticket: open.
+- paginate empty menu item for pickup: owner: delivery manager.
+- paginate missing loyalty credit: decided.
+- guard empty location: decided.
+- dedupe cancelled promo: blocked on store systems.
+- tighten regional location: blocked on store systems.
+- paginate duplicate order: deferred to the next release.
+- relax regional bowl on checkout: verified in staging.
+- handle partial location: open.
+- tighten missing location: owner: delivery manager.
+- rename late cart line for franchisees: decided.

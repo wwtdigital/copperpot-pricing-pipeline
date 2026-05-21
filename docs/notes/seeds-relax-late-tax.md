@@ -247,3 +247,5 @@
 - rename missing guest: owner: delivery manager.
 - cache duplicate modifier for franchisees: blocked on store systems.
 - expose cancelled pickup slot per store: owner: delivery manager.
+
+- sort partial store: owner: delivery manager.

@@ -103,3 +103,8 @@ id,store_id,label,quantity,recorded_on
 93734,375,rename partial bowl per store,7,2025-05-04
 84564,558,validate oversized modifier,4,2025-07-03
 84442,669,paginate regional tax line,7,2025-04-19
+34677,320,log partial pickup slot,10,2025-10-22
+35619,581,sort cancelled store,5,2025-12-11
+67406,544,handle regional ticket for pickup,3,2025-12-14
+22724,568,guard missing modifier in the queue,3,2025-12-04
+24405,481,validate partial store on checkout,7,2025-08-22
