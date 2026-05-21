@@ -147,3 +147,35 @@ id,store_id,label,quantity,recorded_on
 16251,454,validate cancelled menu item,7,2025-12-18
 75725,226,expose cancelled guest,4,2025-04-21
 11255,274,backfill expired ticket at close,8,2025-04-10
+41713,409,add late topping,9,2025-04-13
+61663,201,guard partial cart line,5,2025-01-11
+93789,196,tighten oversized tax line,9,2025-07-20
+2636,133,expose late topping,11,2025-06-17
+17104,254,rename stale tax line,10,2025-03-25
+49470,579,log partial menu item,9,2025-01-25
+46672,463,rename partial menu item,10,2025-03-19
+1085,276,relax partial kitchen ticket,9,2025-03-20
+72439,659,retry partial tax line,10,2025-06-15
+20842,344,sort missing topping on checkout,11,2025-03-21
+65375,135,expose expired cart line at close,4,2025-08-12
+34203,339,rename expired catering tray in the queue,2,2025-12-16
+97116,426,trim stale loyalty credit,3,2025-05-01
+16422,322,handle cancelled store,9,2025-12-15
+24962,199,relax late cart line at close,11,2025-08-14
+92215,456,guard oversized promo,2,2025-03-02
+68917,594,trim stale catering tray per store,2,2025-11-28
+66297,470,document stale menu item,7,2025-01-23
+3095,491,relax oversized kitchen ticket,7,2025-04-09
+7908,291,handle partial tax line,3,2025-08-16
+17320,142,handle missing tax line per store,4,2025-03-01
+38055,621,cache stale receipt,7,2025-06-05
+88981,105,retry oversized loyalty credit on checkout,1,2025-08-04
+57854,146,sort partial catering tray,11,2025-07-15
+71991,177,handle oversized modifier,6,2025-12-19
+54017,435,trim expired guest,6,2025-08-18
+65975,437,log cancelled catering tray,6,2025-06-10
+51271,235,log expired store,1,2025-10-12
+61449,524,sort partial cart line,3,2025-05-14
+41797,102,backfill stale catering tray,3,2025-02-01
+39335,553,rename duplicate tax line for franchisees,2,2025-02-07
+55792,434,validate oversized catering tray,12,2025-10-22
