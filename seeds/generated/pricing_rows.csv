@@ -179,3 +179,10 @@ id,store_id,label,quantity,recorded_on
 41797,102,backfill stale catering tray,3,2025-02-01
 39335,553,rename duplicate tax line for franchisees,2,2025-02-07
 55792,434,validate oversized catering tray,12,2025-10-22
+9269,625,handle cancelled pickup slot,12,2025-04-04
+81894,516,trim missing kitchen ticket on reorder,12,2025-10-03
+19010,287,paginate empty catering tray at close,1,2025-09-04
+82453,221,handle regional loyalty credit,10,2025-06-12
+17744,646,backfill duplicate receipt per store,6,2025-04-09
+3572,584,validate regional menu item,6,2025-11-14
+98342,684,relax stale delivery window,5,2025-02-21

@@ -1,8 +1,0 @@
-id,store_id,label,quantity,recorded_on
-81857,349,sort expired receipt,4,2025-11-11
-75011,101,log cancelled promo,5,2025-01-06
-47876,407,rename partial order,5,2025-01-02
-78807,379,dedupe oversized modifier,3,2025-08-06
-32861,285,trim expired catering tray,6,2025-02-02
-15822,235,sort late loyalty credit for franchisees,2,2025-08-28
-1404,662,rename empty location,8,2025-04-22

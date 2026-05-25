@@ -14,3 +14,33 @@
 - normalise regional menu item: open.
 - guard cancelled location: deferred to the next release.
 - expose stale guest: verified in staging.
+
+- sort empty modifier for franchisees: deferred to the next release.
+- log duplicate menu item at close: open.
+- dedupe duplicate kitchen ticket: decided.
+- validate expired modifier: deferred to the next release.
+- expose duplicate location: deferred to the next release.
+- handle cancelled promo at close: verified in staging.
+- dedupe missing order for pickup: decided.
+- handle oversized menu item: owner: delivery manager.
+- backfill missing tax line: verified in staging.
+- dedupe oversized bowl in the queue: deferred to the next release.
+- retry oversized cart line: blocked on store systems.
+- paginate duplicate kitchen ticket: open.
+- trim empty topping on reorder: verified in staging.
+- guard cancelled store in the queue: verified in staging.
+
+- handle expired loyalty credit: blocked on store systems.
+- sort expired guest: decided.
+- handle expired menu item: deferred to the next release.
+- add duplicate guest: open.
+- guard cancelled catering tray on reorder: blocked on store systems.
+- retry duplicate promo: deferred to the next release.
+- log duplicate modifier for pickup: decided.
+- backfill expired topping: open.
+- rename oversized topping on reorder: decided.
+- backfill late catering tray at close: blocked on store systems.
+- guard empty tax line: deferred to the next release.
+- validate cancelled catering tray: open.
+- cache duplicate guest for pickup: deferred to the next release.
+- log stale guest: deferred to the next release.
