@@ -29,3 +29,18 @@
 - paginate duplicate kitchen ticket: open.
 - trim empty topping on reorder: verified in staging.
 - guard cancelled store in the queue: verified in staging.
+
+- handle expired loyalty credit: blocked on store systems.
+- sort expired guest: decided.
+- handle expired menu item: deferred to the next release.
+- add duplicate guest: open.
+- guard cancelled catering tray on reorder: blocked on store systems.
+- retry duplicate promo: deferred to the next release.
+- log duplicate modifier for pickup: decided.
+- backfill expired topping: open.
+- rename oversized topping on reorder: decided.
+- backfill late catering tray at close: blocked on store systems.
+- guard empty tax line: deferred to the next release.
+- validate cancelled catering tray: open.
+- cache duplicate guest for pickup: deferred to the next release.
+- log stale guest: deferred to the next release.
