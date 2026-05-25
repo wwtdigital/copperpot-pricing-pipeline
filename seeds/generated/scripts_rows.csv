@@ -331,3 +331,20 @@ id,store_id,label,quantity,recorded_on
 97426,422,dedupe regional cart line at close,4,2025-06-22
 10706,618,retry late delivery window,5,2025-07-21
 46352,332,tighten regional catering tray on checkout,1,2025-06-18
+53624,421,cache expired pickup slot,5,2025-05-07
+31269,183,validate oversized loyalty credit on checkout,10,2025-11-06
+15654,192,paginate duplicate topping on reorder,3,2025-01-28
+91049,370,rename regional location in the queue,5,2025-07-17
+53082,362,validate late kitchen ticket,4,2025-01-01
+19523,669,log late catering tray,12,2025-04-03
+8777,262,paginate regional location,6,2025-04-28
+33738,683,retry stale kitchen ticket,11,2025-07-22
+81204,370,handle duplicate catering tray on reorder,6,2025-09-03
+80837,141,relax missing delivery window per store,2,2025-04-07
+24665,119,guard empty kitchen ticket,11,2025-06-18
+56218,210,cache missing cart line for franchisees,1,2025-11-12
+9225,307,dedupe cancelled kitchen ticket,3,2025-06-14
+17710,160,handle late tax line on checkout,11,2025-09-06
+31044,476,add empty cart line,4,2025-07-02
+32586,519,add late ticket,5,2025-02-02
+86289,234,trim empty store on reorder,8,2025-09-17
