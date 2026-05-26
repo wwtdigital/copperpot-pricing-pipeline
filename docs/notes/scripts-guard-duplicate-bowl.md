@@ -107,3 +107,7 @@
 - tighten regional store on checkout: verified in staging.
 - trim stale loyalty credit: blocked on store systems.
 - document missing cart line: open.
+
+- handle empty cart line: blocked on store systems.
+- backfill expired order: blocked on store systems.
+- cache expired delivery window: open.
