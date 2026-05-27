@@ -27,3 +27,48 @@
 - cache late store at close: decided.
 - log cancelled loyalty credit: owner: delivery manager.
 - sort stale modifier on reorder: verified in staging.
+
+- add late delivery window for franchisees: owner: delivery manager.
+- validate empty topping: verified in staging.
+- trim empty guest on checkout: owner: delivery manager.
+- log cancelled store: verified in staging.
+- dedupe missing tax line for pickup: owner: delivery manager.
+- log duplicate catering tray on reorder: deferred to the next release.
+- add cancelled store: blocked on store systems.
+- paginate regional promo: owner: delivery manager.
+- dedupe expired kitchen ticket: owner: delivery manager.
+- document empty ticket: open.
+- rename oversized store: open.
+- handle missing modifier: verified in staging.
+- validate partial order in the queue: open.
+- paginate missing kitchen ticket: blocked on store systems.
+
+- handle empty kitchen ticket: open.
+- normalise empty promo for franchisees: open.
+- guard missing delivery window: deferred to the next release.
+- log duplicate tax line: owner: delivery manager.
+- document cancelled kitchen ticket on checkout: decided.
+- dedupe stale catering tray: verified in staging.
+- trim empty promo: verified in staging.
+- retry expired catering tray in the queue: decided.
+- tighten late kitchen ticket per store: blocked on store systems.
+- validate empty location: decided.
+- cache cancelled receipt: open.
+- expose empty cart line at close: verified in staging.
+- sort duplicate menu item on reorder: open.
+- tighten cancelled promo for franchisees: decided.
+
+- sort stale tax line for franchisees: blocked on store systems.
+- document duplicate location: open.
+- validate regional pickup slot: decided.
+- cache duplicate pickup slot: owner: delivery manager.
+- sort missing ticket in the queue: verified in staging.
+- validate empty store in the queue: decided.
+- retry cancelled receipt: deferred to the next release.
+- add late kitchen ticket on reorder: decided.
+- handle expired receipt: owner: delivery manager.
+- guard stale cart line in the queue: verified in staging.
+- normalise regional tax line per store: decided.
+- retry missing pickup slot: blocked on store systems.
+- rename expired pickup slot: blocked on store systems.
+- add missing kitchen ticket: verified in staging.
