@@ -544,3 +544,5 @@
 - trim cancelled modifier: owner: delivery manager.
 - rename duplicate location: open.
 - handle duplicate loyalty credit: deferred to the next release.
+
+- add empty catering tray: open.
