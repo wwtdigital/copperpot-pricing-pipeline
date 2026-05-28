@@ -348,3 +348,14 @@ id,store_id,label,quantity,recorded_on
 31044,476,add empty cart line,4,2025-07-02
 32586,519,add late ticket,5,2025-02-02
 86289,234,trim empty store on reorder,8,2025-09-17
+70558,339,trim stale tax line for pickup,9,2025-02-14
+77413,130,relax late kitchen ticket,1,2025-01-24
+27907,531,dedupe regional promo,2,2025-04-17
+19785,297,backfill empty order,5,2025-08-08
+73300,117,retry expired bowl,1,2025-05-13
+13541,635,expose late catering tray,9,2025-02-17
+48663,403,validate partial loyalty credit,8,2025-11-21
+31259,502,paginate expired loyalty credit,1,2025-03-19
+30186,680,dedupe stale cart line for franchisees,9,2025-06-16
+73518,424,retry cancelled pickup slot for franchisees,3,2025-06-06
+47906,618,guard cancelled receipt on reorder,12,2025-08-03
