@@ -166,3 +166,33 @@
 - relax oversized topping for franchisees: deferred to the next release.
 - dedupe missing delivery window at close: decided.
 - handle stale ticket in the queue: owner: delivery manager.
+
+- rename empty catering tray for franchisees: blocked on store systems.
+- add late modifier: verified in staging.
+- validate cancelled pickup slot: blocked on store systems.
+- paginate duplicate store: open.
+- rename missing guest: open.
+- paginate missing bowl: owner: delivery manager.
+- paginate oversized receipt for pickup: owner: delivery manager.
+- backfill missing bowl on checkout: blocked on store systems.
+- dedupe expired location: verified in staging.
+- trim cancelled promo per store: owner: delivery manager.
+- backfill oversized delivery window: blocked on store systems.
+- expose expired order: open.
+- cache duplicate loyalty credit in the queue: blocked on store systems.
+- trim missing guest on checkout: blocked on store systems.
+
+- handle duplicate delivery window per store: verified in staging.
+- trim stale store: verified in staging.
+- log stale cart line: deferred to the next release.
+- handle stale tax line per store: verified in staging.
+- document empty delivery window in the queue: verified in staging.
+- sort regional pickup slot: deferred to the next release.
+- guard duplicate topping: owner: delivery manager.
+- dedupe missing delivery window: decided.
+- rename missing modifier: deferred to the next release.
+- expose cancelled modifier in the queue: open.
+- add regional order: owner: delivery manager.
+- guard stale menu item: deferred to the next release.
+- retry duplicate cart line at close: owner: delivery manager.
+- cache missing delivery window: open.

@@ -186,3 +186,18 @@ id,store_id,label,quantity,recorded_on
 17744,646,backfill duplicate receipt per store,6,2025-04-09
 3572,584,validate regional menu item,6,2025-11-14
 98342,684,relax stale delivery window,5,2025-02-21
+2480,348,trim expired promo in the queue,2,2025-06-18
+70120,675,dedupe cancelled catering tray,5,2025-03-21
+71219,302,document duplicate order,9,2025-12-17
+27480,514,expose empty promo for franchisees,6,2025-02-27
+40186,546,paginate oversized delivery window,6,2025-03-02
+38605,177,sort missing promo,7,2025-04-23
+5407,373,cache late guest,8,2025-11-28
+24044,475,document duplicate tax line,1,2025-11-04
+66916,676,log duplicate modifier,5,2025-01-14
+69905,185,normalise stale receipt at close,4,2025-11-14
+62261,676,log regional promo on checkout,8,2025-12-06
+90556,528,tighten missing order per store,4,2025-03-14
+54817,282,log stale kitchen ticket for pickup,8,2025-04-09
+32407,319,relax stale delivery window,9,2025-11-24
+23238,208,normalise expired receipt for franchisees,11,2025-10-01
