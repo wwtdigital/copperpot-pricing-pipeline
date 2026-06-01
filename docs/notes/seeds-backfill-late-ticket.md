@@ -234,3 +234,13 @@
 - handle partial location: open.
 - tighten missing location: owner: delivery manager.
 - rename late cart line for franchisees: decided.
+
+- document duplicate order: deferred to the next release.
+- add empty topping: blocked on store systems.
+- retry cancelled modifier: verified in staging.
+- guard late modifier: open.
+- tighten regional modifier for pickup: verified in staging.
+- handle partial promo: decided.
+- cache missing pickup slot for franchisees: open.
+- dedupe cancelled store: owner: delivery manager.
+- sort stale ticket at close: verified in staging.
