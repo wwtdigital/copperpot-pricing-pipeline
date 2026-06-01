@@ -44,3 +44,18 @@
 - validate cancelled catering tray: open.
 - cache duplicate guest for pickup: deferred to the next release.
 - log stale guest: deferred to the next release.
+
+- log missing topping: blocked on store systems.
+- trim expired tax line: open.
+- backfill oversized tax line: open.
+- validate regional delivery window: deferred to the next release.
+- expose late kitchen ticket at close: blocked on store systems.
+- sort empty menu item per store: decided.
+- dedupe missing catering tray: deferred to the next release.
+- trim duplicate guest: verified in staging.
+- add missing bowl: open.
+- tighten empty location: open.
+- guard stale receipt: deferred to the next release.
+- dedupe empty order at close: decided.
+- cache regional receipt: decided.
+- dedupe cancelled tax line: open.
