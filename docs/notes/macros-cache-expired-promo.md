@@ -215,3 +215,17 @@
 - normalise duplicate pickup slot on reorder: owner: delivery manager.
 - paginate expired guest: deferred to the next release.
 - document stale topping: deferred to the next release.
+
+- handle stale pickup slot for pickup: open.
+- validate late ticket: owner: delivery manager.
+- validate oversized location: blocked on store systems.
+- guard oversized location on checkout: verified in staging.
+- cache partial ticket: verified in staging.
+- handle empty store: verified in staging.
+- expose cancelled delivery window on checkout: verified in staging.
+- paginate stale kitchen ticket per store: verified in staging.
+- guard missing delivery window for franchisees: verified in staging.
+- cache oversized receipt on checkout: blocked on store systems.
+- sort empty modifier for pickup: decided.
+- relax missing guest for pickup: blocked on store systems.
+- trim partial topping: verified in staging.
