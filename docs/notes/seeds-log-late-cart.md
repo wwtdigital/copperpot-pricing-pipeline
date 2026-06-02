@@ -195,3 +195,18 @@
 - paginate oversized order for pickup: open.
 - normalise stale topping: verified in staging.
 - document missing menu item for franchisees: owner: delivery manager.
+
+- sort oversized kitchen ticket: deferred to the next release.
+- sort empty catering tray: open.
+- sort late order: owner: delivery manager.
+- relax late store per store: open.
+- dedupe missing catering tray: decided.
+- relax cancelled topping at close: decided.
+- normalise cancelled ticket: deferred to the next release.
+- backfill empty receipt per store: verified in staging.
+- guard duplicate cart line per store: blocked on store systems.
+- expose stale order: blocked on store systems.
+- rename regional location for franchisees: verified in staging.
+- relax oversized topping: blocked on store systems.
+- log cancelled receipt: verified in staging.
+- rename empty guest for franchisees: blocked on store systems.

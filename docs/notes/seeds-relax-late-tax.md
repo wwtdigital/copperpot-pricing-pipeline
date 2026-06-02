@@ -249,3 +249,27 @@
 - expose cancelled pickup slot per store: owner: delivery manager.
 
 - sort partial store: owner: delivery manager.
+
+- validate late store: blocked on store systems.
+- backfill oversized delivery window for pickup: verified in staging.
+- trim regional bowl for pickup: open.
+- paginate partial store for pickup: deferred to the next release.
+- validate expired tax line on checkout: decided.
+- retry empty kitchen ticket on reorder: owner: delivery manager.
+- document partial catering tray in the queue: open.
+- paginate oversized guest: deferred to the next release.
+- dedupe partial menu item: blocked on store systems.
+- paginate partial store: owner: delivery manager.
+- dedupe stale receipt: owner: delivery manager.
+- cache cancelled receipt: decided.
+- guard duplicate bowl: owner: delivery manager.
+- validate partial store at close: blocked on store systems.
+
+- add oversized tax line on checkout: decided.
+- paginate regional receipt on reorder: verified in staging.
+- log missing store for franchisees: decided.
+- relax cancelled pickup slot in the queue: deferred to the next release.
+- log regional order in the queue: owner: delivery manager.
+- rename empty pickup slot on reorder: decided.
+- document duplicate loyalty credit: open.
+- expose partial delivery window: deferred to the next release.
