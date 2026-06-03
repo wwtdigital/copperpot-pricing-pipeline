@@ -273,3 +273,15 @@
 - rename empty pickup slot on reorder: decided.
 - document duplicate loyalty credit: open.
 - expose partial delivery window: deferred to the next release.
+
+- normalise regional menu item on reorder: open.
+- backfill oversized pickup slot: open.
+- expose late menu item on reorder: decided.
+- document missing modifier on reorder: blocked on store systems.
+- cache partial ticket: decided.
+- validate late delivery window on reorder: open.
+- validate missing location at close: open.
+- document partial guest: blocked on store systems.
+- normalise missing menu item: deferred to the next release.
+- validate duplicate promo: verified in staging.
+- relax cancelled topping: owner: delivery manager.
