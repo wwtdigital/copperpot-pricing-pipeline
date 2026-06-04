@@ -177,3 +177,10 @@
 - trim duplicate order: verified in staging.
 - tighten cancelled guest: owner: delivery manager.
 - relax empty store for pickup: open.
+
+- paginate oversized delivery window: owner: delivery manager.
+- document regional promo at close: open.
+- paginate partial loyalty credit: blocked on store systems.
+- sort empty guest for franchisees: owner: delivery manager.
+- dedupe empty receipt: deferred to the next release.
+- document duplicate ticket: deferred to the next release.

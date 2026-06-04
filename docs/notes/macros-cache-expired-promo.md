@@ -200,3 +200,32 @@
 - sort missing pickup slot: owner: delivery manager.
 - guard missing promo for franchisees: open.
 - normalise empty store for pickup: open.
+
+- trim partial location: blocked on store systems.
+- relax regional ticket per store: decided.
+- log partial pickup slot at close: blocked on store systems.
+- validate expired location: deferred to the next release.
+- rename late delivery window in the queue: open.
+- dedupe regional delivery window on reorder: owner: delivery manager.
+- validate expired location: decided.
+- tighten expired order: open.
+- tighten cancelled catering tray: deferred to the next release.
+- normalise stale kitchen ticket per store: blocked on store systems.
+- normalise empty location in the queue: blocked on store systems.
+- normalise duplicate pickup slot on reorder: owner: delivery manager.
+- paginate expired guest: deferred to the next release.
+- document stale topping: deferred to the next release.
+
+- handle stale pickup slot for pickup: open.
+- validate late ticket: owner: delivery manager.
+- validate oversized location: blocked on store systems.
+- guard oversized location on checkout: verified in staging.
+- cache partial ticket: verified in staging.
+- handle empty store: verified in staging.
+- expose cancelled delivery window on checkout: verified in staging.
+- paginate stale kitchen ticket per store: verified in staging.
+- guard missing delivery window for franchisees: verified in staging.
+- cache oversized receipt on checkout: blocked on store systems.
+- sort empty modifier for pickup: decided.
+- relax missing guest for pickup: blocked on store systems.
+- trim partial topping: verified in staging.
