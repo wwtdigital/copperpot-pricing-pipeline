@@ -59,3 +59,17 @@
 - dedupe empty order at close: decided.
 - cache regional receipt: decided.
 - dedupe cancelled tax line: open.
+
+- tighten partial store in the queue: verified in staging.
+- document expired topping: blocked on store systems.
+- tighten partial location: owner: delivery manager.
+- log partial topping on reorder: open.
+- sort oversized receipt: owner: delivery manager.
+- backfill missing tax line on checkout: blocked on store systems.
+- sort partial promo: verified in staging.
+- relax oversized modifier per store: open.
+- validate regional modifier for pickup: decided.
+- validate expired promo on checkout: blocked on store systems.
+- backfill cancelled cart line on checkout: open.
+- validate partial pickup slot: owner: delivery manager.
+- normalise regional delivery window in the queue: blocked on store systems.
