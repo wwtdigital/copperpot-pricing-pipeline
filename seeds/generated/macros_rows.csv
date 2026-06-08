@@ -20,3 +20,17 @@ id,store_id,label,quantity,recorded_on
 82787,688,dedupe oversized topping,6,2025-10-27
 62071,281,add empty delivery window for pickup,1,2025-03-20
 77936,337,handle empty store for franchisees,12,2025-09-08
+33665,310,backfill stale topping,6,2025-10-21
+26292,243,retry expired loyalty credit,10,2025-06-10
+92207,549,validate regional order in the queue,5,2025-04-26
+1029,343,handle stale order,6,2025-05-18
+89144,417,document empty catering tray per store,12,2025-03-17
+45143,323,trim duplicate kitchen ticket at close,12,2025-12-10
+14086,130,normalise late ticket on reorder,4,2025-11-23
+28423,662,rename partial location per store,10,2025-07-09
+81437,266,handle late store,12,2025-05-04
+48119,304,rename duplicate receipt,11,2025-07-05
+35570,333,log regional loyalty credit on reorder,4,2025-07-24
+52902,642,dedupe missing location for franchisees,11,2025-12-20
+46992,253,paginate expired tax line at close,5,2025-11-08
+15009,534,validate regional menu item,10,2025-03-21
