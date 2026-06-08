@@ -72,3 +72,9 @@
 - retry missing pickup slot: blocked on store systems.
 - rename expired pickup slot: blocked on store systems.
 - add missing kitchen ticket: verified in staging.
+
+- handle stale order per store: open.
+- backfill partial store for franchisees: verified in staging.
+- expose missing kitchen ticket: verified in staging.
+- log late location: open.
+- document regional location: owner: delivery manager.
