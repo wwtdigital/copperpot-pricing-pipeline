@@ -184,3 +184,18 @@
 - sort empty guest for franchisees: owner: delivery manager.
 - dedupe empty receipt: deferred to the next release.
 - document duplicate ticket: deferred to the next release.
+
+- relax regional pickup slot per store: open.
+- sort missing ticket per store: decided.
+- dedupe regional tax line: verified in staging.
+- relax late topping in the queue: open.
+- dedupe expired delivery window on reorder: deferred to the next release.
+- sort duplicate tax line: blocked on store systems.
+- sort expired cart line for pickup: verified in staging.
+- cache partial catering tray for franchisees: open.
+- paginate oversized menu item: open.
+- normalise stale promo at close: decided.
+- expose cancelled promo: owner: delivery manager.
+- normalise expired catering tray: owner: delivery manager.
+- validate cancelled order on checkout: verified in staging.
+- add expired store: decided.
