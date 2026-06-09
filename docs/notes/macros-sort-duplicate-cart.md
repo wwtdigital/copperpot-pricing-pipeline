@@ -184,3 +184,48 @@
 - sort empty guest for franchisees: owner: delivery manager.
 - dedupe empty receipt: deferred to the next release.
 - document duplicate ticket: deferred to the next release.
+
+- relax regional pickup slot per store: open.
+- sort missing ticket per store: decided.
+- dedupe regional tax line: verified in staging.
+- relax late topping in the queue: open.
+- dedupe expired delivery window on reorder: deferred to the next release.
+- sort duplicate tax line: blocked on store systems.
+- sort expired cart line for pickup: verified in staging.
+- cache partial catering tray for franchisees: open.
+- paginate oversized menu item: open.
+- normalise stale promo at close: decided.
+- expose cancelled promo: owner: delivery manager.
+- normalise expired catering tray: owner: delivery manager.
+- validate cancelled order on checkout: verified in staging.
+- add expired store: decided.
+
+- log oversized modifier: decided.
+- rename duplicate pickup slot: verified in staging.
+- backfill regional location: decided.
+- retry stale order: deferred to the next release.
+- tighten stale catering tray: blocked on store systems.
+- add late catering tray on checkout: owner: delivery manager.
+- expose cancelled cart line: owner: delivery manager.
+- normalise regional promo: owner: delivery manager.
+- cache stale promo: verified in staging.
+- cache expired modifier per store: owner: delivery manager.
+- guard duplicate promo: decided.
+- add missing location on checkout: deferred to the next release.
+- document stale loyalty credit: verified in staging.
+- dedupe duplicate kitchen ticket for franchisees: verified in staging.
+
+- handle expired loyalty credit on checkout: verified in staging.
+- dedupe regional delivery window for pickup: deferred to the next release.
+- relax cancelled location: open.
+- paginate stale tax line: verified in staging.
+- validate late loyalty credit in the queue: owner: delivery manager.
+- retry regional receipt: decided.
+- relax empty order: deferred to the next release.
+- log duplicate menu item: verified in staging.
+- backfill oversized receipt: deferred to the next release.
+- relax duplicate guest for pickup: deferred to the next release.
+- guard partial delivery window for pickup: decided.
+- retry duplicate receipt: blocked on store systems.
+- relax oversized catering tray for franchisees: decided.
+- document expired catering tray on checkout: decided.
