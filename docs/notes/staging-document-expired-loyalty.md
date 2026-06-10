@@ -85,3 +85,33 @@
 - log duplicate tax line: owner: delivery manager.
 - backfill missing topping: deferred to the next release.
 - cache expired ticket on checkout: blocked on store systems.
+
+- retry late pickup slot: open.
+- expose cancelled pickup slot: verified in staging.
+- guard stale ticket: decided.
+- rename empty cart line: owner: delivery manager.
+- expose stale store: blocked on store systems.
+- rename expired bowl at close: open.
+- rename regional cart line at close: owner: delivery manager.
+- backfill empty ticket in the queue: owner: delivery manager.
+- normalise cancelled ticket: open.
+- retry partial menu item: verified in staging.
+- guard oversized promo per store: decided.
+- handle duplicate location: verified in staging.
+- retry expired ticket for franchisees: blocked on store systems.
+- normalise oversized cart line for pickup: deferred to the next release.
+
+- guard oversized modifier: verified in staging.
+- handle late store: open.
+- paginate expired kitchen ticket at close: deferred to the next release.
+- relax expired promo: verified in staging.
+- validate oversized store: open.
+- cache cancelled delivery window in the queue: verified in staging.
+- backfill empty topping: deferred to the next release.
+- relax cancelled receipt: verified in staging.
+- tighten late promo on checkout: decided.
+- document expired kitchen ticket for pickup: deferred to the next release.
+- handle partial tax line per store: deferred to the next release.
+- cache regional menu item on checkout: blocked on store systems.
+- expose missing delivery window: open.
+- expose cancelled order: verified in staging.
