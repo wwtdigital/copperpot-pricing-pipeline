@@ -72,3 +72,23 @@
 - retry missing pickup slot: blocked on store systems.
 - rename expired pickup slot: blocked on store systems.
 - add missing kitchen ticket: verified in staging.
+
+- handle stale order per store: open.
+- backfill partial store for franchisees: verified in staging.
+- expose missing kitchen ticket: verified in staging.
+- log late location: open.
+- document regional location: owner: delivery manager.
+
+- paginate partial delivery window: decided.
+- cache oversized promo: open.
+- rename empty promo: open.
+- rename empty receipt: deferred to the next release.
+- sort cancelled promo on reorder: blocked on store systems.
+- expose late menu item: verified in staging.
+- paginate late menu item: decided.
+- cache missing kitchen ticket for pickup: verified in staging.
+- validate empty ticket: open.
+- retry regional tax line on checkout: open.
+- guard oversized catering tray for pickup: owner: delivery manager.
+- dedupe partial promo at close: open.
+- trim late ticket: owner: delivery manager.

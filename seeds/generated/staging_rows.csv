@@ -1,0 +1,4 @@
+id,store_id,label,quantity,recorded_on
+90241,420,guard expired cart line,12,2025-04-26
+67016,220,log partial topping,9,2025-04-01
+53987,296,validate oversized tax line,5,2025-09-20
