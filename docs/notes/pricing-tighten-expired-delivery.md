@@ -73,3 +73,18 @@
 - backfill cancelled cart line on checkout: open.
 - validate partial pickup slot: owner: delivery manager.
 - normalise regional delivery window in the queue: blocked on store systems.
+
+- tighten late store on checkout: decided.
+- guard missing receipt: owner: delivery manager.
+- paginate duplicate cart line: blocked on store systems.
+- add stale topping per store: owner: delivery manager.
+- add empty promo: owner: delivery manager.
+- normalise stale guest: owner: delivery manager.
+- paginate late tax line: blocked on store systems.
+- handle expired store: owner: delivery manager.
+- backfill partial menu item: verified in staging.
+- retry oversized tax line in the queue: blocked on store systems.
+- expose stale catering tray: decided.
+- add partial kitchen ticket for pickup: deferred to the next release.
+- paginate expired store: decided.
+- backfill missing guest: owner: delivery manager.

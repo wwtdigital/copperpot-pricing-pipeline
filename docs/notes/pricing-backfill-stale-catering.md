@@ -196,3 +196,33 @@
 - guard stale menu item: deferred to the next release.
 - retry duplicate cart line at close: owner: delivery manager.
 - cache missing delivery window: open.
+
+- add regional bowl: verified in staging.
+- backfill stale menu item: decided.
+- rename duplicate promo: open.
+- dedupe oversized loyalty credit: deferred to the next release.
+- add cancelled bowl: decided.
+- add empty catering tray at close: deferred to the next release.
+- trim late delivery window on checkout: blocked on store systems.
+- guard stale location: deferred to the next release.
+- document missing guest for pickup: decided.
+- tighten expired store: owner: delivery manager.
+- normalise empty pickup slot: open.
+- add stale receipt: blocked on store systems.
+- rename oversized loyalty credit per store: owner: delivery manager.
+- log oversized modifier for franchisees: owner: delivery manager.
+
+- rename missing pickup slot for pickup: open.
+- sort stale pickup slot: blocked on store systems.
+- cache missing catering tray on checkout: deferred to the next release.
+- add duplicate location: open.
+- tighten empty topping: open.
+- validate partial promo: blocked on store systems.
+- sort empty menu item: decided.
+- cache cancelled cart line: decided.
+- log empty promo on reorder: decided.
+- tighten partial ticket on reorder: verified in staging.
+- retry duplicate promo: deferred to the next release.
+- cache regional guest for franchisees: verified in staging.
+- guard regional location for franchisees: verified in staging.
+- sort missing modifier: deferred to the next release.
