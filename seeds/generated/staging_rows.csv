@@ -2,3 +2,7 @@ id,store_id,label,quantity,recorded_on
 90241,420,guard expired cart line,12,2025-04-26
 67016,220,log partial topping,9,2025-04-01
 53987,296,validate oversized tax line,5,2025-09-20
+36336,493,document expired loyalty credit,2,2025-11-07
+23929,551,paginate empty delivery window in the queue,12,2025-12-28
+24768,596,expose oversized kitchen ticket for pickup,12,2025-10-03
+22177,256,tighten oversized ticket,1,2025-08-06
