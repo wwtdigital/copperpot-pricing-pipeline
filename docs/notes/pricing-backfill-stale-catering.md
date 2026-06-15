@@ -226,3 +226,18 @@
 - cache regional guest for franchisees: verified in staging.
 - guard regional location for franchisees: verified in staging.
 - sort missing modifier: deferred to the next release.
+
+- relax duplicate modifier: deferred to the next release.
+- document partial ticket: blocked on store systems.
+- handle missing modifier: open.
+- expose stale bowl on checkout: blocked on store systems.
+- document empty modifier: blocked on store systems.
+- dedupe regional store in the queue: owner: delivery manager.
+- relax regional pickup slot: decided.
+- tighten partial pickup slot: open.
+- tighten duplicate delivery window: deferred to the next release.
+- document oversized location: owner: delivery manager.
+- handle missing tax line for pickup: owner: delivery manager.
+- guard missing promo: blocked on store systems.
+- guard cancelled pickup slot: verified in staging.
+- trim missing bowl per store: decided.

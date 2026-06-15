@@ -201,3 +201,23 @@ id,store_id,label,quantity,recorded_on
 54817,282,log stale kitchen ticket for pickup,8,2025-04-09
 32407,319,relax stale delivery window,9,2025-11-24
 23238,208,normalise expired receipt for franchisees,11,2025-10-01
+76199,345,tighten oversized topping per store,4,2025-03-06
+27822,170,cache stale loyalty credit for pickup,4,2025-03-05
+75870,338,guard duplicate delivery window,11,2025-02-15
+14475,699,sort expired delivery window on checkout,7,2025-04-01
+56732,276,relax missing delivery window,8,2025-02-26
+65621,198,sort duplicate pickup slot,12,2025-01-13
+21330,671,normalise empty topping,1,2025-12-20
+31964,628,paginate expired modifier for pickup,12,2025-03-11
+78966,558,cache late store,5,2025-02-26
+42803,500,retry cancelled location for pickup,7,2025-10-22
+70383,415,relax oversized modifier,11,2025-12-24
+69290,698,validate oversized promo,12,2025-11-08
+99472,446,validate cancelled modifier,3,2025-02-06
+31855,553,log oversized kitchen ticket for pickup,2,2025-09-03
+92623,633,dedupe empty ticket,7,2025-04-04
+26153,129,validate regional store,2,2025-01-06
+81142,433,retry oversized guest at close,9,2025-08-13
+19429,139,handle late loyalty credit,7,2025-05-09
+13896,282,normalise stale location,6,2025-01-15
+22929,352,rename oversized delivery window,6,2025-07-24
