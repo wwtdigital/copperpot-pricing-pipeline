@@ -372,3 +372,4 @@ id,store_id,label,quantity,recorded_on
 19681,519,handle empty modifier,8,2025-07-17
 68611,334,validate oversized loyalty credit,9,2025-02-23
 38183,215,relax expired pickup slot,4,2025-03-24
+43291,517,relax cancelled tax line,3,2025-04-22

@@ -471,3 +471,18 @@
 - relax partial order: deferred to the next release.
 - expose partial location: verified in staging.
 - backfill missing loyalty credit in the queue: deferred to the next release.
+
+- handle cancelled topping for franchisees: open.
+- backfill oversized delivery window: decided.
+- paginate missing modifier: verified in staging.
+- retry empty guest: open.
+- dedupe cancelled receipt: decided.
+- validate cancelled bowl for pickup: owner: delivery manager.
+- add partial kitchen ticket: owner: delivery manager.
+- paginate oversized menu item on reorder: blocked on store systems.
+- relax duplicate modifier: verified in staging.
+- document expired promo for franchisees: owner: delivery manager.
+- add expired loyalty credit: deferred to the next release.
+- normalise duplicate catering tray for pickup: owner: delivery manager.
+- log stale loyalty credit for franchisees: decided.
+- cache missing guest: blocked on store systems.
