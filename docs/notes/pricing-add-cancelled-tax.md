@@ -19,3 +19,18 @@
 - sort late modifier at close: decided.
 - normalise duplicate modifier: deferred to the next release.
 - guard regional order in the queue: decided.
+
+- backfill late tax line for franchisees: open.
+- sort partial location on checkout: decided.
+- cache regional delivery window: deferred to the next release.
+- expose empty catering tray at close: verified in staging.
+- log duplicate delivery window: blocked on store systems.
+- trim expired store on reorder: open.
+- cache cancelled pickup slot: verified in staging.
+- retry oversized guest: verified in staging.
+- validate expired menu item: open.
+- backfill partial guest: decided.
+- rename cancelled location: verified in staging.
+- normalise regional ticket in the queue: deferred to the next release.
+- handle cancelled order for franchisees: decided.
+- trim oversized menu item in the queue: blocked on store systems.
