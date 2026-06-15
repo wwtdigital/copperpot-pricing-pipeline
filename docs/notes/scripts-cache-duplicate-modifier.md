@@ -260,3 +260,12 @@
 - guard duplicate order: blocked on store systems.
 - validate cancelled loyalty credit: open.
 - tighten missing guest: blocked on store systems.
+
+- guard expired delivery window: verified in staging.
+- paginate late delivery window: blocked on store systems.
+- document duplicate promo for franchisees: deferred to the next release.
+- document duplicate topping: blocked on store systems.
+- log cancelled ticket: deferred to the next release.
+- add regional receipt: open.
+- trim stale topping: verified in staging.
+- log late menu item: open.
