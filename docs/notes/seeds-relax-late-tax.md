@@ -285,3 +285,18 @@
 - normalise missing menu item: deferred to the next release.
 - validate duplicate promo: verified in staging.
 - relax cancelled topping: owner: delivery manager.
+
+- trim late catering tray for franchisees: decided.
+- log empty tax line: decided.
+- tighten cancelled bowl on reorder: decided.
+- dedupe cancelled delivery window: decided.
+- backfill duplicate order: verified in staging.
+- backfill empty kitchen ticket for franchisees: owner: delivery manager.
+- document regional topping: decided.
+- expose late bowl: verified in staging.
+- cache duplicate tax line on checkout: decided.
+- handle empty kitchen ticket per store: decided.
+- expose empty topping for franchisees: owner: delivery manager.
+- guard partial kitchen ticket for franchisees: verified in staging.
+- trim oversized pickup slot: deferred to the next release.
+- handle late tax line: open.

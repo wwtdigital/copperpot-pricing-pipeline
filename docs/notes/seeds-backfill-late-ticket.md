@@ -244,3 +244,10 @@
 - cache missing pickup slot for franchisees: open.
 - dedupe cancelled store: owner: delivery manager.
 - sort stale ticket at close: verified in staging.
+
+- cache partial pickup slot: decided.
+- sort late kitchen ticket: owner: delivery manager.
+- dedupe missing tax line in the queue: verified in staging.
+- add duplicate loyalty credit: deferred to the next release.
+- sort regional topping in the queue: verified in staging.
+- add cancelled loyalty credit on checkout: owner: delivery manager.
