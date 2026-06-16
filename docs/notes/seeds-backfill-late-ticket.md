@@ -251,3 +251,18 @@
 - add duplicate loyalty credit: deferred to the next release.
 - sort regional topping in the queue: verified in staging.
 - add cancelled loyalty credit on checkout: owner: delivery manager.
+
+- document duplicate cart line: open.
+- dedupe partial pickup slot per store: decided.
+- cache partial delivery window on checkout: decided.
+- dedupe cancelled topping in the queue: deferred to the next release.
+- expose missing catering tray for pickup: decided.
+- log empty promo for franchisees: verified in staging.
+- dedupe oversized guest: verified in staging.
+- paginate empty pickup slot: owner: delivery manager.
+- normalise stale pickup slot: verified in staging.
+- rename regional guest: open.
+- paginate missing ticket: open.
+- expose duplicate loyalty credit on reorder: deferred to the next release.
+- log duplicate topping for pickup: blocked on store systems.
+- validate expired pickup slot: verified in staging.
