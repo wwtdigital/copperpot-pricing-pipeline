@@ -465,3 +465,9 @@
 - normalise expired ticket: verified in staging.
 - relax cancelled delivery window: deferred to the next release.
 - rename regional cart line: open.
+
+- paginate empty delivery window: deferred to the next release.
+- log duplicate tax line in the queue: deferred to the next release.
+- relax partial order: deferred to the next release.
+- expose partial location: verified in staging.
+- backfill missing loyalty credit in the queue: deferred to the next release.
