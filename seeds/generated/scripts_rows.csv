@@ -359,3 +359,16 @@ id,store_id,label,quantity,recorded_on
 30186,680,dedupe stale cart line for franchisees,9,2025-06-16
 73518,424,retry cancelled pickup slot for franchisees,3,2025-06-06
 47906,618,guard cancelled receipt on reorder,12,2025-08-03
+51603,689,handle missing receipt,12,2025-03-23
+87943,559,handle duplicate promo,3,2025-05-26
+1082,579,cache oversized delivery window in the queue,4,2025-03-08
+67621,189,expose oversized menu item per store,11,2025-11-12
+69982,126,retry stale kitchen ticket in the queue,12,2025-01-06
+85338,182,handle empty topping,3,2025-05-21
+43788,608,trim empty order,8,2025-06-07
+26470,282,handle expired order,6,2025-01-18
+57425,179,normalise regional guest,10,2025-03-07
+58899,624,log duplicate location,9,2025-03-17
+19681,519,handle empty modifier,8,2025-07-17
+68611,334,validate oversized loyalty credit,9,2025-02-23
+38183,215,relax expired pickup slot,4,2025-03-24
