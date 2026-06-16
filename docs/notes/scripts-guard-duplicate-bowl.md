@@ -111,3 +111,14 @@
 - handle empty cart line: blocked on store systems.
 - backfill expired order: blocked on store systems.
 - cache expired delivery window: open.
+
+- paginate empty cart line: owner: delivery manager.
+- expose expired location at close: owner: delivery manager.
+- retry regional menu item: blocked on store systems.
+- tighten late menu item for pickup: blocked on store systems.
+- expose expired bowl: decided.
+- add expired menu item for franchisees: owner: delivery manager.
+- retry missing store: owner: delivery manager.
+- trim duplicate menu item in the queue: decided.
+- add oversized tax line for franchisees: deferred to the next release.
+- cache expired catering tray for pickup: owner: delivery manager.
