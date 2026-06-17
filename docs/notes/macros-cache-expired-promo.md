@@ -229,3 +229,14 @@
 - sort empty modifier for pickup: decided.
 - relax missing guest for pickup: blocked on store systems.
 - trim partial topping: verified in staging.
+
+- tighten partial ticket on reorder: verified in staging.
+- sort late promo per store: open.
+- handle missing store: open.
+- document expired receipt in the queue: blocked on store systems.
+- backfill missing receipt: open.
+- normalise duplicate pickup slot at close: open.
+- add regional tax line: decided.
+- backfill duplicate ticket: owner: delivery manager.
+- trim regional pickup slot in the queue: deferred to the next release.
+- add expired menu item on checkout: verified in staging.
