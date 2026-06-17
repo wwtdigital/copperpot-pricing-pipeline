@@ -1,0 +1,47 @@
+id,store_id,label,quantity,recorded_on
+77792,248,relax cancelled loyalty credit,5,2025-04-08
+31271,578,cache expired menu item in the queue,5,2025-09-19
+12553,428,normalise empty bowl on checkout,12,2025-02-25
+71400,459,rename expired ticket,9,2025-11-18
+16421,107,tighten regional receipt,1,2025-08-21
+52315,458,add stale loyalty credit,9,2025-01-01
+53330,120,document regional cart line on checkout,2,2025-05-18
+84230,396,validate late catering tray per store,4,2025-06-25
+65054,501,retry late menu item,10,2025-11-14
+17671,321,paginate oversized guest,10,2025-12-15
+24384,547,trim missing pickup slot per store,3,2025-01-28
+78124,283,rename cancelled modifier,4,2025-09-03
+73698,400,log duplicate location,12,2025-01-19
+7526,117,handle regional tax line on checkout,1,2025-08-08
+3892,200,validate duplicate pickup slot,4,2025-11-17
+30703,332,normalise oversized menu item,7,2025-03-04
+61376,370,paginate duplicate loyalty credit on reorder,8,2025-08-24
+30429,311,guard cancelled catering tray,5,2025-11-06
+48653,126,cache cancelled ticket,1,2025-08-10
+52904,309,normalise missing kitchen ticket for franchisees,6,2025-01-05
+81887,199,tighten empty promo,7,2025-09-22
+38734,417,backfill oversized delivery window,7,2025-05-20
+68023,119,tighten cancelled store,4,2025-01-05
+70654,519,tighten missing order,7,2025-09-16
+5323,171,sort duplicate menu item,11,2025-01-09
+42647,172,add regional catering tray,3,2025-01-17
+27653,229,paginate stale ticket,1,2025-05-20
+35106,588,paginate partial modifier,11,2025-10-12
+12955,540,guard partial guest,5,2025-09-18
+36755,109,tighten partial bowl,12,2025-01-10
+27151,492,log missing promo,10,2025-12-03
+21014,590,trim duplicate bowl,11,2025-05-12
+23443,265,retry regional modifier for franchisees,4,2025-09-08
+49816,342,add duplicate tax line,5,2025-04-23
+15310,110,add stale kitchen ticket,1,2025-06-02
+41404,259,dedupe duplicate delivery window in the queue,4,2025-01-13
+6678,186,tighten cancelled pickup slot,9,2025-04-28
+92484,578,validate oversized delivery window,9,2025-01-17
+88909,362,relax partial delivery window,11,2025-07-02
+58439,358,handle missing ticket at close,11,2025-10-13
+4586,121,relax duplicate receipt,6,2025-09-28
+44468,335,tighten missing promo for franchisees,5,2025-02-27
+84595,215,paginate duplicate ticket,8,2025-04-16
+26481,456,backfill cancelled catering tray,9,2025-07-26
+10455,644,tighten regional location,11,2025-07-05
+57514,125,sort missing pickup slot,5,2025-02-20

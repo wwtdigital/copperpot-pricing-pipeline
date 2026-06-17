@@ -34,3 +34,33 @@
 - normalise regional ticket in the queue: deferred to the next release.
 - handle cancelled order for franchisees: decided.
 - trim oversized menu item in the queue: blocked on store systems.
+
+- tighten duplicate pickup slot: deferred to the next release.
+- validate missing pickup slot on checkout: owner: delivery manager.
+- handle expired delivery window on reorder: owner: delivery manager.
+- trim stale guest: verified in staging.
+- retry stale ticket: blocked on store systems.
+- sort regional location per store: open.
+- retry regional loyalty credit: open.
+- backfill empty location on checkout: decided.
+- retry cancelled topping: decided.
+- relax duplicate location: blocked on store systems.
+- add cancelled menu item: deferred to the next release.
+- sort duplicate menu item: decided.
+- add duplicate promo: open.
+- dedupe expired promo: verified in staging.
+
+- paginate oversized store in the queue: verified in staging.
+- validate partial guest: open.
+- rename oversized order: open.
+- relax cancelled location: decided.
+- backfill regional modifier at close: owner: delivery manager.
+- backfill duplicate loyalty credit: verified in staging.
+- guard regional modifier: owner: delivery manager.
+- relax missing loyalty credit: owner: delivery manager.
+- expose regional bowl on reorder: deferred to the next release.
+- relax missing order: verified in staging.
+- sort empty ticket: blocked on store systems.
+- rename oversized delivery window: decided.
+- sort duplicate kitchen ticket: decided.
+- expose cancelled delivery window: blocked on store systems.
