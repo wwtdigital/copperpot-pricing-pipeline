@@ -300,3 +300,33 @@
 - guard partial kitchen ticket for franchisees: verified in staging.
 - trim oversized pickup slot: deferred to the next release.
 - handle late tax line: open.
+
+- add stale location: verified in staging.
+- add empty receipt in the queue: deferred to the next release.
+- trim duplicate receipt: owner: delivery manager.
+- document stale guest: decided.
+- cache partial bowl per store: verified in staging.
+- document expired store in the queue: blocked on store systems.
+- rename cancelled bowl: deferred to the next release.
+- normalise empty ticket: open.
+- normalise expired pickup slot for franchisees: deferred to the next release.
+- retry partial cart line: verified in staging.
+- add cancelled bowl on reorder: open.
+- log late topping: verified in staging.
+- validate duplicate modifier at close: decided.
+- paginate expired modifier for franchisees: owner: delivery manager.
+
+- dedupe regional promo in the queue: verified in staging.
+- expose oversized menu item: owner: delivery manager.
+- normalise cancelled modifier on reorder: decided.
+- retry cancelled pickup slot in the queue: open.
+- normalise late kitchen ticket: owner: delivery manager.
+- retry oversized delivery window: blocked on store systems.
+- document regional topping: blocked on store systems.
+- validate empty modifier: decided.
+- tighten cancelled tax line at close: decided.
+- expose stale order on reorder: open.
+- rename late store: deferred to the next release.
+- log partial modifier in the queue: verified in staging.
+- rename cancelled catering tray: blocked on store systems.
+- relax duplicate delivery window: owner: delivery manager.

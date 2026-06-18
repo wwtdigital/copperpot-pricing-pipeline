@@ -179,3 +179,37 @@ id,store_id,label,quantity,recorded_on
 29159,563,expose empty guest,10,2025-08-20
 73337,613,paginate cancelled loyalty credit,2,2025-06-03
 25205,447,normalise regional store,6,2025-03-25
+50013,160,paginate duplicate tax line at close,1,2025-05-11
+2487,255,trim late kitchen ticket,2,2025-11-15
+67927,445,paginate cancelled promo,4,2025-03-18
+25287,292,dedupe regional guest,2,2025-01-25
+92326,569,handle late topping for pickup,9,2025-01-13
+53906,620,cache partial bowl for pickup,1,2025-11-18
+42333,251,backfill regional loyalty credit for pickup,6,2025-11-09
+22154,527,rename duplicate ticket at close,8,2025-01-19
+17201,196,retry empty promo,1,2025-11-08
+7364,589,validate regional delivery window,2,2025-12-16
+39783,606,log cancelled kitchen ticket,10,2025-05-21
+73190,223,retry cancelled delivery window,6,2025-06-07
+73483,512,tighten partial kitchen ticket,5,2025-11-16
+59341,119,relax cancelled kitchen ticket on checkout,8,2025-04-02
+11166,572,relax partial store,10,2025-07-24
+62719,257,normalise oversized pickup slot for pickup,2,2025-06-09
+44968,615,dedupe cancelled modifier in the queue,5,2025-06-16
+80318,572,normalise expired ticket in the queue,6,2025-12-02
+97560,587,dedupe empty location,7,2025-07-03
+39624,395,expose duplicate cart line for franchisees,2,2025-12-28
+85346,603,guard late receipt for pickup,4,2025-04-08
+50080,658,paginate cancelled tax line for franchisees,6,2025-11-07
+86502,634,log duplicate topping,10,2025-03-22
+49973,210,guard cancelled delivery window per store,7,2025-11-17
+46121,639,guard empty guest at close,6,2025-08-27
+10144,370,normalise missing menu item for franchisees,4,2025-04-05
+50816,570,normalise empty ticket,10,2025-03-16
+15112,150,rename cancelled topping,11,2025-09-24
+38635,369,expose oversized menu item,3,2025-02-08
+59798,229,validate late modifier for pickup,8,2025-04-03
+16583,305,add stale delivery window on reorder,10,2025-11-25
+23443,457,expose missing store per store,4,2025-04-17
+93881,225,normalise late catering tray,4,2025-05-20
+34594,242,backfill empty bowl,5,2025-12-05
