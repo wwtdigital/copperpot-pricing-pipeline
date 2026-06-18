@@ -229,3 +229,21 @@
 - retry duplicate receipt: blocked on store systems.
 - relax oversized catering tray for franchisees: decided.
 - document expired catering tray on checkout: decided.
+
+- cache empty loyalty credit: decided.
+- dedupe cancelled tax line: deferred to the next release.
+- log partial kitchen ticket: owner: delivery manager.
+- sort expired delivery window: deferred to the next release.
+- backfill expired store: open.
+- tighten late ticket: deferred to the next release.
+- retry cancelled receipt: blocked on store systems.
+- rename partial tax line: decided.
+- normalise stale order: deferred to the next release.
+- backfill oversized catering tray for pickup: blocked on store systems.
+- trim empty kitchen ticket for franchisees: deferred to the next release.
+- paginate late catering tray: open.
+- expose empty cart line per store: owner: delivery manager.
+- cache empty pickup slot: verified in staging.
+
+- handle expired ticket: decided.
+- cache stale menu item: open.

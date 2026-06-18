@@ -1,0 +1,41 @@
+id,store_id,label,quantity,recorded_on
+97724,684,handle expired menu item,11,2025-03-05
+77801,634,guard empty bowl on reorder,12,2025-07-01
+20554,249,tighten duplicate receipt,3,2025-03-27
+24816,563,document oversized cart line,3,2025-10-25
+30991,522,relax oversized location,11,2025-05-21
+32414,319,validate stale topping,3,2025-07-28
+93291,587,normalise oversized pickup slot,5,2025-05-20
+64275,625,normalise empty catering tray in the queue,5,2025-08-04
+30038,156,sort stale order on checkout,3,2025-07-20
+6177,162,normalise cancelled order,12,2025-01-11
+14008,166,handle partial loyalty credit,6,2025-08-14
+2378,684,trim empty pickup slot,11,2025-09-26
+80868,259,sort regional catering tray,8,2025-03-03
+52682,627,retry oversized menu item,5,2025-03-16
+38382,418,sort duplicate bowl,8,2025-01-13
+26816,480,tighten partial catering tray in the queue,10,2025-08-05
+33922,502,expose regional location,10,2025-08-23
+24695,177,relax missing order on reorder,11,2025-03-28
+76257,165,rename regional kitchen ticket,4,2025-06-09
+81354,214,relax late menu item,9,2025-11-28
+73468,643,add oversized pickup slot,2,2025-12-20
+71601,317,handle cancelled order at close,6,2025-10-24
+83253,654,relax stale cart line at close,10,2025-10-04
+78038,380,handle partial catering tray in the queue,4,2025-06-07
+80910,637,relax expired bowl,1,2025-03-01
+57936,690,backfill expired delivery window,4,2025-04-27
+42070,651,dedupe duplicate modifier per store,12,2025-02-08
+53196,667,paginate empty menu item,8,2025-04-24
+4547,524,trim stale cart line per store,10,2025-02-26
+84794,624,tighten duplicate menu item in the queue,7,2025-09-10
+86893,452,dedupe duplicate menu item,3,2025-10-27
+56664,512,add regional modifier,12,2025-01-24
+41450,607,handle regional modifier,1,2025-03-13
+55545,402,relax duplicate bowl in the queue,5,2025-04-12
+8358,695,document stale order on checkout,1,2025-05-25
+21536,347,log empty loyalty credit per store,2,2025-12-19
+4854,303,dedupe late catering tray,1,2025-04-03
+84745,439,validate expired receipt,6,2025-08-20
+50871,275,validate cancelled promo,9,2025-01-27
+81442,143,guard expired kitchen ticket,3,2025-10-26
