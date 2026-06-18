@@ -241,3 +241,18 @@
 - guard missing promo: blocked on store systems.
 - guard cancelled pickup slot: verified in staging.
 - trim missing bowl per store: decided.
+
+- sort duplicate store: blocked on store systems.
+- relax empty topping: blocked on store systems.
+- normalise partial bowl per store: deferred to the next release.
+- relax missing receipt: blocked on store systems.
+- relax regional order: open.
+- normalise regional store: verified in staging.
+- tighten regional guest: owner: delivery manager.
+- retry late order on reorder: blocked on store systems.
+- dedupe missing receipt: owner: delivery manager.
+- cache late receipt at close: open.
+- expose duplicate pickup slot for franchisees: open.
+- validate empty bowl at close: verified in staging.
+- sort stale guest in the queue: decided.
+- tighten stale topping: deferred to the next release.

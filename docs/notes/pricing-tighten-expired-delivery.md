@@ -88,3 +88,18 @@
 - add partial kitchen ticket for pickup: deferred to the next release.
 - paginate expired store: decided.
 - backfill missing guest: owner: delivery manager.
+
+- add stale menu item: deferred to the next release.
+- guard expired loyalty credit on checkout: owner: delivery manager.
+- trim expired receipt: deferred to the next release.
+- expose empty receipt for pickup: blocked on store systems.
+- cache regional pickup slot at close: blocked on store systems.
+- rename regional modifier: decided.
+- tighten regional promo: blocked on store systems.
+- rename empty bowl on reorder: open.
+- trim regional cart line: owner: delivery manager.
+- relax expired ticket in the queue: verified in staging.
+- dedupe cancelled modifier: deferred to the next release.
+- document partial delivery window in the queue: blocked on store systems.
+- relax empty promo: verified in staging.
+- handle partial topping: owner: delivery manager.
