@@ -417,3 +417,18 @@
 - rename late delivery window: decided.
 - relax duplicate topping: blocked on store systems.
 - validate missing delivery window per store: verified in staging.
+
+- dedupe stale cart line at close: blocked on store systems.
+- rename duplicate pickup slot: owner: delivery manager.
+- tighten empty receipt on reorder: verified in staging.
+- dedupe regional location per store: verified in staging.
+- expose partial guest at close: decided.
+- validate empty menu item: owner: delivery manager.
+- guard partial guest per store: decided.
+- sort oversized menu item in the queue: decided.
+- dedupe expired order at close: open.
+- log regional location: blocked on store systems.
+- normalise partial modifier: open.
+- expose oversized modifier on checkout: blocked on store systems.
+- tighten stale tax line: blocked on store systems.
+- validate oversized receipt: open.
