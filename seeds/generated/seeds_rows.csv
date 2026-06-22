@@ -213,3 +213,43 @@ id,store_id,label,quantity,recorded_on
 23443,457,expose missing store per store,4,2025-04-17
 93881,225,normalise late catering tray,4,2025-05-20
 34594,242,backfill empty bowl,5,2025-12-05
+58290,683,retry oversized bowl per store,4,2025-09-09
+27122,296,tighten duplicate topping per store,8,2025-02-03
+66471,513,retry duplicate location,2,2025-11-23
+46366,307,sort late ticket,3,2025-12-19
+56635,376,document oversized topping on checkout,11,2025-04-03
+17989,179,paginate stale store per store,8,2025-01-06
+4200,197,paginate missing order on reorder,10,2025-06-17
+56233,406,retry duplicate promo,7,2025-05-18
+84743,189,tighten partial order,5,2025-08-21
+68594,459,normalise cancelled pickup slot at close,7,2025-04-05
+30326,634,rename partial topping per store,7,2025-02-14
+30955,353,retry empty ticket,7,2025-04-24
+67627,427,tighten late location,1,2025-09-19
+38837,182,relax empty loyalty credit,8,2025-01-20
+60955,666,backfill oversized topping for pickup,5,2025-11-11
+89869,657,document late bowl,3,2025-09-24
+26575,199,paginate late receipt,6,2025-08-22
+91648,399,expose empty catering tray,6,2025-03-14
+28945,431,tighten stale tax line,7,2025-06-24
+49095,250,document expired menu item at close,9,2025-03-02
+95417,272,paginate missing order per store,3,2025-08-23
+68927,409,expose oversized guest,9,2025-05-26
+27154,297,document expired modifier,12,2025-03-27
+73635,184,document duplicate delivery window,7,2025-04-17
+18883,270,retry late cart line on reorder,2,2025-03-04
+28666,304,retry missing promo at close,1,2025-03-06
+75523,387,normalise partial order in the queue,12,2025-08-14
+23037,563,normalise cancelled order per store,6,2025-05-18
+85559,470,cache regional location,9,2025-07-02
+90763,621,trim partial store,5,2025-11-08
+67271,290,relax empty location on reorder,8,2025-01-20
+58850,534,handle late promo per store,6,2025-09-17
+83477,652,trim missing delivery window at close,5,2025-07-16
+20317,375,add empty catering tray in the queue,12,2025-06-17
+80474,282,retry cancelled location for franchisees,3,2025-01-16
+44612,387,cache missing pickup slot,9,2025-10-17
+17546,424,add late promo for pickup,3,2025-05-26
+26419,143,backfill regional cart line,1,2025-07-23
+84565,334,log missing pickup slot,2,2025-08-09
+2987,212,retry late delivery window,2,2025-12-03

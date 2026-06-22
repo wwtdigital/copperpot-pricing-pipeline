@@ -266,3 +266,18 @@
 - expose duplicate loyalty credit on reorder: deferred to the next release.
 - log duplicate topping for pickup: blocked on store systems.
 - validate expired pickup slot: verified in staging.
+
+- guard missing receipt per store: verified in staging.
+- expose late modifier per store: owner: delivery manager.
+- add duplicate catering tray at close: blocked on store systems.
+- trim partial location: owner: delivery manager.
+- validate partial bowl in the queue: deferred to the next release.
+- sort late guest per store: blocked on store systems.
+- expose late promo on checkout: decided.
+- retry expired menu item: verified in staging.
+- log duplicate menu item: owner: delivery manager.
+- relax oversized tax line: open.
+- trim expired promo on checkout: verified in staging.
+- expose late catering tray: deferred to the next release.
+- rename partial tax line on reorder: decided.
+- rename empty catering tray: blocked on store systems.
