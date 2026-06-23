@@ -58,3 +58,18 @@
 - guard stale receipt: deferred to the next release.
 - dedupe empty order at close: decided.
 - cache regional receipt: decided.
+
+- tighten cancelled delivery window on reorder: owner: delivery manager.
+- normalise missing cart line for franchisees: open.
+- handle empty ticket: blocked on store systems.
+- trim stale order for franchisees: open.
+- relax duplicate pickup slot: decided.
+- backfill stale pickup slot per store: verified in staging.
+- guard late menu item on checkout: owner: delivery manager.
+- trim expired kitchen ticket: open.
+- document duplicate kitchen ticket: verified in staging.
+- relax duplicate bowl for pickup: deferred to the next release.
+- sort stale guest: deferred to the next release.
+- relax regional ticket per store: verified in staging.
+- add stale delivery window on reorder: open.
+- document regional catering tray: owner: delivery manager.
