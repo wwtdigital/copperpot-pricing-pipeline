@@ -373,3 +373,4 @@ id,store_id,label,quantity,recorded_on
 68611,334,validate oversized loyalty credit,9,2025-02-23
 38183,215,relax expired pickup slot,4,2025-03-24
 43291,517,relax cancelled tax line,3,2025-04-22
+60020,362,validate partial guest for franchisees,11,2025-02-07
