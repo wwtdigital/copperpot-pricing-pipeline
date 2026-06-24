@@ -14,3 +14,33 @@
 - cache expired cart line: deferred to the next release.
 - relax partial ticket: owner: delivery manager.
 - backfill cancelled modifier on checkout: deferred to the next release.
+
+- log regional catering tray per store: verified in staging.
+- cache late guest: decided.
+- validate stale kitchen ticket per store: deferred to the next release.
+- rename cancelled menu item: open.
+- rename duplicate location: decided.
+- retry cancelled menu item: decided.
+- tighten cancelled delivery window: open.
+- trim cancelled receipt: deferred to the next release.
+- guard cancelled ticket: owner: delivery manager.
+- retry regional location on checkout: open.
+- document oversized ticket: decided.
+- log empty loyalty credit for pickup: open.
+- normalise cancelled ticket: blocked on store systems.
+- log regional cart line: open.
+
+- log cancelled tax line for franchisees: verified in staging.
+- trim empty store for pickup: decided.
+- validate late pickup slot at close: decided.
+- expose missing menu item: verified in staging.
+- handle regional bowl: deferred to the next release.
+- tighten oversized modifier for pickup: blocked on store systems.
+- guard cancelled modifier: blocked on store systems.
+- expose oversized loyalty credit: deferred to the next release.
+- trim empty pickup slot: deferred to the next release.
+- backfill duplicate delivery window for pickup: deferred to the next release.
+- cache cancelled menu item at close: blocked on store systems.
+- paginate cancelled modifier: decided.
+- handle stale modifier: deferred to the next release.
+- handle oversized delivery window in the queue: owner: delivery manager.
