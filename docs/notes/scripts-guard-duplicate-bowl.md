@@ -137,3 +137,18 @@
 - tighten partial topping in the queue: deferred to the next release.
 - sort regional kitchen ticket on reorder: deferred to the next release.
 - relax empty delivery window in the queue: blocked on store systems.
+
+- tighten partial bowl at close: open.
+- expose late pickup slot: blocked on store systems.
+- relax oversized delivery window: decided.
+- log empty store: decided.
+- dedupe late receipt in the queue: deferred to the next release.
+- guard empty tax line on checkout: owner: delivery manager.
+- normalise late menu item: verified in staging.
+- add duplicate catering tray: blocked on store systems.
+- handle oversized ticket: verified in staging.
+- log partial tax line: owner: delivery manager.
+- sort empty promo: verified in staging.
+- backfill stale order: deferred to the next release.
+- log late store on checkout: deferred to the next release.
+- log stale order per store: verified in staging.
