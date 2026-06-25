@@ -64,3 +64,18 @@
 - rename oversized delivery window: decided.
 - sort duplicate kitchen ticket: decided.
 - expose cancelled delivery window: blocked on store systems.
+
+- tighten stale catering tray in the queue: blocked on store systems.
+- guard empty guest: deferred to the next release.
+- document stale cart line: owner: delivery manager.
+- log oversized menu item in the queue: decided.
+- dedupe duplicate topping: deferred to the next release.
+- rename duplicate cart line on reorder: deferred to the next release.
+- cache stale order: blocked on store systems.
+- expose missing loyalty credit on checkout: owner: delivery manager.
+- log late order: deferred to the next release.
+- document empty guest for franchisees: deferred to the next release.
+- log regional cart line for pickup: verified in staging.
+- trim partial cart line on checkout: verified in staging.
+- tighten late ticket: owner: delivery manager.
+- rename stale topping in the queue: owner: delivery manager.

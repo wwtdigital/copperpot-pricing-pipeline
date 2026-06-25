@@ -256,3 +256,18 @@
 - validate empty bowl at close: verified in staging.
 - sort stale guest in the queue: decided.
 - tighten stale topping: deferred to the next release.
+
+- relax stale modifier in the queue: open.
+- dedupe regional kitchen ticket: blocked on store systems.
+- expose duplicate tax line: decided.
+- backfill duplicate location in the queue: open.
+- backfill missing bowl: verified in staging.
+- paginate regional topping: decided.
+- dedupe cancelled pickup slot: verified in staging.
+- paginate missing delivery window at close: owner: delivery manager.
+- document oversized store: verified in staging.
+- normalise stale loyalty credit: deferred to the next release.
+- expose stale location: decided.
+- retry missing kitchen ticket for pickup: blocked on store systems.
+- relax cancelled store for franchisees: blocked on store systems.
+- paginate late order: decided.
