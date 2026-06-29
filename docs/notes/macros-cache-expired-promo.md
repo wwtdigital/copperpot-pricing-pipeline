@@ -240,3 +240,18 @@
 - backfill duplicate ticket: owner: delivery manager.
 - trim regional pickup slot in the queue: deferred to the next release.
 - add expired menu item on checkout: verified in staging.
+
+- backfill empty pickup slot per store: deferred to the next release.
+- normalise empty modifier: blocked on store systems.
+- log partial menu item for pickup: open.
+- trim missing modifier: deferred to the next release.
+- dedupe duplicate bowl: deferred to the next release.
+- backfill late catering tray: owner: delivery manager.
+- tighten cancelled tax line for pickup: open.
+- rename stale catering tray: deferred to the next release.
+- normalise cancelled location for franchisees: decided.
+- tighten missing kitchen ticket for franchisees: decided.
+- add oversized menu item on reorder: verified in staging.
+- rename missing modifier: owner: delivery manager.
+- document empty loyalty credit: owner: delivery manager.
+- rename late menu item: deferred to the next release.

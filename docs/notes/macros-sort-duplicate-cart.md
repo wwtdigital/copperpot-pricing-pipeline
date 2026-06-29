@@ -247,3 +247,18 @@
 
 - handle expired ticket: decided.
 - cache stale menu item: open.
+
+- rename expired guest at close: decided.
+- cache regional promo on reorder: decided.
+- document cancelled order on reorder: open.
+- trim expired kitchen ticket: blocked on store systems.
+- retry stale store per store: deferred to the next release.
+- retry missing kitchen ticket on checkout: deferred to the next release.
+- backfill late promo in the queue: decided.
+- expose partial catering tray: open.
+- trim late menu item per store: owner: delivery manager.
+- trim duplicate delivery window for pickup: open.
+- document expired modifier: decided.
+- normalise stale tax line: verified in staging.
+- add cancelled store: deferred to the next release.
+- expose late catering tray: owner: delivery manager.
