@@ -281,3 +281,18 @@
 - expose late catering tray: deferred to the next release.
 - rename partial tax line on reorder: decided.
 - rename empty catering tray: blocked on store systems.
+
+- validate missing topping in the queue: owner: delivery manager.
+- trim duplicate order at close: verified in staging.
+- rename cancelled ticket: owner: delivery manager.
+- paginate late promo: deferred to the next release.
+- rename expired cart line: decided.
+- paginate partial loyalty credit on checkout: blocked on store systems.
+- handle cancelled cart line at close: owner: delivery manager.
+- tighten duplicate pickup slot: open.
+- guard duplicate tax line for franchisees: open.
+- backfill expired delivery window: blocked on store systems.
+- sort empty store: decided.
+- expose expired promo: owner: delivery manager.
+- add missing modifier: blocked on store systems.
+- relax duplicate delivery window: verified in staging.
