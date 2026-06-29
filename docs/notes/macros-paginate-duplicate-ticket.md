@@ -372,3 +372,18 @@
 - validate missing ticket: deferred to the next release.
 
 - normalise regional ticket: owner: delivery manager.
+
+- relax empty loyalty credit: owner: delivery manager.
+- normalise expired receipt: open.
+- paginate cancelled ticket: deferred to the next release.
+- trim stale pickup slot: deferred to the next release.
+- add stale bowl: open.
+- validate partial ticket: verified in staging.
+- log expired tax line: verified in staging.
+- paginate empty topping in the queue: decided.
+- relax regional catering tray for pickup: verified in staging.
+- dedupe stale modifier on checkout: verified in staging.
+- document oversized catering tray: blocked on store systems.
+- retry duplicate catering tray: blocked on store systems.
+- validate partial modifier in the queue: decided.
+- trim empty pickup slot: deferred to the next release.
