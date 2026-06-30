@@ -35,3 +35,13 @@ id,store_id,label,quantity,recorded_on
 37494,697,relax partial order,12,2025-04-14
 72174,267,guard cancelled topping,11,2025-03-09
 54244,194,dedupe late modifier at close,5,2025-06-07
+44720,185,trim regional cart line in the queue,9,2025-04-12
+80354,403,add duplicate order,10,2025-07-25
+23245,111,retry oversized pickup slot,12,2025-05-15
+61430,380,dedupe late ticket,1,2025-07-11
+37470,586,retry late receipt for pickup,10,2025-03-05
+81771,546,rename missing guest on reorder,1,2025-09-12
+42663,334,trim missing promo,12,2025-02-15
+6298,171,log partial catering tray,10,2025-02-02
+75490,359,trim regional delivery window,7,2025-01-03
+25797,372,trim duplicate promo on checkout,1,2025-03-26
