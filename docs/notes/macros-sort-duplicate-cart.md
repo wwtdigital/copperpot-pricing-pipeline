@@ -262,3 +262,18 @@
 - normalise stale tax line: verified in staging.
 - add cancelled store: deferred to the next release.
 - expose late catering tray: owner: delivery manager.
+
+- retry regional topping: decided.
+- rename empty kitchen ticket: blocked on store systems.
+- cache empty catering tray: verified in staging.
+- dedupe partial loyalty credit on reorder: owner: delivery manager.
+- dedupe expired loyalty credit on reorder: blocked on store systems.
+- expose oversized ticket: decided.
+- cache late kitchen ticket: decided.
+- guard duplicate receipt at close: open.
+- retry regional modifier for franchisees: open.
+- log duplicate delivery window: open.
+- backfill stale modifier on checkout: blocked on store systems.
+- validate expired store: verified in staging.
+- retry oversized modifier in the queue: open.
+- sort cancelled menu item at close: open.
