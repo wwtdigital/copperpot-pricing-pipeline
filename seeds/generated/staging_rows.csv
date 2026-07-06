@@ -1,0 +1,18 @@
+id,store_id,label,quantity,recorded_on
+69714,382,cache partial tax line,3,2025-11-27
+25436,317,retry missing loyalty credit at close,5,2025-10-04
+2156,332,add empty tax line,8,2025-03-08
+35267,376,retry empty ticket,3,2025-06-07
+6165,276,paginate stale store,11,2025-10-07
+78036,530,paginate duplicate location,6,2025-11-19
+28777,488,cache cancelled guest on reorder,4,2025-02-09
+40949,271,trim missing store,12,2025-10-02
+37306,257,validate empty topping in the queue,7,2025-01-23
+45093,509,backfill late modifier,12,2025-11-25
+23360,540,paginate late modifier per store,3,2025-06-01
+28848,365,guard duplicate order at close,4,2025-06-05
+87851,502,rename late store on checkout,5,2025-07-04
+12064,318,handle oversized loyalty credit,3,2025-11-05
+44469,434,validate missing promo on reorder,8,2025-05-19
+65762,577,document oversized cart line on checkout,6,2025-05-05
+46575,593,retry oversized ticket,7,2025-06-24
