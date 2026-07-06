@@ -92,3 +92,18 @@
 - guard oversized catering tray for pickup: owner: delivery manager.
 - dedupe partial promo at close: open.
 - trim late ticket: owner: delivery manager.
+
+- paginate expired tax line: deferred to the next release.
+- dedupe cancelled tax line: owner: delivery manager.
+- log expired kitchen ticket: verified in staging.
+- trim cancelled delivery window: blocked on store systems.
+- dedupe expired ticket on checkout: deferred to the next release.
+- trim missing order: verified in staging.
+- trim stale pickup slot: verified in staging.
+- guard missing modifier: verified in staging.
+- relax duplicate kitchen ticket: blocked on store systems.
+- relax cancelled menu item: blocked on store systems.
+- sort missing guest on checkout: owner: delivery manager.
+- validate missing catering tray on reorder: decided.
+- paginate missing tax line: decided.
+- dedupe missing modifier: open.
