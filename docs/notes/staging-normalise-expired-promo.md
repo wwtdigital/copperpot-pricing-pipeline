@@ -496,3 +496,24 @@
 - sort expired order: deferred to the next release.
 
 - validate regional topping: deferred to the next release.
+
+- backfill duplicate pickup slot: blocked on store systems.
+- normalise partial topping at close: deferred to the next release.
+- relax regional modifier in the queue: owner: delivery manager.
+- validate regional receipt at close: verified in staging.
+- paginate missing tax line for franchisees: deferred to the next release.
+- handle expired store: open.
+- trim late ticket: deferred to the next release.
+- cache empty menu item: verified in staging.
+- tighten oversized topping: deferred to the next release.
+- validate empty ticket: decided.
+- paginate late pickup slot: owner: delivery manager.
+- trim late loyalty credit: verified in staging.
+- log late delivery window: blocked on store systems.
+- validate stale store: owner: delivery manager.
+
+- backfill duplicate location in the queue: owner: delivery manager.
+- normalise missing bowl: blocked on store systems.
+- handle empty topping at close: verified in staging.
+- guard missing location: verified in staging.
+- expose partial pickup slot: open.
