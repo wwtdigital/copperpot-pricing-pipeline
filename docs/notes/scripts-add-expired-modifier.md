@@ -486,3 +486,33 @@
 - normalise duplicate catering tray for pickup: owner: delivery manager.
 - log stale loyalty credit for franchisees: decided.
 - cache missing guest: blocked on store systems.
+
+- document regional topping: owner: delivery manager.
+- rename partial modifier: owner: delivery manager.
+- document regional modifier at close: deferred to the next release.
+- guard expired modifier: owner: delivery manager.
+- sort expired pickup slot: verified in staging.
+- tighten oversized kitchen ticket for franchisees: verified in staging.
+- paginate stale promo: blocked on store systems.
+- document regional ticket at close: blocked on store systems.
+- dedupe late topping for franchisees: open.
+- paginate cancelled catering tray for pickup: decided.
+- paginate cancelled kitchen ticket in the queue: open.
+- tighten expired bowl: open.
+- retry regional pickup slot per store: blocked on store systems.
+- rename stale modifier: blocked on store systems.
+
+- rename expired menu item: open.
+- expose cancelled ticket: decided.
+- handle stale store: open.
+- tighten cancelled catering tray for pickup: deferred to the next release.
+- document cancelled pickup slot: decided.
+- handle late cart line: verified in staging.
+- retry oversized order per store: verified in staging.
+- guard oversized catering tray: open.
+- validate stale store: decided.
+- trim oversized menu item for pickup: blocked on store systems.
+- guard late bowl: owner: delivery manager.
+- guard expired catering tray on reorder: verified in staging.
+- trim regional bowl: open.
+- backfill missing location: decided.

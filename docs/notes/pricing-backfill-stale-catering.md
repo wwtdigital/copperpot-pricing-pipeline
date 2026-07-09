@@ -266,8 +266,3 @@
 - dedupe cancelled pickup slot: verified in staging.
 - paginate missing delivery window at close: owner: delivery manager.
 - document oversized store: verified in staging.
-- normalise stale loyalty credit: deferred to the next release.
-- expose stale location: decided.
-- retry missing kitchen ticket for pickup: blocked on store systems.
-- relax cancelled store for franchisees: blocked on store systems.
-- paginate late order: decided.
