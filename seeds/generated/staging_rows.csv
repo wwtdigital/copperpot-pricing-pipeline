@@ -16,3 +16,21 @@ id,store_id,label,quantity,recorded_on
 44469,434,validate missing promo on reorder,8,2025-05-19
 65762,577,document oversized cart line on checkout,6,2025-05-05
 46575,593,retry oversized ticket,7,2025-06-24
+9759,129,relax duplicate modifier,11,2025-06-12
+92291,669,backfill regional receipt,6,2025-01-09
+84433,538,tighten stale pickup slot on checkout,11,2025-03-12
+80070,223,paginate partial kitchen ticket,2,2025-08-19
+86861,490,guard partial location,1,2025-12-24
+61726,129,cache partial order for franchisees,10,2025-04-20
+29772,582,tighten cancelled bowl,10,2025-02-10
+41055,641,add partial promo,10,2025-08-06
+75494,419,log cancelled promo,3,2025-12-25
+50390,142,tighten oversized modifier at close,10,2025-07-11
+85863,509,rename partial menu item in the queue,11,2025-12-19
+48661,170,retry cancelled delivery window,3,2025-06-27
+3798,121,normalise cancelled tax line,12,2025-01-03
+69063,394,sort cancelled cart line,2,2025-05-17
+88124,107,trim missing bowl,4,2025-06-20
+83060,562,dedupe expired location on reorder,7,2025-07-11
+48515,409,expose duplicate location,2,2025-09-21
+73595,494,handle regional receipt for pickup,11,2025-04-20
