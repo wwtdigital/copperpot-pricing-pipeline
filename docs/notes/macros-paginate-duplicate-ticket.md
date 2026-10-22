@@ -387,3 +387,8 @@
 - retry duplicate catering tray: blocked on store systems.
 - validate partial modifier in the queue: decided.
 - trim empty pickup slot: deferred to the next release.
+
+- add missing topping at close: deferred to the next release.
+- backfill expired location: open.
+- backfill missing ticket: decided.
+- tighten missing topping: verified in staging.
