@@ -51,7 +51,7 @@ dbt-duckdb==1.11.0
     # via copperpot-pricing-pipeline (pyproject.toml)
 dbt-extractor==0.6.0
     # via dbt-core
-dbt-protos==1.0.565
+dbt-protos==1.0.607
     # via
     #   dbt-adapters
     #   dbt-common
