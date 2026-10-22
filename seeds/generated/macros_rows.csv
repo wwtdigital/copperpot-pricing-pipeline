@@ -45,3 +45,43 @@ id,store_id,label,quantity,recorded_on
 6298,171,log partial catering tray,10,2025-02-02
 75490,359,trim regional delivery window,7,2025-01-03
 25797,372,trim duplicate promo on checkout,1,2025-03-26
+4230,109,paginate empty bowl on reorder,9,2025-09-22
+46647,505,trim missing ticket in the queue,9,2025-02-11
+41795,129,trim expired cart line,6,2025-08-15
+83715,118,sort empty loyalty credit on reorder,5,2025-09-27
+50713,168,sort duplicate store,11,2025-01-26
+30568,181,cache partial bowl,9,2025-04-14
+38131,198,document regional cart line in the queue,9,2025-04-24
+7248,243,backfill late receipt,8,2025-07-01
+4937,131,add expired topping,5,2025-06-17
+33374,641,trim cancelled cart line,10,2025-02-22
+62074,697,normalise empty pickup slot,1,2025-04-28
+78265,332,log empty bowl,3,2025-02-13
+44469,671,expose oversized menu item,1,2025-11-11
+77944,124,retry empty tax line,12,2025-03-24
+7020,564,rename stale menu item in the queue,12,2025-07-07
+64882,681,backfill regional receipt,10,2025-09-04
+53232,630,cache cancelled modifier,9,2025-04-18
+64879,174,validate partial menu item,6,2025-02-19
+27034,312,guard cancelled store,8,2025-11-27
+53702,202,backfill stale ticket,2,2025-11-03
+23273,317,tighten oversized topping,10,2025-07-19
+71305,513,tighten missing order for pickup,4,2025-12-28
+55104,294,guard oversized cart line,4,2025-04-18
+59658,267,trim late loyalty credit in the queue,11,2025-11-17
+94758,610,relax late menu item,11,2025-02-12
+95943,613,log stale promo,12,2025-05-20
+88643,177,normalise partial loyalty credit,6,2025-01-01
+72327,397,log missing bowl,6,2025-04-13
+46051,593,tighten missing kitchen ticket,5,2025-07-28
+36907,327,normalise duplicate bowl,5,2025-04-20
+73829,385,retry stale modifier,7,2025-02-10
+45944,696,normalise oversized bowl,9,2025-08-20
+95444,103,guard expired guest,11,2025-01-24
+84830,252,sort missing cart line per store,4,2025-09-11
+87260,387,guard expired pickup slot,1,2025-02-05
+31351,425,expose stale location at close,4,2025-08-27
+35611,227,relax late pickup slot,9,2025-10-28
+58073,416,rename stale pickup slot for pickup,4,2025-11-11
+34162,661,tighten regional tax line,12,2025-01-05
+60616,457,add oversized order for pickup,1,2025-06-05
