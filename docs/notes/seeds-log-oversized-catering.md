@@ -44,3 +44,18 @@
 - paginate cancelled modifier: decided.
 - handle stale modifier: deferred to the next release.
 - handle oversized delivery window in the queue: owner: delivery manager.
+
+- trim empty menu item in the queue: open.
+- guard missing promo: verified in staging.
+- handle cancelled menu item: verified in staging.
+- retry late bowl per store: open.
+- add missing cart line: blocked on store systems.
+- normalise missing kitchen ticket: deferred to the next release.
+- relax expired store per store: decided.
+- add duplicate cart line for pickup: open.
+- trim stale bowl on reorder: verified in staging.
+- retry duplicate modifier: deferred to the next release.
+- log stale bowl: decided.
+- cache empty menu item at close: blocked on store systems.
+- trim late location in the queue: decided.
+- validate oversized kitchen ticket: verified in staging.
