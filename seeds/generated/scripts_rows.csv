@@ -400,3 +400,43 @@ id,store_id,label,quantity,recorded_on
 47334,563,document empty bowl,1,2025-02-12
 61452,367,relax late tax line at close,9,2025-05-10
 84139,567,retry duplicate order,12,2025-01-23
+46692,200,cache regional pickup slot,8,2025-11-22
+91529,596,add missing modifier,6,2025-07-14
+8092,326,handle regional pickup slot,11,2025-11-23
+13779,363,paginate partial delivery window,3,2025-12-05
+84019,591,dedupe partial delivery window per store,5,2025-11-25
+75524,232,trim empty delivery window,11,2025-10-08
+81949,199,normalise cancelled promo,10,2025-07-14
+46810,640,normalise missing catering tray,2,2025-07-12
+8965,530,expose late pickup slot,11,2025-05-16
+26342,424,document partial delivery window,2,2025-11-14
+19139,587,cache empty promo,2,2025-11-13
+69787,248,add expired menu item,2,2025-03-17
+70109,293,paginate missing order,10,2025-02-13
+63013,430,retry stale promo,12,2025-05-09
+41702,621,validate regional menu item in the queue,12,2025-01-27
+80983,390,backfill missing promo on checkout,3,2025-09-20
+82012,673,trim oversized topping,2,2025-10-10
+53977,172,sort expired menu item,8,2025-03-07
+36528,127,expose duplicate topping,11,2025-06-08
+17171,592,tighten late guest for pickup,8,2025-07-02
+48147,353,guard empty receipt,4,2025-11-20
+50260,513,tighten missing cart line,8,2025-12-08
+34830,465,guard expired store,11,2025-05-14
+64350,142,paginate late order,11,2025-05-20
+75312,394,backfill expired ticket,4,2025-03-13
+22675,549,retry late pickup slot on reorder,9,2025-11-05
+71421,660,trim duplicate receipt on checkout,11,2025-03-22
+51494,578,backfill late promo,12,2025-05-26
+15018,646,handle duplicate kitchen ticket,1,2025-09-15
+3467,661,retry regional location,9,2025-01-18
+51775,296,cache oversized kitchen ticket,1,2025-08-09
+42862,563,dedupe expired ticket for franchisees,1,2025-08-15
+25443,478,dedupe cancelled bowl for franchisees,10,2025-11-22
+22295,263,trim cancelled guest,7,2025-01-17
+41005,518,relax stale catering tray,6,2025-07-08
+93486,697,tighten expired bowl on checkout,12,2025-09-09
+20609,556,dedupe missing guest,7,2025-12-11
+17809,356,validate duplicate catering tray,9,2025-07-13
+31942,693,sort expired guest,11,2025-05-12
+31950,192,document stale topping on reorder,10,2025-05-11
