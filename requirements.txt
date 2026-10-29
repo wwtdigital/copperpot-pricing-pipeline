@@ -177,7 +177,7 @@ snowplow-tracker==1.1.0
     # via dbt-core
 sqlfluff==4.3.0
     # via copperpot-pricing-pipeline (pyproject.toml)
-sqlglot==30.19.0
+sqlglot==30.24.0
     # via metricflow
 sqlparse==0.6.0
     # via dbt-core
