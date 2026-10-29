@@ -152,3 +152,33 @@
 - backfill stale order: deferred to the next release.
 - log late store on checkout: deferred to the next release.
 - log stale order per store: verified in staging.
+
+- relax oversized location per store: verified in staging.
+- validate empty order on checkout: blocked on store systems.
+- relax oversized menu item on reorder: deferred to the next release.
+- guard oversized location: deferred to the next release.
+- paginate cancelled cart line: verified in staging.
+- trim empty cart line for franchisees: deferred to the next release.
+- add expired menu item: open.
+- document oversized kitchen ticket: deferred to the next release.
+- validate expired loyalty credit: owner: delivery manager.
+- add late pickup slot: owner: delivery manager.
+- trim regional location on checkout: verified in staging.
+- add empty location at close: deferred to the next release.
+- sort empty location for franchisees: decided.
+- handle expired location: decided.
+
+- trim expired delivery window: open.
+- log late pickup slot at close: decided.
+- relax missing receipt: verified in staging.
+- guard late topping per store: decided.
+- dedupe duplicate receipt: owner: delivery manager.
+- paginate missing cart line for franchisees: open.
+- trim missing delivery window: verified in staging.
+- sort missing receipt for franchisees: owner: delivery manager.
+- guard cancelled loyalty credit: blocked on store systems.
+- handle duplicate bowl: verified in staging.
+- trim missing bowl on checkout: verified in staging.
+- trim late topping for franchisees: deferred to the next release.
+- paginate stale location on checkout: decided.
+- paginate oversized promo in the queue: open.
