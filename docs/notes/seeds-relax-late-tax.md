@@ -330,3 +330,18 @@
 - log partial modifier in the queue: verified in staging.
 - rename cancelled catering tray: blocked on store systems.
 - relax duplicate delivery window: owner: delivery manager.
+
+- retry regional menu item: owner: delivery manager.
+- dedupe duplicate delivery window in the queue: open.
+- trim empty menu item: decided.
+- validate partial tax line on checkout: verified in staging.
+- trim empty order on checkout: decided.
+- document stale promo in the queue: blocked on store systems.
+- backfill regional loyalty credit: deferred to the next release.
+- add cancelled kitchen ticket on reorder: deferred to the next release.
+- cache missing location in the queue: owner: delivery manager.
+- trim regional delivery window: blocked on store systems.
+- rename regional loyalty credit: open.
+- document partial cart line: blocked on store systems.
+- dedupe cancelled tax line: owner: delivery manager.
+- normalise missing store: open.
