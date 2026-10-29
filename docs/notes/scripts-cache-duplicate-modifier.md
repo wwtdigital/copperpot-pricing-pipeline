@@ -303,3 +303,18 @@
 - trim empty menu item for franchisees: verified in staging.
 - document partial pickup slot: blocked on store systems.
 - paginate regional order: open.
+
+- sort duplicate store: open.
+- paginate regional pickup slot for pickup: verified in staging.
+- sort empty promo: open.
+- dedupe duplicate bowl per store: verified in staging.
+- log late topping on reorder: deferred to the next release.
+- normalise duplicate location for pickup: verified in staging.
+- log missing topping in the queue: owner: delivery manager.
+- retry missing catering tray on checkout: owner: delivery manager.
+- expose regional guest: open.
+- paginate partial bowl: decided.
+- document late topping: blocked on store systems.
+- expose duplicate store: deferred to the next release.
+- document duplicate menu item: verified in staging.
+- normalise cancelled loyalty credit: verified in staging.
