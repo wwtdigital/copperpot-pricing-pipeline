@@ -296,3 +296,27 @@
 - expose expired promo: owner: delivery manager.
 - add missing modifier: blocked on store systems.
 - relax duplicate delivery window: verified in staging.
+
+- sort empty order on reorder: open.
+- normalise late menu item: owner: delivery manager.
+- relax missing promo on reorder: verified in staging.
+- paginate empty guest: blocked on store systems.
+- rename oversized pickup slot: blocked on store systems.
+- handle expired loyalty credit: deferred to the next release.
+- sort stale modifier on reorder: owner: delivery manager.
+- normalise cancelled receipt: verified in staging.
+- paginate partial bowl on checkout: blocked on store systems.
+- trim cancelled ticket: deferred to the next release.
+- document expired modifier on checkout: verified in staging.
+- handle cancelled ticket per store: deferred to the next release.
+- sort empty menu item: owner: delivery manager.
+- trim missing tax line in the queue: deferred to the next release.
+
+- rename expired cart line at close: decided.
+- backfill cancelled cart line: decided.
+- trim oversized order at close: owner: delivery manager.
+- cache late cart line on checkout: verified in staging.
+- relax stale tax line: blocked on store systems.
+- relax empty menu item on checkout: deferred to the next release.
+- cache oversized catering tray: decided.
+- expose expired catering tray: open.
