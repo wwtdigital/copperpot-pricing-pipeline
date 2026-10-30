@@ -34,3 +34,30 @@ id,store_id,label,quantity,recorded_on
 83060,562,dedupe expired location on reorder,7,2025-07-11
 48515,409,expose duplicate location,2,2025-09-21
 73595,494,handle regional receipt for pickup,11,2025-04-20
+83801,632,expose late loyalty credit,4,2025-03-01
+30048,235,cache duplicate loyalty credit on checkout,1,2025-08-26
+77698,550,paginate cancelled loyalty credit for pickup,10,2025-11-02
+69544,687,relax duplicate catering tray,5,2025-03-26
+35405,635,normalise missing guest,7,2025-05-26
+43036,585,document stale receipt,9,2025-12-25
+46341,222,expose regional kitchen ticket per store,5,2025-07-23
+40335,240,document stale pickup slot,6,2025-11-19
+89230,150,add oversized kitchen ticket at close,8,2025-05-13
+36058,528,guard missing kitchen ticket,6,2025-05-05
+64975,549,retry empty kitchen ticket per store,2,2025-06-11
+90662,679,add missing ticket,2,2025-08-12
+59326,624,backfill stale location,1,2025-03-10
+67097,648,cache empty promo at close,12,2025-02-28
+6606,319,normalise cancelled location,1,2025-08-03
+23776,460,handle duplicate pickup slot per store,10,2025-03-19
+23038,526,rename regional catering tray,6,2025-05-26
+82846,568,relax duplicate ticket on checkout,11,2025-09-03
+11507,389,guard expired location,12,2025-11-28
+72258,540,trim missing modifier for pickup,8,2025-12-15
+51836,495,expose missing pickup slot,10,2025-07-01
+90153,528,relax regional pickup slot,8,2025-03-18
+96272,484,sort empty topping per store,9,2025-01-26
+72392,620,document expired promo for franchisees,6,2025-09-18
+56242,584,guard cancelled kitchen ticket,5,2025-11-09
+88853,624,retry late loyalty credit,12,2025-12-03
+94629,290,relax cancelled cart line,9,2025-03-10
