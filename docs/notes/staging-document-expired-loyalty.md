@@ -115,3 +115,18 @@
 - cache regional menu item on checkout: blocked on store systems.
 - expose missing delivery window: open.
 - expose cancelled order: verified in staging.
+
+- add duplicate tax line for franchisees: open.
+- document empty ticket: decided.
+- backfill partial cart line per store: decided.
+- document late delivery window: open.
+- expose partial catering tray: owner: delivery manager.
+- normalise empty cart line: deferred to the next release.
+- trim stale cart line: verified in staging.
+- tighten missing delivery window: open.
+- add partial order for franchisees: blocked on store systems.
+- normalise missing store: open.
+- retry partial tax line per store: decided.
+- sort regional modifier: open.
+- handle oversized location per store: blocked on store systems.
+- retry empty delivery window: owner: delivery manager.
