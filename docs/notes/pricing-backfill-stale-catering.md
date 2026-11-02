@@ -266,3 +266,18 @@
 - dedupe cancelled pickup slot: verified in staging.
 - paginate missing delivery window at close: owner: delivery manager.
 - document oversized store: verified in staging.
+
+- guard regional loyalty credit: open.
+- add regional store: blocked on store systems.
+- tighten duplicate menu item for franchisees: verified in staging.
+- normalise regional modifier: verified in staging.
+- document regional menu item in the queue: open.
+- relax oversized bowl for pickup: owner: delivery manager.
+- cache expired store at close: decided.
+- expose stale kitchen ticket: open.
+- normalise oversized kitchen ticket: verified in staging.
+- rename empty delivery window: deferred to the next release.
+- document regional pickup slot: verified in staging.
+- handle regional delivery window on reorder: blocked on store systems.
+- backfill empty store per store: decided.
+- trim oversized menu item in the queue: verified in staging.

@@ -45,3 +45,43 @@ id,store_id,label,quantity,recorded_on
 26481,456,backfill cancelled catering tray,9,2025-07-26
 10455,644,tighten regional location,11,2025-07-05
 57514,125,sort missing pickup slot,5,2025-02-20
+82750,420,backfill regional loyalty credit per store,1,2025-10-24
+66912,559,sort empty catering tray,9,2025-05-12
+6101,384,paginate empty topping on checkout,7,2025-11-15
+38113,130,add duplicate tax line,5,2025-07-03
+87166,558,retry partial bowl,4,2025-12-11
+22016,543,log late tax line,11,2025-04-27
+34990,169,add cancelled tax line,12,2025-09-17
+14369,439,sort cancelled promo,12,2025-02-13
+58380,680,document stale tax line for pickup,4,2025-01-11
+34830,324,paginate late order,6,2025-04-23
+83863,256,cache partial cart line,7,2025-05-12
+5328,175,document empty receipt on checkout,6,2025-04-19
+62509,554,cache oversized cart line,1,2025-07-23
+11716,521,cache stale delivery window,5,2025-07-17
+93132,268,document late loyalty credit per store,8,2025-02-13
+91884,542,dedupe missing order,10,2025-03-23
+56188,610,cache stale store for franchisees,11,2025-10-09
+79040,668,log empty tax line,12,2025-02-22
+74934,102,expose regional pickup slot on reorder,8,2025-02-12
+41715,351,normalise oversized delivery window in the queue,8,2025-01-07
+91458,661,paginate late delivery window,2,2025-06-03
+16477,671,cache expired store,2,2025-01-26
+75640,627,rename empty topping,6,2025-08-13
+71714,441,rename partial promo for pickup,9,2025-01-28
+74620,379,trim expired menu item,7,2025-01-03
+60853,156,relax cancelled menu item,8,2025-09-04
+21303,420,handle duplicate delivery window per store,10,2025-02-08
+6784,590,document cancelled guest,4,2025-12-13
+78257,474,document cancelled modifier,6,2025-03-03
+98158,149,sort regional kitchen ticket,12,2025-04-27
+55459,560,retry expired cart line,11,2025-02-05
+18384,317,log empty ticket,8,2025-04-09
+5353,121,relax partial ticket on reorder,2,2025-07-10
+17828,255,rename late guest,11,2025-05-26
+15769,420,expose expired pickup slot,4,2025-07-08
+10185,253,log duplicate location,10,2025-04-27
+81310,507,trim cancelled location,6,2025-11-11
+96976,384,cache missing modifier for pickup,3,2025-02-28
+9680,205,expose missing delivery window for pickup,11,2025-05-21
+63457,422,rename cancelled modifier,8,2025-06-05
