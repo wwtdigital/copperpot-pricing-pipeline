@@ -107,3 +107,17 @@
 - validate missing catering tray on reorder: decided.
 - paginate missing tax line: decided.
 - dedupe missing modifier: open.
+
+- expose regional delivery window: owner: delivery manager.
+- backfill missing promo in the queue: blocked on store systems.
+- normalise duplicate guest: blocked on store systems.
+- guard oversized receipt on reorder: deferred to the next release.
+- log expired kitchen ticket: decided.
+- normalise duplicate menu item: decided.
+- sort missing location on reorder: blocked on store systems.
+- guard regional topping at close: deferred to the next release.
+- paginate empty promo on checkout: verified in staging.
+- add regional tax line: deferred to the next release.
+- rename partial kitchen ticket: owner: delivery manager.
+- document expired pickup slot for pickup: blocked on store systems.
+- cache stale modifier: verified in staging.
