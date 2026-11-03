@@ -79,3 +79,18 @@
 - trim partial cart line on checkout: verified in staging.
 - tighten late ticket: owner: delivery manager.
 - rename stale topping in the queue: owner: delivery manager.
+
+- document cancelled kitchen ticket in the queue: deferred to the next release.
+- validate missing pickup slot: deferred to the next release.
+- dedupe stale delivery window at close: decided.
+- add duplicate modifier: verified in staging.
+- guard oversized ticket per store: blocked on store systems.
+- relax partial tax line: deferred to the next release.
+- retry missing location in the queue: decided.
+- validate regional delivery window: open.
+- handle late receipt: verified in staging.
+- handle oversized delivery window on reorder: owner: delivery manager.
+- rename stale cart line on reorder: owner: delivery manager.
+- sort partial loyalty credit: verified in staging.
+- dedupe late bowl on checkout: verified in staging.
+- sort cancelled location: verified in staging.
