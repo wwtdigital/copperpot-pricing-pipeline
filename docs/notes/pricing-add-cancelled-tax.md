@@ -94,3 +94,28 @@
 - sort partial loyalty credit: verified in staging.
 - dedupe late bowl on checkout: verified in staging.
 - sort cancelled location: verified in staging.
+
+- handle empty order: verified in staging.
+- rename duplicate order: owner: delivery manager.
+- guard late delivery window: owner: delivery manager.
+- sort empty store on reorder: decided.
+- add cancelled receipt per store: deferred to the next release.
+- expose stale promo: owner: delivery manager.
+- trim cancelled menu item: open.
+- retry duplicate delivery window: deferred to the next release.
+- handle empty guest: decided.
+- backfill cancelled receipt for franchisees: blocked on store systems.
+- dedupe regional loyalty credit on reorder: open.
+- retry expired loyalty credit at close: verified in staging.
+- handle cancelled guest: decided.
+- rename regional guest: blocked on store systems.
+
+- handle missing location: decided.
+- log empty tax line on checkout: open.
+- rename missing store for pickup: decided.
+- tighten expired bowl: blocked on store systems.
+- guard stale location: open.
+- guard duplicate modifier per store: open.
+- dedupe missing tax line: verified in staging.
+- log missing menu item for pickup: blocked on store systems.
+- dedupe partial bowl: decided.

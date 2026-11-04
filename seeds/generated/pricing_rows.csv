@@ -85,3 +85,43 @@ id,store_id,label,quantity,recorded_on
 96976,384,cache missing modifier for pickup,3,2025-02-28
 9680,205,expose missing delivery window for pickup,11,2025-05-21
 63457,422,rename cancelled modifier,8,2025-06-05
+8468,220,cache partial modifier,2,2025-01-02
+66936,253,tighten oversized menu item per store,12,2025-07-10
+37798,138,validate stale topping,1,2025-01-08
+37568,248,sort empty catering tray,6,2025-11-14
+5136,193,document oversized delivery window,7,2025-06-16
+17723,164,paginate regional kitchen ticket per store,11,2025-07-18
+75349,421,tighten missing loyalty credit in the queue,7,2025-04-01
+39407,197,handle missing guest,9,2025-05-11
+35851,638,normalise cancelled delivery window,11,2025-05-21
+29241,432,handle regional topping,11,2025-02-18
+70137,656,log late loyalty credit on reorder,11,2025-05-17
+58503,125,add expired store,11,2025-03-15
+95125,393,relax duplicate menu item,2,2025-03-28
+40008,104,sort duplicate kitchen ticket per store,12,2025-06-02
+2616,110,dedupe stale topping per store,11,2025-03-04
+7395,697,paginate empty catering tray,3,2025-11-07
+28239,433,paginate partial delivery window,11,2025-09-23
+18571,279,normalise regional location,11,2025-08-22
+89149,570,rename partial kitchen ticket,10,2025-11-12
+24814,404,log cancelled loyalty credit,10,2025-09-18
+36898,439,rename cancelled topping,2,2025-02-06
+3162,114,normalise expired cart line on checkout,9,2025-11-24
+28646,682,guard oversized order,8,2025-01-14
+95981,252,normalise stale ticket at close,12,2025-05-03
+26691,300,expose cancelled receipt on checkout,9,2025-04-18
+2647,250,paginate expired promo,5,2025-10-06
+86884,217,validate partial catering tray for pickup,10,2025-05-02
+17088,546,sort oversized store,11,2025-10-18
+26234,234,document regional bowl for pickup,6,2025-05-25
+95478,431,retry oversized receipt,5,2025-08-27
+84046,214,guard cancelled modifier,11,2025-09-10
+68286,310,paginate stale order on reorder,9,2025-02-18
+38078,477,guard empty guest,2,2025-10-23
+76385,219,normalise regional location,3,2025-02-18
+24724,297,handle regional location,8,2025-02-16
+73800,238,rename expired order,4,2025-12-26
+72152,371,retry expired menu item per store,5,2025-06-21
+6286,622,tighten expired ticket on reorder,4,2025-07-14
+38901,625,paginate stale topping,10,2025-06-05
+12586,414,normalise duplicate cart line,11,2025-03-01
