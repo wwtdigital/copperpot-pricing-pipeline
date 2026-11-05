@@ -130,3 +130,18 @@
 - sort regional modifier: open.
 - handle oversized location per store: blocked on store systems.
 - retry empty delivery window: owner: delivery manager.
+
+- normalise partial catering tray: open.
+- log duplicate store: decided.
+- trim expired loyalty credit: verified in staging.
+- rename stale pickup slot for franchisees: open.
+- paginate duplicate loyalty credit on reorder: deferred to the next release.
+- relax late topping per store: open.
+- relax stale receipt for franchisees: open.
+- relax duplicate receipt on reorder: owner: delivery manager.
+- rename expired pickup slot at close: decided.
+- normalise duplicate pickup slot: decided.
+- relax late pickup slot on reorder: open.
+- guard stale catering tray: verified in staging.
+- retry regional cart line: owner: delivery manager.
+- rename regional catering tray on checkout: blocked on store systems.
