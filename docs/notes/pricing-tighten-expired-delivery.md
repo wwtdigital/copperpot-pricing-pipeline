@@ -73,3 +73,18 @@
 - relax regional ticket per store: verified in staging.
 - add stale delivery window on reorder: open.
 - document regional catering tray: owner: delivery manager.
+
+- guard cancelled pickup slot: blocked on store systems.
+- relax expired promo: deferred to the next release.
+- dedupe empty ticket for franchisees: verified in staging.
+- rename regional kitchen ticket at close: blocked on store systems.
+- sort partial catering tray: decided.
+- add oversized catering tray: decided.
+- guard cancelled cart line: verified in staging.
+- cache regional store: deferred to the next release.
+- handle expired topping at close: open.
+- rename partial promo: deferred to the next release.
+- tighten regional pickup slot: decided.
+- guard empty ticket on checkout: decided.
+- dedupe empty topping for franchisees: owner: delivery manager.
+- tighten missing order: verified in staging.
