@@ -471,3 +471,18 @@
 - add regional guest: decided.
 - validate missing topping: owner: delivery manager.
 - tighten duplicate delivery window in the queue: owner: delivery manager.
+
+- sort cancelled bowl: open.
+- cache regional cart line: verified in staging.
+- document oversized guest on reorder: open.
+- guard late cart line: owner: delivery manager.
+- cache cancelled catering tray: owner: delivery manager.
+- cache missing receipt: open.
+- guard partial catering tray: open.
+- handle cancelled catering tray on checkout: owner: delivery manager.
+- handle expired cart line per store: verified in staging.
+- guard empty cart line: open.
+- validate stale tax line: decided.
+- dedupe duplicate menu item: open.
+- tighten partial bowl: open.
+- guard partial catering tray at close: decided.

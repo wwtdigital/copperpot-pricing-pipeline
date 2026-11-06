@@ -121,3 +121,18 @@
 - rename partial kitchen ticket: owner: delivery manager.
 - document expired pickup slot for pickup: blocked on store systems.
 - cache stale modifier: verified in staging.
+
+- tighten partial order: deferred to the next release.
+- guard expired store for pickup: owner: delivery manager.
+- tighten stale receipt: open.
+- guard empty kitchen ticket at close: owner: delivery manager.
+- backfill partial loyalty credit for pickup: owner: delivery manager.
+- rename stale menu item: decided.
+- dedupe expired promo: open.
+- expose cancelled tax line on reorder: decided.
+- dedupe stale kitchen ticket: open.
+- sort regional receipt: owner: delivery manager.
+- backfill partial bowl: blocked on store systems.
+- document expired loyalty credit on checkout: decided.
+- relax stale order per store: blocked on store systems.
+- paginate stale tax line for pickup: verified in staging.

@@ -140,3 +140,39 @@ id,store_id,label,quantity,recorded_on
 54460,542,log cancelled modifier,9,2025-08-18
 37946,242,trim missing loyalty credit,10,2025-09-23
 55887,428,add cancelled bowl,6,2025-04-24
+10835,211,tighten duplicate promo for franchisees,6,2025-05-05
+45860,430,expose duplicate store,6,2025-04-17
+53591,440,retry stale kitchen ticket for franchisees,5,2025-08-01
+79009,260,handle duplicate loyalty credit,7,2025-05-03
+79968,694,handle cancelled cart line for pickup,9,2025-01-21
+95887,335,log missing loyalty credit,10,2025-02-11
+82662,247,normalise expired promo on checkout,7,2025-04-13
+74229,427,expose stale order,6,2025-07-19
+76383,156,document late pickup slot,3,2025-05-11
+43791,697,normalise late modifier,12,2025-02-21
+16540,246,backfill missing loyalty credit for franchisees,3,2025-02-04
+84890,478,document missing menu item,9,2025-02-25
+82746,189,dedupe expired promo at close,12,2025-07-16
+43887,259,tighten partial topping on reorder,6,2025-02-13
+40811,554,tighten late delivery window for pickup,10,2025-05-06
+70552,607,retry expired modifier for pickup,4,2025-02-06
+66132,183,paginate regional promo per store,1,2025-11-28
+41439,581,dedupe cancelled location per store,12,2025-06-02
+63966,322,backfill expired kitchen ticket,10,2025-06-16
+17746,197,trim cancelled catering tray,5,2025-04-01
+25892,593,trim late kitchen ticket,3,2025-02-15
+41360,581,tighten late loyalty credit,4,2025-04-17
+88657,351,guard late kitchen ticket,8,2025-12-17
+82017,279,expose oversized loyalty credit at close,8,2025-01-21
+65790,530,tighten stale receipt in the queue,4,2025-12-28
+19760,280,backfill oversized kitchen ticket,6,2025-10-17
+86190,280,tighten partial loyalty credit for pickup,11,2025-10-14
+34597,593,handle duplicate bowl,5,2025-05-14
+78064,438,backfill empty kitchen ticket,8,2025-02-07
+66079,203,retry late loyalty credit,12,2025-04-16
+41241,523,tighten duplicate location per store,2,2025-10-13
+80227,389,validate duplicate menu item on reorder,10,2025-04-04
+66490,187,log empty pickup slot on checkout,6,2025-06-10
+33413,605,log cancelled delivery window,11,2025-05-01
+56749,526,log cancelled bowl in the queue,7,2025-08-11
+27082,222,cache partial modifier per store,6,2025-12-28
