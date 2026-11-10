@@ -318,3 +318,18 @@
 - expose duplicate store: deferred to the next release.
 - document duplicate menu item: verified in staging.
 - normalise cancelled loyalty credit: verified in staging.
+
+- paginate oversized bowl: open.
+- document partial loyalty credit for pickup: verified in staging.
+- backfill empty location: owner: delivery manager.
+- tighten empty pickup slot for franchisees: open.
+- retry empty cart line: verified in staging.
+- relax cancelled catering tray: decided.
+- rename expired loyalty credit: decided.
+- dedupe empty menu item: open.
+- guard empty ticket per store: verified in staging.
+- trim missing tax line: open.
+- paginate regional guest: open.
+- sort expired promo on reorder: open.
+- document empty store: owner: delivery manager.
+- document duplicate ticket: deferred to the next release.

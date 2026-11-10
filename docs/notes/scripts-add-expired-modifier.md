@@ -516,3 +516,33 @@
 - guard expired catering tray on reorder: verified in staging.
 - trim regional bowl: open.
 - backfill missing location: decided.
+
+- document empty kitchen ticket: blocked on store systems.
+- retry expired store: verified in staging.
+- cache expired promo: deferred to the next release.
+- log cancelled delivery window: open.
+- cache stale location: owner: delivery manager.
+- retry regional catering tray: owner: delivery manager.
+- log missing kitchen ticket in the queue: decided.
+- handle regional tax line on reorder: deferred to the next release.
+- tighten cancelled cart line for franchisees: blocked on store systems.
+- add duplicate bowl: owner: delivery manager.
+- relax late guest: open.
+- normalise cancelled menu item: deferred to the next release.
+- trim late delivery window: decided.
+- log empty guest: decided.
+
+- cache cancelled catering tray: verified in staging.
+- backfill missing ticket: verified in staging.
+- backfill regional cart line: open.
+- normalise duplicate receipt: deferred to the next release.
+- validate missing topping: decided.
+- rename regional guest for pickup: open.
+- trim partial order: verified in staging.
+- relax oversized pickup slot: verified in staging.
+- expose missing menu item: decided.
+- handle duplicate menu item: verified in staging.
+- cache cancelled promo: verified in staging.
+- tighten missing loyalty credit: owner: delivery manager.
+- paginate duplicate ticket: deferred to the next release.
+- validate empty receipt: verified in staging.
