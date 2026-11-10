@@ -546,3 +546,18 @@
 - tighten missing loyalty credit: owner: delivery manager.
 - paginate duplicate ticket: deferred to the next release.
 - validate empty receipt: verified in staging.
+
+- backfill stale cart line: owner: delivery manager.
+- paginate oversized loyalty credit: decided.
+- rename expired tax line: owner: delivery manager.
+- validate stale modifier per store: deferred to the next release.
+- paginate regional ticket: open.
+- dedupe expired guest in the queue: deferred to the next release.
+- document stale tax line at close: decided.
+- log missing topping per store: owner: delivery manager.
+- normalise duplicate store for franchisees: blocked on store systems.
+- validate duplicate guest: verified in staging.
+- normalise stale order: verified in staging.
+- paginate partial promo: blocked on store systems.
+- rename cancelled loyalty credit per store: deferred to the next release.
+- document empty bowl on checkout: deferred to the next release.
