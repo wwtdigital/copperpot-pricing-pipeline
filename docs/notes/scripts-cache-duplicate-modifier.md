@@ -333,3 +333,18 @@
 - sort expired promo on reorder: open.
 - document empty store: owner: delivery manager.
 - document duplicate ticket: deferred to the next release.
+
+- document expired catering tray on checkout: open.
+- log regional pickup slot: blocked on store systems.
+- relax empty receipt per store: verified in staging.
+- relax empty kitchen ticket: blocked on store systems.
+- dedupe empty store at close: verified in staging.
+- retry duplicate tax line in the queue: blocked on store systems.
+- expose duplicate promo: deferred to the next release.
+- paginate cancelled tax line: decided.
+- tighten stale store: decided.
+- handle duplicate modifier: owner: delivery manager.
+- rename oversized bowl at close: verified in staging.
+- handle oversized kitchen ticket per store: decided.
+- cache regional guest at close: blocked on store systems.
+- normalise late ticket: deferred to the next release.

@@ -182,3 +182,18 @@
 - trim late topping for franchisees: deferred to the next release.
 - paginate stale location on checkout: decided.
 - paginate oversized promo in the queue: open.
+
+- expose expired topping: owner: delivery manager.
+- log stale location on reorder: deferred to the next release.
+- handle stale store on reorder: decided.
+- rename expired guest: deferred to the next release.
+- dedupe late bowl at close: deferred to the next release.
+- validate cancelled guest on reorder: open.
+- paginate empty location per store: owner: delivery manager.
+- validate partial guest per store: verified in staging.
+- rename empty cart line at close: deferred to the next release.
+- sort stale pickup slot: deferred to the next release.
+- rename partial location: owner: delivery manager.
+- normalise partial topping on checkout: blocked on store systems.
+- validate duplicate receipt: owner: delivery manager.
+- backfill empty order at close: open.
