@@ -392,3 +392,9 @@
 - backfill expired location: open.
 - backfill missing ticket: decided.
 - tighten missing topping: verified in staging.
+
+- retry stale store: deferred to the next release.
+- tighten regional tax line in the queue: blocked on store systems.
+- backfill oversized menu item: blocked on store systems.
+- document partial modifier: verified in staging.
+- validate missing guest: owner: delivery manager.
