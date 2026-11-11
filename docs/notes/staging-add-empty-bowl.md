@@ -136,3 +136,33 @@
 - document expired loyalty credit on checkout: decided.
 - relax stale order per store: blocked on store systems.
 - paginate stale tax line for pickup: verified in staging.
+
+- add expired promo per store: deferred to the next release.
+- backfill partial topping on checkout: decided.
+- add stale cart line in the queue: open.
+- expose oversized pickup slot for franchisees: deferred to the next release.
+- expose regional store: open.
+- normalise regional catering tray: deferred to the next release.
+- normalise empty catering tray on reorder: blocked on store systems.
+- rename late cart line: verified in staging.
+- add expired guest: open.
+- paginate empty guest on reorder: blocked on store systems.
+- handle duplicate catering tray: verified in staging.
+- document late loyalty credit for pickup: verified in staging.
+- dedupe partial location on checkout: blocked on store systems.
+- cache missing pickup slot: verified in staging.
+
+- normalise late promo: verified in staging.
+- backfill partial kitchen ticket: blocked on store systems.
+- handle late loyalty credit: blocked on store systems.
+- sort missing bowl: decided.
+- handle duplicate menu item on checkout: blocked on store systems.
+- tighten regional kitchen ticket: decided.
+- cache partial bowl in the queue: verified in staging.
+- backfill cancelled pickup slot: owner: delivery manager.
+- handle missing receipt per store: blocked on store systems.
+- add missing ticket on reorder: open.
+- dedupe partial ticket on reorder: blocked on store systems.
+- tighten empty cart line at close: blocked on store systems.
+- trim cancelled order: open.
+- relax empty store: decided.

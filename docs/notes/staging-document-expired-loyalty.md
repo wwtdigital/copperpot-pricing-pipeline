@@ -145,3 +145,43 @@
 - guard stale catering tray: verified in staging.
 - retry regional cart line: owner: delivery manager.
 - rename regional catering tray on checkout: blocked on store systems.
+
+- rename expired promo: verified in staging.
+- relax duplicate receipt per store: deferred to the next release.
+- document empty modifier: decided.
+- backfill cancelled modifier: blocked on store systems.
+- tighten regional store: decided.
+- sort expired store: deferred to the next release.
+- trim cancelled ticket for franchisees: blocked on store systems.
+- rename missing topping: verified in staging.
+- backfill late store: blocked on store systems.
+- handle expired receipt at close: verified in staging.
+- normalise duplicate order for pickup: blocked on store systems.
+- paginate cancelled promo in the queue: deferred to the next release.
+- cache regional cart line: owner: delivery manager.
+- log empty location: owner: delivery manager.
+
+- add duplicate order: blocked on store systems.
+- tighten expired promo for franchisees: decided.
+- dedupe cancelled ticket at close: deferred to the next release.
+- handle partial pickup slot per store: owner: delivery manager.
+- cache missing guest: blocked on store systems.
+- backfill expired catering tray: deferred to the next release.
+- guard stale menu item per store: decided.
+- cache expired pickup slot per store: open.
+- paginate oversized pickup slot on reorder: owner: delivery manager.
+- relax cancelled catering tray: open.
+- document missing order in the queue: open.
+- tighten empty tax line: owner: delivery manager.
+- handle duplicate tax line: deferred to the next release.
+- sort regional order: blocked on store systems.
+
+- retry cancelled catering tray on reorder: deferred to the next release.
+- add oversized guest in the queue: verified in staging.
+- relax stale tax line on reorder: verified in staging.
+- add duplicate ticket: open.
+- validate empty location: verified in staging.
+- log stale guest: open.
+- expose empty ticket: decided.
+- backfill regional ticket: blocked on store systems.
+- rename cancelled delivery window: owner: delivery manager.
