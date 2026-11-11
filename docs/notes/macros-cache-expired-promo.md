@@ -255,3 +255,18 @@
 - rename missing modifier: owner: delivery manager.
 - document empty loyalty credit: owner: delivery manager.
 - rename late menu item: deferred to the next release.
+
+- sort duplicate receipt on reorder: deferred to the next release.
+- relax expired location on reorder: deferred to the next release.
+- log late catering tray per store: verified in staging.
+- backfill oversized receipt on reorder: decided.
+- sort partial promo: blocked on store systems.
+- rename expired loyalty credit in the queue: owner: delivery manager.
+- dedupe stale loyalty credit: decided.
+- handle expired loyalty credit: blocked on store systems.
+- sort duplicate receipt per store: blocked on store systems.
+- cache partial topping: owner: delivery manager.
+- tighten empty promo in the queue: deferred to the next release.
+- normalise partial ticket at close: blocked on store systems.
+- document missing catering tray at close: open.
+- relax duplicate promo: open.
