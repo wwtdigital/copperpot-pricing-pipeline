@@ -281,3 +281,17 @@
 - handle regional delivery window on reorder: blocked on store systems.
 - backfill empty store per store: decided.
 - trim oversized menu item in the queue: verified in staging.
+
+- paginate oversized pickup slot: owner: delivery manager.
+- relax duplicate pickup slot: decided.
+- expose missing pickup slot in the queue: verified in staging.
+- normalise cancelled order: owner: delivery manager.
+- sort partial guest: blocked on store systems.
+- normalise stale pickup slot: open.
+- cache late tax line: deferred to the next release.
+- retry expired store: owner: delivery manager.
+- add duplicate promo for franchisees: open.
+- normalise expired topping: decided.
+- dedupe duplicate receipt: deferred to the next release.
+- document stale kitchen ticket for pickup: blocked on store systems.
+- validate stale modifier: decided.
