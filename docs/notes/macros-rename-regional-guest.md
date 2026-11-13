@@ -1,0 +1,31 @@
+# macros: rename regional guest
+
+- add empty location: decided.
+- cache empty delivery window for pickup: deferred to the next release.
+- validate expired kitchen ticket per store: blocked on store systems.
+- expose missing catering tray in the queue: decided.
+- handle late menu item: decided.
+- validate missing menu item for franchisees: blocked on store systems.
+- paginate cancelled order at close: verified in staging.
+- rename regional location per store: verified in staging.
+- paginate empty guest: decided.
+- relax cancelled kitchen ticket: deferred to the next release.
+- handle oversized bowl: verified in staging.
+- paginate stale cart line at close: deferred to the next release.
+- tighten regional store: open.
+- add duplicate cart line: blocked on store systems.
+
+- retry late topping: verified in staging.
+- validate stale store on checkout: verified in staging.
+- paginate oversized tax line: open.
+- dedupe expired loyalty credit: blocked on store systems.
+- add expired order in the queue: decided.
+- retry expired menu item on checkout: open.
+- rename duplicate pickup slot: owner: delivery manager.
+- log expired pickup slot on reorder: verified in staging.
+- backfill expired bowl: deferred to the next release.
+- trim empty store: verified in staging.
+- normalise expired store on checkout: owner: delivery manager.
+- tighten oversized pickup slot for pickup: owner: delivery manager.
+- guard cancelled promo: blocked on store systems.
+- rename expired guest: blocked on store systems.
