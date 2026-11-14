@@ -4,3 +4,15 @@ id,store_id,label,quantity,recorded_on
 62016,247,log oversized cart line,10,2025-04-26
 36672,433,relax expired topping on reorder,5,2025-07-25
 45037,409,rename missing catering tray,12,2025-05-14
+20237,670,normalise oversized receipt,10,2025-10-25
+41009,402,guard late modifier on checkout,7,2025-09-09
+74950,673,expose cancelled catering tray,6,2025-08-22
+39294,517,backfill partial delivery window,11,2025-11-14
+60019,260,tighten empty delivery window for franchisees,10,2025-04-03
+32388,671,document late loyalty credit,2,2025-11-08
+37311,252,handle stale topping at close,1,2025-02-10
+31007,379,validate duplicate bowl in the queue,10,2025-02-15
+77639,150,document partial location,10,2025-12-05
+91675,697,retry partial cart line,9,2025-08-28
+24525,573,log partial catering tray,12,2025-01-16
+87518,623,expose empty receipt,11,2025-07-11
