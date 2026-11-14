@@ -1,0 +1,6 @@
+id,store_id,label,quantity,recorded_on
+61840,568,relax regional modifier,1,2025-04-01
+62073,643,add late tax line on reorder,3,2025-12-01
+62016,247,log oversized cart line,10,2025-04-26
+36672,433,relax expired topping on reorder,5,2025-07-25
+45037,409,rename missing catering tray,12,2025-05-14
