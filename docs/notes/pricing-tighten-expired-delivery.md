@@ -88,3 +88,18 @@
 - guard empty ticket on checkout: decided.
 - dedupe empty topping for franchisees: owner: delivery manager.
 - tighten missing order: verified in staging.
+
+- add empty location: open.
+- paginate regional ticket: open.
+- rename duplicate ticket: decided.
+- tighten cancelled menu item: deferred to the next release.
+- validate empty bowl: decided.
+- handle oversized kitchen ticket: owner: delivery manager.
+- tighten expired catering tray: verified in staging.
+- normalise cancelled bowl: owner: delivery manager.
+- relax stale order: deferred to the next release.
+- normalise cancelled menu item: decided.
+- handle missing receipt: owner: delivery manager.
+- expose stale order: owner: delivery manager.
+- expose expired topping on checkout: decided.
+- cache late order: decided.
