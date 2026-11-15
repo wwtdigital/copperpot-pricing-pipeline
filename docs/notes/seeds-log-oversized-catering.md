@@ -59,3 +59,17 @@
 - cache empty menu item at close: blocked on store systems.
 - trim late location in the queue: decided.
 - validate oversized kitchen ticket: verified in staging.
+
+- tighten oversized location: decided.
+- log expired bowl: owner: delivery manager.
+- handle regional pickup slot in the queue: verified in staging.
+- sort cancelled order: owner: delivery manager.
+- rename missing modifier: open.
+- normalise oversized cart line: deferred to the next release.
+- relax missing receipt in the queue: open.
+- expose empty bowl: verified in staging.
+- guard duplicate guest on reorder: deferred to the next release.
+- dedupe regional tax line per store: verified in staging.
+- trim oversized kitchen ticket on reorder: decided.
+- guard oversized store: open.
+- normalise duplicate delivery window: owner: delivery manager.

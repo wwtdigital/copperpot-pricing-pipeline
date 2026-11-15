@@ -16,3 +16,43 @@ id,store_id,label,quantity,recorded_on
 91675,697,retry partial cart line,9,2025-08-28
 24525,573,log partial catering tray,12,2025-01-16
 87518,623,expose empty receipt,11,2025-07-11
+80540,477,dedupe oversized order,11,2025-11-06
+19382,153,normalise cancelled receipt,12,2025-06-14
+95320,398,validate cancelled order for pickup,2,2025-07-10
+3651,361,paginate oversized loyalty credit,8,2025-12-26
+78799,208,guard oversized cart line,1,2025-10-07
+43420,622,normalise expired topping,3,2025-07-15
+37644,456,trim late delivery window,3,2025-11-27
+31237,245,rename partial store,1,2025-10-02
+31075,290,sort missing promo for franchisees,1,2025-03-19
+72795,336,backfill expired topping,3,2025-11-08
+94080,466,trim expired catering tray,7,2025-06-24
+30430,682,expose cancelled pickup slot,4,2025-11-23
+15915,313,add stale catering tray per store,6,2025-05-05
+4845,629,retry oversized topping,6,2025-03-23
+42680,101,retry duplicate delivery window,9,2025-12-06
+50001,583,expose missing kitchen ticket on reorder,4,2025-02-14
+18203,200,relax oversized kitchen ticket in the queue,9,2025-05-14
+27808,225,relax cancelled bowl on reorder,7,2025-02-25
+86740,167,trim late bowl at close,8,2025-08-23
+45497,438,normalise oversized modifier on reorder,7,2025-01-07
+59729,610,cache oversized bowl at close,12,2025-01-27
+72865,270,rename stale menu item,1,2025-05-23
+93819,524,trim missing kitchen ticket for pickup,6,2025-05-09
+52152,554,add late delivery window,10,2025-03-18
+36542,518,sort stale topping,2,2025-04-27
+31781,530,sort missing order,8,2025-08-14
+48012,382,normalise stale cart line,2,2025-03-01
+47569,550,rename expired location in the queue,4,2025-08-16
+82545,106,guard oversized promo,10,2025-09-14
+39981,272,normalise cancelled tax line per store,10,2025-01-09
+18637,281,add missing delivery window for pickup,5,2025-11-25
+75308,124,backfill expired receipt,6,2025-07-27
+31840,234,dedupe empty pickup slot at close,4,2025-04-20
+23774,550,tighten expired guest on checkout,4,2025-06-21
+99415,661,relax partial delivery window,10,2025-02-15
+16221,356,relax stale delivery window,6,2025-04-03
+89814,639,sort stale receipt for franchisees,3,2025-04-09
+8457,192,add regional bowl,1,2025-01-07
+39446,689,rename stale catering tray,10,2025-08-08
+53887,650,backfill empty ticket at close,11,2025-02-03
