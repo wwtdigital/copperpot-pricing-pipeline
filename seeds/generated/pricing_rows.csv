@@ -125,3 +125,15 @@ id,store_id,label,quantity,recorded_on
 6286,622,tighten expired ticket on reorder,4,2025-07-14
 38901,625,paginate stale topping,10,2025-06-05
 12586,414,normalise duplicate cart line,11,2025-03-01
+42165,380,rename cancelled ticket on reorder,2,2025-07-05
+83277,585,add oversized topping on reorder,9,2025-02-27
+52585,658,backfill late promo per store,7,2025-02-23
+81090,626,guard missing catering tray,8,2025-12-25
+48417,587,backfill cancelled location,11,2025-01-11
+55531,430,guard cancelled cart line,10,2025-06-19
+40164,328,paginate duplicate catering tray,11,2025-05-14
+33662,144,expose expired topping at close,9,2025-10-04
+10392,598,log expired pickup slot on reorder,9,2025-04-25
+27310,534,handle cancelled menu item,7,2025-05-27
+75878,166,retry cancelled cart line,6,2025-07-28
+79012,601,sort duplicate kitchen ticket for pickup,3,2025-10-25
