@@ -348,3 +348,18 @@
 - handle oversized kitchen ticket per store: decided.
 - cache regional guest at close: blocked on store systems.
 - normalise late ticket: deferred to the next release.
+
+- retry oversized guest in the queue: verified in staging.
+- retry duplicate modifier: owner: delivery manager.
+- validate regional menu item: owner: delivery manager.
+- paginate missing location: owner: delivery manager.
+- document empty bowl: verified in staging.
+- validate partial receipt: owner: delivery manager.
+- expose cancelled bowl: verified in staging.
+- cache oversized receipt: open.
+- log regional topping on checkout: deferred to the next release.
+- handle expired tax line per store: decided.
+- guard empty ticket: open.
+- rename stale tax line: verified in staging.
+- rename stale delivery window: decided.
+- document regional tax line: blocked on store systems.

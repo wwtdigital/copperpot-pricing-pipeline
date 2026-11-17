@@ -561,3 +561,18 @@
 - paginate partial promo: blocked on store systems.
 - rename cancelled loyalty credit per store: deferred to the next release.
 - document empty bowl on checkout: deferred to the next release.
+
+- normalise duplicate delivery window: verified in staging.
+- trim stale location: verified in staging.
+- add regional menu item: owner: delivery manager.
+- rename duplicate store: open.
+- dedupe partial cart line: owner: delivery manager.
+- cache partial modifier: blocked on store systems.
+- guard partial topping on reorder: verified in staging.
+- backfill empty cart line: blocked on store systems.
+- sort duplicate loyalty credit: blocked on store systems.
+- retry partial guest on reorder: verified in staging.
+- document duplicate pickup slot: deferred to the next release.
+- log late bowl: decided.
+- add stale pickup slot: blocked on store systems.
+- log duplicate guest per store: deferred to the next release.
