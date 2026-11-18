@@ -166,3 +166,33 @@
 - tighten empty cart line at close: blocked on store systems.
 - trim cancelled order: open.
 - relax empty store: decided.
+
+- expose regional delivery window: deferred to the next release.
+- retry expired kitchen ticket: verified in staging.
+- add regional promo at close: blocked on store systems.
+- relax oversized ticket per store: owner: delivery manager.
+- rename expired menu item: open.
+- backfill oversized modifier: open.
+- dedupe late ticket for franchisees: owner: delivery manager.
+- log stale modifier in the queue: open.
+- relax partial promo in the queue: open.
+- retry regional modifier in the queue: deferred to the next release.
+- retry empty delivery window at close: deferred to the next release.
+- retry oversized store: decided.
+- relax partial location: blocked on store systems.
+- expose regional cart line for franchisees: blocked on store systems.
+
+- log duplicate delivery window: decided.
+- trim duplicate topping: decided.
+- cache regional modifier: deferred to the next release.
+- cache late ticket at close: blocked on store systems.
+- cache missing tax line per store: decided.
+- rename expired menu item: open.
+- normalise duplicate location for pickup: blocked on store systems.
+- backfill late kitchen ticket: verified in staging.
+- cache missing guest: decided.
+- add missing kitchen ticket per store: blocked on store systems.
+- document cancelled loyalty credit per store: verified in staging.
+- document partial pickup slot: verified in staging.
+- expose oversized guest: deferred to the next release.
+- expose missing location: blocked on store systems.
