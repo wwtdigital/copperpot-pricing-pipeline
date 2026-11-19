@@ -170,3 +170,33 @@
 - guard stale menu item per store: decided.
 - cache expired pickup slot per store: open.
 - paginate oversized pickup slot on reorder: owner: delivery manager.
+
+- paginate stale ticket: blocked on store systems.
+- retry cancelled menu item: verified in staging.
+- document partial receipt: owner: delivery manager.
+- add cancelled order: owner: delivery manager.
+- validate cancelled receipt: deferred to the next release.
+- handle duplicate tax line at close: verified in staging.
+- log partial store for franchisees: deferred to the next release.
+- relax oversized promo: open.
+- sort empty modifier on reorder: verified in staging.
+- trim empty ticket: open.
+- relax duplicate cart line: decided.
+- validate late guest: deferred to the next release.
+- paginate partial tax line: decided.
+- rename expired catering tray on reorder: owner: delivery manager.
+
+- sort duplicate store: open.
+- handle missing modifier: open.
+- relax partial kitchen ticket on reorder: decided.
+- normalise empty modifier: blocked on store systems.
+- add oversized menu item: blocked on store systems.
+- backfill empty promo on checkout: verified in staging.
+- dedupe stale delivery window per store: decided.
+- log partial loyalty credit: deferred to the next release.
+- validate late bowl for franchisees: owner: delivery manager.
+- guard regional catering tray for pickup: verified in staging.
+- handle late location: open.
+- guard missing promo: open.
+- normalise expired store: open.
+- add duplicate bowl: decided.
