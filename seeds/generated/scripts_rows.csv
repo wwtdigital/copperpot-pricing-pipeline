@@ -470,3 +470,43 @@ id,store_id,label,quantity,recorded_on
 43106,263,validate partial bowl on checkout,1,2025-03-09
 40391,523,add late receipt,2,2025-11-24
 17586,145,guard duplicate topping in the queue,7,2025-11-28
+14688,367,trim cancelled kitchen ticket for franchisees,5,2025-03-23
+3513,559,sort empty ticket in the queue,12,2025-10-21
+80433,219,log empty order,7,2025-03-02
+95586,601,handle stale loyalty credit,6,2025-06-13
+31339,374,rename oversized promo,10,2025-05-18
+48201,104,rename cancelled delivery window,6,2025-11-25
+97925,592,validate duplicate delivery window at close,8,2025-06-05
+66949,272,validate oversized delivery window on reorder,2,2025-05-03
+54166,359,cache partial topping,5,2025-03-28
+70466,630,rename duplicate menu item,3,2025-02-05
+55945,553,cache partial menu item,7,2025-05-17
+30657,224,rename empty menu item,4,2025-02-17
+55457,230,add partial pickup slot at close,10,2025-07-01
+53889,273,guard expired pickup slot,12,2025-08-24
+91632,187,add empty receipt on reorder,6,2025-03-13
+93302,421,trim cancelled promo,1,2025-08-15
+33895,212,handle partial catering tray,6,2025-11-08
+99503,334,validate oversized promo,4,2025-12-26
+5620,617,expose partial delivery window,10,2025-03-18
+76498,631,retry oversized ticket at close,5,2025-11-10
+29561,575,add missing location at close,5,2025-01-25
+30702,357,document oversized cart line,3,2025-07-14
+85768,151,document duplicate delivery window,5,2025-02-10
+28650,537,retry empty bowl,2,2025-12-08
+66922,593,handle regional kitchen ticket,5,2025-06-18
+51185,549,tighten oversized loyalty credit,1,2025-09-07
+86299,611,handle late ticket on reorder,5,2025-11-09
+9430,520,expose late pickup slot,1,2025-09-07
+51469,327,expose partial menu item in the queue,6,2025-09-22
+33932,693,relax cancelled kitchen ticket,8,2025-01-23
+61910,216,sort expired receipt,6,2025-11-16
+55661,669,paginate expired menu item for pickup,11,2025-12-11
+20956,252,guard missing delivery window for franchisees,3,2025-10-08
+62131,215,dedupe stale topping on checkout,1,2025-02-09
+33388,347,rename stale location on checkout,6,2025-02-12
+19933,293,rename expired store on reorder,8,2025-08-11
+91835,416,guard duplicate menu item on checkout,3,2025-12-20
+35550,193,log expired store,4,2025-08-08
+85947,657,retry oversized topping in the queue,2,2025-12-17
+92810,274,paginate empty guest at close,3,2025-07-14
