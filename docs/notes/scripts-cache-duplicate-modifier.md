@@ -363,3 +363,6 @@
 - rename stale tax line: verified in staging.
 - rename stale delivery window: decided.
 - document regional tax line: blocked on store systems.
+
+- add expired order: owner: delivery manager.
+- normalise cancelled catering tray for franchisees: decided.
