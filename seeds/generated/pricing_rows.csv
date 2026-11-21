@@ -137,3 +137,27 @@ id,store_id,label,quantity,recorded_on
 27310,534,handle cancelled menu item,7,2025-05-27
 75878,166,retry cancelled cart line,6,2025-07-28
 79012,601,sort duplicate kitchen ticket for pickup,3,2025-10-25
+3489,444,retry regional ticket,9,2025-06-03
+21718,227,cache duplicate order,11,2025-05-04
+51471,100,validate regional loyalty credit,4,2025-01-19
+27474,113,dedupe stale delivery window per store,7,2025-12-26
+68814,484,sort missing kitchen ticket,3,2025-03-07
+17695,140,tighten regional guest,6,2025-01-09
+80814,288,add oversized store in the queue,7,2025-02-05
+25773,188,expose empty guest,10,2025-11-07
+65894,665,guard stale receipt,8,2025-10-22
+18031,658,handle partial receipt in the queue,1,2025-06-26
+32861,112,add partial loyalty credit per store,12,2025-10-21
+81735,495,rename missing order for pickup,2,2025-08-26
+67073,585,guard empty pickup slot,7,2025-12-21
+63363,576,guard missing location,4,2025-03-05
+17347,542,retry partial menu item on reorder,5,2025-04-04
+48035,497,backfill duplicate kitchen ticket,5,2025-06-23
+98311,558,dedupe empty bowl,4,2025-01-15
+67161,174,sort partial promo,12,2025-01-10
+80102,631,log cancelled menu item on reorder,5,2025-03-28
+42686,500,document cancelled cart line,1,2025-05-14
+49839,361,backfill regional modifier on reorder,9,2025-06-04
+18355,328,add late receipt per store,8,2025-03-14
+38720,371,rename cancelled location,7,2025-12-08
+53142,422,cache duplicate receipt,1,2025-12-19
