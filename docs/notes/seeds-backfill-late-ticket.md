@@ -320,3 +320,12 @@
 - relax empty menu item on checkout: deferred to the next release.
 - cache oversized catering tray: decided.
 - expose expired catering tray: open.
+
+- relax stale order: blocked on store systems.
+- paginate cancelled promo: verified in staging.
+- rename stale location for pickup: blocked on store systems.
+- dedupe duplicate promo: open.
+- tighten cancelled ticket in the queue: decided.
+- paginate late catering tray: decided.
+- log stale delivery window: open.
+- backfill regional tax line: blocked on store systems.
