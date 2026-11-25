@@ -197,3 +197,18 @@
 - normalise partial topping on checkout: blocked on store systems.
 - validate duplicate receipt: owner: delivery manager.
 - backfill empty order at close: open.
+
+- sort empty promo: verified in staging.
+- rename cancelled delivery window in the queue: open.
+- relax expired order: owner: delivery manager.
+- backfill late cart line: owner: delivery manager.
+- validate regional receipt in the queue: blocked on store systems.
+- expose partial pickup slot: owner: delivery manager.
+- retry stale receipt: verified in staging.
+- add regional kitchen ticket for pickup: decided.
+- rename empty cart line: decided.
+- handle missing promo: open.
+- normalise empty receipt: open.
+- validate duplicate bowl: verified in staging.
+- normalise late loyalty credit per store: deferred to the next release.
+- add expired kitchen ticket: blocked on store systems.
