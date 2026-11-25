@@ -270,3 +270,16 @@
 - normalise partial ticket at close: blocked on store systems.
 - document missing catering tray at close: open.
 - relax duplicate promo: open.
+
+- document duplicate guest: blocked on store systems.
+- trim missing tax line on reorder: open.
+- validate expired receipt: open.
+- normalise stale topping: open.
+- paginate stale order in the queue: owner: delivery manager.
+- add regional delivery window: verified in staging.
+- guard empty loyalty credit: open.
+- handle duplicate promo: open.
+- backfill late modifier per store: deferred to the next release.
+- cache missing pickup slot for franchisees: open.
+- cache empty loyalty credit: verified in staging.
+- expose late cart line: deferred to the next release.
