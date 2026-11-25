@@ -398,3 +398,18 @@
 - backfill oversized menu item: blocked on store systems.
 - document partial modifier: verified in staging.
 - validate missing guest: owner: delivery manager.
+
+- relax missing order: verified in staging.
+- handle oversized order: blocked on store systems.
+- cache stale receipt in the queue: verified in staging.
+- trim late delivery window: verified in staging.
+- guard partial catering tray: open.
+- handle expired loyalty credit: open.
+- backfill missing delivery window: open.
+- tighten expired ticket: decided.
+- rename late modifier in the queue: blocked on store systems.
+- cache stale delivery window: deferred to the next release.
+- document stale bowl: blocked on store systems.
+- relax oversized topping: decided.
+- backfill cancelled cart line: verified in staging.
+- sort duplicate promo at close: deferred to the next release.
