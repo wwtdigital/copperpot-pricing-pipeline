@@ -510,3 +510,19 @@ id,store_id,label,quantity,recorded_on
 35550,193,log expired store,4,2025-08-08
 85947,657,retry oversized topping in the queue,2,2025-12-17
 92810,274,paginate empty guest at close,3,2025-07-14
+74337,654,trim partial ticket in the queue,11,2025-07-24
+28296,683,cache empty topping,11,2025-08-11
+24297,476,expose regional tax line,9,2025-06-21
+38958,126,add expired ticket,7,2025-10-24
+64523,188,rename partial topping,7,2025-03-12
+12970,116,add missing modifier,3,2025-04-04
+82037,667,rename partial guest,6,2025-11-28
+88686,304,backfill stale catering tray,10,2025-11-04
+19047,343,handle missing store,9,2025-02-11
+33052,655,backfill regional delivery window for franchisees,10,2025-05-23
+19678,596,rename duplicate topping,9,2025-02-07
+49912,550,handle cancelled kitchen ticket,12,2025-01-16
+49995,675,handle late store,11,2025-10-20
+99854,115,rename expired receipt,12,2025-12-24
+86070,584,validate oversized cart line in the queue,2,2025-11-12
+98613,199,normalise empty delivery window,9,2025-10-05
