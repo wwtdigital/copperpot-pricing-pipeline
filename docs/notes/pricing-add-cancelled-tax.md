@@ -119,3 +119,18 @@
 - dedupe missing tax line: verified in staging.
 - log missing menu item for pickup: blocked on store systems.
 - dedupe partial bowl: decided.
+
+- expose expired topping: decided.
+- log late topping: blocked on store systems.
+- document empty catering tray: blocked on store systems.
+- retry expired order: verified in staging.
+- tighten stale order on reorder: open.
+- expose stale delivery window: owner: delivery manager.
+- add cancelled bowl: open.
+- paginate expired order: blocked on store systems.
+- handle cancelled loyalty credit: blocked on store systems.
+- log stale guest: deferred to the next release.
+- document partial ticket: open.
+- document expired location for pickup: decided.
+- expose missing catering tray: blocked on store systems.
+- guard empty promo on checkout: decided.
